@@ -5,7 +5,7 @@ prompt = "List some websites about landmarks, historical figures, and \
       narratives specifically related to Philadelphia and Pennsylvania,\
           with a focus on celebrating the US's 250th anniversary. Do not\
               provide any additional explanation. Print each link on one \
-                line wihtout using any additional character as bullet points."
+                line without using any additional character as bullet points."
 
 # The client gets the API key from the environment variable `GEMINI_API_KEY`.
 client = genai.Client()

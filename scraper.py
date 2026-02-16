@@ -12,12 +12,24 @@ def readPages():
     
     return websites
 
-def scrape(link):
-    pass
+def scrape():
+    with open('websites.txt', 'r') as inp:
+        websites = inp.readlines()
+
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}
+
+
+        for link in websites:
+            try:
+                response = requests.get(link)
+                soup = BeautifulSoup(response.text, 'html.parser')
+                print(soup.title) 
+            except:
+                print(f'Error retrieving {link}. Status code {response.status_code}')   
 
 
 def main():
-    pass
+    scrape()
 
 if __name__ == '__main__':
     main()
