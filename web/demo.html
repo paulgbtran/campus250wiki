@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HistoryVerse - Philadelphia City Hall</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.321.0/font-awesome.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc;
+        }
+
+        .hero-gradient {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+        }
+
+        .sticky-sidebar {
+            position: sticky;
+            top: 2rem;
+            align-self: start;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(226, 232, 240, 0.8);
+        }
+
+        .nav-item:hover {
+            border-bottom: 2px solid #3b82f6;
+        }
+    </style>
+</head>
+<body class="text-slate-800">
+
+    <!-- Header / Navigation -->
+    <header class="bg-white border-b sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-2">
+                <span class="text-2xl font-bold text-blue-900">250</span>
+                <span class="font-semibold tracking-tight">HISTORYVERSE</span>
+            </div>
+            
+            <nav class="hidden md:flex space-x-6 text-sm font-medium text-slate-600">
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>Explore</span></a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>AI Chat</span></a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>Street View</span></a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1 text-blue-600 border-b-2 border-blue-600">3D Models</a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>Semiquincentennial Hub</span></a>
+            </nav>
+
+            <div class="relative w-64">
+                <input type="text" placeholder="Search 250 years of history..." class="w-full text-sm border rounded-full py-1.5 px-4 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-blue-500">
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-gradient text-white overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 py-16 flex flex-col md:flex-row items-center">
+            <div class="md:w-1/2 space-y-6 z-10">
+                <h1 class="text-5xl font-bold leading-tight uppercase">Philadelphia City Hall: <br> A Municipal Marvel</h1>
+                <p class="text-lg text-slate-300 max-w-lg">Discover the icon of a city and a nation's story. Explore the architecture, the statues, and the history beneath the tower.</p>
+                <div class="flex space-x-4">
+                    <button class="bg-white text-slate-900 px-6 py-2.5 rounded font-semibold hover:bg-slate-100 transition">Read Article</button>
+                    <button class="bg-yellow-500 text-slate-900 px-6 py-2.5 rounded font-semibold flex items-center gap-2 hover:bg-yellow-400 transition">
+                        <span>Launch AR</span>
+                    </button>
+                </div>
+            </div>
+            <div class="md:w-1/2 relative mt-12 md:mt-0">
+                <!-- Representative Image for the 3D model look -->
+                <div class="relative rounded-xl overflow-hidden shadow-2xl transform rotate-3 scale-110">
+                    <img src="https://images.unsplash.com/photo-1549463321-72f873094895?auto=format&fit=crop&q=80&w=1200" alt="City Hall" class="w-full opacity-80">
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Content Sections -->
+    <main class="max-w-7xl mx-auto px-4 py-12">
+        <h2 class="text-2xl font-bold mb-8 text-slate-700">WIKI-STYLED CONTENT</h2>
+        
+        <div class="flex flex-col lg:flex-row gap-8">
+            <!-- Left Navigation -->
+            <aside class="lg:w-1/5">
+                <ul class="space-y-1 text-sm text-slate-500">
+                    <li class="bg-slate-200 text-slate-900 p-2 rounded cursor-pointer font-medium">Overview</li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition">History & Construction</li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition">Architecture</li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition">Sculptures</li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition">Key Events</li>
+                </ul>
+            </aside>
+
+            <!-- Main Article Content -->
+            <article class="lg:w-3/5 space-y-6">
+                <h3 class="text-3xl font-bold">Philadelphia City Hall</h3>
+                <div class="flex flex-col md:flex-row gap-4 mb-4">
+                    <img src="./Philadelphia_City_Hall_7.jpg" alt="Old City Hall" class="w-full md:w-2/3 h-64 object-cover rounded shadow-sm">
+                    <img src="./Philadelphia_city_hall.jpg" alt="Tower View" class="w-full md:w-1/3 h-64 object-cover rounded shadow-sm">
+                </div>
+                
+                <div class="prose prose-slate max-w-none text-slate-600 leading-relaxed">
+                    <p>The Philadelphia City Hall is the seat of the municipal government of the City of Philadelphia. It was designed by John McArthur Jr. in the Second Empire style, and was constructed from 1871 to 1901 at a cost of $24 million.</p>
+                    <p>At 548 feet, it was intended to be the tallest building in the world when construction started, but was surpassed by the Washington Monument and the Eiffel Tower before completion. However, it remained the world's tallest habitable building until 1908.</p>
+                </div>
+
+                <div class="border-t pt-4">
+                    <button class="text-blue-600 text-sm font-medium flex items-center gap-1">
+                        <span>Edit a community contribution</span>
+                    </button>
+                </div>
+            </article>
+
+            <!-- Sticky Information Sidebar (Right) -->
+            <aside class="lg:w-1/5">
+                <div class="sticky-sidebar glass-card rounded-lg p-5 shadow-sm space-y-4">
+                    <div class="bg-blue-50 -mx-5 -mt-5 p-4 rounded-t-lg border-b mb-4">
+                        <span class="text-xs font-bold text-blue-900 uppercase">Information</span>
+                    </div>
+                    
+                    <div class="space-y-3 text-sm">
+                        <div class="flex flex-col">
+                            <span class="text-slate-400 font-medium">Architect</span>
+                            <span class="text-slate-800">John McArthur Jr.</span>
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="text-slate-400 font-medium">Completed</span>
+                            <span class="text-slate-800">1901</span>
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="text-slate-400 font-medium">Style</span>
+                            <span class="text-slate-800">Second Empire</span>
+                        </div>
+                        <div class="flex flex-col">
+                            <span class="text-slate-400 font-medium">Height</span>
+                            <span class="text-slate-800">548 ft</span>
+                        </div>
+                    </div>
+
+                    <div class="flex gap-2 pt-2">
+                        <button class="flex-1 bg-red-500 text-white py-2 px-3 rounded text-sm font-semibold hover:bg-red-600 transition">Like</button>
+                        <button class="flex-1 bg-blue-900 text-white py-2 px-3 rounded text-sm font-semibold hover:bg-blue-800 transition">Share</button>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <!-- Interactive Experience Section -->
+        <section class="mt-20">
+            <h2 class="text-2xl font-bold mb-8 text-slate-700">INTERACTIVE EXPERIENCE</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Street View Card -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden border">
+                    <div class="p-4 border-b flex justify-between items-center">
+                        <span class="font-bold text-slate-700">VIEW STREET VIEW</span>
+                        <div class="flex space-x-2">
+                            <span class="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded-full font-bold">1871</span>
+                            <span class="text-xs bg-slate-100 text-slate-600 px-2 py-1 rounded-full font-bold">1901</span>
+                            <span class="text-xs bg-blue-600 text-white px-2 py-1 rounded-full font-bold">Present Day</span>
+                        </div>
+                    </div>
+                    <div class="h-80 bg-slate-200 relative">
+                        <img src="./Screenshot 2026-03-05 203944.png" alt="Street View" class="w-full h-full object-cover">
+                        <div class="absolute bottom-4 left-4 bg-black/50 p-2 rounded-full text-white">
+                           <div class="w-10 h-10 flex items-center justify-center border-2 border-white rounded-full">⊕</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3D Models Card -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden border">
+                    <div class="p-4 border-b">
+                        <span class="font-bold text-slate-700">INTERACT WITH 3D MODELS</span>
+                    </div>
+                    <div class="h-80 bg-slate-50 flex items-center justify-center relative p-8">
+                        <!-- Placeholder for the interactive building model -->
+                        <div class="relative w-full h-full flex items-center justify-center">
+                            <div class="absolute inset-0 bg-blue-500/5 rounded-full blur-3xl"></div>
+                            <img src="./thumbnail.webp" alt="Model" class="shadow-2xl rounded-lg">
+                            <div class="absolute top-10 right-10 bg-white/90 px-3 py-1 rounded shadow-sm text-xs font-bold">Inside the Tower Clock</div>
+                            <div class="absolute bottom-10 left-10 bg-white/90 px-3 py-1 rounded shadow-sm text-xs font-bold">Mayor's Reception Room</div>
+                        </div>
+                    </div>
+                    <div class="p-4 bg-slate-100 text-center">
+                        <button class="bg-blue-600 text-white px-8 py-2 rounded-full text-sm font-bold shadow-lg shadow-blue-500/30">Download for AR App</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Semiquincentennial Hub -->
+        <section class="mt-20">
+            <div class="flex justify-between items-center mb-8">
+                <h2 class="text-2xl font-bold text-slate-700">SEMIQUINCENTENNIAL HUB</h2>
+                <div class="flex space-x-2">
+                    <button class="w-8 h-8 rounded-full border flex items-center justify-center hover:bg-white transition shadow-sm">&lt;</button>
+                    <button class="w-8 h-8 rounded-full border flex items-center justify-center hover:bg-white transition shadow-sm">&gt;</button>
+                </div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+                <!-- Grid Card 1 -->
+                <div class="bg-white rounded-xl shadow-sm border overflow-hidden group cursor-pointer">
+                    <div class="h-40 overflow-hidden">
+                        <img src="./istockphoto-1437085733-612x612.jpg" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                    </div>
+                    <div class="p-4">
+                        <h4 class="font-bold text-sm">Philadelphia's Role in 1776</h4>
+                        <p class="text-xs text-slate-500 mt-1">Revolutionary history and the First Congress.</p>
+                    </div>
+                </div>
+
+                <!-- Grid Card 2 -->
+                <div class="bg-white rounded-xl shadow-sm border overflow-hidden group cursor-pointer">
+                    <div class="h-40 overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1549463321-72f873094895?auto=format&fit=crop&q=80&w=400" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                    </div>
+                    <div class="p-4">
+                        <h4 class="font-bold text-sm">250 Years of Innovation</h4>
+                        <p class="text-xs text-slate-500 mt-1">From the steam engine to the digital age.</p>
+                    </div>
+                </div>
+
+                <!-- Grid Card 3 -->
+                <div class="bg-white rounded-xl shadow-sm border overflow-hidden group cursor-pointer">
+                    <div class="h-40 overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80&w=400" class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                    </div>
+                    <div class="p-4">
+                        <h4 class="font-bold text-sm">Community Stories</h4>
+                        <p class="text-xs text-slate-500 mt-1">First-hand accounts from the neighborhoods.</p>
+                    </div>
+                </div>
+
+                <!-- Share History CTA -->
+                <div class="bg-blue-900 rounded-xl shadow-sm p-6 flex flex-col justify-between text-white">
+                    <div>
+                        <h4 class="font-bold text-lg mb-2">Share Your History</h4>
+                        <p class="text-xs text-blue-200">Share your family's history and help preserve Philly's story.</p>
+                    </div>
+                    <button class="bg-white text-blue-900 py-2 rounded font-bold text-xs uppercase tracking-wider hover:bg-slate-100 transition">Share Now</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t mt-20 py-12">
+        <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between gap-12">
+            <div class="md:w-1/4 space-y-4">
+                <div class="flex items-center space-x-2">
+                    <span class="text-3xl font-bold text-blue-900">250</span>
+                    <div class="text-[10px] leading-tight font-bold text-slate-400">SEMIQUINCENTENNIAL<br>1776-2026</div>
+                </div>
+                <p class="text-xs text-slate-500">Celebrating 250 years of American Independence and the history that built Philadelphia.</p>
+            </div>
+
+            <div class="grid grid-cols-3 gap-8 md:w-1/2">
+                <div>
+                    <h5 class="font-bold text-xs uppercase text-slate-400 mb-4">Site Map</h5>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li>Overview</li>
+                        <li>History Archives</li>
+                        <li>3D Models</li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="font-bold text-xs uppercase text-slate-400 mb-4">Social</h5>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li>Events</li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="font-bold text-xs uppercase text-slate-400 mb-4">Social Links</h5>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>Twitter (X)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="max-w-7xl mx-auto px-4 mt-12 pt-8 border-t flex justify-between items-center text-[10px] text-slate-400 uppercase font-bold tracking-widest">
+            <div>© 2024 SEMIQUINCENTENNIAL</div>
+            <div>1776-2026</div>
+        </div>
+    </footer>
+
+</body>
+</html>
