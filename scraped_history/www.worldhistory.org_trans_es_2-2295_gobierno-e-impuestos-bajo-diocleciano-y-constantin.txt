@@ -1,0 +1,162 @@
+SOURCE: https://www.worldhistory.org/trans/es/2-2295/gobierno-e-impuestos-bajo-diocleciano-y-constantin/
+
+Este texto está disponible en otros idiomas:
+y Constantino solía describirse como despótico y opresivo, les sacaba impuestos más altos a sus súbditos y los amenazaba con castigos por incumplimiento.
+Sin embargo, una investigación reciente pinta un cuadro diferente.
+El gobierno se esforzó por responder a las necesidades de sus súbditos, ser justo en la adjudicación de los impuestos y responsabilizar a sus funcionarios por sus fechorías.
+Colgante con moneda de oro de Constantino
+Osama Shukir Muhammed Amin (Copyright)
+El gobierno del nuevo
+a menudo ha sido caracterizado como una dictadura totalitaria y teocrática que reprimía la cultura cívica del mundo antiguo,
+mermaba la libertad política y subordinaba a sus súbditos a una plutocracia corrupta y a las intrigas de los eunucos de la corte que rodeaban a un monarca cuasidivino.
+Diocleciano (reinó del 284 al 305) supuestamente fue el primero en adoptar un estilo despótico; adornaba sus vestiduras y su calzado con gemas, requería la genuflexión y ser aclamado como
+(reinó del 306 al 337) extendió el alcance de la pena capital y amenazó a los malhechores con amputarles las extremidades o con verter plomo fundido por sus gargantas.
+Esta imagen del despotismo oriental fue promovida por los pensadores del Siglo de las Luces, pero su poder persuasivo ha declinado con el tiempo.
+Esto era un constructo retórico que servía las necesidades del siglo XVIII, pero falla como una descripción del
+La nueva administración tenía que ser más eficiente en la generación de ingresos para poder pagar por sus propios costes (los salarios de los nuevos funcionarios), al igual que aprovisionar a un ejército grande.
+Un observador hostil se quejó de que en el Gobierno de Diocleciano había más empleados que contribuyentes.
+Aunque exagerada, esta queja capta la escala sin precedentes de la intrusión del nuevo imperio en la sociedad local.
+La burocracia imperial a tal escala era masiva conforme a los estándares antiguos.
+De acuerdo a un estimado, el número de funcionarios asalariados del Estado central aumentó de menos de 1000 a 35.000 o más.
+Para una población de aproximadamente 45 millones, este es un ratio bajo conforme a los estándares modernos.
+Pero muchos de esos oficiales contaban con la ayuda de asistentes y esclavos quienes hacían mucho del trabajo real aunque no aparecieran en los libros.
+El Ejército y la Iglesia tenían sus propios administradores, contables, abogados y personal.
+También, el Estado imperial estaba asistido localmente por el aparato de gobierno de las ciudades, esto es, los concejales y sus agentes y esclavos.
+Finalmente, no deberíamos utilizar los estándares modernos para evaluar cuán efectiva era esta burocracia en lo que se refiere a vigilar y regimentar la población,
+ya que esta última era relativamente estacionaria y económicamente no diversificada comparada con sus homólogos modernos.
+No está claro si la carga tributaria aumentó mucho o no.
+Sin embargo, esta se distribuyó más uniformemente y posiblemente también más equitablemente.
+La tasación, después de todo, se calculaba según los bienes inmuebles individuales: cada
+debía pagar tal cantidad de grano, vino, dinero en efectivo,
+etc. Esto restringió el poder discrecional de los concejales para asignar el cargo tributario.
+Esta ecualización fue intencional.
+En el año 324, Constantino declaró que las tasaciones a nivel municipal tenían que basarse en el programa publicado por el gobernador «para que la multitud de las clases más bajas no esté sujeta a las
+arbitrariedades ni subordinada a los intereses de los más poderosos» (
+Esto cambió el poder alejándolo de las autoridades locales hacia los inspectores y asesores nombrados por el centro.
+The New Roman Empire: A History of Byzantium
+In the most comprehensive history of the Eastern Roman Empire to appear in over a generation, Kaldellis incorporates the findings of recent scholarship and presents well-known historical characters and events in a new light. The book presents the east Roman Orthodox culture as a dynamic field of creative tensions and debate and refutes the traditional image of the Byzantine state as despotic and oppressive.
+.sponsor.book img.key_art {
+        box-shadow: none !important;
+    }
+    .button_container {
+        margin-top: 1em;
+    }
+    .sponsor.book h3 {
+        text-transform: none;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        font-family: "Libre Baskerville", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    }
+    .sponsor_message {
+        margin-left: 190px;
+        font-family: Karla, Arial, Helvetica, sans-serif;
+        line-height: 140%;
+        min-height: 200px;
+    }
+    .sponsor.book {
+        padding: 20px;
+        margin: 25px 0px;
+        background-color: #f3f3f3;
+    }
+
+    .sponsor.book .key_art {
+        margin-top: 0px;
+        margin-bottom: 10px;
+        float: left;
+    }
+    .sponsor h4 {
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #000;
+        margin-bottom: 10px;
+        margin-top: 0px;
+        font-family: Karla,Arial,Helvetica,sans-serif;
+        font-size: 13px;
+        padding: 0;
+    }
+    .sponsor_book_author {
+        color: #999;
+        margin: -10px 0px 20px;
+    }
+
+    @media (max-width: 1199px) {
+        .sponsor.book .key_art {
+            float: none;
+            width: 100%;
+        }
+        .sponsor.book .sponsor_message {
+            margin-left: 0px;
+        }
+        .sponsor.book h3 {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+    }
+    @media (max-width: 767px) {
+
+    }
+Además, la imagen sombría de un campesinado oprimido ha sido revisada radicalmente por la
+Ahora hay evidencia cada vez mayor de la prosperidad de los campesinos en los siglos IV y V. Los asentamientos crecieron y adquirieron comodidades,
+servicios e instalaciones que previamente estaban limitados a las ciudades y las familias campesinas adquirieron mercancías que previamente habían estado fuera de su alcance.
+Algunos pueblos ‘se urbanizaron’.
+Muy lejos de aplastar a los pequeños agricultores, el nuevo sistema de impuestos pudo haber espoleado su productividad económica al tiempo que pasaba algo de su carga tributaria anterior a los terratenientes más pudientes,
+lo que llevó a estos últimos a construir la familiar queja de un estado opresivo.
+Es más revelador que no hubo rebeliones campesinas significativas en la historia del Imperio de Oriente.
+En los períodos en que el Estado romano de Oriente se salió con la suya en las provincias vemos una expansión económica y demográfica sostenida.
+Además, los emperadores, por más que tuvieran vestiduras adornadas con joyas y títulos nobles, trabajaron duro para persuadir a sus súbditos de que estaban trabajando ardua e incansablemente a su favor.
+El mismo Gobierno imperial, por encima de los emperadores individuales, proyectaba rasgos de personalidad propios.
+Estos incluían atención y preocupación paternal por el bienestar de todos sus súbditos, inclusive por "la felicidad común"; un afán por mantener el estado de derecho y la ecuanimidad en su trato con ellos y por dar respuesta a sus preocupaciones.
+Definitivamente, los emperadores sí que trabajaron duro.
+Hubo muchos años en los que Diocleciano, Constantino y Constancio podrían, si lo hubieran decidido así, quedarse ociosos disfrutando de los placeres de Roma en vez de bregar a través del lodo en las campañas del Danubio.
+Y aún mientras ellos marchaban a lo largo de las fronteras, sus cortes y subordinados en las provincias estaban dándoles respuestas a miles de peticiones por parte de sus súbditos.
+La alabanza que estos emperadores recibieron se duplicó como un recordatorio sutil de sus deberes: «olvídate de ti mismo y vive para el pueblo; observa qué gobernadores emulan tu justicia;
+recibe mensajeros de todas partes; envía la mayor cantidad de comunicaciones; pasa todas tus noches y días con la preocupación perpetua por la seguridad de todos» (
+Retrato de los cuatro tetrarcas
+Carole Raddato (CC BY-NC-SA)
+En sus pronunciamientos oficiales, los emperadores se esforzaron por explicar por qué los impuestos eran necesarios: sin ellos, no se podría proteger a los ciudadanos de los ataques bárbaros:
+«los impuestos que pagan nuestros súbditos se utilizan y se gastan en su propio beneficio
+Esto se comprendía a todos los niveles de la sociedad,
+hasta lo más bajo de la escala social donde nuestros textos nos permiten ver. Una adocenada vida de santo provincial sobre un dragón que había okupado la Cámara del Tesoro Imperial en
+explica cómo funcionaba el ciclo de efectivo:
+«el flujo de impuestos llega al palacio de todas partes del mundo y entonces el emperador utiliza el dinero para proveer las necesidades comunes de la República» (
+Vida de Hipatio de Granga
+Los autores provinciales, aun aquellos con una modesta comprensión de la historia, entendían que el nuevo imperio era diferente del de su predecesor:
+«lo que Roma antes nos extorsionaba a fuerza de espada para satisfacer su propia extravagancia, ahora ella contribuye con nosotros para el bien del Estado que compartimos» (
+Los siete libros de Historias contra los paganos
+Y la violencia con la que nos amenazaban los emperadores, lo que les ha hecho ganarse la reputación por ‘salvajismo’, estaba dirigida principalmente contra sus propios funcionarios corruptos.
+De hecho, nuestro conocimiento de los diversos crímenes cometidos proviene de las leyes promulgadas contra ellos.
+Los emperadores armaron a sus súbditos contra sus propios funcionarios y a través de la historia de la Roma Oriental, tenemos evidencia de que la gente común utilizó estas leyes para buscar resarcimiento.
+Kaldellis, A. (2024, mayo 08). Gobierno e impuestos bajo Diocleciano y Constantino. (E. S. Monterrey, Traductor).
+World History Encyclopedia
+https://www.worldhistory.org/trans/es/2-2295/gobierno-e-impuestos-bajo-diocleciano-y-constantin/
+Kaldellis, Anthony. "Gobierno e impuestos bajo Diocleciano y Constantino." Traducido por Edilsa Sofia Monterrey.
+World History Encyclopedia
+https://www.worldhistory.org/trans/es/2-2295/gobierno-e-impuestos-bajo-diocleciano-y-constantin/
+Kaldellis, Anthony. "Gobierno e impuestos bajo Diocleciano y Constantino." Traducido por Edilsa Sofia Monterrey.
+World History Encyclopedia
+https://www.worldhistory.org/trans/es/2-2295/gobierno-e-impuestos-bajo-diocleciano-y-constantin/
+Artículo original por
+Oxford University Press
+, publicado el 10 noviembre 2023. El titular de los derechos de autor publicó este contenido bajo la siguiente licencia:
+Creative Commons Attribution-NonCommercial-ShareAlike
+Por favor, ten en cuenta que el contenido vinculado con esta página puede tener términos de licencia diferentes.
+Somos una organización sin fines de lucro.
+Nuestra misión es acercar a las personas al patrimonio cultural y mejorar la enseñanza de la historia en todo el mundo.        Apoya a World History Encyclopedia. Te lo agradecemos.
+Te enviaremos nuestros últimos artículos a tu correo electrónico una vez por semana:
+Numerosas instituciones educativas nos recomiendan, entre ellas la
+Universidad de Oxford
+.
+                Además, por su calidad educativa, nuestro contenido ha recibido excelentes calificaciones de
+Common Sense Education
+Merlot (California State University)
+School Library Journal
+Internet Scout (University of Wisconsin)
+.
+                Algunas de estas recomendaciones figuran con nuestro nombre anterior, Ancient History Encyclopedia.
+World History Foundation
+es una organización benéfica 501(c)3 registrada en los Estados Unidos.
+World History Publishing
+es una organización sin fines de lucro fundada en el Reino Unido.
+World History Foundation
+es una organización sin fines de lucro fundada en Québec, Canadá.
+Algunos derechos reservados (2009-2026) según la licencia de Creative Commons de Atribución-NoComercial-CompartirIgual (CC BY-NC-SA), salvo que se especifique lo contrario.

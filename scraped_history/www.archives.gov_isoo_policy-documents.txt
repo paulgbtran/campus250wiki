@@ -1,0 +1,47 @@
+SOURCE: https://www.archives.gov/isoo/policy-documents
+
+Information Security Oversight Office (ISOO)
+Executive Order 13526 - Classified National Security Information
+On December 29, 2009, the White House released a new Executive Order 13526. [
+On December 29, 2009, the White House released a
+Presidential memorandum entitled Implementation of Executive Order “Classified National Security Information”
+. This memorandum imparts specific requirements to the Executive branch concerning implementation of the new order.
+On December 29, 2009, the White House released a Presidential order entitled "
+Original Classification Authority"
+. This order designates those agency heads and officials as having the authority to classify information.
+Executive Order 13549 - State, Local, Tribal, and Private Sector Entities
+On August 18, 2010, the White House released a new Executive Order 13549, entitled "Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities."
+Executive Order 13556 - Controlled Unclassified Information
+On November 4, 2010, the White House released a new Executive Order 13556, entitled "Controlled Unclassified Information"
+Executive Order 13587 - Structural Reforms To Improve the Security of Classified Networks and the Responsible Sharing and Safeguarding of Classified Information
+On October 7, 2011, the White House released a new Executive Order 13587. This order ensures sharing and safeguarding of classified information on computer networks shall be consistent with appropriate protections for privacy and civil liberties. [
+Executive Order 13691 - Promoting Private Sector Cybersecurity Information Sharing
+The purpose of this order is to establish mechanisms for private companies, nonprofit organizations, executive departments and agencies
+(agencies), and other entities must be able to share information related to cybersecurity risks and incidents and collaborate to respond in as close
+to real time as possible.
+Executive Order 13526, 32 CFR Part 2001
+- This prescribes a uniform system for classifying, safeguarding, and declassifying national security information.
+May 9, 2022- ISOO revised the regulation to permit digital signatures that meet certain requirements on the Standard Form (SF) 312, which is the non-disclosure agreement required prior to accessing classified information.
+Executive Order 13556, 32 CFR Part 2002
+- Establishes an open and uniform program for managing [unclassified] information that requires safeguarding or dissemination controls.
+Executive Order 13526, 32 CFR Part 2003
+- Describes the procedures to be followed by individuals or organizations who wish to bring matters before the
+Interagency Security Classification Appeals Panel (ISCAP)
+, and the procedures that the ISCAP will follow to resolve these matters.
+32 CFR Part 2004 - National Industrial Security Program
+Safeguards Federal Government classified information that is released to contractors, licensees, and grantees of the United States Government.
+Executive Order 12829, 32 CFR Part 2004 [
+On November 28, 2010, the Director of OMB released a memo regarding the safeguarding of classified information.
+On January 3, 2011, the Director of ISOO and National Counterintelligence Executive within the Office of the Director of National Intelligence (ODNI), released a guidance memorandum to assist agencies to comply with the assessment requirements of the implementation of safeguarding procedures
+Through publication of this strategy, the Office of the Undersecretary of Defense (Intelligence & Security)(OUSD(I&S)) Counterintelligence, Law Enforcement, & Security (CL&S) leadership wants to communicate the Department’s continuing intent to elevate, integrate, and optimize the DSE, in partnership with other federal and industry stakeholders, to overcome increasingly complex security challenges in an unprecedented and evolving threat environment.
+NISP Contract Classification System Memo
+DoD Components must prepare for NCCS implementation using guidance established by DCSA, which can be found at
+https://www.dcsa.mil/is/nccs/gov_onboarding/
+, to include, at a minimum: providing DCSA with component implementation points of contact, working alongside DCSA to identify hierarchy information, and establishing component guidance to include policy updates for NCCS implementation based on individual component requirements and policies.
+Memo-Implementation of the (eApp)
+This memorandum provides detailed information on the transition to the Electronic Application (eApp) component of the National Background Investigation Services by October 1, 2023.
+This page was last reviewed on December 1, 2025.
+Contact us with questions or comments
+Freedom of Information Act
+The U.S. National Archives and Records Administration
+1-86-NARA-NARA or 1-866-272-6272

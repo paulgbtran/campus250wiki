@@ -1,0 +1,13 @@
+SOURCE: https://www.archives.gov/education/lessons/zimmermann/decoding-activity.html
+
+In this exercise, students decode a fictitious message using a simple substitution code. It supports learning about the
+. To extend the activity, ask students to write a message using the code, and then exchange the messages for decoding.
+In substitution codes, the letters of the plaintext (message to be put into secret form) are replaced by other letters, numbers, or symbols. In this code system, each letter of the alphabet and each of the numbers from 1 to 9 appears in the matrix of the grid. Each letter in the grid is replaced by two letters in the coded message. The first letter in the message is from the vertical axis of the grid, and the second letter is from its horizontal axis. For example, if "DG" were the first two letters to decipher in a cryptogram, you would find the letter "D" on the vertical axis and the letter "G" on the horizontal axis. Trace them across the grid to their intersection at the letter "A" in the plaintext.
+To decode the fictitious message in the cryptogram, begin by grouping each set of two letters starting with the first two letters (FG) and continuing through the message. The code letters are arbitrarily arranged in groups of five letters. Some letter pairs will carry over from one line to the next. As you locate each letter in the grid, you should write that letter above the pair of code letters to which it corresponds. There are no punctuation marks in the telegram, so your teacher may need to help you in clarifying the message.
+Read the Decoded Message!
+Return to the Zimmermann Telegram
+This page was last reviewed on November 29, 2017.
+Contact us with questions or comments
+Freedom of Information Act
+The U.S. National Archives and Records Administration
+1-86-NARA-NARA or 1-866-272-6272

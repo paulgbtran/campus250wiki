@@ -1,0 +1,75 @@
+SOURCE: https://nonprofit.worldhistory.org/annual-reports/annual-report-2023
+
+The year 2023 was tough for World History Encyclopedia. Like all publishers, we suffered from the economic downturn that gripped the globe in 2023. Many publishers struggled, and some large ones including
+went bankrupt. Industry-wide, online advertising revenue in 2023 fell somewhere between 20% and 30% below what it was the year before (depending on which statistic you look at), and World History Encyclopedia was also affected.
+The team worked very hard to stem the tide, and we managed to perform better than the industry average, with "only" a 15% reduction: our advertising revenue went from £303,479 in 2022 down to £257,206 in 2023, resulting in a shortfall of £46,273. Additionally, our fundraising underperformed, as people are less likely to donate when times are tough economically. At the start of 2023, we had budgeted for continued growth and employed more staff members, which in the end we could not afford. The organization made a significant loss last year and used up around 40% of its cash reserves. With a heavy heart, we had to make the decision to downsize and let go three of our paid staff in March 2024.
+At the same time, we also had good news! We set a new record in terms of readership with
+74 million page views
+. To give some perspective, that's more than the entire population of Canada! Our
+also grew significantly, from 61,500 subscribers to
+while we published 95 new videos in the year.
+The editorial team published
+on the encyclopedia in 2023. We covered important topics in history including:
+The British Industrial Revolution
+The Scientific Revolution
+Our team of reviewers published a new record of 71
+historical book reviews
+in 2023, providing our readers with recommendations on where to learn more.
+This was also the year that we launched the
+Ink of Ages Fiction Prize
+, our international historical and mythological short story contest, organized in collaboration with Oxford University Press. We received 148 short story submissions, and our judges (composed of editors, historians, and writers) announced the
+We organized an internship program in collaboration with the University of Parma in Italy, and we welcomed several new volunteers to our team:
+(Italian Editor) from Italy
+(Education Editor) from Alabama, USA
+Emiliano Sánchez Grill
+(Spanish Editor) from Uruguay
+(German Editor) from Germany
+(Board of Advisors) from the United Kingdom
+A huge thank you to the World History Encyclopedia team and all of the hundreds of volunteers who are making this possible! I also wish to extend a huge thank you to all our members and donors. Without your unwavering support we would not be able to help millions of people to learn about history entirely for free. Thank you!
+Keep reading below for more details...
+from all over the world who read over
+on our website. This is only a slight increase compared to the previous year. A third of these page views were in a language other than English, meaning our international reach has grown significantly.
+The number of paid employees went down from a peak of 12 in 2023 to 9 in March 2024. We had to
+to stabilize our cash flow and to allow us to change strategy once we make money again.
+We have now published over
+8,000 article translations
+into a grand total of
+. Our translation team has grown significantly, with two employees and around a hundred volunteer translators from all over the world.  Translated content made up about
+Our authors and editors published
+on the website, many of which cover the modern era in the United States, Britain, and France.
+In collaboration with Oxford University Press, we have launched the
+Ink of Ages Fiction Prize
+. This is World History Encyclopedia's international historical and mythological short story contest. We received 148 submissions of historical short stories!
+Our panel of judges was made up of editors (from both World History Encyclopedia and Oxford University Press), historians, archaeologists, and authors. Collaboratively, they selected three winning stories and two highly commended stories, along with a shortlist and a longlist. We encourage you to
+read the winning stories
+We intend to continue the prize in 2024 and the coming years and add a youth section as well.
+Even though World History Encyclopedia is the most-read history website in the world, it turns out there are still many, many people who have never heard of us. In 2023, the team made it a strategic priority to increase brand awareness. This took many different forms:
+Email outreach to teachers and librarians
+Presence at conferences and trade shows
+Flyers in local libraries
+Promotional exchanges with podcasts and magazines
+Even though it is near-impossible to attribute brand awareness to any single outreach activity, we have seen a marked increase in links to our website and citations of World History Encyclopedia in the second half of 2023.
+The translation department and its countless volunteer translators have toiled throughout the year to arrive at
+8,000 translated articles
+across 41 languages. This is an amazing achievement in itself!
+As a result, we have seen that an increasing number of our readers come from countries that are not English-speaking. At the time of writing, around
+a third of our visitors
+read our encyclopedia in a language other than English. We are very excited about this, as it shows how important it is to provide people with resources in their own language if we want to continue working towards our mission of improving history education worldwide.
+For the first time since 2014, our team met, physically and in person, all in one place. Well, most of our team at least (some people couldn't make it). We booked a large historic (rather castle-like) building in Burgundy and enjoyed the beautiful medieval city of Noyers and its surroundings.
+We enjoyed a fantastic guided tour of the ruins of
+, visited the wine villages of Chablis and Tonnere, toured a proper French
+, and observed the modern recreation of a medieval castle using medieval methods at
+. Oh, and we had lots of good food, of course.
+It was important for us to get the team together, as we all work remotely, spread across the globe. Meeting in person is different, and it really helps to grow the team spirit. The better we work together, the more efficiently we can publish our free encyclopedia, after all.
+As privacy regulations grow increasingly restrictive and Google decided to force all Google Analytics users to switch over to a newer version with inferior capabilities, we decided to build our own analytics solution. One that is:
+100% privacy compliant
+able to cross-reference our encyclopedia data
+not controlled by third parties
+extremely fast and lightweight
+And so we did. 2023 was the year when we switched our "source of truth" away from Google Analytics and chose to create our own metrics instead.
+Throughout 2023, we worked hard to build a greener technology stack. Even though computing is generally not a highly polluting industry, it does consume a fair amount of electricity. While our own servers have a small carbon footprint, the online advertising ecosystem is a particularly polluting part of the internet. Whenever an ad is shown to a user, hundreds of requests are sent between different computers on the internet to check with advertisers how much they are willing to bid for that particular ad impression. This involves many companies, intermediaries, and AI... and it all has to happen within milliseconds. That's an energy-hungry process!
+As a result, we started an initiative called supply path optimization (SPO), which means that we do what we can to reduce the amount of computing required to serve ads on the website. In 2023, we introduced a bid reduction algorithm that automatically removes bidders that are unlikely to yield results, before bids are sent. We are continuing this initiative in 2024 with further optimizations.
+2023 was a productive year for book reviews. With the help of over 170 registered book reviewers, we published
+in total, ranging from academic monographs to historical fiction. We highly appreciate the work of our book reviewers, as these thoughtful reviews instigate necessary intellectual discourse among authors and readers. Book reviews help us reflect on the current state of scholarship and allow a wider audience better access to the most recent publications.
+Our book reviews in 2023 have been quoted as editorial reviews by various established publishers, including Princeton University Press, Harvard University Press, Oxford University Press, Rowman & Littlefield, Yale University Press, and many others.
+You can support our non-profit organization by becoming a
