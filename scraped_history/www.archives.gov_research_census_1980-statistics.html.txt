@@ -1,0 +1,39 @@
+SOURCE: https://www.archives.gov/research/census/1980-statistics.html
+
+Summary Statistic Files
+Public Use Microdata Samples (PUMS)
+Geographic Reference Files
+This reference report provides information about data files from the 1980 Census (20th Census) of Population and Housing in the custody of the National Archives. None of the records described contain individual names or identifiers. The data files contain summary statistics on population and housing characteristics, public use microdata samples, or geographic reference data.
+Researchers may order copies of the computerized data files for a cost-recovery fee and analyze the records directly, using whatever hardware and software they have. For more information on ordering data files, see:
+Ordering Information for Electronic Records
+. Descriptions of the series and data files listed in this report are in the
+National Archives Catalog
+. The National Archives Catalog can be searched by title, National Archives Identifier, type of archival material, or keyword.
+Record Group 29: Records of the Bureau of the Census
+This series contains summary statistic data files, including general public use Summary Tape Files (STF) and summary statistic data files created for a specific use. The Bureau of the Census created 5 STFs. Each STF consists of a particular set of subject matter data tables for specific types of areas and the files within each STF differ in the types of geographic areas covered, such as states, counties, minor civil divisions, census tracts, and etc. The catalog description for each STF file details the subject matter and geographic areas covered in the file. Also, the
+1980 Census Summary Statistic Data Files Geographic Area Coverage Table
+provides a comparison of the various geographic areas in the STFs, excluding geographic areas unique to Puerto Rico. STFs 1 and 2 provide data based on the complete count, but, in general, STF2 contains more subject matter detail than STF1. STFs 3, 4, and 5 are based on sample data, with STF4 containing more subject matter detail than STF3. STF5 contains the most subject matter detail of the STFs. The Bureau of the Census also created summary statistic data files for Public Law 94-171 and for Equal Employment Opportunity and affirmative action uses.
+The technical documentation for the summary statistic data files consists of basic and general documentation and, in some cases, code tables. Basic documentation includes that which is necessary to interpret the structure and content of the files. General documentation includes a description of the 1980 Summary Tape Program, technical information about the various STFs, a glossary of 1980 Census concepts, and sometimes additional information specific to those data files. Documentation often varies for Puerto Rico and other American territories. The unit also has custody of supplementary documentation related to the 1980 Census, such as the Bureau of the Census' "Users Guide: Part C. Index to Summary Tape Files 1-4" (PHC80-R1-C, issued September 1983, 145 pages).
+regarding the availability of supplementary documentation.
+Data files in this series include:
+For those researchers interested in comparing 1980 Census data and 1970 Census data, several 1980 Census summary tape files (STF) are comparable to some of the 1970 Census summary counts. The 1980 STF1 is similar in subject matter and geographic detail to the 1970 First and Third Count files. The 1980 STF2 and STF4 are roughly comparable to the 1970 Second and Fourth Counts, respectively. The 1980 STF3 is comparable to the 1970 Fifth Count, while the 1980 STF5 corresponds to the 1970 Sixth Count. For more information about the 1980 census summary tape files available from NARA, please see the
+1970 Census (19th Census) of Population and Housing
+Electronic Records Reference Report. For 1970 Census and 1980 Census tract comparability, see
+1980-1970 Tract Comparability File
+Record Group 29: Records of the Bureau of the Census
+This series contains records for a sample (drawn from long-form questionnaires) of housing units with information on the characteristics of each unit and the people it. The "A," "B," and "C" sample files have a different geographic scheme, although the microdata records do not identify geographic areas with fewer than 100,000 inhabitants. These three files also differ in sample size, which is a subsample of the sample of households that received census long-form questionnaires. The Bureau of the Census specially prepared the "E" and "F" sample files for other research institutions. Data files in this series include:
+Record Group 29: Records of the Bureau of the Census
+This series contains files with political and/or census geographic referencing relating to the 1980 Census. This series includes:
+These files include the Correction, Update, Extension (CUE) tape and the Special Program Information Tape (SPIT), both of which are comprised of several computer cartography programs.
+These files provide computerized representations of the Metropolitan Map Series (MMS) and includes streets, address ranges, and other geographic codes for metropolitan areas.
+These files contain numeric codes and names for census geographic areas plus 100% and sample data for selected population and housing items.
+The U.S. Census Bureau makes some reports related to the 1980 Census of Population and Housing data files available on its website at:
+https://www.census.gov/programs-surveys/decennial-census/decade/decennial-publications.1980.html
+National Archives at College Park
+College Park, MD 20740-6001
+Electronic Records Main Page
+This page was last reviewed on August 15, 2023.
+Contact us with questions or comments
+Freedom of Information Act
+The U.S. National Archives and Records Administration
+1-86-NARA-NARA or 1-866-272-6272

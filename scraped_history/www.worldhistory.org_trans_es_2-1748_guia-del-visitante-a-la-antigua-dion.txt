@@ -1,0 +1,486 @@
+SOURCE: https://www.worldhistory.org/trans/es/2-1748/guia-del-visitante-a-la-antigua-dion/
+
+Este texto está disponible en otros idiomas:
+Díon se encuentra al pie del monte Olimpo, en el norte de Grecia, en lo que era la antigua
+Debe su nombre al santuario macedonio más importante consagrado a
+significa «de Zeus»).
+Cuenta la leyenda que aquí fue donde murió
+y donde lo enterraron.
+Cardo de la antigua Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+Díon aparece de manera intermitente en las fuentes de la época clásica;
+se la menciona sobre todo por haber sido la primera ciudad a la que llegó el general espartano
+(que falleció en el 422 a.C.) en su viaje al norte para enfrentarse a las colonias atenienses
+guerra del Peloponeso
+(hacia el 431‑404 a.C.).
+Sin embargo, su momento de mayor protagonismo fue bajo la autoridad macedonia, sobre todo con
+(que reinó en el 359‑336 a.C.) y su hijo,
+Los dos reyes celebraron aquí sus victorias y fue en este santuario donde Alejandro realizó los sacrificios previos a su campaña asiática en el 334 a.C.
+El lugar era famoso en la Antigüedad por albergar una de las obras maestras del escultor Lisipo (hacia el 390 a.C.‑hacia el 300 a.C.).
+En Díon, estaban expuestos los 25 bronces de los miembros de la caballería de élite de Alejandro (los llamados «compañeros») caídos en la
+del 334 a.C. Metelo Macedónico (que murió en el
+115 a.C.) se los llevó a Roma como botín de
+a mediados del siglo II a.C. (hacia el 147 a.C.).
+Durante la época helenística —tras la
+muerte de Alejandro Magno
+en el 323 a.C.—, se fundó una ciudad al lado del santuario.
+Esta ciudad fue adquiriendo un carácter cada vez más monumental con los sucesivos reyes.
+Museo Arqueológico de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+Los romanos tomaron la ciudad en el 169 a.C., pero continuó floreciendo.
+La refundó Octaviano (63 a.C.‑14 d.C.) como la colonia Julia Augusta Diensis en el 31 a.C. A Octaviano pronto se le conocería por el nombre de «Augusto», el primer emperador.
+Díon floreció durante los siglos II y III d.C., en la época de la rápida sucesión de los emperadores soldado —sobre todo, durante el período conocido como «
+la crisis del siglo III
+»—, que tenían un interés particular en las gestas de Alejandro Magno.
+Díon perduró hasta el Bajo
+Fue la sede de un obispado en los siglos IV y V d.C., tras la expansión del
+El lugar terminó abandonándose como resultado de unas catástrofes medioambientales.
+This article is provided by the
+mobile app, offering original content for thousands of ancient sites and monuments, as well as maps of Roman Roads. The whole Roman Empire is in your Pocket!
+.sponsor.book img.key_art {
+        box-shadow: none !important;
+        max-width: 160px !important;
+    }
+    .button_container {
+        margin-top: 1em;
+    }
+    .sponsor.book h3 {
+        text-transform: none;
+        margin-top: 0px;
+        margin-bottom: 15px;
+        font-family: "Libre Baskerville", "Palatino Linotype", "Book Antiqua", Palatino, serif;
+        font-size: 22px;
+    }
+    .sponsor_message {
+        margin-left: 190px;
+        font-family: Karla, Arial, Helvetica, sans-serif;
+        line-height: 140%;
+        min-height: 200px;
+    }
+    .sponsor.book {
+        padding: 20px;
+        margin: 25px 0px;
+        background-color: #f3f3f3;
+    }
+
+    .sponsor.book .key_art {
+        margin-top: 0px;
+        margin-bottom: 10px;
+        float: left;
+    }
+    .sponsor h4 {
+        font-weight: bold;
+        text-transform: uppercase;
+        color: #000;
+        margin-bottom: 10px;
+        margin-top: 0px;
+        font-family: Karla,Arial,Helvetica,sans-serif;
+        font-size: 13px;
+        padding: 0;
+    }
+    .sponsor_book_author {
+        color: #999;
+        margin: -10px 0px 20px;
+    }
+
+    @media (max-width: 1199px) {
+
+    }
+    @media (max-width: 767px) {
+        .sponsor.book img.key_art {
+            margin: 0px;
+            max-width: 120px !important;
+            float: none;
+        }
+        .sponsor_message {
+            margin: 30px 0px 0px 0px;
+            font-family: Karla, Arial, Helvetica, sans-serif;
+            line-height: 140%;
+            min-height: 200px;
+        }
+    }
+Todavía se ven los restos de Díon.
+El santuario se extiende tras las murallas de la ciudad, cuyos vestigios se conservan en buen estado en algunos tramos.
+Al oeste, hay un teatro, un
+Existen pruebas arqueológicas de la presencia en esta zona de una rica variedad de cultos, entre ellos a
+Dentro de la ciudad, hay pruebas de la existencia de tiendas y de un complejo termal.
+El museo local, en la vecina localidad de Malatria, alberga muchos de los hallazgos más pequeños.
+Entre ellos, monumentos funerarios, estatuas de culto y fragmentos de obras arquitectónicas.
+Además, hay unas impresionantes tumbas de cámara macedonias en las proximidades de Díon.
+El odeón romano de Díon se construyó a finales del siglo II d.C. como parte del enorme complejo de las Grandes Termas.
+Lo separaban de la calle principal la serie de tiendas y la letrina pública que tenía adosadas.
+En este pequeño teatro cubierto, se celebraban conciertos, obras de teatro, pantomimas y recitales de poesía o de música.
+Daba asiento a unos 400 espectadores.
+La rigurosa construcción del edificio nos revela que al arquitecto no solo le preocupaba la estética, sino también una excelente calidad acústica.
+En total, la cávea semicircular, que daba al sureste, medía unos 25 metros (82 pies) y contaba con diez hileras de asientos que descansaban sobre once secciones abovedadas.
+Odeón romano de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+El odeón se excavó en las décadas de 1970 y de 1990.
+Más recientemente, gracias a un exhaustivo trabajo de restauración, se ha reconstruido la cávea y levantado las columnas caídas.
+Las letrinas adosadas se han conservado bien y resultan visibles tanto los asientos como los suelos de mosaico.
+Dos muros concéntricos de 1,5 metros (4,9 pies) de espesor formaban el graderío (
+en griego), cuyos asientos escalonados se sostenían con arcos.
+En el perímetro superior del
+, había una hilera de columnas estrechas que sostenían el tejado de madera y que, posiblemente, se combinaban con cierres correderos para mejorar la acústica.
+Detrás del espacio de la orquesta, cuatro columnas monolíticas formaban una sencilla escena (
+en griego), que servía de decorado para las representaciones teatrales.
+Este teatro cubierto estaba dentro del recinto de un edificio rectilíneo que medía aproximadamente 28,5 × 19,5 metros (93,5 × 63,9 pies).
+El odeón quedó gravemente dañado en un terremoto, al que le siguió un terrible incendio en el siglo III d.C.
+Las Grandes Termas fueron los baños más amplios y suntuosos de cuantos se construyeron en el Díon romano.
+Se erigieron a finales del siglo II d.C. y colindaban con la muralla sur de la ciudad.
+Se accedía por el este a través de un angosto patio delantero.
+El complejo termal estaba organizado en torno a un gran vestíbulo central con un bonito suelo de mosaico.
+En este vestíbulo, se exponían los bustos y los retratos de los mecenas locales y los ciudadanos prominentes, como el del filósofo autóctono Hereniano.
+El vestíbulo daba al vestuario.
+Una gran zona climatizada para los baños de agua caliente y de agua templada dominaba la parte sur del edificio.
+El aire caliente circulaba por las dependencias gracias a un extenso sistema subterráneo de calefacción (el hipocausto) y a unos muros falsos a base de tuberías de terracota.
+Grandes Termas de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+La piscina de mármol del frigidario se encuentra al oeste del vestíbulo.
+El ala norte del complejo termal se destinaba a la relajación y a las actividades sociales.
+Estaba decorada con columnas de mármol y suelos de mosaico.
+Había una dependencia de uso reservado a los miembros del culto a
+Aquí apareció un grupo escultórico que representaba a Asclepio y a su familia, que incluía a su mujer, Epione; a sus hijos, Macaón y Podalirio; y a sus hijas, Higía, Panacea, Egle, Aceso y Yaso.
+Las estatuas son de finales del siglo II d.C., pero imitan el estilo de los modelos del siglo IV a.C. Formaba parte del complejo termal un pequeño teatro cubierto (un odeón) que,
+junto con una serie de tiendas y una letrina pública, constituía el ala oeste del edificio.
+Las termas solo estuvieron en activo hasta finales del siglo III d.C., cuando un terremoto y una inundación las dejaron terriblemente dañadas.
+Todo el complejo termal se ha preservado a la perfección.
+Se pueden rebasar los muros que siguen en pie por una pasarela elevada para acceder a ver los
+y el extenso sistema de calefacción por hipocausto.
+Los mosaicos presentan unos motivos decorativos con forma de nudos intrincados, así como escenas de bestias acuáticas, motivos florales, rosetones geométricos y un toro con cuernos.
+El teatro helenístico se construyó embebido en una colina durante el siglo III d.C. Se sometió a varias fases de modificación durante el reinado de Filipo V de Macedonia (que reinó en el 221‑179 a.C.) y la época romana.
+En él se celebraban certámenes teatrales, como el festival de nueve días en honor a las nueve musas piérides.
+Teatro helenístico de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+La cávea, orientada al noreste, medía un poco más de medio círculo.
+No se sabe con exactitud su diámetro completo tanto por su mal estado de conservación como por el expolio en épocas posteriores de los materiales del teatro.
+Los asientos se fabricaron con grandes ladrillos de barro.
+Estuvieron revestidos con mármol antes de la época romana.
+La orquesta era de tierra batida y tenía un diámetro de unos 26 metros (85,3 pies).
+Un desagüe de piedra a cielo abierto rodeaba la orquesta, que tenía unos puentecitos en el cúneo (
+en latín) central y en el párodo (
+¡Suscríbete a nuestro boletín electrónico semanal gratuito!
+Había un pasadizo bajo tierra que unía el escenario con el centro de la orquesta.
+Contenía unas escaleras subterráneas (conocidas como «la escalera de Caronte»), ideales para realizar apariciones repentinas sobre el escenario.
+La escena quedaba por encima de la orquesta gracias a una fachada de columnas.
+Un amplio proscenio (
+en latín) con bastidores a los lados albergaba la maquinaria de la tramoya.
+Dos grandes pilares a los lados aguantaban el movimiento de las enormes grúas o
+. Los edificios del fondo del teatro presentan un entablamento dórico con tejas al estilo lacónico.
+Los fragmentos de mármol de colores demuestran que el proscenio estaba profusamente decorado.
+Buena parte de la piedra de cantería del teatro helenístico se expolió durante la época romana para reutilizarla en la construcción del teatro romano.
+El teatro comenzó a excavarse en la década de 1970 y se ha restaurado para mostrar su tamaño y disposición originales.
+Desde la década de 1990, se celebran actuaciones en él durante el Festival del Olimpo.
+La villa de Dioniso es una lujosa vivienda privada del siglo II d.C. que abarcaba una gran extensión de terreno.
+El complejo de la villa se construyó en un principio con cinco patios tetrástilos ajardinados interconectados.
+Se modificó en el siglo III d.C. para dividirlo en tres villas comunicadas entre sí.
+El conjunto de edificios incluye baños termales, tiendas, un santuario de Dioniso y una serie de dependencias domésticas.
+Villa de Dioniso en Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+Debe su nombre a un bonito mosaico hallado en 1987 en el salón de banquetes.
+El panel central del mosaico tiene una superficie de 2,2 × 1,5 metros (7,2 × 4,9 pies) y está compuesto de teselas policromadas.
+Representa la epifanía triunfal de Dioniso.
+El dios aparece montado en un carro acompañado de un
+(compañero de Dioniso) ya maduro.
+Dos panteras y dos centaruros tiran del carro.
+Los centauros portan una crátera de vino, así como los símbolos ocultos y sagrados del culto de Dioniso.
+Alrededor del panel central, aparece una cenefa con motivos entrelazados según la técnica del guilloqueado y seis paneles más pequeños que contienen máscaras.
+Muestran a Dioniso; a su enemigo
+, rey de Tracia; a algún
+El mosaico tiene una superficie de 100 metros cuadrados (1.076 pies cuadrados) y presenta unos complejos motivos geométricos.
+Mosaico de Medusa procedente de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+De las tres villas individuales, la norte estaba organizada en torno a dos patios con peristilos de doce columnas jónicas que se encontraban rodeados de una serie de salas para las visitas, cámaras privadas, zonas de almacenamiento y una cocina.
+Un mosaico con una cabeza de
+decoraba el suelo de una de las habitaciones.
+La villa del centro se construyó en torno a un gran patio tetrástilo que daba a una serie de estancias donde se recibía formalmente a los invitados.
+Una de estas estancias era el triclinio (
+en latín) profusamente decorado que contenía el famoso mosaico de la epifanía de Dioniso.
+En él se hallaron los accesorios en bronce de unos divanes de madera (
+en griego), así como bronces de cabezas de caballos, una imagen de
+(Heracles) y un sátiro.
+Una exedra (un nicho con asientos volados) abierta al patio contenía bustos con las efigies de Faustina la Menor (hacia el 130‑175 d.C.) y de
+(hacia el 14 a.C-33 d.C.).
+Otra estancia tenía fragmentos de una
+Un grupo escultórico representaba a cuatro filósofos epicúreos: un profesor de barba con un pergamino y, al lado, tres alumnos suyos.
+La villa sur presentaba dos patios tetrástilos.
+El patio delantero tenía un pozo y una cisterna.
+Un pasillo conducía al amplio complejo termal privado.
+El patio trasero, más grande, daba acceso a una serie de estancias suntuosas, incluida una con una exedra y un mosaico de Dioniso en el suelo.
+En esta misma habitación, había una estatuilla en mármol de Dioniso sosteniendo una cornucopia y otra estatua en mármol de un soldado sosteniendo un escudo decorado con la cabeza de Medusa.
+Se entraba en el complejo termal desde la calle o desde el interior de la villa.
+Las dependencias termales estaban dispuestas en torno a un patio abierto.
+Al norte, había tres grandes estancias ricamente decoradas y con suelos de mosaico que cumplían la función de vestíbulos.
+La gran piscina del frigidario se encontraba al este, en una sala absidal.
+Tenía una estatua de mármol de Heracles al estilo del Hércules Farnesio.
+El ala sur constaba de una serie de baños templados y calientes interconectados que disponían de suelo radial (hipocausto).
+Había tiendas a lo largo de la fachada contigua a la calle.
+El extenso complejo residencial está bien conservado y ofrece mucho que ver, como las columnas que siguen en pie en torno a los atrios y diversos elementos decorativos.
+Una pasarela elevada permite acceder a determinados sectores para ver mejor los paneles de mosaico del suelo.
+Muchas de sus bonitas estatuas se pueden ver en el museo.
+Gracias a un proyecto exhaustivo de recuperación y restauración que tuvo lugar entre 2015 y 2017, se trasladó el famoso mosaico completo a un edificio construido allí mismo expresamente para preservarlo.
+Se puede ver en la actualidad en la arqueoteca (
+en griego), al oeste del museo.
+La basílica paleocristiana se construyó en el siglo IV d.C. en la calzada que conducía al monte Olimpo.
+Se amplió en el siglo V d.C. En la primera fase, la iglesia se construyó como una basílica de tres naves con un nártex.
+Se entraba por el lado oeste.
+Quedan fragmentos de los frescos de las paredes que demuestran que la basílica estaba decorada con murales, que incluían motivos arquitectónicos entre otras cosas.
+El suelo presenta una serie de mosaicos geométricos, con una taracea de mármol en la nave central.
+Al oeste de la iglesia principal había un baptisterio de tres ábsides o triconcha.
+Un terremoto destruyó la primera basílica a finales del siglo IV d.C.
+Basílica episcopal de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+Aún se ve la disposición de la basílica cristiana, incluido el nártex, dos fases de la cara este (con forma absidal) y los baptisterios.
+Una pasarela elevada permite acceder al atrio para ver los restos de las fuentes.
+Distintos elementos arquitectónicos, columnas y piedras con inscripciones yacen diseminados por toda la superficie.
+Se construyó un edificio nuevo sobre las ruinas del anterior en el siglo V d.C. Se amplió ostensiblemente para incorporar un nuevo baptisterio.
+También se construyó un
+monumental que permitía el acceso desde la vía principal a través de un pórtico.
+Este desembocaba, al este, en la iglesia principal o, al oeste, en un atrio.
+El atrio tenía columnatas en tres de sus lados, en torno a una fuente central.
+Tras la columnata oeste estaba el nuevo baptisterio, que tenía una fuente de mampostería con la forma de una cruz maltesa dentro de un octógono enlosado.
+Este gran complejo de edificios se conoce como «el sector del Órgano Hidráulico» por el
+de bronce que apareció cerca del gran vestíbulo oriental.
+El órgano hidráulico (
+en griego) es un instrumento musical que inventó en el siglo III a.C. el ingeniero griego Ctesibio de
+Generaba el sonido utilizando agua y aire.
+El órgano hidráulico de Díon, una obra artesanal del siglo I a.C., es el ejemplar más antiguo del que se tenga constancia en todo el mundo.
+Mide 1,2 metros (3,9 pies) de alto y 0,7 metros (2,2 pies) de ancho.
+Consta de dos juegos de tubos de bronce conectados entre sí —una hilera de 24 tubos más anchos de 1,8 centímetros (0,7 pulgadas) de diámetro y otra de 16 tubos más estrechos de menos de 1 centímetro (0,39 pulgadas) de diámetro—.
+Cada tubo está adornado con unos aros de plata que le dan el aspecto de una caña.
+Unas láminas de bronce unen las dos hileras de tubos.
+Estás láminas están adornadas con unas tiras de plata decoradas con flores y guilloqueado, junto con unas teselas de vidrio policromado trabajadas en el intrincado estilo
+Durante las excavaciones del complejo, se halló un nutrido surtido de objetos metálicos que, al parecer, habían dejado en una forja para que los reparasen.
+Entre ellos, hay valiosas vasijas, lámparas de bronce e instrumental médico.
+Uno de los instrumentos es una
+(un espéculo ginecológico) de bronce del siglo I d.C., similar a las halladas en
+Se desconoce la función de este gran complejo.
+El edificio de dos plantas consta de un buen número de estancias rectangulares dispuestas en torno a un patio central con columnas.
+Una escalera de ladrillos conectaba los dos pisos.
+Es posible que el piso de arriba se añadiese en el siglo IV d.C. El ala oeste del complejo se abría al cardo principal (una calle con dirección norte‑sur) mediante una larga estoa o galería cubierta columnada.
+Órgano hidráulico de Díon, Grecia
+Juergen-Olymp (CC BY-NC-SA)
+La enorme ínsula (bloque de apartamentos) del sector del Órgano Hidráulico se puede recorrer libremente.
+Resulta evidente la fachada de columnas que da a la calle principal, así como el conjunto de estancias dispuestas en torno al patio central.
+Tanto las lámparas de bronce como los otros objetos están expuestos en el museo del sitio arquelógico.
+El órgano hidráulico, que se ha restaurado meticulosamente, también está expuesto.
+Las letrinas públicas de esta parte de la ciudad también las utilizaban los huéspedes del pretorio.
+Se encontraban en una calle más pequeña del lado oriental, justo enfrente de la hospedería.
+A menudo se llamaba «vespasianas» a las letrinas públicas, en referencia al impuesto del emperador
+(que reinó durante los años 69‑79 d.C.) sobre la recogida de la orina en los lavabos públicos.
+Las vespasianas orientales se han conservado bien, a pesar del pantanal que las invade.
+Aunque los asientos de mármol se han derrumbado parcialmente, aún es posible ver la disposición del lavabo, los orificios de cada retrete y el sistema de drenaje.
+Las basas de piedra de cuatro columnas señalan la ubicación del estanque central.
+Se accedía a través de dos vestíbulos laterales que estaban en la cara oeste (enfrente del pretorio).
+Entre estas dos entradas, había una fuente de la que manaba agua constantemente.
+Las letrinas eran espaciosas y estaban organizadas en torno a un atrio cuadrado con un estanque en el centro.
+Sostenían el tejado cuatro columnas de madera con basas de piedra dispuestas en cada una de las esquinas del estanque.
+Un canal de aguas profundas, que tenía encajados encima los asientos de mármol de los inodoros, rodeaba el cuarto de baño por tres de sus lados.
+Debajo de cada asiento había un desagüe que se llevaba las aguas residuales.
+en latín) era una casa de huéspedes que utilizaban tanto los funcionarios públicos de visita como el común de los viajeros.
+En Díon, se encontraba cerca del foro, en la intersección entre el cardo principal y la calzada que llevaba al monte Olimpo.
+Una inscripción en latín donde se deja constancia de la construcción de «un pretorio con dos bajos comerciales (
+en latín)» permitió identificar el edificio.
+La entrada principal estaba por el lado sur, junto a tres tiendas que daban a la calle lateral.
+La entrada desembocaba en un gran patio con un pozo en el centro y un lujoso triclinio.
+Había cinco alcobas privadas en el lado este del patio.
+En el lado oeste, había una serie de establos para los animales de
+Pegadas a los establos, había dos grandes tabernas con una antesala.
+En la estancia mayor de las dos
+, los arqueólogos hallaron tinajas, lámparas colgantes y muchas tazas de barro.
+Pretorio de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+Los muros del pretorio siguen alzándose hasta una altura de más de 1 metro (3,2 pies).
+La calzada pavimentada circundante, el gran patio y la serie de estancias dispuestas a su alrededor todavía resultan claramente visibles.
+La cerámica procedente del edificio está expuesta en el museo del sitio arqueológico.
+El edificio Poligonal se encuentra en la intersección entre el cardo principal y el decumano (calle en la dirección este‑oeste) que desembocaba en la puerta oeste de la ciudad.
+El edificio, cuya función se desconoce, forma parte de un complejo más grande que no se ha excavado todavía.
+Sin embargo, se pensó en un primer momento que se trataba de una palestra (
+en latín), por un mosaico hallado en una de las estancias que representa a unos luchadores.
+Este edificio tan poco convencional cubre una superficie de 1.400 metros cuadrados (15.069 pies cuadrados).
+Sus muros exteriores dibujan más o menos un cuadrado, pero las estancias están dispuestas en torno a un patio central que tiene doce lados.
+Un pórtico rodea el patio central para dar acceso a cada una de las estancias conectadas.
+Se entraba por el sur, desde la calle que está enfrente de las termas del Foro.
+Edificio Poligonal de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+En el norte y el sur, hay dos estancias parejas de forma oblonga que rematan en un ábside y que tienen el suelo pavimentado.
+La estancia sur es la que presenta el mosaico de los luchadores.
+En la norte, se halló una mesa de mármol.
+El patio central daba a unas exedras en los lados este y oeste.
+La exedra oriental es grande y semicircular, mientras que la occidental es más pequeña y rectangular.
+En cada esquina, entre estas estancias de uso formal, hay unas habitaciones auxiliares más pequeñas.
+Los muros del edificio Poligonal siguen alcanzando varios metros de altura.
+Resultan evidentes tanto la forma del patio como la disposición tan atípica de las estancias.
+Algunos de sus elementos arquitectónicos se encuentran expuestos por todo el complejo.
+El foro romano se construyó a finales del siglo II d.C. sobre el
+El nuevo foro consistía en un patio rectangular pavimentado que medía 58 × 68 metros (190 × 223 pies).
+La basílica romana bordeaba el foro por el este.
+Los otros tres lados estaban rodeados de pórticos.
+El pórtico norte daba acceso a unos baños públicos: las termas del Foro.
+Al oeste del foro, estaba el
+El pórtico sur daba a la fachada de una serie de tiendas.
+Foro romano de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+La basílica romana se usaba para realizar actividades comerciales y bancarias.
+Se trataba de una larga estoa cubierta que constaba de tres naves separadas por dos hileras de columnas dóricas.
+En el lado meridional, unas puertas daban acceso a una espaciosa curia, donde los decuriones que gobernaban Díon se reunían en asamblea.
+El templo de Augusto constaba de una única sala consagrada al culto de la familia imperial.
+Tenía una fachada dórica y su suelo de mosaico estaba a mayor altura que el del foro.
+Las pinturas de sus paredes imitaban el mármol de colores.
+Durante las excavaciones, salieron a la luz los fragmentos de unas estatuas masculinas de gran tamaño que se encontraban originalmente sobre un pedestal semicircular.
+Por los fragmentos del patio pavimentado y la pared del pórtico que lo rodea, se sabe cómo estaba dispuesto el foro.
+Quedan esparcidos por toda la superficie elementos arquitectónicos de mármol pintado.
+En el templo de Augusto, aún resulta visible una parte de la pared pintada.
+El cardo principal de Díon era una calle ancha dispuesta en un eje norte‑sur que conectaba el centro de la ciudad con los santuarios religiosos cercanos.
+La calle original se trazó a finales del siglo IV a.C. En el siglo III d.C., se pavimentó con grandes losas de conglomerado de roca procedente del cercano monte Olimpo.
+En esta época, se redujo su anchura a 5,6 metros (18,3 pies) con un bordillo escalonado.
+El tramo sur de la calle estaba flanqueado de pórticos de columnas.
+Monumento de los Escudos de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+La subida del nivel de las aguas freáticas provocó que se inundase toda la ciudad en el siglo IV d.C., con lo que hubo que realizar una serie de cambios en el paramento interior de la muralla este de la ciudad.
+Se construyó un nuevo muro a lo largo del cardo reutilizando mampostería concertada y materiales de construcción de edificos más antiguos.
+El tramo de muro que recorre el lado occidental de la calle principal está decorado con unos paneles donde se alternan escudos y corazas: se conoce como «el monumento de los Escudos».
+Estos paneles proceden de un friso que se labró originalmente en el siglo IV a.C. para un edificio monumental desconocido de época helenística.
+El muro y el friso formaban la fachada este de la basílica que está en el foro romano.
+El cardo principal está bien conservado, por lo que resultan visibles el enlosado y el bordillo durante buena parte de su recorrido.
+También se pueden ver los surcos de las ruedas de los carros que el intenso tráfico dejó a lo largo de la calle.
+El monumento de los Escudos sigue alcanzando varios metros de altura.
+Otros tramos del muro reconstruido muestran tambores de columnas y otros elementos arquitectónicos reutilizados.
+Las termas del Foro fueron uno de los diversos complejos termales de nueva construcción de la época romana.
+Estos baños experimentaron varias transformaciones entre los siglos II y IV d.C. Se encontraban justo al norte del nuevo foro romano, en la intersección entre el cardo y el decumano principales.
+Se accedía a las termas por el pórtico norte del foro o, desde el cardo principal, por una entrada monumental.
+Esta entrada conducía a un gran recibidor con pinturas murales de flores y suelos de mosaico.
+Se descendía por unos escalones a las salas de baños, que incluían el frigidario, el tepidario y el caldario (
+respectivamente en latín).
+Entre las salas climatizadas, había unos falsos tabiques a base de capas sucesivas de tuberías de terracota que funcionaban como conductos del aire para calentar las paredes y los suelos.
+La parte inferior de los muros del complejo termal sigue en pie y muestra cómo estaba dispuesto el edificio.
+Aún quedan en varias zonas porciones del revestimiento de mármol de las paredes y de las baldosas del suelo.
+También se pueden ver grandes secciones del sistema de calefacción por hipocausto, así como de las tuberías de terracota.
+Se erigieron varios complejos termales en Díon en la época romana, durante el exhaustivo proyecto de reconstrucción de finales del siglo II d.C. Las termas de la Calle Principal se encontraban en el lado oriental del cardo con pavimento de mármol,
+enfrente del monumento de los Escudos.
+Por dos entradas se accedía a las termas desde la calle, a través de una pasarela cubierta.
+Estas dos entradas daban a un gran vestíbulo abierto que dominaba la parte occidental del complejo termal.
+Había un recibidor más pequeño al sur del edificio.
+Presentaba dos columnas de mármol, paredes revestidas de mármol y suelos de mosaico.
+La letrina y el frigidario, con su gran piscina, se encuentran en el norte del edificio.
+La parte oriental del edificio contenía tres salas sucesivas para los baños templados y calientes.
+En estas salas, todavía se ve el sistema de calefacción por hipocausto, que consta de una serie de arcos y pilares de ladrillo por debajo del nivel del suelo.
+Las calderas se encuentran al este, detrás de las salas de baños.
+Todavía quedan restos de la parte inferior de los muros —incluido el revestimiento de mármol de las paredes— y de la decoración del suelo, que muestran cómo estaba dispuesto el complejo termal.
+También se ven columnas caídas y fragmentos del embaldosado, así como buena parte del sistema de calefacción por hipocausto y de las tuberías de terracota.
+Estas dos viviendas particulares se encontraban en la esquina sureste de la antigua ciudad.
+Solo las separa de la muralla sur de la ciudad una estrecha calzada.
+Las dos se construyeron alrededor del siglo II d.C. y tenían una decoración fastuosa.
+Casas de Zosa y Leda en Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+La casa de Zosa era una vivienda espaciosa con una planta atípica.
+La mayoría de las estancias estaba decorada con unos bonitos suelos de mosaico que presentaban motivos geométricos o escenas de pájaros.
+Se proclama quién es el dueño de la casa en la inscripción en griego «ΤΩ ΕΥΤΥΧΙ ΖΩΣΑ» («para el afortunado Zosa») de un mosaico que representa a un urogallo encima de una rama.
+Otro mosaico muestra unos pájaros de vivos colores posados en el borde de un cántaro (
+La sala principal que hay en el centro contiene un elemento rectangular poco corriente que se compone de tres cistas revestidas con mármol.
+Las estancia sureste tenía un pequeño altar dentro de un nicho con una estatua de culto dispuesta sobre un pedestal.
+La vivienda vecina se conoce como «la casa de Leda», que debe su nombre a la intrincada representación de Leda abrazando a un Zeus con forma de cisne tallada en el pie de mármol de una mesa.
+Este pie de mesa lo hallaron en su ubicación original en el salón formal de la vivienda.
+La escultura se realizó en el siglo II d.C. en estilo neoático copiando un modelo tardohelenístico.
+Se hallaron otros dos suntuosos pies de mesa de mármol del siglo II d.C. en el muro sur —uno retrata a Dioniso descansando junto a una pantera con unas vides enroscadas en torno a la base; el otro tiene una cabeza y una pata de león—.
+Además, la casa estaba decorada con estatuillas y bustos de mármol, entre los que se incluye un busto del siglo I d.C. de un muchacho con el pelo ondulado peinado con el característico moño que llevaban las personas devotas de la diosa
+La parte inferior de los muros sigue alzándose hasta una altura aproximada de 1 metro (3,2 pies) y muestra cómo estaban dispuestas estas viviendas tan espaciosas.
+También se ve parte del mosaico geométrico.
+Se exhiben en la casa las réplicas de los pies de mesa de mármol.
+Los originales de las estatuas y del mosaico con la inscripción se pueden ver en el museo del sitio arqueológico.
+Situado junto a los manantiales sagrados del río Bafiras, el primer santuario que hubo en esta ubicación estaba consagrado a
+y a algunas divinidades vinculadas con la fertilidad y la maternidad.
+También se veneraba como divinidad al río Bafiras.
+Cuenta la leyenda que hubo un tiempo en que el río corría totalmente por la superficie y se le conocía como el «Helicón».
+Cuando las mujeres que mataron a Orfeo fueron a lavarse la sangre de las manos, el río las rechazó —no quería tener nada que ver con el asesinato—.
+Para que no lo contaminasen, se ocultaba bajo tierra durante 22 estadios (unos 4 kilómetros o 2,5 millas) y reemergía a la superficie como el río Bafiras.
+Santuario de Isis en Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+El santuario de Isis se construyó durante el siglo II d.C. La entrada principal al complejo estaba por el este y daba a un gran patio.
+También había una entrada secundaria al norte que tenía un propileo con mucha ornamentación.
+Por el centro del patio, aproximadamente en dirección este‑oeste, corría un largo canal empedrado flanqueado de muretes que simbolizaba el río
+Desembocaba directamente en el altar y el templo principal de Isis Loquia, protectora de las mujeres tras el parto.
+El altar estaba decorado con dos toros de mármol que representaban al dios egipcio
+El templo principal era un templo próstilo de cuatro columnas cuyo amplio pórtico estaba al mismo nivel que el patio.
+Tras las columnas, unas escaleras llevaban a la parte elevada del templo, con un pronaos y una sala central o cella.
+Los escalones de mármol presentan unas losas votivas que tienen impresas huellas de peregrinos.
+El templo principal estaba flanqueado por unos más pequeños.
+El culto a Afrodita Hipolimpidia («al pie del Olimpo») proseguía en un pequeño ninfeo al norte (derecha) del templo principal.
+El agua de la pileta escalonada ubicada en el centro de la sala reflejaba la imagen de la estatua de culto que estaba dentro de una hornacina en el muro oeste —la estatua es del siglo II a.C.—.
+Al sur del templo principal, había un santuario más pequeño de una única sala consagrado a Isis‑Tique (Isis‑Fortuna).
+Era una construcción de ladrillo con un ábside semicircular en el muro de atrás donde se alojaba la estatua de culto, que miraba a un estanque con forma de óvalo alargado.
+El muro sur presentaba una serie de nichos escalonados.
+En la zona más al norte del recinto, había una estoa, un dormitorio comunitario para los iniciados, un cuarto de hipnoterapia y una sala donde se exhibían las estatuas de los benefactores.
+Isis procedente de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+El santuario de Isis quedó destruido en el siglo IV d.C. tras las inundaciones que siguieron a un terremoto.
+Permaneció intacto enterrado bajo el fango hasta su reciente excavación.
+Se han conservado en su ubicación original una gran cantidad de objetos y estatuas.
+Los manantiales sagrados siguen fluyendo dentro de los recintos consagrados a Isis-
+Debido a la subida de las aguas freáticas, todo el santuario está parcialmente anegado.
+Aunque el suelo pantanoso dificulta el acceso, los visitantes pueden allegarse por una pasarela elevada.
+Tanto los templos como los edificios septentrionales siguen alzándose varios metros.
+Se pueden ver varias columnas tiradas en el agua o que se han vuelto a levantar en su sitio.
+Se han colocado unas réplicas de las estatuas de Isis-Tique y de Afrodita sobre sus respectivos pedestales en la curva del ábside y el ninfeo.
+Por todas las ruinas se exhiben otras estatuas votivas, inscripciones y placas conmemorativas.
+Por el muro norte, hay expuesta una estatua en honor de la benefactora Julia Frugianés Alejandra.
+Pueden verse otros de los hallazgos del santuario en el museo del sitio arqueológico, incluido un relieve dedicado a la tríada
+en el que se muestra a
+sosteniendo una gavilla y un cetro.
+La entrada al santuario de Zeus Hipsisto se hallaba en una vía sagrada procesional jalonada de dedicatorias al dios, a menudo inscritas en pequeñas columnas rematadas en águilas de mármol.
+El muro cuadrado del témenos rodeaba el templo principal.
+La única sala del templo, la cella, estaba rodeada de columnas.
+El suelo estaba decorado con mosaicos, con representaciones de un toro blanco y de un hacha de doble filo, entre otros.
+La cella estaba decorada con imágenes de cuervos.
+La estatua de culto estaba expuesta en el muro norte de la cella.
+Esta estatua de época imperial, cuya factura es excelente, apareció prácticamente intacta dentro del templo.
+Representa a Zeus sentado en su trono y coronado con un frontón.
+Está sosteniendo un rayo en la mano derecha y levantando un cetro con la izquierda.
+También está expuesta dentro del templo una estatua de un águila de mármol que está de pie con las alas extendidas mirando hacia Zeus.
+que apareció cerca de allí probablemente compartió pedestal con la de Zeus.
+Santuario de Zeus Hipsisto en Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+En el lado oeste del templo principal, hay una cisterna y una pileta.
+Delante del templo está el altar principal, a cuya vera hay un bloque de piedra con un aro de metal donde se ataba a los animales que se iban a sacrificar.
+Dentro del recinto, alrededor del templo principal, había una serie de largas estoas y distintas estancias que se utilizaban para el culto.
+Por todo el santuario hay inscripciones votivas de época helenística y romana que nos revelan información sobre los ritos sagrados relacionados con Zeus Hipsisto, como las nonas caprotinas romanas, que se celebraban todos los años el 7 de julio.
+Durante estas fiestas, las mujeres ayudaban en los sacrificios y a las esclavas se les concedía libertades provisionales.
+Estatua de culto de Zeus Hipsisto procedente de Díon, Grecia
+Carole Raddato (CC BY-NC-SA)
+El santuario de Zeus Hipsisto comenzó a excavarse en 2003.
+En la actualidad, el suelo que rodea el templo principal es pantanoso y resulta difícil acceder a él.
+Tanto los muros del santuario como los cimientos del templo principal y del altar resultan claramente visibles, pero la subida de las aguas freáticas dificulta el acceso.
+Están expuestas las réplicas de la estatua de culto y de otras estatuas votivas del santuario.
+También se exhiben muchos de los hallazgos del santuario dentro del museo del sitio arqueológico.
+TimeTravelRome. (2026, marzo 13). Guía del visitante a la antigua Díon. (E. B. Bruyel, Traductor).
+World History Encyclopedia
+https://www.worldhistory.org/trans/es/2-1748/guia-del-visitante-a-la-antigua-dion/
+TimeTravelRome. "Guía del visitante a la antigua Díon." Traducido por Eva Bruzos Bruyel.
+World History Encyclopedia
+https://www.worldhistory.org/trans/es/2-1748/guia-del-visitante-a-la-antigua-dion/
+TimeTravelRome. "Guía del visitante a la antigua Díon." Traducido por Eva Bruzos Bruyel.
+World History Encyclopedia
+https://www.worldhistory.org/trans/es/2-1748/guia-del-visitante-a-la-antigua-dion/
+, publicado el 24 mayo 2021. El titular de los derechos de autor publicó este contenido bajo la siguiente licencia:
+Creative Commons Attribution-NonCommercial-ShareAlike
+Por favor, ten en cuenta que el contenido vinculado con esta página puede tener términos de licencia diferentes.
+Somos una organización sin fines de lucro.
+Nuestra misión es acercar a las personas al patrimonio cultural y mejorar la enseñanza de la historia en todo el mundo.        Apoya a World History Encyclopedia. Te lo agradecemos.
+Te enviaremos nuestros últimos artículos a tu correo electrónico una vez por semana:
+Numerosas instituciones educativas nos recomiendan, entre ellas la
+Universidad de Oxford
+.
+                Además, por su calidad educativa, nuestro contenido ha recibido excelentes calificaciones de
+Common Sense Education
+Merlot (California State University)
+School Library Journal
+Internet Scout (University of Wisconsin)
+.
+                Algunas de estas recomendaciones figuran con nuestro nombre anterior, Ancient History Encyclopedia.
+World History Foundation
+es una organización benéfica 501(c)3 registrada en los Estados Unidos.
+World History Publishing
+es una organización sin fines de lucro fundada en el Reino Unido.
+World History Foundation
+es una organización sin fines de lucro fundada en Québec, Canadá.
+Algunos derechos reservados (2009-2026) según la licencia de Creative Commons de Atribución-NoComercial-CompartirIgual (CC BY-NC-SA), salvo que se especifique lo contrario.

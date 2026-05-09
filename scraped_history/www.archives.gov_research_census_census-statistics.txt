@@ -1,0 +1,33 @@
+SOURCE: https://www.archives.gov/research/census/census-statistics
+
+We are often asked where various kinds of census statistics can be found. This web page will help you get started on your quest.
+Published volumes (books) of aggregated census statistics for 1790 to 2020 can be found on the
+Census Bureau's website
+. Go to "more" on the timeline that starts with 2020 to choose an earlier census year. The published volumes typically include statistical information by state, county, and Statistical Metropolitan Areas (since 1950). These publications rarely break down the statistics at small community levels.
+Census statistics, 1790–2010, are digitally searchable at
+. Level of available detail varies.
+Electronic Records Division
+has electronic data that includes statistical compilations such as the County and City Data Book Files, 1944–1988 (National Archives Identifier
+). There are also detailed tabulations from the 1970 through 2010 decennial censuses described in the
+Electronic Records Reference Reports
+. Note that a number of the 1970 Census Summary Statistics files are available for download from the National Archives Catalog; please refer to the "Download" links in the
+Statistics from 1970 Census of Population and Housing Electronic Records Reference Report
+Census Bureau's data website
+contains data from 2000 to 2020.
+The population of Minor Civil Divisions (MCDs) for some census years can be found in descriptions of census Enumeration Districts (EDs) that were written by the Geography Division of the Bureau of the Census and its predecessors. MCDs are political units below the county level. For example, the written description of the 1950 EDs includes both population totals for the 1940 and 1950 censuses, as shown in the image below for EDs in Walsh County, ND. In the first image, note that Grafton city data is given for 1950 (4901) and 1940 (4070). The 1950 total for Ward 1 is shown (1289) followed by the total for ED 50-20 (698), which was only part of Ward 1. In the second image, we see similar data for the rest of Ward 1 and Grafton's other wards and EDs.
+Housing statistics are sometimes available for areas as small as a city block. For example, the Census Bureau published block-level information about dwellings for 213 cities from data collected during the 1950 census. For more information, see "
+1950 Census Block Housing Information Is Available For 213 Municipalities
+Researchers are often interested in ethnic, racial, or other population characteristics of a Minor Civil Division. However, published reports typically consist of aggregated statistical data at the census tract, county, or state level, so they may not provide the level of desired detail.
+Sometimes researchers may have to compile their own data. For example, "Hispanic" origin or descent was not a separate category until the 1970 census. See
+questions asked on the various censuses
+As a result of the above, persons interested in statistics of Hispanic inhabitants of a particular Minor Civil Division prior to 1970 may need to compile their own data by going through the
+publicly-available census schedules (1790–1950)
+for the particular location to compile lists or statistics of Hispanics living there in each census year. Census schedules showing information for individual persons for the 1960 and later censuses are not publicly accessible due to a
+on public access to protect people's privacy.
+These agencies can help you locate and understand census data:
+We hope this web page provides useful guidance on how to begin your own census statistics research.
+This page was last reviewed on June 23, 2025.
+Contact us with questions or comments
+Freedom of Information Act
+The U.S. National Archives and Records Administration
+1-86-NARA-NARA or 1-866-272-6272

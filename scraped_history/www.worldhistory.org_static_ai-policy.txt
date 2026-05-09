@@ -1,0 +1,30 @@
+SOURCE: https://www.worldhistory.org/static/ai-policy/
+
+World History Encyclopedia is known for its high-quality articles, researched & written by experts and verified by our editorial team consisting of editors & historians in accordance with our
+. Our articles highlight the story element of history, making the past accessible and making it relevant to the present.
+While artificial intelligence is very good at analyzing data and information, we believe that we can best understand the world through human creativity, intelligence, and reasoning. AI has no understanding of human experience, life, cultural heritage, and history. It is able to synthesize the information it finds without truly understanding its meaning. Therefore, World History Encyclopedia supports human creativity and only uses AI for the analysis, synthesis, and transformation of our own data, not for the creation of articles published on the website.
+Artificial intelligence tools (most famously ChatGPT) have become widely available, and content produced by AI is now found in many corners of the internet. Articles that people try to submit to World History Encyclopedia are no exception: We regularly reject AI-written content. Our editorial team will reject submissions that we suspect to have been written by or with the aid of artificial intelligence (beyond AI grammar and spelling checks).
+We use tools to detect AI writing and plagiarism, and our editors also compare the content and structure of submissions to other publications to ensure they are not simply paraphrasing, with or without the help of AI.
+Human history has left us with a rich plethora of imagery, be it in the shape of ancient reliefs, murals, statues, documents, paintings, or artefacts. The best way to explain history is to show it: we aim to illustrate our publications with photos of real historical art and architecture. In some cases, we cannot find any historical art that is either suitable for the article or legally available to republish, in which case we look at other media, such as modern 3D reconstructions, motion pictures, or video games to illustrate our articles.
+We allow the use of AI-generated images in infographics which do not aim to represent actual history but rather serve as aids for the presentation of complex information in a visual medium.
+Artificial intelligence is powerful when it comes to the organization and processing of information. As such, we use AI to augment the capabilities of our encyclopedia’s search engine, to provide more relevant search results and answers in response to user queries. The AI we use only looks at content published on World History Encyclopedia to ensure that it only sources information that was written by humans and verified by our editorial team.
+We use artificial intelligence in internal tools that allow our website to categorize content, augment our search engine, analyse and extract information, and otherwise improve the quality of our website without modifying any of the human-created information we have published. Additionally, we use AI tools to transform content into other media, such as text-to-speech narration tools powered by AI.
+Unlike many other publications who have blocked AI companies (or sued them), we allow AIs to ingest our articles to train their current and future models on. Generally, we are neither asked for permission nor compensated for the data we provide. However, as our mission is to provide free history education to the world, we believe that this includes providing our data to improve the answers that AI services can offer to the general public.
+We have partnered with the AI search engine Perplexity.ai, who are offering what we believe is currently the fairest deal between publishers and AI: We provide them with our content, they share revenue with us, and we gain access to their AI model to power our internal search engine and other AI tools. As publishers, we believe that this is the way forward to creating an equitable and fair AI ecosystem for everyone, our readers included.
+Numerous educational institutions recommend us, including
+.
+                We have been reviewed for educational use by
+Common Sense Education
+Internet Scout (University of Wisconsin)
+Merlot (California State University)
+School Library Journal
+.
+                Please note that some of these recommendations are listed under our former name, Ancient History Encyclopedia.
+World History Foundation
+is a 501(c)3 charity registered in the United States.
+World History Publishing
+is a non-profit organization registered in the United Kingdom.
+World History Foundation
+is a non-profit organization registered in Québec, Canada.
+Some Rights Reserved (2009-2026) under Creative Commons Attribution-NonCommercial-ShareAlike license unless otherwise noted.
+The World History Encyclopedia logo is a
