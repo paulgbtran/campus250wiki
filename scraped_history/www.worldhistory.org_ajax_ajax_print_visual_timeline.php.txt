@@ -1,3 +1,0 @@
-SOURCE: https://www.worldhistory.org/ajax/ajax_print_visual_timeline.php?tag=Vitellius&width=950&height=600
-
-To navigate the timeline, click and drag it with your mouse, or click on the timeline overview on the bottom.

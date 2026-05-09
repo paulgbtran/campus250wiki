@@ -12,6 +12,6 @@ An agentic AI system that gathers, learns, and present Philadelphia's 250 years 
 - Google Street View for locations/landmarks.
 
 ## Who's working?
-- Paul Tran
-- Victory Kelechi-Nwaogu
-- MyrrhJessica Okwara
+- Paul Gia-Bảo Trần (searching agent, works cited agent, summarizing agent)
+- Victory Kelechi-Nwaogu (fact-checking agent)
+- MyrrhJessica Okwara (web template agent, interactive element design)

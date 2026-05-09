@@ -1,9 +1,0 @@
-SOURCE: https://link.worldhistory.org/pinterest_fr
-
-uses
-            cookies to improve user experience, analyse web traffic and show the
-            most useful ads. For these reasons, they share information about
-            your use of their links with their trusted advertising and analytics
-            partners.
-By clicking "Accept Cookies" you consent to the storing of first-
-            and third-party cookies on your device.
