@@ -1,4 +1,4 @@
-# campus250wiki
+# HistoryVerse Philadelphia
 
 ## Project overview
 An agentic AI system that gathers, learns, and present Philadelphia's 250 years of history interactively. The process of gathering, learning, presenting, and documenting Philadelphia will be fully automated in predefined intervals.
