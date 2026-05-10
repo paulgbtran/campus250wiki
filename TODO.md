@@ -41,7 +41,7 @@
         - References
 
 ## Sources
-- [ ] Add a list of credible sources to find (e.g. Brittanica, Wikipedia, etc.).
+- [ ] Add a list of credible sources to find (e.g. Brittanica, etc.).
 - [ ] Make sure `synthesizeData.py` uses these sources.
 
 ## Content
