@@ -15,3 +15,14 @@ An agentic AI system that gathers, learns, and present Philadelphia's 250 years 
 - Paul Gia-Bảo Trần (searching agent, works cited agent, summarizing agent)
 - Victory Kelechi-Nwaogu (fact-checking agent)
 - MyrrhJessica Okwara (web template agent, interactive element design)
+
+## [Some additional tasks to consider doing](TODO.md)
+
+## Notes
+- I have gitignored folders created on execution of the scripts, just so the repo doesn't look too messy. For a list of what's ignored, see [.gitignore](.gitignore).
+
+## Disclaimer
+I'm lazy, so...
+1. I'm relying on AI to do most of the work (shoutout to [Google Antigravity](https://antigravity.google/)! :D)
+2. I'm not expecting something too flashy out of this, and 
+3. Even though this is said to be for the 250th anniversary, I'm only aiming for La Salle's open day or something in October, so no worries if we miss the July mark.
