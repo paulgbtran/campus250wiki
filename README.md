@@ -22,6 +22,7 @@ An agentic AI system that gathers, learns, and present Philadelphia's 250 years 
 
 ## Notes
 - I have gitignored folders created on execution of the scripts, just so the repo doesn't look too messy. For a list of what's ignored, see [.gitignore](.gitignore).
+- For the time being, the scripts rely on having a Gemini API key set as a local variable in my machine. For instructions on how to set it up, see [this documentation](https://ai.google.dev/gemini-api/docs/api-key#set-api-env-var).
 
 ## Disclaimer
 I'm lazy, so...
