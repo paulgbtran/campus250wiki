@@ -1,0 +1,25 @@
+# List of acceptable sources to be used for all topics.
+# Add only legitimate, authoritative, or news sources (e.g., .edu, .gov, .org non-profits, major encyclopedias).
+# Each line should contain only the URL for that source only. Do not include duplicate sources.
+# Each entry should be on its own line.
+
+https://www.britannica.com/
+https://www.nps.gov/
+https://www.ushistory.org/
+https://philadelphiaencyclopedia.org/
+https://hsp.org/
+https://www.phila.gov/
+https://www.archives.gov/
+https://www.phmc.pa.gov/
+https://www.upenn.edu/
+https://www.temple.edu/
+https://www.inquirer.com/
+https://www.amrevmuseum.org/
+https://constitutioncenter.org/
+https://www.aampmuseum.org/
+https://phillyseaport.org/
+https://www.penn.museum/
+https://muttermuseum.org/
+https://www.easternstate.org/
+https://www.preservationalliance.com/
+https://whyy.org/

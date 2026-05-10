@@ -1,74 +1,125 @@
 #!/usr/bin/env python3
-import os
-import sys
+"""
+search.py
+Find sources for topics in topics.txt.
+
+This script takes each entry from the classified topic list and searches
+for article URLs related to that entry, restricting results to the
+approved domains listed in sources.list. Results are written to
+data/search/<topic>.txt.
+"""
 import time
-import urllib.request
 from pathlib import Path
+from urllib.parse import urlparse
 
 from google import genai
 from google.genai import types
 
 import classifier
 
-"""
-search.py
-Find sources for topics in topics.txt.
-
-This script takes each entry from classified list entries and
-searches for sources related to each entry, then outputting
-the sources found in a text file containing all online locations
-related to each entry.
-"""
-
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 MODEL = "gemini-2.5-flash"
+SOURCES_LIST = Path(__file__).parent / "sources.list"
 
-PROMPT_TEMPLATE = (
-    "Find credible online sources for the following Philadelphia history topic: {topic}. "
-    "Return only a list of URLs, one per line, with no additional commentary."
-)
+PROMPT_TEMPLATE = """\
+Find credible online sources specifically about the Philadelphia history topic: "{topic}".
 
-def searchTopic(topic: str): 
-    # Resolve API key
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        sys.exit(
-            "Error: GEMINI_API_KEY environment variable is not set.\n"
-            "Set it with:  export GEMINI_API_KEY='your-key-here'  (Linux/macOS)\n"
-            "              set GEMINI_API_KEY=your-key-here        (Windows CMD)\n"
-            "              $env:GEMINI_API_KEY='your-key-here'     (PowerShell)"
-        )
+Only return URLs from the following approved websites:
+{approved_domains}
 
-    # Initialize the Gemini client
-    client = genai.Client(api_key=api_key)
+Return ONLY a plain list of full article or page URLs (one per line). \
+No commentary, no bullet points, no numbering, no markdown.
+"""
 
-    print(f"Querying {MODEL} for {topic}...")
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+def loadApprovedDomains() -> list[str]:
+    """
+    Reads sources.list and returns a list of approved base URLs
+    (skipping comment lines and blank lines).
+    """
+    if not SOURCES_LIST.exists():
+        print(f"Warning: {SOURCES_LIST} not found. Searches will not be domain-filtered.")
+        return []
+    domains = []
+    for line in SOURCES_LIST.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            domains.append(line)
+    return domains
+
+def parseUrls(text: str) -> list[str]:
+    """Extracts valid-looking URLs from a block of model output text."""
+    urls = []
+    for line in text.splitlines():
+        line = line.strip().lstrip("-•* \t")
+        if line.startswith("http://") or line.startswith("https://"):
+            urls.append(line)
+    return urls
+
+def isApprovedDomain(url: str, approved_domains: list[str]) -> bool:
+    """Returns True if the URL's domain matches any approved domain."""
+    netloc = urlparse(url).netloc.lower()
+    for base in approved_domains:
+        approved_netloc = urlparse(base).netloc.lower()
+        if netloc == approved_netloc or netloc.endswith("." + approved_netloc):
+            return True
+    return False
+
+# ---------------------------------------------------------------------------
+# Core logic
+# ---------------------------------------------------------------------------
+
+def searchTopic(topic: str, client: genai.Client, approved_domains: list[str]) -> None:
+    """
+    Queries Gemini for article URLs about a topic restricted to approved
+    domains, then writes the filtered results to data/search/<topic>.txt.
+    """
+    print(f"Searching for: {topic}...")
+
+    domain_list = "\n".join(f"  - {d}" for d in approved_domains) if approved_domains else "  (any credible source)"
+    prompt = PROMPT_TEMPLATE.format(topic=topic, approved_domains=domain_list)
 
     response = client.models.generate_content(
         model=MODEL,
-        contents=PROMPT_TEMPLATE.format(topic=topic),
+        contents=prompt,
         config=types.GenerateContentConfig(
-            temperature=0.4,          # lower temperature for factual output
-            max_output_tokens=8192,   # allow a long list
+            temperature=0.2,        # low temp for factual URL output
+            max_output_tokens=8192,
         ),
     )
 
-    # Ensure output directory exists, then write search results
+    # Post-filter: keep only URLs from approved domains
+    candidates = parseUrls(response.text)
+    if approved_domains:
+        filtered = [url for url in candidates if isApprovedDomain(url, approved_domains)]
+        rejected = len(candidates) - len(filtered)
+        if rejected:
+            print(f"  Filtered out {rejected} URL(s) not in sources.list")
+    else:
+        filtered = candidates
+
     output_path = Path("data/search") / f"{topic}.txt"
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(response.text, encoding="utf-8")
+    output_path.write_text("\n".join(filtered), encoding="utf-8")
+    print(f"  Saved {len(filtered)} URL(s) -> {output_path}")
+
+# ---------------------------------------------------------------------------
+# Entry point
+# ---------------------------------------------------------------------------
 
 def main() -> None:
-    # Populates entries list with topics from topics.txt
+    client = genai.Client()
+    approved_domains = loadApprovedDomains()
     entries = classifier.parse()
-    # Loops through each entry, searching for sources
-    for entry in entries:
-        searchTopic(entry.name)
-        # Prevents waiting after the last entry
-        if entry != entries[-1]:
-            time.sleep(12)
+
+    for i, entry in enumerate(entries):
+        searchTopic(entry.name, client, approved_domains)
+
     print("All searches complete.")
 
 if __name__ == "__main__":

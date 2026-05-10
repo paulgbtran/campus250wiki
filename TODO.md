@@ -7,35 +7,42 @@
 ## Format
 - [ ] Have `synthesizeData.py` make the synthesized data look like a Wikipedia article.
     - [ ] Sample structure for historical figures:
-        - {{Infobox}}
-        - {{Lead section}}
-        - {{Early life and education}}
-        - {{Career}}
-        - {{Personal life}}
-        - {{Legacy}}
-        - {{See also}}
-        - {{References}}
+        - Infobox
+        - Lead section
+        - Early life and education
+        - Career
+        - Personal life
+        - Legacy
+        - See also
+        - References
     - [ ] Sample structure for landmarks:
-        - {{Infobox}}
-        - {{Lead section}}
-        - {{History}}
-        - {{Architecture}}
-        - {{Cultural significance}}
-        - {{See also}}
-        - {{References}}
+        - Infobox
+        - Lead section
+        - History
+        - Architecture
+        - Cultural significance
+        - See also
+        - References
     - [ ] Sample structure for events:
-        - {{Infobox}}
-        - {{Lead section}}
-        - {{Background}}
-        - {{Course of events}}
-        - {{Aftermath}}
-        - {{See also}}
-        - {{References}}
+        - Infobox
+        - Lead section
+        - Background
+        - Course of events
+        - Aftermath
+        - See also
+        - References
     - [ ] Sample structure for cultural narratives:
-        - {{Infobox}}
-        - {{Lead section}}
-        - {{Origins}}
-        - {{Development}}
-        - {{Impact}}
-        - {{See also}}
-        - {{References}}
+        - Infobox
+        - Lead section
+        - Origins
+        - Development
+        - Impact
+        - See also
+        - References
+
+## Sources
+- [ ] Add a list of credible sources to find (e.g. Brittanica, Wikipedia, etc.).
+- [ ] Make sure `synthesizeData.py` uses these sources.
+
+## Content
+- [ ] Make sure synthesized data has basic information in the infobox (name, date, location, etc.)

@@ -21,14 +21,88 @@ from google.genai import types
 # ---------------------------------------------------------------------------
 MODEL = "gemini-2.5-flash"
 
-PROMPT_TEMPLATE = (
-    "Create a comprehensive entry for the Philadelphia history topic: {topic}. "
-    "Use the following information to create the entry:\n\n{info}\n\n"
-)
+# Wikipedia-style section structures per category (mirrors TODO.md)
+SECTION_STRUCTURES: dict[str, list[str]] = {
+    "historical figure": [
+        "Infobox",
+        "Lead section",
+        "Early life and education",
+        "Career",
+        "Personal life",
+        "Legacy",
+        "See also",
+        "References",
+    ],
+    "landmark": [
+        "Infobox",
+        "Lead section",
+        "History",
+        "Architecture",
+        "Cultural significance",
+        "See also",
+        "References",
+    ],
+    "event": [
+        "Infobox",
+        "Lead section",
+        "Background",
+        "Course of events",
+        "Aftermath",
+        "See also",
+        "References",
+    ],
+    "cultural narrative": [
+        "Infobox",
+        "Lead section",
+        "Origins",
+        "Development",
+        "Impact",
+        "See also",
+        "References",
+    ],
+}
+
+PROMPT_TEMPLATE = """\
+Create a comprehensive Wikipedia-style entry for the Philadelphia history topic: {topic}.
+
+The topic belongs to the category: {category}.
+
+Structure the entry using the following sections in order:
+{sections}
+
+Guidelines:
+- Write in an encyclopedic, neutral tone similar to Wikipedia.
+- The Infobox should be a concise summary table of key facts (name, dates, location, etc.).
+- The Lead section should be a brief, standalone summary of the topic (2-4 sentences).
+- Fill each subsequent section with detailed, well-organized prose.
+- The "See also" section should list related Philadelphia history topics as a bullet list.
+- The "References" section should list the sources used, formatted as a numbered list with URLs.
+
+Use the following source material to write the entry:
+
+{info}
+"""
 
 # ---------------------------------------------------------------------------
 # Helper Functions
 # ---------------------------------------------------------------------------
+
+def loadCategory(topic: str) -> str:
+    """
+    Looks up the category of a topic from data/topics.txt.
+    Returns the category string, or 'unknown' if not found.
+    """
+    try:
+        with open("data/topics.txt", "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if "; " in line:
+                    name, category = line.rsplit("; ", 1)
+                    if name.strip().lower() == topic.strip().lower():
+                        return category.strip().lower()
+    except FileNotFoundError:
+        pass
+    return "unknown"
 
 def loadLinks(topic: str) -> list[str]:
     """
@@ -62,10 +136,21 @@ def synthesizeData(topic: str) -> None:
     Synthesizes the data for a given topic.
     """
     info = loadInfo(topic)
+    category = loadCategory(topic)
+    sections = SECTION_STRUCTURES.get(category, SECTION_STRUCTURES["historical figure"])
+    sections_text = "\n".join(f"  {i+1}. {s}" for i, s in enumerate(sections))
+
+    prompt = PROMPT_TEMPLATE.format(
+        topic=topic,
+        category=category if category != "unknown" else "general Philadelphia history",
+        sections=sections_text,
+        info="\n".join(info),
+    )
+
     client = genai.Client()
     response = client.models.generate_content(
         model=MODEL,
-        contents=PROMPT_TEMPLATE.format(topic=topic, info="\n".join(info)),
+        contents=prompt,
     )
     print(f"Successfully synthesized {topic}. Writing to file...") # DEBUG
     os.makedirs("data/entries", exist_ok=True)
