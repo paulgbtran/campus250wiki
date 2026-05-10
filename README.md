@@ -17,12 +17,16 @@ An agentic AI system that gathers, learns, and present Philadelphia's 250 years 
 - Tentative assignments, meeting required:
     - Victory Kelechi-Nwaogu (fact-checking agent)
     - MyrrhJessica Okwara (web template agent, interactive element design)
+    - Siriman Singare (still wondering what he'd be able to do)
 
 ## [Some additional tasks to consider doing](TODO.md)
 
 ## Notes
 - I have gitignored folders created on execution of the scripts, just so the repo doesn't look too messy. For a list of what's ignored, see [.gitignore](.gitignore).
 - For the time being, the scripts rely on having a Gemini API key set as a local variable in my machine. For instructions on how to set it up, see [this documentation](https://ai.google.dev/gemini-api/docs/api-key#set-api-env-var).
+- More AIs coming soon for different tasks along the chain. Any ideas are welcome! (I'm thinking of a "data cleaner" AI to clean up the data, a "fact-checker" AI to fact-check the data, and a "web template" AI to create the web template.)
+- Some helpful resources. This will be added as we progress further.
+    - [620 - Agentic AI and Frameworks](plans/620%20-%20Agentic%20AI%20and%20Frameworks.pdf)
 
 ## Disclaimer
 I'm lazy, so...
