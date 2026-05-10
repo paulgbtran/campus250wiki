@@ -26,6 +26,10 @@ PROMPT_TEMPLATE = (
     "Use the following information to create the entry:\n\n{info}\n\n"
 )
 
+# ---------------------------------------------------------------------------
+# Helper Functions
+# ---------------------------------------------------------------------------
+
 def loadLinks(topic: str) -> list[str]:
     """
     Loads the URLs for a given topic from the search directory.
@@ -37,15 +41,21 @@ def loadInfo(topic: str) -> list[str]:
     """
     Loads the information for a given topic from the search directory.
     """
+    http = urllib3.PoolManager()
     info = []
     for url in loadLinks(topic):
         try:
-            response = urllib3.request.urlopen(url)
-            info.append(response.read().decode("utf-8"))
+            response = http.request("GET", url)
+            info.append(response.data.decode("utf-8"))
+            print(f"Successfully loaded {url}. Reading...") # DEBUG
         except Exception as e:
             print(f"Error loading {url}: {e}")
             continue
     return info
+
+# ---------------------------------------------------------------------------
+# Main 
+# ---------------------------------------------------------------------------
 
 def synthesizeData(topic: str) -> None:
     """
@@ -57,6 +67,8 @@ def synthesizeData(topic: str) -> None:
         model=MODEL,
         contents=PROMPT_TEMPLATE.format(topic=topic, info="\n".join(info)),
     )
+    print(f"Successfully synthesized {topic}. Writing to file...") # DEBUG
+    os.makedirs("data/entries", exist_ok=True)
     with open(f"data/entries/{topic}.txt", "w", encoding="utf-8") as f:
         f.write(response.text)
 
@@ -64,3 +76,6 @@ def main() -> None:
     for topic in os.listdir("data/search"):
         if topic.endswith(".txt"):
             synthesizeData(topic[:-4])
+
+if __name__ == "__main__":
+    main()
