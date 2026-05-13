@@ -1,12 +1,12 @@
 # TODO
-
-## Updates
+## Paul's tasks
+### Updates
 - [ ] Make sure `data/entries/{topics}.txt` updates only when there are significant changes *(Definition of "significant" needed)*.
 - [ ] Make sure all Python scripts add to existing files instead of overwriting them, and if possible, make changes only when there are significant changes *(Again, definition of "significant" needed)*.
 
-## Format
-- [ ] Have `synthesizeData.py` make the synthesized data look like a Wikipedia article.
-    - [ ] Sample structure for historical figures:
+### Format
+- [x] Have `synthesizeData.py` make the synthesized data look like a Wikipedia article.
+    - [x] Sample structure for historical figures:
         - Infobox
         - Lead section
         - Early life and education
@@ -15,7 +15,7 @@
         - Legacy
         - See also
         - References
-    - [ ] Sample structure for landmarks:
+    - [x] Sample structure for landmarks:
         - Infobox
         - Lead section
         - History
@@ -23,7 +23,7 @@
         - Cultural significance
         - See also
         - References
-    - [ ] Sample structure for events:
+    - [x] Sample structure for events:
         - Infobox
         - Lead section
         - Background
@@ -31,7 +31,7 @@
         - Aftermath
         - See also
         - References
-    - [ ] Sample structure for cultural narratives:
+    - [x] Sample structure for cultural narratives:
         - Infobox
         - Lead section
         - Origins
@@ -40,9 +40,17 @@
         - See also
         - References
 
-## Sources
-- [ ] Add a list of credible sources to find (e.g. Brittanica, etc.).
-- [ ] Make sure `synthesizeData.py` uses these sources.
+### Sources
+- [x] Add a list of credible sources to find (e.g. Brittanica, Library of Congress, etc.).
+- [x] Make sure `synthesizeData.py` uses these sources.
 
-## Content
-- [ ] Make sure synthesized data has basic information in the infobox (name, date, location, etc.)
+### Content
+- [x] Make sure synthesized data has basic information in the infobox (name, date, location, etc.)
+
+## Victory's tasks
+### Validating agent
+- [ ] Make a script that validates the synthesized data to ensure it is accurate and comprehensive.
+- [ ] Make sure the script checks for significant content changes in the synthesized data before updating it.
+
+## MyrrhJessica's tasks
+- [ ] Flesh out the template from webSample/sample.html with the appropriate content.

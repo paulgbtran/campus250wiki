@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 topics.py
+Author: Paul Tran   <tranb9@lasalle.edu>
+                    <paulgbtran@gmail.com>
 Generate a list of Philadelphia-related historical topics.
 
 Queries Google Gemini to list historical figures, landmarks, events, and

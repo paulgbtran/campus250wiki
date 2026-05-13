@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 search.py
+Author: Paul Tran   <tranb9@lasalle.edu>
+                    <paulgbtran@gmail.com>
 Find sources for topics in topics.txt.
 
 This script takes each entry from the classified topic list and searches
@@ -103,10 +105,21 @@ def searchTopic(topic: str, client: genai.Client, approved_domains: list[str]) -
     else:
         filtered = candidates
 
-    output_path = Path("data/search") / f"{topic}.txt"
+    output_path = Path("../data/search") / f"{topic}.txt"
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text("\n".join(filtered), encoding="utf-8")
-    print(f"  Saved {len(filtered)} URL(s) -> {output_path}")
+
+    # Load existing URLs to avoid overwriting previously found sources
+    existing: list[str] = []
+    if output_path.exists():
+        existing = [u for u in output_path.read_text(encoding="utf-8").splitlines() if u.strip()]
+
+    # Merge, preserving order and deduplicating
+    seen = set(existing)
+    new_urls = [u for u in filtered if u not in seen]
+    combined = existing + new_urls
+
+    output_path.write_text("\n".join(combined), encoding="utf-8")
+    print(f"  Saved {len(combined)} URL(s) ({len(new_urls)} new) -> {output_path}")
 
 # ---------------------------------------------------------------------------
 # Entry point

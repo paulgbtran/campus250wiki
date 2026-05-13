@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 sources.py
+Author: Paul Tran   <tranb9@lasalle.edu>
+                    <paulgbtran@gmail.com>
 Finds credible websites for Philadelphia history research and appends
 them to sources.list. This list is used by search.py to restrict
 article-level searches to approved domains.

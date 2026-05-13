@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
 synthesizeData.py
+Author: Paul Tran   <tranb9@lasalle.edu>
+                    <paulgbtran@gmail.com>
 Synthesizes the data for the Campus 250 wiki.
 
 Gathers info from each of the URLs found in data/search/<topic>.txt,
@@ -72,7 +74,7 @@ Structure the entry using the following sections in order:
 
 Guidelines:
 - Write in an encyclopedic, neutral tone similar to Wikipedia.
-- The Infobox should be a concise summary table of key facts (name, dates, location, etc.).
+- The Infobox should be a concise summary table of key facts (name, dates, location, etc.). Infobox content must not be blank.
 - The Lead section should be a brief, standalone summary of the topic (2-4 sentences).
 - Fill each subsequent section with detailed, well-organized prose.
 - The "See also" section should list related Philadelphia history topics as a bullet list.
@@ -93,7 +95,7 @@ def loadCategory(topic: str) -> str:
     Returns the category string, or 'unknown' if not found.
     """
     try:
-        with open("data/topics.txt", "r", encoding="utf-8") as f:
+        with open("../data/topics.txt", "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if "; " in line:
@@ -108,7 +110,7 @@ def loadLinks(topic: str) -> list[str]:
     """
     Loads the URLs for a given topic from the search directory.
     """
-    with open(f"data/search/{topic}.txt", "r", encoding="utf-8") as f:
+    with open(f"../data/search/{topic}.txt", "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
 def loadInfo(topic: str) -> list[str]:
@@ -153,12 +155,12 @@ def synthesizeData(topic: str) -> None:
         contents=prompt,
     )
     print(f"Successfully synthesized {topic}. Writing to file...") # DEBUG
-    os.makedirs("data/entries", exist_ok=True)
-    with open(f"data/entries/{topic}.txt", "w", encoding="utf-8") as f:
+    os.makedirs("../data/entries", exist_ok=True)
+    with open(f"../data/entries/{topic}.txt", "w", encoding="utf-8") as f:
         f.write(response.text)
 
 def main() -> None:
-    for topic in os.listdir("data/search"):
+    for topic in os.listdir("../data/search"):
         if topic.endswith(".txt"):
             synthesizeData(topic[:-4])
 
