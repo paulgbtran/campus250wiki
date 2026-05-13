@@ -32,4 +32,4 @@ An agentic AI system that gathers, learns, and present Philadelphia's 250 years 
 I'm lazy, so...
 1. I'm relying on AI to do most of the work (shoutout to [Google Antigravity](https://antigravity.google/)! :D)
 2. I'm not expecting something too flashy out of this, and 
-3. Even though this is said to be for the 250th anniversary, I'm only aiming for La Salle's open day or something in October, so no worries if we miss the July mark.
+3. Even though this is said to be for the 250th anniversary, I'm only aiming for La Salle STEM Day in October, so no big deal if we miss the July mark (nah I'll still have a problem with that).
