@@ -19,7 +19,7 @@ An agentic AI system that gathers, learns, and present Philadelphia's 250 years 
     - MyrrhJessica Okwara (web template agent, interactive element design)
     - Siriman Singare (still wondering what he'd be able to do)
 
-## [Some additional tasks to consider doing](TODO.md)
+## [Some additional tasks to consider doing](TASK_ASSIGNMENT.md)
 
 ## Notes
 - I have gitignored folders created on execution of the scripts, just so the repo doesn't look too messy. For a list of what's ignored, see [.gitignore](.gitignore).

@@ -1,11 +1,11 @@
-# Paul
+# Paul ([Todo](script_search/.TODO.md))
 - Build a working agent to search and synthesize data.
     - Due date: 5/31/2026
-# MyrrhJessica
+# MyrrhJessica ([Todo](script_web/.TODO.md))
 - Build a working script to load synthesize data into HTML templates.
     - HTML template + synthesized data = working webpage
     - Due date: TBA
 
-# Victory
+# Victory ([Todo](script_factcheck/.TODO.md))
 - Build a factchecking agent to check and correct synthesized data.
     - Due date: TBA
