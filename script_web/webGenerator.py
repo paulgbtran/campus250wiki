@@ -15,8 +15,9 @@ from pathlib import Path
 
 def loadTemplate() -> str:
     """Returns the template HTML for a webpage."""
-    script = "content from the "
-
+    with open("web/template.html", "r") as file:
+        script = file.read()
+    print(script)
     return script
 
 def clearTemplate() -> str:
@@ -28,4 +29,10 @@ def clearTemplate() -> str:
 
 def insertDataIntoTemplate(template: str, data: dict[str, str]) -> str:
     """Inserts the synthesized data into the template."""
+    script = ""
     
+
+    return script
+    
+if __name__ == "__main__":
+    loadTemplate()
