@@ -1,2 +1,2 @@
-data/
+# data/ # Output files
 scripts/__pycache__/

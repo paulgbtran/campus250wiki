@@ -1,0 +1,183 @@
+William Penn; Historical Figure
+Benjamin Franklin; Historical Figure
+George Washington; Historical Figure
+Thomas Jefferson; Historical Figure
+John Adams; Historical Figure
+Betsy Ross; Historical Figure
+Robert Morris; Historical Figure
+Thomas Paine; Historical Figure
+Richard Allen; Historical Figure
+Absalom Jones; Historical Figure
+Stephen Girard; Historical Figure
+Lucretia Mott; Historical Figure
+Edgar Allan Poe; Historical Figure
+Walt Whitman; Historical Figure
+John Wanamaker; Historical Figure
+W.E.B. Du Bois; Historical Figure
+Marian Anderson; Historical Figure
+Connie Mack; Historical Figure
+Frank Rizzo; Historical Figure
+Grace Kelly; Historical Figure
+Dr. J (Julius Erving); Historical Figure
+Will Smith; Historical Figure
+Questlove; Historical Figure
+Independence Hall; Landmark
+Liberty Bell; Landmark
+Christ Church; Landmark
+Carpenters' Hall; Landmark
+Betsy Ross House; Landmark
+Elfreth's Alley; Landmark
+Pennsylvania Hospital; Landmark
+First Bank of the United States; Landmark
+Second Bank of the United States; Landmark
+Eastern State Penitentiary; Landmark
+Fairmount Water Works; Landmark
+Laurel Hill Cemetery; Landmark
+Philadelphia City Hall; Landmark
+Reading Terminal Market; Landmark
+Philadelphia Museum of Art; Landmark
+Rodin Museum; Landmark
+Barnes Foundation; Landmark
+Franklin Institute; Landmark
+Boathouse Row; Landmark
+30th Street Station; Landmark
+National Constitution Center; Landmark
+Penn's Landing; Landmark
+Citizens Bank Park; Landmark
+Lincoln Financial Field; Landmark
+Wells Fargo Center; Landmark
+Comcast Center; Landmark
+Fairmount Park; Landmark
+Gloria Dei (Old Swedes') Church; Landmark
+Penn Treaty Park; Landmark
+City Tavern; Landmark
+Academy of Music; Landmark
+Founding of Philadelphia (1682); Event
+First Continental Congress (1774); Event
+Second Continental Congress (1775); Event
+Declaration of Independence (1776); Event
+British Occupation of Philadelphia (1777-1778); Event
+Constitutional Convention of 1787; Event
+Philadelphia as U.S. Capital (1790-1800); Event
+Yellow Fever Epidemic of 1793; Event
+Founding of the African Methodist Episcopal Church (1794); Event
+Anti-Catholic Riots of 1844; Event
+Consolidation Act of 1854; Event
+Centennial Exposition of 1876; Event
+The Great Migration's impact on Philadelphia; Event
+MOVE Bombing (1985); Event
+Live Aid concert (1985); Event
+One Liberty Place breaking the "gentlemen's agreement"; Event
+Philadelphia Eagles Super Bowl LII victory (2018); Event
+The "Holy Experiment" of William Penn; Cultural Narrative
+Philadelphia as the "Birthplace of American Democracy"; Cultural Narrative
+Quaker influence on Philadelphia; Cultural Narrative
+The Enlightenment in Philadelphia; Cultural Narrative
+Philadelphia's role in the Abolitionist Movement; Cultural Narrative
+Philadelphia as the "Workshop of the World"; Cultural Narrative
+Nativism and immigration in 19th-century Philadelphia; Cultural Narrative
+The rise of the Philadelphia political machine; Cultural Narrative
+"Corrupt and Contented" Philadelphia (Lincoln Steffens); Cultural Narrative
+Post-industrial decline and revitalization efforts; Cultural Narrative
+The "Philadelphia Renaissance" (urban revitalization); Cultural Narrative
+Philadelphia's cheesesteak culture; Cultural Narrative
+The Mummers Parade tradition; Cultural Narrative
+"Rocky" as a symbol of Philadelphia; Cultural Narrative
+Philadelphia as a major medical and educational hub; Cultural Narrative
+Philadelphia's sports fanaticism; Cultural Narrative
+James Logan; Historical Figure
+David Rittenhouse; Historical Figure
+Dr. Benjamin Rush; Historical Figure
+Charles Willson Peale; Historical Figure
+James Forten; Historical Figure
+William Still; Historical Figure
+Octavius Catto; Historical Figure
+Thomas Eakins; Historical Figure
+Louis Kahn; Historical Figure
+Albert C. Barnes; Historical Figure
+Kenny Gamble and Leon Huff; Historical Figure
+Joe Frazier; Historical Figure
+Wilson Goode; Historical Figure
+Allen Iverson; Historical Figure
+Dick Clark; Historical Figure
+Cecil B. Moore; Historical Figure
+Noam Chomsky; Historical Figure
+Sonia Sanchez; Historical Figure
+Jerry Pinkney; Historical Figure
+Robert Venturi; Historical Figure
+Denise Scott Brown; Historical Figure
+Andrew Wyeth; Historical Figure
+N.C. Wyeth; Historical Figure
+Alexander Calder; Historical Figure
+Mary Cassatt; Historical Figure
+Patti LaBelle; Historical Figure
+Boyz II Men; Historical Figure
+M. Night Shyamalan; Historical Figure
+Kevin Hart; Historical Figure
+Tina Fey; Historical Figure
+Bradley Cooper; Historical Figure
+Congress Hall; Landmark
+Old City Hall; Landmark
+Philosophical Hall; Landmark
+Library Company of Philadelphia; Landmark
+Powel House; Landmark
+Graff House; Landmark
+St. Peter's Church; Landmark
+Mikveh Israel Synagogue; Landmark
+Wanamaker Building; Landmark
+Union League of Philadelphia; Landmark
+Philadelphia Zoo; Landmark
+Mütter Museum; Landmark
+Shofuso Japanese House and Garden; Landmark
+Pennsylvania Academy of the Fine Arts; Landmark
+Masonic Temple; Landmark
+Merchants' Exchange Building; Landmark
+PSFS Building; Landmark
+Kimmel Center for the Performing Arts; Landmark
+Philadelphia Magic Gardens; Landmark
+Dilworth Park; Landmark
+Love Park; Landmark
+Rocky Steps; Landmark
+University of Pennsylvania; Landmark
+Drexel University; Landmark
+Temple University; Landmark
+Curtis Institute of Music; Landmark
+The Met Philadelphia; Landmark
+Stamp Act Congress (1765); Event
+Battle of Germantown (1777); Event
+Winter Encampment at Valley Forge (1777-1778); Event
+First U.S. Mint established in Philadelphia (1792); Event
+Whiskey Rebellion's federal response from Philadelphia (1794); Event
+Philadelphia General Strike of 1835; Event
+Founding of the University of Pennsylvania (1740); Event
+Founding of the Philadelphia Orchestra (1900); Event
+Philadelphia Athletics World Series victories (early 20th century); Event
+American Bandstand's national broadcast debut (1957); Event
+Philadelphia Race Riots of 1964; Event
+Bicentennial Celebration in Philadelphia (1976); Event
+Philadelphia Phillies World Series victory (1980); Event
+Papal Visit of John Paul II (1979); Event
+Philadelphia Phillies World Series victory (2008); Event
+Occupy Philadelphia (2011); Event
+Papal Visit of Pope Francis (2015); Event
+Democratic National Convention in Philadelphia (2016); Event
+Republican National Convention in Philadelphia (2000); Event
+Founding of Drexel University (1891); Event
+Founding of Temple University (1884); Event
+Philadelphia Folk Festival (first held 1962); Event
+Philadelphia Marathon (first held 1954); Event
+Broad Street Run (first held 1980); Event
+Philadelphia's role in the early American scientific revolution; Cultural Narrative
+Philadelphia as a hub for early American publishing; Cultural Narrative
+Philadelphia's significance in the Underground Railroad; Cultural Narrative
+The "Green Country Town" vision and its evolution; Cultural Narrative
+The "Philadelphia Sound" (1970s soul music); Cultural Narrative
+Philadelphia's reputation as a "City of Neighborhoods"; Cultural Narrative
+The mural arts movement in Philadelphia; Cultural Narrative
+Philadelphia's culinary renaissance (beyond traditional fare); Cultural Narrative
+Philadelphia's growing tech and startup ecosystem; Cultural Narrative
+The "Philadelphia Lawyer" archetype; Cultural Narrative
+Philadelphia's role in the LGBTQ+ rights movement; Cultural Narrative
+The impact of urban renewal on Philadelphia's landscape; Cultural Narrative
+Philadelphia's status as a major medical research center; Cultural Narrative
+The development of Philadelphia as an early center for American art; Cultural Narrative
