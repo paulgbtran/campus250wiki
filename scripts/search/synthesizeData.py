@@ -14,6 +14,7 @@ import os
 import sys
 import time
 from pathlib import Path
+rootDir = Path(__file__).parent.parent.parent
 
 from google import genai
 from google.genai import types
@@ -95,7 +96,7 @@ def loadCategory(topic: str) -> str:
     Returns the category string, or 'unknown' if not found.
     """
     try:
-        with open("../data/topics.txt", "r", encoding="utf-8") as f:
+        with open(rootDir / "data" / "topics.txt", "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if "; " in line:
@@ -110,7 +111,7 @@ def loadLinks(topic: str) -> list[str]:
     """
     Loads the URLs for a given topic from the search directory.
     """
-    with open(f"../data/search/{topic}.txt", "r", encoding="utf-8") as f:
+    with open(rootDir / "data" / "search" / f"{topic}.txt", "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip()]
 
 def loadInfo(topic: str) -> list[str]:
@@ -155,12 +156,12 @@ def synthesizeData(topic: str) -> None:
         contents=prompt,
     )
     print(f"Successfully synthesized {topic}. Writing to file...") # DEBUG
-    os.makedirs("../data/entries", exist_ok=True)
-    with open(f"../data/entries/{topic}.txt", "w", encoding="utf-8") as f:
+    os.makedirs(rootDir / "data" / "entries", exist_ok=True)
+    with open(rootDir / "data" / "entries" / f"{topic}.txt", "w", encoding="utf-8") as f:
         f.write(response.text)
 
 def main() -> None:
-    for topic in os.listdir("../data/search"):
+    for topic in os.listdir(rootDir / "data" / "search"):
         if topic.endswith(".txt"):
             synthesizeData(topic[:-4])
 

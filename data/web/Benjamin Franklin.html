@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project250 - Benjamin Franklin</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lucide/0.321.0/font-awesome.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f8fafc;
+        }
+
+        .hero-gradient {
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+        }
+
+        .sticky-sidebar {
+            position: sticky;
+            top: 2rem;
+            align-self: start;
+        }
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(8px);
+            border: 1px solid rgba(226, 232, 240, 0.8);
+        }
+
+        .nav-item:hover {
+            border-bottom: 2px solid #3b82f6;
+        }
+    </style>
+</head>
+
+<body class="text-slate-800">
+
+    <!-- Header / Navigation -->
+    <header class="bg-white border-b sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+            <div class="flex items-center space-x-2">
+                <span class="text-2xl font-bold text-blue-900">250</span>
+                <span class="font-semibold tracking-tight">Project250</span>
+            </div>
+
+            <nav class="hidden md:flex space-x-6 text-sm font-medium text-slate-600">
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>Explore</span></a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>AI Chat</span></a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>Street View</span></a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1 text-blue-600 border-b-2 border-blue-600">3D
+                    Models</a>
+                <a href="#" class="nav-item pb-1 flex items-center gap-1"><span>Semiquincentennial Hub</span></a>
+            </nav>
+
+            <div class="relative w-64">
+                <input type="text" placeholder="Search 250 years of history..."
+                    class="w-full text-sm border rounded-full py-1.5 px-4 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-blue-500">
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-gradient text-white overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 py-16 flex flex-col md:flex-row items-center">
+            <div class="md:w-1/2 space-y-6 z-10">
+                <h1 class="text-5xl font-bold leading-tight uppercase">Benjamin Franklin</h1>
+                <p class="text-lg text-slate-300 max-w-lg">Benjamin Franklin was a prominent historical figure deeply associated with the city of Philadelphia and the foundational period of the United States. He is recognized for his extensive body of writings, which are collected in scholarly editions such as "The Papers of Benjamin Franklin." Franklin is also remembered for insightful aphorisms, including the notable quote, "Never ruin an apology with an excuse." His significant legacy includes a strong connection to the establishment of the University of Pennsylvania, an institution whose historical roots trace back to 1740.</p>
+                <div class="flex space-x-4">
+                    <button
+                        class="bg-white text-slate-900 px-6 py-2.5 rounded font-semibold hover:bg-slate-100 transition">Read
+                        Article</button>
+                    <button
+                        class="bg-yellow-500 text-slate-900 px-6 py-2.5 rounded font-semibold flex items-center gap-2 hover:bg-yellow-400 transition"><span>Launch
+                            AR</span></button>
+                </div>
+            </div>
+            <div class="md:w-1/2 relative mt-12 md:mt-0">
+                <!-- Representative Image for the 3D model look -->
+                <div class="relative rounded-xl overflow-hidden shadow-2xl scale-150">
+                    <img src="./thumbnail_modified.webp" alt="City Hall" class="w-full opacity-80">
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-900/60 to-transparent"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Content Sections -->
+    <main class="max-w-7xl mx-auto px-4 py-12">
+        <h2 class="text-2xl font-bold mb-8 text-slate-700">CONTENTS</h2>
+
+        <div class="flex flex-col lg:flex-row gap-8">
+            <!-- Left Navigation -->
+            <aside class="lg:w-1/5">
+                <ul class="space-y-1 text-sm text-slate-500">
+                    <li class="bg-slate-200 text-slate-900 p-2 rounded cursor-pointer font-medium"><a href="#lead-section" class="block w-full">Lead section</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#early-life-and-education" class="block w-full">Early life and education</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#career" class="block w-full">Career</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#personal-life" class="block w-full">Personal life</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#legacy" class="block w-full">Legacy</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#see-also" class="block w-full">See also</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#references" class="block w-full">References</a></li>
+                    <li class="hover:bg-slate-100 p-2 rounded cursor-pointer transition"><a href="#works-cited" class="block w-full">Works Cited</a></li>
+                </ul>
+            </aside>
+
+            <!-- Main Article Content -->
+            <article class="lg:w-3/5 space-y-6">
+                <h3 class="text-3xl font-bold">Benjamin Franklin</h3>
+                <div class="flex flex-col md:flex-row gap-4 mb-4">
+                    <img src="./Philadelphia_City_Hall_7.jpg" alt="Old City Hall"
+                        class="w-full md:w-2/3 h-64 object-cover rounded shadow-sm">
+                    <img src="./Philadelphia_city_hall.jpg" alt="Tower View"
+                        class="w-full md:w-1/3 h-64 object-cover rounded shadow-sm">
+                </div>
+
+                <div class="space-y-8">
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="lead-section">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Lead section</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <p class="mb-4 text-slate-600 leading-relaxed">Benjamin Franklin was a prominent historical figure deeply associated with the city of Philadelphia and the foundational period of the United States. He is recognized for his extensive body of writings, which are collected in scholarly editions such as "The Papers of Benjamin Franklin." Franklin is also remembered for insightful aphorisms, including the notable quote, "Never ruin an apology with an excuse." His significant legacy includes a strong connection to the establishment of the University of Pennsylvania, an institution whose historical roots trace back to 1740.</p>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="early-life-and-education">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Early life and education</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <p class="mb-4 text-slate-600 leading-relaxed">Detailed information regarding Benjamin Franklin's early life or formal education is not explicitly provided within the supplied source materials.</p>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="career">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Career</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <p class="mb-4 text-slate-600 leading-relaxed">Specific details concerning Benjamin Franklin's career, including his professional roles, significant achievements, or specific occupations, are not directly outlined in the provided source documents. However, the existence of "The Papers of Benjamin Franklin" suggests a career involving extensive written contributions and public engagement that warranted a dedicated scholarly collection. His memorable quote also implies a significant role in public or intellectual discourse.</p>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="personal-life">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Personal life</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <p class="mb-4 text-slate-600 leading-relaxed">Information pertaining to Benjamin Franklin's personal life, family, or relationships is not available in the provided source material.</p>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="legacy">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Legacy</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <p class="mb-4 text-slate-600 leading-relaxed">Benjamin Franklin's enduring legacy is intrinsically linked to Philadelphia's intellectual and historical landscape. He is strongly associated with the establishment of the University of Pennsylvania, an institution described as "America’s first university," which dates its history back to 1740 and is deeply tied to "the colonial city of Philadelphia and the birth of our nation." His intellectual contributions are substantially documented in "The Papers of Benjamin Franklin," a comprehensive collection sponsored by esteemed institutions such as the American Philosophical Society and Yale University, underscoring his lasting impact on scholarship and historical understanding. Franklin's wisdom continues to resonate through his well-known philosophical statements, such as the admonition, "Never ruin an apology with an excuse." His prominence is also contextualized within broader Philadelphia history, including events leading up to "America 250 Nears," and discussions of "Pennsylvania in 1776," suggesting his critical role in the region's formative years.</p>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="see-also">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">See also</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <ul class="list-disc list-inside space-y-1 mb-4 text-slate-600">
+<li>University of Pennsylvania</li>
+<li>American Philosophical Society</li>
+<li>Historical Society of Pennsylvania</li>
+<li>Constitutional Convention</li>
+<li>Philadelphia</li>
+<li>American Revolution</li>
+</ul>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="references">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">References</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <ol class="list-decimal list-inside space-y-1 mb-4 text-slate-600">
+<li>"The Papers of Benjamin Franklin". The Packard Humanities Institute, sponsored by The American Philosophical Society and Yale University. Available at: <a href="http://www.franklinpapers.org/" class="text-blue-600 hover:underline" target="_blank">http://www.franklinpapers.org/</a></li>
+<li>"Home". Historical Society of Pennsylvania. Available at: <a href="https://hsp.org/" class="text-blue-600 hover:underline" target="_blank">https://hsp.org/</a></li>
+<li>"Page not found (404)". University of Pennsylvania. Content accessed at: <a href="https://www.upenn.edu/about/history/benjamin-franklin" class="text-blue-600 hover:underline" target="_blank">https://www.upenn.edu/about/history/benjamin-franklin</a></li>
+</ol>
+            </div>
+        </div>
+        
+        <div class="mb-12 border-b pb-8 scroll-mt-20" id="works-cited">
+            <h3 class="text-2xl font-bold text-slate-800 mb-4">Works Cited</h3>
+            <div class="text-slate-600 leading-relaxed space-y-4">
+                <ol class="list-decimal list-inside space-y-2 mb-4 text-slate-600">
+<li><a href="https://www.britannica.com/biography/Benjamin-Franklin" class="text-blue-600 hover:underline" target="_blank">https://www.britannica.com/biography/Benjamin-Franklin</a></li>
+<li><a href="https://www.nps.gov/inde/learn/historyculture/people-benjamin-franklin.htm" class="text-blue-600 hover:underline" target="_blank">https://www.nps.gov/inde/learn/historyculture/people-benjamin-franklin.htm</a></li>
+<li><a href="https://www.nps.gov/inde/learn/historyculture/places-franklin-court.htm" class="text-blue-600 hover:underline" target="_blank">https://www.nps.gov/inde/learn/historyculture/places-franklin-court.htm</a></li>
+<li><a href="https://www.ushistory.org/franklin/" class="text-blue-600 hover:underline" target="_blank">https://www.ushistory.org/franklin/</a></li>
+<li><a href="https://www.ushistory.org/franklin/philadelphia.htm" class="text-blue-600 hover:underline" target="_blank">https://www.ushistory.org/franklin/philadelphia.htm</a></li>
+<li><a href="https://philadelphiaencyclopedia.org/archive/franklin-benjamin/" class="text-blue-600 hover:underline" target="_blank">https://philadelphiaencyclopedia.org/archive/franklin-benjamin/</a></li>
+<li><a href="https://hsp.org/blogs/history-resources/benjamin-franklin-and-the-founding-of-the-university-of-pennsylvania" class="text-blue-600 hover:underline" target="_blank">https://hsp.org/blogs/history-resources/benjamin-franklin-and-the-founding-of-the-university-of-pennsylvania</a></li>
+<li><a href="https://hsp.org/blogs/history-resources/benjamin-franklin-and-the-library-company-of-philadelphia" class="text-blue-600 hover:underline" target="_blank">https://hsp.org/blogs/history-resources/benjamin-franklin-and-the-library-company-of-philadelphia</a></li>
+<li><a href="https://www.phila.gov/departments/office-of-the-city-representative/about-philadelphia/history/benjamin-franklin/" class="text-blue-600 hover:underline" target="_blank">https://www.phila.gov/departments/office-of-the-city-representative/about-philadelphia/history/benjamin-franklin/</a></li>
+<li><a href="https://www.archives.gov/founding-docs/founding-fathers-franklin" class="text-blue-600 hover:underline" target="_blank">https://www.archives.gov/founding-docs/founding-fathers-franklin</a></li>
+<li><a href="https://www.phmc.pa.gov/Pages/Benjamin-Franklin.aspx" class="text-blue-600 hover:underline" target="_blank">https://www.phmc.pa.gov/Pages/Benjamin-Franklin.aspx</a></li>
+<li><a href="https://www.upenn.edu/about/history/ben-franklin" class="text-blue-600 hover:underline" target="_blank">https://www.upenn.edu/about/history/ben-franklin</a></li>
+<li><a href="https://www.inquirer.com/news/benjamin-franklin-philadelphia-history-20230117.html" class="text-blue-600 hover:underline" target="_blank">https://www.inquirer.com/news/benjamin-franklin-philadelphia-history-20230117.html</a></li>
+<li><a href="https://www.amrevmuseum.org/collection/benjamin-franklin" class="text-blue-600 hover:underline" target="_blank">https://www.amrevmuseum.org/collection/benjamin-franklin</a></li>
+<li><a href="https://constitutioncenter.org/blog/benjamin-franklin-a-founding-father-of-many-talents" class="text-blue-600 hover:underline" target="_blank">https://constitutioncenter.org/blog/benjamin-franklin-a-founding-father-of-many-talents</a></li>
+<li><a href="https://www.easternstate.org/research/library/history/benjamin-franklin-and-prison-reform" class="text-blue-600 hover:underline" target="_blank">https://www.easternstate.org/research/library/history/benjamin-franklin-and-prison-reform</a></li>
+<li><a href="https://whyy.org/articles/ben-franklin-philadelphia-legacy/" class="text-blue-600 hover:underline" target="_blank">https://whyy.org/articles/ben-franklin-philadelphia-legacy/</a></li>
+</ol>
+            </div>
+        </div>
+        </div>
+
+                <div class="border-t pt-4">
+                    <button class="text-blue-600 text-sm font-medium flex items-center gap-1"><span>Leave a
+                            feedback!</span></button>
+                </div>
+            </article>
+
+            <!-- Sticky Information Sidebar (Right) -->
+            <aside class="lg:w-1/5">
+                <div class="sticky-sidebar glass-card rounded-lg p-5 shadow-sm space-y-4">
+                    <div class="bg-blue-50 -mx-5 -mt-5 p-4 rounded-t-lg border-b mb-4">
+                        <span class="text-xs font-bold text-blue-900 uppercase">Information</span>
+                    </div>
+
+                    <div class="space-y-4 text-sm">
+
+            <div class="flex flex-col border-b pb-2 last:border-0 last:pb-0">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Era</span>
+                <span class="text-sm text-slate-800 mt-0.5">Colonial America, American Revolutionary Era</span>
+            </div>
+            
+            <div class="flex flex-col border-b pb-2 last:border-0 last:pb-0">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Associated with</span>
+                <span class="text-sm text-slate-800 mt-0.5">Philadelphia, Pennsylvania; University of Pennsylvania; American Philosophical Society</span>
+            </div>
+            
+            <div class="flex flex-col border-b pb-2 last:border-0 last:pb-0">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Quote</span>
+                <span class="text-sm text-slate-800 mt-0.5">"Never ruin an apology with an excuse."</span>
+            </div>
+            
+            <div class="flex flex-col border-b pb-2 last:border-0 last:pb-0">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Born</span>
+                <span class="text-sm text-slate-800 mt-0.5">January 17, 1706</span>
+            </div>
+            
+            <div class="flex flex-col border-b pb-2 last:border-0 last:pb-0">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Died</span>
+                <span class="text-sm text-slate-800 mt-0.5">April 17, 1790 (aged 84)</span>
+            </div>
+            
+            <div class="flex flex-col border-b pb-2 last:border-0 last:pb-0">
+                <span class="text-xs text-slate-400 uppercase tracking-wider font-semibold">Occupation</span>
+                <span class="text-sm text-slate-800 mt-0.5">*Information not provided in sources.*</span>
+            </div>
+                            </div>
+                        <div class="flex flex-col"><span class="text-slate-400 font-medium">[##########]</span><span
+                                class="text-slate-800">[##########]</span></div>
+                        <div class="flex flex-col"><span class="text-slate-400 font-medium">[##########]</span><span
+                                class="text-slate-800">[##########]</span></div>
+                        <div class="flex flex-col"><span class="text-slate-400 font-medium">[##########]</span><span
+                                class="text-slate-800">[##########]</span></div>
+                    </div>
+
+                    <div class="flex gap-2 pt-2">
+                        <button
+                            class="flex-1 bg-red-500 text-white py-2 px-3 rounded text-sm font-semibold hover:bg-red-600 transition">Like</button>
+                        <button
+                            class="flex-1 bg-blue-900 text-white py-2 px-3 rounded text-sm font-semibold hover:bg-blue-800 transition">Share</button>
+                    </div>
+                </div>
+            </aside>
+        </div>
+
+        <!-- Interactive Experience Section -->
+        <section class="mt-20">
+            <h2 class="text-2xl font-bold mb-8 text-slate-700">INTERACTIVE EXPERIENCE</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Street View Card -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden border">
+                    <div class="p-4 border-b flex justify-between items-center">
+                        <span class="font-bold text-slate-700">VIEW STREET VIEW</span>
+                        <div class="flex space-x-2">
+                            <span
+                                class="text-xs bg-blue-100 text-blue-800 px-2 py-1 rounded-full font-bold">[##########]</span>
+                            <span
+                                class="text-xs bg-slate-100 text-slate-600 px-2 py-1 rounded-full font-bold">[##########]</span>
+                            <span class="text-xs bg-blue-600 text-white px-2 py-1 rounded-full font-bold">Present
+                                Day</span>
+                        </div>
+                    </div>
+                    <div class="h-80 bg-slate-200 relative">
+                        <img src="./Screenshot 2026-03-05 203944.png" alt="Street View"
+                            class="w-full h-full object-cover">
+                        <div class="absolute bottom-4 left-4 bg-black/50 p-2 rounded-full text-white">
+                            <div class="w-10 h-10 flex items-center justify-center border-2 border-white rounded-full">⊕
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3D Models Card -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden border">
+                    <div class="p-4 border-b">
+                        <span class="font-bold text-slate-700">INTERACT WITH 3D MODELS</span>
+                    </div>
+                    <div class="h-80 bg-slate-50 flex items-center justify-center relative p-8">
+                        <!-- Placeholder for the interactive building model -->
+                        <div class="relative w-full h-full flex items-center justify-center">
+                            <div class="absolute inset-0 bg-blue-500/5 rounded-full blur-3xl"></div>
+                            <img src="./thumbnail.webp" alt="Model" class="shadow-2xl rounded-lg">
+                        </div>
+                    </div>
+                    <div class="p-4 bg-slate-100 text-center">
+                        <button
+                            class="bg-blue-600 text-white px-8 py-2 rounded-full text-sm font-bold shadow-lg shadow-blue-500/30">Download
+                            for AR App</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Semiquincentennial Hub -->
+        <!-- I'm thinking of having random articles with same categories populating these cards. -->
+        <section class="mt-20">
+            <div class="flex justify-between items-center mb-8">
+                <h2 class="text-2xl font-bold text-slate-700">SEMIQUINCENTENNIAL HUB</h2>
+                <div class="flex space-x-2">
+                    <button
+                        class="w-8 h-8 rounded-full border flex items-center justify-center hover:bg-white transition shadow-sm">&lt;</button>
+                    <button
+                        class="w-8 h-8 rounded-full border flex items-center justify-center hover:bg-white transition shadow-sm">&gt;</button>
+                </div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-6">
+                <!-- Grid Card 1 -->
+                <div class="bg-white rounded-xl shadow-sm border overflow-hidden group cursor-pointer">
+                    <div class="h-40 overflow-hidden">
+                        <img src="./istockphoto-1437085733-612x612.jpg"
+                            class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                    </div>
+                    <div class="p-4">
+                        <h4 class="font-bold text-sm">[##########]</h4>
+                        <p class="text-xs text-slate-500 mt-1">[##########]</p>
+                    </div>
+                </div>
+
+                <!-- Grid Card 2 -->
+                <div class="bg-white rounded-xl shadow-sm border overflow-hidden group cursor-pointer">
+                    <div class="h-40 overflow-hidden">
+                        <img src="https://cdn.britannica.com/95/170195-050-EFCB2F83/ENIAC-1946.jpg"
+                            class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                    </div>
+                    <div class="p-4">
+                        <h4 class="font-bold text-sm">[##########]</h4>
+                        <p class="text-xs text-slate-500 mt-1">[##########]</p>
+                    </div>
+                </div>
+
+                <!-- Grid Card 3 -->
+                <div class="bg-white rounded-xl shadow-sm border overflow-hidden group cursor-pointer">
+                    <div class="h-40 overflow-hidden">
+                        <img src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&q=80&w=400"
+                            class="w-full h-full object-cover group-hover:scale-105 transition duration-500">
+                    </div>
+                    <div class="p-4">
+                        <h4 class="font-bold text-sm">[##########]</h4>
+                        <p class="text-xs text-slate-500 mt-1">[##########]</p>
+                    </div>
+                </div>
+
+                <!-- Share History CTA -->
+                <div class="bg-blue-900 rounded-xl shadow-sm p-6 flex flex-col justify-between text-white">
+                    <div>
+                        <h4 class="font-bold text-lg mb-2">Share Your History</h4>
+                        <p class="text-xs text-blue-200">Share your family's history and help preserve Philly's story.
+                        </p>
+                    </div>
+                    <button
+                        class="bg-white text-blue-900 py-2 rounded font-bold text-xs uppercase tracking-wider hover:bg-slate-100 transition">Share
+                        Now</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t mt-20 py-12">
+        <div class="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between gap-12">
+            <div class="md:w-1/4 space-y-4">
+                <div class="flex items-center space-x-2">
+                    <span class="text-3xl font-bold text-blue-900">250</span>
+                    <div class="text-[10px] leading-tight font-bold text-slate-400">SEMIQUINCENTENNIAL<br>1776-2026
+                    </div>
+                </div>
+                <p class="text-xs text-slate-500">Celebrating 250 years of American Independence and the history that
+                    built Philadelphia.</p>
+            </div>
+
+            <div class="grid grid-cols-3 gap-8 md:w-1/2">
+                <div>
+                    <h5 class="font-bold text-xs uppercase text-slate-400 mb-4">Site Map</h5>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li>Overview</li>
+                        <li>History Archives</li>
+                        <li>3D Models</li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="font-bold text-xs uppercase text-slate-400 mb-4">Social</h5>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li>About</li>
+                        <li>Contact</li>
+                        <li>Events</li>
+                    </ul>
+                </div>
+                <div>
+                    <h5 class="font-bold text-xs uppercase text-slate-400 mb-4">Social Links</h5>
+                    <ul class="text-sm text-slate-600 space-y-2">
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>Twitter (X)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div
+            class="max-w-7xl mx-auto px-4 mt-12 pt-8 border-t flex justify-between items-center text-[10px] text-slate-400 uppercase font-bold tracking-widest">
+            <div>© 2024 SEMIQUINCENTENNIAL</div>
+            <div>1776-2026</div>
+        </div>
+    </footer>
+
+</body>
+
+</html>

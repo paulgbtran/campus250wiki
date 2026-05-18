@@ -13,6 +13,7 @@ to a text file with one entry per line.
 import os
 import sys
 from pathlib import Path
+rootDir = Path(__file__).parent.parent.parent
 
 from google import genai
 from google.genai import types
@@ -21,7 +22,7 @@ from google.genai import types
 # Configuration
 # ---------------------------------------------------------------------------
 MODEL = "gemini-2.5-flash"
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data"
+OUTPUT_DIR = rootDir / "data"
 OUTPUT_FILE = OUTPUT_DIR / "topics.txt"
 
 BASE_PROMPT = (

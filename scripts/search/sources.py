@@ -12,6 +12,7 @@ reference websites (homepages/base URLs), not per-topic article links —
 that is handled by search.py.
 """
 from pathlib import Path
+rootDir = Path(__file__).parent.parent.parent
 from urllib.parse import urlparse
 
 from google import genai

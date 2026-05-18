@@ -1,0 +1,3 @@
+# List of pip dependencies
+urllib3
+google-genai

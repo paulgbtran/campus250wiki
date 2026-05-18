@@ -12,6 +12,7 @@ data/search/<topic>.txt.
 """
 import time
 from pathlib import Path
+rootDir = Path(__file__).parent.parent.parent
 from urllib.parse import urlparse
 
 from google import genai
@@ -105,7 +106,7 @@ def searchTopic(topic: str, client: genai.Client, approved_domains: list[str]) -
     else:
         filtered = candidates
 
-    output_path = Path("../data/search") / f"{topic}.txt"
+    output_path = rootDir / "data" / "search" / f"{topic}.txt"
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Load existing URLs to avoid overwriting previously found sources
