@@ -175,7 +175,7 @@ def insertDataIntoTemplate(template: str, data: dict) -> str:
     sidebar_items_html = ""
     first = True
     for sec_title in data['sections_ordered']:
-        if sec_title.lower() == "infobox":
+        if sec_title.lower() in ("infobox", "lead section"):
             continue
         sec_id = sec_title.lower().replace(" ", "-")
         if first:
@@ -199,7 +199,7 @@ def insertDataIntoTemplate(template: str, data: dict) -> str:
     # 3. Generate Main Content
     article_html = ""
     for sec_title in data['sections_ordered']:
-        if sec_title.lower() == "infobox":
+        if sec_title.lower() in ("infobox", "lead section"):
             continue
         sec_id = sec_title.lower().replace(" ", "-")
         sec_content_html = data['sections_html'].get(sec_title, "")
