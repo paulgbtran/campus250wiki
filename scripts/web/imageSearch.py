@@ -5,7 +5,7 @@ Author: Paul Tran <tranb9@lasalle.edu>
 
 Looks through /data/entries/{topic}.txt and /data/search/{topic}.txt, then performs a 
 Google image search for a given topic, takes image link, then loads the links into 
-the appropriate place in the template.
+the appropriate place in the template (located /data/web/{topic}.html).
 """
 from google import genai 
 from google.genai import types
