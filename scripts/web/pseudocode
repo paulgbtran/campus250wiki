@@ -1,0 +1,3 @@
+process searchImage:
+    1. Use Gemini to collect a bunch of image hyperlinks(relate to the topic) and store them into a variable (list or text file)
+    2. Read through whatever's storing all the image hyperlinks, then make a script to load all the stored images into the HTML (inserting into the <img> tags)
