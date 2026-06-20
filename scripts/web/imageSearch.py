@@ -8,6 +8,7 @@ Google image search for a given topic, takes image link, then loads the links in
 the appropriate place in the template (located /data/web/{topic}.html).
 """
 import sys
+import re
 from pathlib import Path
 import logging
 import os
@@ -58,7 +59,6 @@ def search_images_via_wikimedia(topic: str, num_results: int = 10) -> list[str]:
     MediaWiki opensearch + imageinfo API. Returns direct image URLs.
     This is the most reliable source because the URLs are always real.
     """
-    # Step 1: Search for matching file titles on Wikimedia Commons
     search_url = "https://commons.wikimedia.org/w/api.php"
     search_params = {
         "action": "query",
@@ -87,7 +87,7 @@ def search_images_via_wikimedia(topic: str, num_results: int = 10) -> list[str]:
     if not titles:
         return []
 
-    # Step 2: Resolve each file title to a direct image URL via imageinfo
+    # Resolve each file title to a direct image URL via imageinfo
     info_params = {
         "action": "query",
         "format": "json",
@@ -115,6 +115,7 @@ def search_images_via_wikimedia(topic: str, num_results: int = 10) -> list[str]:
         return []
 
 
+def search_images_via_gemini(client: genai.Client, topic: str) -> list[str]:
     """Queries Gemini to find direct image URLs for a topic."""
     prompt = (
         f"Search the web to find 5 real, active, direct image URLs (ending in .jpg, .jpeg, or .png) related to the "
@@ -123,19 +124,20 @@ def search_images_via_wikimedia(topic: str, num_results: int = 10) -> list[str]:
     )
     try:
         response = client.models.generate_content(
-            model="gemini-2.5-flash",
+            model="gemini-2.5-flash-preview-09-2025",
             contents=prompt,
             config=types.GenerateContentConfig(
                 tools=[types.Tool(google_search=types.GoogleSearch())]
             )
         )
         urls = []
-        for line in response.text.splitlines():
-            line = line.strip()
-            if line.startswith("http://") or line.startswith("https://"):
-                # Clean up any trailing characters, brackets, or quotes
-                clean_url = line.split()[0].replace('"', '').replace("'", "")
-                urls.append(clean_url)
+        if response.text:
+            for line in response.text.splitlines():
+                line = line.strip()
+                if line.startswith("http://") or line.startswith("https://"):
+                    # Clean up any trailing characters, brackets, or quotes
+                    clean_url = line.split()[0].replace('"', '').replace("'", "")
+                    urls.append(clean_url)
         return urls
     except Exception as e:
         logging.error(f"Gemini image search failed for {topic}: {e}")
@@ -177,17 +179,26 @@ def process_topic(topic: str, client: genai.Client, serper_key: str, web_dir: Pa
         
     logging.info(f"Processing image search for: {topic}...")
     
-    # Get candidate URLs
     candidates = []
+    
+    # 1. Try Serper first if key is available
     if serper_key:
         logging.info("Searching images via Serper API...")
         candidates = search_images_via_serper(serper_key, topic)
         
-    if not candidates:
+    # 2. Try Gemini Search Grounding as the second fallback (Corrected function call!)
+    if not candidates and client:
         logging.info("Searching/Generating images via Gemini...")
-        candidates = search_images_via_serper(client, topic)
+        candidates = search_images_via_gemini(client, topic)
         
-    logging.info(f"Found {len(candidates)} candidate image URLs.")
+    # 3. Try Wikimedia Commons direct search if the first two yield nothing
+    if not candidates:
+        logging.info("Searching images via Wikimedia Commons search...")
+        candidates = search_images_via_wikimedia(topic)
+        
+    # Filter candidates to make sure they are likely to be images
+    candidates = [url for url in candidates if is_likely_image_url(url)]
+    logging.info(f"Found {len(candidates)} valid candidate image URLs.")
     
     # Attempt to download up to 3 images
     downloaded_files = []
@@ -224,18 +235,19 @@ def process_topic(topic: str, client: genai.Client, serper_key: str, web_dir: Pa
     
     # 1. Hero image: src="./thumbnail_modified.webp" -> src="./{hero_img}"
     hero_img = downloaded_files[0]
-    html_content = html_content.replace('src="./thumbnail_modified.webp"', f'src="./{hero_img}"')
-    html_content = html_content.replace('alt="City Hall"', f'alt="{topic} Hero Image"')
+    # Uses regular expressions to handle flexible spacing/syntax in HTML tags
+    html_content = re.sub(r'src=["\']\./thumbnail_modified\.webp["\']', f'src="./{hero_img}"', html_content)
+    html_content = re.sub(r'alt=["\']City Hall["\']', f'alt="{topic} Hero Image"', html_content)
     
     # 2. Article image 1: src="./Philadelphia_City_Hall_7.jpg" -> src="./{img1}"
     img1 = downloaded_files[1] if len(downloaded_files) > 1 else hero_img
-    html_content = html_content.replace('src="./Philadelphia_City_Hall_7.jpg"', f'src="./{img1}"')
-    html_content = html_content.replace('alt="Old City Hall"', f'alt="{topic} Image 1"')
+    html_content = re.sub(r'src=["\']\./Philadelphia_City_Hall_7\.jpg["\']', f'src="./{img1}"', html_content)
+    html_content = re.sub(r'alt=["\']Old City Hall["\']', f'alt="{topic} Image 1"', html_content)
     
     # 3. Article image 2: src="./Philadelphia_city_hall.jpg" -> src="./{img2}"
     img2 = downloaded_files[2] if len(downloaded_files) > 2 else img1
-    html_content = html_content.replace('src="./Philadelphia_city_hall.jpg"', f'src="./{img2}"')
-    html_content = html_content.replace('alt="Tower View"', f'alt="{topic} Image 2"')
+    html_content = re.sub(r'src=["\']\./Philadelphia_city_hall\.jpg["\']', f'src="./{img2}"', html_content)
+    html_content = re.sub(r'alt=["\']Tower View["\']', f'alt="{topic} Image 2"', html_content)
     
     # Write back updated HTML
     html_file.write_text(html_content, encoding="utf-8")
@@ -245,8 +257,7 @@ def process_topic(topic: str, client: genai.Client, serper_key: str, web_dir: Pa
 def main():
     google = get_google_client()
     if not google:
-        logging.error("Google client could not be created. Exiting.")
-        sys.exit(1)
+        logging.warning("Google GenAI client could not be created. Falling back to Serper/Wikimedia only.")
         
     serper_key = get_serper_client()
     
