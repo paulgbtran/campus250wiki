@@ -1,0 +1,6 @@
+* **Lead section**: Clarified that modern historians generally credit Francis Hopkinson with designing the first official U.S. flag and view the Betsy Ross legend as unverified by contemporary documentation.
+* **Career section**: Corrected the location of Ross's workshop in 1776 from "Arch Street workshop" to "Chestnut Street workshop", as John and Betsy Ross resided/worked on Chestnut Street in 1776 before relocating to Arch Street later.
+* **Career section**: Corrected the payment order entry name from `"Betsy Ross"` to `"Elizabeth Ross"`, as recorded in the official May 29, 1777 Pennsylvania State Navy Board ledger.
+* **Personal life section**: Corrected the details of her third marriage to John Claypoole from "June 1783 at St. Paul's Episcopal Church" to "May 8, 1783, at Christ Church in Philadelphia".
+* **Personal life section**: Corrected her living situation during her final years in Kensington from living with her daughter "Susannah Satterthwaite" to living with her daughter "Jane Claypoole Canby" (mother of William J. Canby).
+* **Legacy section**: Corrected the statement claiming circumstantial evidence supports Ross as the primary creator of the national flag, clarifying that historical consensus attributes the design of the first official Stars and Stripes to Francis Hopkinson.

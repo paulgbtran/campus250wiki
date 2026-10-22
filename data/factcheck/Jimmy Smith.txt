@@ -1,0 +1,4 @@
+* **Birth Year Corrected**: Changed birth year from 1928 to December 8, 1925 (the accepted birth date per NEA Jazz Masters, Encyclopædia Britannica, and PBS Jazz).
+* **Birthplace Corrected**: Changed birthplace from Philadelphia, Pennsylvania to Norristown, Pennsylvania (a borough in Montgomery County northwest of Philadelphia).
+* **Death Details Updated**: Updated the infobox to state that Smith died on February 8, 2005, in Scottsdale, Arizona, at age 79 (corrected from "aged 76–77").
+* **Lead & Early Life Text Adjusted**: Updated references in the lead section and "Early Life and Education" section to reflect his correct birth year (1925) and birthplace (Norristown, PA).

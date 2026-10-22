@@ -19,6 +19,8 @@ from dotenv import load_dotenv
 # Add workspace root to sys.path to import web.utils
 rootDir = Path(__file__).parent.parent.parent
 sys.path.append(str(rootDir))
+sys.path.append(str(rootDir / "scripts"))
+import gemini_utils
 
 from google import genai 
 from google.genai import types
@@ -123,8 +125,9 @@ def search_images_via_gemini(client: genai.Client, topic: str) -> list[str]:
         f"Return ONLY the URLs, one per line. No commentary, no markdown, no other text."
     )
     try:
-        response = client.models.generate_content(
-            model="gemini-2.5-flash-preview-09-2025",
+        response = gemini_utils.query_gemini(
+            client=client,
+            model="gemini-3.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(
                 tools=[types.Tool(google_search=types.GoogleSearch())]
@@ -172,111 +175,117 @@ def search_images_via_serper(api_key: str, topic: str) -> list[str]:
 
 def process_topic(topic: str, client: genai.Client, serper_key: str, web_dir: Path):
     """Processes a single topic, searching and loading images into its HTML file."""
-    html_file = web_dir / f"{topic}.html"
-    if not html_file.exists():
-        logging.warning(f"HTML file not found: {html_file}")
-        return
-        
-    logging.info(f"Processing image search for: {topic}...")
-    
-    candidates = []
-    
-    # 1. Try Serper first if key is available
-    if serper_key:
-        logging.info("Searching images via Serper API...")
-        candidates = search_images_via_serper(serper_key, topic)
-        
-    # 2. Try Gemini Search Grounding as the second fallback (Corrected function call!)
-    if not candidates and client:
-        logging.info("Searching/Generating images via Gemini...")
-        candidates = search_images_via_gemini(client, topic)
-        
-    # 3. Try Wikimedia Commons direct search if the first two yield nothing
-    if not candidates:
-        logging.info("Searching images via Wikimedia Commons search...")
-        candidates = search_images_via_wikimedia(topic)
-        
-    # Filter candidates to make sure they are likely to be images
-    candidates = [url for url in candidates if is_likely_image_url(url)]
-    logging.info(f"Found {len(candidates)} valid candidate image URLs.")
-    
-    # Attempt to download up to 3 images
-    downloaded_files = []
-    for url in candidates:
-        if len(downloaded_files) >= 3:
-            break
-        suffix = "hero" if len(downloaded_files) == 0 else str(len(downloaded_files))
-        prefix = f"{topic}_{suffix}"
-        
-        # Check if already downloaded/exists
-        existing_files = list(web_dir.glob(f"{prefix}.*"))
-        existing_files = [f for f in existing_files if f.suffix != ".json"]
-        if existing_files:
-            logging.info(f"Image for {prefix} already exists: {existing_files[0].name}")
-            downloaded_files.append(existing_files[0].name)
-            continue
+    try:
+        html_file = web_dir / f"{topic}.html"
+        if not html_file.exists():
+            logging.warning(f"HTML file not found: {html_file}")
+            return
             
-        filename = download_image_and_save_json(url, web_dir, prefix)
-        if filename:
-            downloaded_files.append(filename)
-            
-    if len(downloaded_files) < 3:
-        logging.warning(f"Could only download {len(downloaded_files)} images for {topic}. Falling back/duplicating if needed.")
-        # If we got at least 1 image, reuse it to avoid broken image placeholders
-        while len(downloaded_files) < 3 and downloaded_files:
-            downloaded_files.append(downloaded_files[0])
-            
-    if not downloaded_files:
-        logging.error(f"No images could be downloaded for {topic}.")
-        return
+        logging.info(f"Processing image search for: {topic}...")
         
-    # Read HTML and update paths
-    html_content = html_file.read_text(encoding="utf-8")
-    
-    # 1. Hero image: src="./thumbnail_modified.webp" -> src="./{hero_img}"
-    hero_img = downloaded_files[0]
-    # Uses regular expressions to handle flexible spacing/syntax in HTML tags
-    html_content = re.sub(r'src=["\']\./thumbnail_modified\.webp["\']', f'src="./{hero_img}"', html_content)
-    html_content = re.sub(r'alt=["\']City Hall["\']', f'alt="{topic} Hero Image"', html_content)
-    
-    # 2. Article image 1: src="./Philadelphia_City_Hall_7.jpg" -> src="./{img1}"
-    img1 = downloaded_files[1] if len(downloaded_files) > 1 else hero_img
-    html_content = re.sub(r'src=["\']\./Philadelphia_City_Hall_7\.jpg["\']', f'src="./{img1}"', html_content)
-    html_content = re.sub(r'alt=["\']Old City Hall["\']', f'alt="{topic} Image 1"', html_content)
-    
-    # 3. Article image 2: src="./Philadelphia_city_hall.jpg" -> src="./{img2}"
-    img2 = downloaded_files[2] if len(downloaded_files) > 2 else img1
-    html_content = re.sub(r'src=["\']\./Philadelphia_city_hall\.jpg["\']', f'src="./{img2}"', html_content)
-    html_content = re.sub(r'alt=["\']Tower View["\']', f'alt="{topic} Image 2"', html_content)
-    
-    # Write back updated HTML
-    html_file.write_text(html_content, encoding="utf-8")
-    logging.info(f"Updated HTML file for {topic} with new image URLs.")
+        candidates = []
+        
+        # 1. Try Serper first if key is available
+        if serper_key:
+            logging.info("Searching images via Serper API...")
+            candidates = search_images_via_serper(serper_key, topic)
+            
+        # 2. Try Gemini Search Grounding as the second fallback (Corrected function call!)
+        if not candidates and client:
+            logging.info("Searching/Generating images via Gemini...")
+            candidates = search_images_via_gemini(client, topic)
+            
+        # 3. Try Wikimedia Commons direct search if the first two yield nothing
+        if not candidates:
+            logging.info("Searching images via Wikimedia Commons search...")
+            candidates = search_images_via_wikimedia(topic)
+            
+        # Filter candidates to make sure they are likely to be images
+        candidates = [url for url in candidates if is_likely_image_url(url)]
+        logging.info(f"Found {len(candidates)} valid candidate image URLs.")
+        
+        # Attempt to download up to 3 images
+        downloaded_files = []
+        for url in candidates:
+            if len(downloaded_files) >= 3:
+                break
+            suffix = "hero" if len(downloaded_files) == 0 else str(len(downloaded_files))
+            prefix = f"{topic}_{suffix}"
+            
+            # Check if already downloaded/exists
+            existing_files = list(web_dir.glob(f"{prefix}.*"))
+            existing_files = [f for f in existing_files if f.suffix != ".json"]
+            if existing_files:
+                logging.info(f"Image for {prefix} already exists: {existing_files[0].name}")
+                downloaded_files.append(existing_files[0].name)
+                continue
+                
+            filename = download_image_and_save_json(url, web_dir, prefix)
+            if filename:
+                downloaded_files.append(filename)
+                
+        if len(downloaded_files) < 3:
+            logging.warning(f"Could only download {len(downloaded_files)} images for {topic}. Falling back/duplicating if needed.")
+            # If we got at least 1 image, reuse it to avoid broken image placeholders
+            while len(downloaded_files) < 3 and downloaded_files:
+                downloaded_files.append(downloaded_files[0])
+                
+        if not downloaded_files:
+            logging.error(f"No images could be downloaded for {topic}.")
+            return
+            
+        # Read HTML and update paths
+        html_content = html_file.read_text(encoding="utf-8")
+        
+        # 1. Hero image: src="./thumbnail_modified.webp" -> src="./{hero_img}"
+        hero_img = downloaded_files[0]
+        # Uses regular expressions to handle flexible spacing/syntax in HTML tags
+        html_content = re.sub(r'src=["\']\./thumbnail_modified\.webp["\']', f'src="./{hero_img}"', html_content)
+        html_content = re.sub(r'alt=["\']City Hall["\']', f'alt="{topic} Hero Image"', html_content)
+        
+        # 2. Article image 1: src="./Philadelphia_City_Hall_7.jpg" -> src="./{img1}"
+        img1 = downloaded_files[1] if len(downloaded_files) > 1 else hero_img
+        html_content = re.sub(r'src=["\']\./Philadelphia_City_Hall_7\.jpg["\']', f'src="./{img1}"', html_content)
+        html_content = re.sub(r'alt=["\']Old City Hall["\']', f'alt="{topic} Image 1"', html_content)
+        
+        # 3. Article image 2: src="./Philadelphia_city_hall.jpg" -> src="./{img2}"
+        img2 = downloaded_files[2] if len(downloaded_files) > 2 else img1
+        html_content = re.sub(r'src=["\']\./Philadelphia_city_hall\.jpg["\']', f'src="./{img2}"', html_content)
+        html_content = re.sub(r'alt=["\']Tower View["\']', f'alt="{topic} Image 2"', html_content)
+        
+        # Write back updated HTML
+        html_file.write_text(html_content, encoding="utf-8")
+        logging.info(f"Updated HTML file for {topic} with new image URLs.")
+    except Exception as e:
+        logging.error(f"Error processing topic {topic} in image search: {e}")
 
 
 def main():
-    google = get_google_client()
-    if not google:
-        logging.warning("Google GenAI client could not be created. Falling back to Serper/Wikimedia only.")
+    try:
+        google = get_google_client()
+        if not google:
+            logging.warning("Google GenAI client could not be created. Falling back to Serper/Wikimedia only.")
+            
+        serper_key = get_serper_client()
         
-    serper_key = get_serper_client()
-    
-    entries_dir = rootDir / "data" / "entries"
-    web_dir = rootDir / "data" / "web"
-    
-    if not entries_dir.exists():
-        logging.error(f"Entries directory does not exist: {entries_dir}")
-        sys.exit(1)
+        entries_dir = rootDir / "data" / "entries"
+        web_dir = rootDir / "data" / "web"
         
-    # Process each entry file found in data/entries/
-    entry_files = list(entries_dir.glob("*.txt"))
-    if not entry_files:
-        logging.info("No entry files found in data/entries/.")
-        return
-        
-    for filepath in entry_files:
-        topic_name = filepath.stem
-        process_topic(topic_name, google, serper_key, web_dir)
+        if not entries_dir.exists():
+            logging.error(f"Entries directory does not exist: {entries_dir}")
+            sys.exit(1)
+            
+        # Process each entry file found in data/entries/
+        entry_files = list(entries_dir.glob("*.txt"))
+        if not entry_files:
+            logging.info("No entry files found in data/entries/.")
+            return
+            
+        for filepath in entry_files:
+            topic_name = filepath.stem
+            process_topic(topic_name, google, serper_key, web_dir)
+    except Exception as e:
+        logging.error(f"Error in imageSearch main: {e}")
 
 
 if __name__ == "__main__":

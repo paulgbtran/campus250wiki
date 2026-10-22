@@ -1,0 +1,3 @@
+* **Lester B. Pearson Award Year (Metadata Table & Lead Section):** Changed award year from 1973 to 1974. Bobby Clarke won the Lester B. Pearson Award for the 1973–74 season (presented in 1974), whereas Phil Esposito won it in 1973.
+* **1967 NHL Event Terminology (Lead Section):** Changed "1967 realignment" to "1967 expansion" to accurately reflect the landmark 1967 NHL expansion that doubled the league from six to twelve teams.
+* **Statue Unveiling Year (Legacy Section):** Changed the unveiling year of the bronze statue depicting Bobby Clarke and Bernie Parent raising the Stanley Cup from 2017 to 2014. The monument was officially unveiled on March 29, 2014.

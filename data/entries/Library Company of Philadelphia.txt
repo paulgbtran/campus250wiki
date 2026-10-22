@@ -1,0 +1,141 @@
+### Infobox
+
+| **Library Company of Philadelphia** | |
+| :--- | :--- |
+| **Established** | July 1, 1731 |
+| **Founder** | Benjamin Franklin and members of the Junto |
+| **Location** | 1314 Locust Street, Center City, Philadelphia, Pennsylvania, 19107, United States |
+| **Type** | Independent Research Library |
+| **Collection Size** | Over 500,000 rare books; 75,000 prints, photographs, and graphic items |
+| **Key Historical Figures** | Benjamin Franklin, James Logan, Dr. James Rush, Edwin Wolf 2nd |
+| **Architecture** | Modernist / International Style (1314 Locust St); historically occupied Georgian, Federal, and Greek Revival facilities |
+| **Notable Programs** | Program in African American History (PAAH), Program in Early American Economy & Society (PEAES), Visual Culture Program (VCP) |
+| **Website** | [librarycompany.org](https://librarycompany.org/) |
+
+---
+
+### Lead section
+
+The **Library Company of Philadelphia** is an independent research library and non-profit organization located in Center City, Philadelphia, Pennsylvania. Founded on July 1, 1731, by Benjamin Franklin and a group of civic-minded associates from his self-improvement society, the Junto, it is recognized as America's oldest cultural institution and the nation's first successful subscription library. Established to provide affordable access to literature, scientific works, and educational materials through pooled financial resources, the institution served as the primary public library of Philadelphia from its founding through the mid-nineteenth century.
+
+Throughout the eighteenth century, the Library Company operated as a vital intellectual center for colonial America and the early United States. During the period when Philadelphia served as the nation's capital, the library was housed near State House Square and offered its collections to the delegates of the Continental Congress and the Constitutional Convention, effectively functioning as the de facto Library of Congress until the national government relocated to Washington, D.C., in 1800. Over the course of the nineteenth century, its holdings expanded dramatically through significant acquisitions and legacies, including the merging of the scientific Loganian Library and the substantial bequest of Dr. James Rush.
+
+In the mid-twentieth century, facing shifting urban demographics and the rise of municipal tax-supported public library systems, the institution reorganized its mission. Under the leadership of Librarian Edwin Wolf 2nd, the Library Company transitioned from a circulating subscription library into a specialized, non-circulating independent research repository focusing on American history and print culture from the colonial era through the late nineteenth century. 
+
+Today, the Library Company of Philadelphia maintains a collection of over 500,000 rare books, pamphlets, and broadsides, alongside 75,000 graphic items, including early American prints, drawings, and photographs. Operating from its headquarters at 1314 Locust Street, the institution supports scholarly inquiry through research fellowships, academic publishing, public exhibitions, and specialized research programs in African American history, early American economy, women's history, and visual culture.
+
+---
+
+### History
+
+#### Colonial Founding and Early Development (1727–1780s)
+The origins of the Library Company trace back to 1727, when twenty-one-year-old printer Benjamin Franklin organized the Junto, a mutual self-improvement club composed of Philadelphia artisans, merchants, and tradesmen. Seeking to elevate their intellectual standing and practical knowledge, members pooled their individual book collections into a shared library. Recognizing the limitations of this informal arrangement, Franklin and his associates institutionalized their efforts on July 1, 1731, drafting articles of association that established the Library Company of Philadelphia as a shareholding subscription model. Each of the original fifty shareholders contributed forty shillings to purchase initial inventory, along with ten shillings in annual dues to fund ongoing acquisitions.
+
+The institution's early acquisition strategy reflected the pragmatic Enlightenment values of its founders. Rather than prioritizing classical theology or ancient Greek and Latin texts, the directors selected practical, educational, and contemporary works. The library's first published catalog in 1741 contained 372 titles, emphasizing works on science, history, geography, architecture, and literature—including builder's dictionaries and pattern books used by artisans to model local construction on modern London standards. Among its most substantial early acquisitions was philosopher Pierre Bayle’s six-volume *Historical and Critical Dictionary*. By 1770, the collection had grown to 2,033 volumes, reflecting what scholar Edwin Wolf 2nd categorized as the foundational secular and empirical character of colonial American print culture.
+
+#### Revolutionary Era and National Role (1740–1800)
+For its first six decades, the Library Company occupied temporary quarters across Philadelphia. In 1740, the collection was moved to the west wing of the Pennsylvania State House (now Independence Hall). In 1773, the library relocated to the second floor of Carpenters' Hall, where it stood at the epicenter of political turmoil during the American Revolution. During the meetings of the First and Second Continental Congresses and the Constitutional Convention of 1787, the Library Company opened its doors to the nation's political delegates, serving as an indispensable intellectual reference facility for early American statesmen.
+
+In 1792, the Library Company formally incorporated the Loganian Library, a distinguished collection of approximately 2,600 scientific, mathematical, classical, and linguistic volumes bequeathed to the public by James Logan (1674–1751), colonial secretary to William Penn. To accommodate this expanding inventory, the Library Company moved into its first purpose-built home at Fifth and Library Streets, designed by amateur architect William Thornton. Situated opposite State House Square, the library functioned as the de facto Library of Congress while Philadelphia served as the capital of the United States from 1790 to 1800.
+
+```
+Timeline of Early Organizational Milestones
+├── 1727: Benjamin Franklin founds the Junto self-improvement group.
+├── 1731: Library Company of Philadelphia established as a subscription library.
+├── 1741: First formal printed catalog published (372 titles).
+├── 1773: Library moves to Carpenters' Hall; serves Continental Congress delegates.
+├── 1792: Loganian Library (~2,600 volumes) officially merges with the Library Company.
+└── 1800: Federal government departs for Washington, D.C.; de facto Library of Congress era ends.
+```
+
+#### Nineteenth Century Expansion and Institutional Shifts
+By the mid-nineteenth century, the Library Company had grown into the largest public subscription library in North America, with membership encompassing roughly ten percent of Philadelphia households. However, rapid growth severely strained its Fifth Street building. Relief came in 1869 through a bequest from physician Dr. James Rush (1786–1869), son of Founding Father Dr. Benjamin Rush. Rush left an estate of over one million dollars earmarked for a new facility, accompanied by strict testamentary conditions banning "every-day novels, mind-tainting reviews, controversial politics," and daily newspapers.
+
+The execution of the Rush bequest led to the construction of the monumental Ridgway Library building at Broad and Christian Streets in South Philadelphia. To maintain a presence closer to the city's commercial and civic core, library directors commissioned architect Frank Furness to build a second branch at Juniper and Locust Streets in 1879. The establishment of the tax-supported, free municipal system via the charter of the Free Library of Philadelphia in 1891 altered the Library Company's traditional role, leading to a period of declining subscription revenues and institutional uncertainty during the early twentieth century and the Great Depression.
+
+#### Mid-Twentieth Century Reorganization to Present
+Facing severe financial constraints during World War II, the Library Company temporarily operated its facilities in cooperation with the Free Library. Realizing that the institution could no longer compete as a general circulating library, the Board of Trustees initiated a major institutional pivot in 1955 under the leadership of newly appointed Librarian Edwin Wolf 2nd. Wolf re-articulated the library's mission, abandoning popular book lending to transform the organization into a specialized research center focusing on rare books, manuscripts, and primary historical source materials produced in America up to 1880.
+
+In April 1966, the Library Company consolidated its scattered holdings and relocated to a modern, custom-designed eight-story facility at 1314 Locust Street, adjacent to the Historical Society of Pennsylvania. Under Wolf's tenure and that of subsequent directors, including John C. Van Horne, the Library Company aggressively built specialized collections. In 1969, the institution established a collecting priority in African American history, producing the landmark exhibition *Negro History: 1553–1903* and an accompanying 16,500-entry printed bibliography. Subsequent collection efforts expanded into women's history, early political economy, visual media, and domestic arts.
+
+---
+
+### Architecture
+
+#### Early Facilities (1789 Fifth Street Building)
+The Library Company's first dedicated building, erected between 1789 and 1790 at Fifth and Library Streets facing State House Square, was designed by Dr. William Thornton, an amateur architect who later designed the United States Capitol. Thornton's design featured a symmetrical Federal-style red-brick facade accented by marble pilasters, a pediment, and an elevated arched entrance alcove. In 1792, a matching wing was constructed along the rear to house the incoming Loganian Library collection. The building's pediment niche featured a white marble statue of Benjamin Franklin in a Roman toga, sculpted in Italy by Francesco Lazzarini and presented to the library in 1792 as the first piece of public art installed in Philadelphia. The Fifth Street building stood until its demolition in 1884; its visual memory was preserved in a notable 1800 color engraving by artist William Birch. In the 1950s, the American Philosophical Society built its Library Hall on the original site, constructing a replica of Thornton's historic facade.
+
+#### Late Nineteenth-Century Structures (Ridgway and Juniper Street Buildings)
+The bequest of Dr. James Rush funded the construction of the Ridgway Library building, designed by architect Addison Hutton and built between 1873 and 1878 at Broad and Christian Streets. Constructed in a strict Greek Revival style, the monumental stone building featured a central hexastyle Doric portico flanked by expansive exhibition halls and book stacks. Despite its architectural grandiosity, its location far south of Center City proved inconvenient for many historic patrons.
+
+To address accessibility concerns, the library board commissioned architect Frank Furness in 1879 to erect a downtown branch at the northwest corner of Juniper and Locust Streets. Furness's design offered an eclectic Victorian Gothic reinterpretation of Thornton's original 1789 facade, featuring bold masonry details, expansive window bays, and a pediment niche that briefly held Lazzarini's Franklin statue. The Furness building served patrons for six decades until its sale and demolition in 1940, when it was replaced by a commercial parking structure.
+
+```
+Summary of Historic Headquarters Sites
+┌───────────────────────────────┬───────────────────────────────┬───────────────────────────────┐
+│ Building / Site               │ Location                      │ Active Years / Status         │
+├───────────────────────────────┼───────────────────────────────┼───────────────────────────────┤
+│ State House (West Wing)       │ Chestnut St between 5th & 6th │ 1740–1773 (Relocated)         │
+│ Carpenters' Hall (2nd Floor)  │ Chestnut St near 3rd St       │ 1773–1790 (Relocated)         │
+│ Thornton Building             │ 5th and Library Streets       │ 1790–1880s (Demolished 1884)  │
+│ Ridgway Building              │ Broad and Christian Streets   │ 1878–1965 (Now CAPA High)     │
+│ Furness Building              │ Juniper and Locust Streets    │ 1879–1940 (Demolished 1940)  │
+│ Modern Headquarters           │ 1314 Locust Street            │ 1966–Present (Active)         │
+└───────────────────────────────┴───────────────────────────────┴───────────────────────────────┘
+```
+
+#### Modern Headquarters (1314 Locust Street)
+In April 1966, the Library Company dedicated its modern headquarters at 1314 Locust Street. Designed by the Philadelphia architectural firm Carroll, Grisdale & Van Alen, the eight-story facility features a restrained modernist brick and stone facade tailored to the scale of the surrounding residential and cultural corridor. The building contains climate-controlled storage stacks, conservation laboratories, exhibition spaces, administrative offices, and a centralized reading room for visiting researchers. The ground-floor public spaces include the Logan Room, which displays historic furniture, oil portraits, and early scientific apparatus owned by Benjamin Franklin and James Logan.
+
+---
+
+### Cultural significance
+
+#### Scholarly Programs and Research Initiatives
+As an independent research library, the Library Company plays a key role in the study of American history and material culture prior to 1900. It operates several academic research programs that support scholarly communities through residential fellowships, symposia, and published monographs:
+
+*   **Program in African American History (PAAH):** Established to foster scholarship in African American history from the colonial era through the late nineteenth century. PAAH supports long- and short-term research fellowships, public lectures, and major collections development.
+*   **Program in Early American Economy and Society (PEAES):** Founded to advance scholarship on early American commerce, finance, manufacturing, agriculture, and economic thought.
+*   **The Davida Tenenbaum Deutsch Program in Women's History:** Focuses on expanding archival holdings and scholarly output regarding the legal, social, economic, and cultural experiences of women in America before 1900.
+*   **Visual Culture Program (VCP):** Promotes the study and interpretation of early American visual media, drawing upon the library's repository of prints, lithographs, daguerreotypes, graphics, and photographs.
+
+The institution awards academic distinctions, including the LCP First Book Award and the Innovation Award, and hosts public events such as the Charlotte Cushman Society Lecture, the John C. Van Horne Lecture, and regular public Fireside Chats featuring prominent historians and authors.
+
+```
+     ┌────────────────────────────────────────────────────────────────────────┐
+     │                     LIBRARY COMPANY OF PHILADELPHIA                    │
+     └───────────────────────────────────┬────────────────────────────────────┘
+                                         │
+       ┌───────────────────┬─────────────┴─────────────┬───────────────────┐
+       ▼                   ▼                           ▼                   ▼
+┌──────────────┐    ┌──────────────┐            ┌──────────────┐    ┌──────────────┐
+│    PAAH      │    │    PEAES     │            │ Deutsch Prog.│    │     VCP      │
+│ (African     │    │(Early Amer.  │            │  (Women's    │    │   (Visual    │
+│ Amer. Hist.) │    │   Economy)   │            │   History)   │    │   Culture)   │
+└──────────────┘    └──────────────┘            └──────────────┘    └──────────────┘
+```
+
+#### Curatorial Practices and Digital Initiatives
+The Library Company actively re-evaluates historic cataloging methodologies and curatorial biases in primary source stewardship. Through public initiatives such as the *Imperfect History* project, funded in part by the Henry Luce Foundation and Terra Foundation for American Art, the institution has explored the impact of historical, conscious, and unconscious biases within cataloging descriptions of early American graphic arts. As part of this initiative, multi-disciplinary guest catalogers—such as studio artist and educator Joy O. Ude—wrote alternative, subjective descriptions for early visual artifacts, including nineteenth-century portrait daguerreotypes by photographers such as Samuel Broadbent, highlighting issues of Black representation, agency, and historic dignity.
+
+The library maintains an active digital presence, hosting online catalog databases (including Koha catalog systems for books and digital image repositories), scholarly blogs, and virtual exhibitions such as *Serious Fun: The Robert Staples Metamorphic Collection of Movable and Moving Art before 1920*. Its special projects, such as the *Beyond Glass Cases* collections lab and the *Library Company Papers Project*, aim to increase accessibility to its institutional archives and manuscript holdings for researchers worldwide.
+
+---
+
+### See also
+
+*   [American Philosophical Society](https://philadelphiaencyclopedia.org/essays/american-philosophical-society/)
+*   [Athenæum of Philadelphia](https://philadelphiaencyclopedia.org/essays/athenaeum-of-philadelphia/)
+*   [Carpenters' Hall](http://www.carpentershall.org/)
+*   [Free Library of Philadelphia](https://libwww.freelibrary.org/about/history/)
+*   [Historical Society of Pennsylvania](https://philadelphiaencyclopedia.org/essays/historical-societies/)
+*   [Independence Hall](https://www.nps.gov/inde/index.htm)
+*   [Junto (club)](https://philadelphiaencyclopedia.org/essays/junto/)
+
+---
+
+### References
+
+1. The Library Company of Philadelphia. "America's oldest cultural institution, founded by Benjamin Franklin in 1731." Official Website. [https://librarycompany.org/](https://librarycompany.org/)
+2. Ude, Joy O. "History and Representation." *The Library Company of Philadelphia Blog / Imperfect History Digital Catalog*, June 8, 2021. [https://librarycompany.org/2021/06/08/history-and-representation/](https://librarycompany.org/2021/06/08/history-and-representation/)
+3. Finkel, Kenneth. "Library Company of Philadelphia." *Encyclopedia of Greater Philadelphia*, Mid-Atlantic Regional Center for the Humanities (MARCH) at Rutgers University-Camden, 2017. [https://philadelphiaencyclopedia.org/essays/library-company-of-philadelphia/](https://philadelphiaencyclopedia.org/essays/library-company-of-philadelphia/)

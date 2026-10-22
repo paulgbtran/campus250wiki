@@ -1,0 +1,132 @@
+# Philadelphia Phillies World Series victory (2008)
+
+## 1. Infobox
+
+| **Event Parameter** | **Details** |
+| :--- | :--- |
+| **Event** | 2008 Philadelphia Phillies World Series Championship |
+| **Date(s)** | October 22, 2008 – October 29, 2008 |
+| **Location** | Citizens Bank Park (Philadelphia, PA) & Tropicana Field (St. Petersburg, FL) |
+| **Champion** | Philadelphia Phillies (4 games) |
+| **Runner-up** | Tampa Bay Rays (1 game) |
+| **Manager** | Charlie Manuel (Philadelphia Phillies) |
+| **World Series MVP** | Cole Hamels (1–0, 2.77 ERA) |
+| **Key Figures** | Brad Lidge, Ryan Howard, Chase Utley, Jimmy Rollins, Shane Victorino, Carlos Ruiz, Pedro Feliz, Pat Burrell |
+| **Historical Significance** | Second World Series title in franchise history; ended Philadelphia's 25-year major professional sports championship drought |
+
+---
+
+## 2. Lead section
+
+On October 29, 2008, the Philadelphia Phillies secured the second World Series championship in the franchise's storied history by defeating the Tampa Bay Rays four games to one in the 2008 Major League Baseball World Series. The victory represented a landmark moment for the city of Philadelphia, concluding a 25-year professional sports championship drought that had hovered over the city since the Philadelphia 76ers won the NBA Finals in 1983.
+
+Led by manager Charlie Manuel, the 2008 Phillies possessed a potent blend of homegrown offensive talent, resilient starting pitching, and an unblemished bullpen performance from closer Brad Lidge. Having secured their second consecutive National League East division title with a 92–70 regular-season record, the Phillies advanced through the postseason by defeating the Milwaukee Brewers in the National League Division Series (NLDS) and the Los Angeles Dodgers in the National League Championship Series (NLCS) before meeting the American League champion Tampa Bay Rays.
+
+The Fall Classic reached its climax in Game 5, which became one of the most unusual and memorable games in Major League Baseball history. Initially played on October 27, 2008, at Citizens Bank Park, the game was suspended in the middle of the sixth inning due to torrential rain and freezing conditions—marking the first suspended game in World Series history. When play resumed two days later on October 29, the Phillies broke a 2–2 tie to win 4–3, capped by Brad Lidge striking out Eric Hinske for the final out to complete a perfect season of 48 saves in 48 opportunities.
+
+The victory touched off unprecedented civic celebrations across the Delaware Valley, culminating two days later in a victory parade down Broad Street attended by an estimated two million fans. The 2008 victory established the foundation for the most successful era in Phillies history, characterized by five consecutive division titles, two National League pennants, and a sustained renaissance in regional fan culture.
+
+---
+
+## 3. Background
+
+The Philadelphia Phillies entered the 2008 season carrying both high expectations and the weight of regional sports history. Since the franchise's founding in 1883, the Phillies had captured only one World Series championship, in 1980. Furthermore, Philadelphia sports fans had suffered through decades of near-misses across all four major American sports leagues, leading local media and fans to reference the perceived "Curse of Billy Penn"—a popular urban legend tying the city's championship drought to the construction of skyscrapers taller than the statue of William Penn atop City Hall in 1987.
+
+The foundation for the 2008 championship team was laid through selective draft picks and key roster acquisitions in the mid-2000s under General Managers Ed Wade and Pat Gillick. Core position players drafted and developed by the organization included shortstop Jimmy Rollins (the 2007 NL MVP), second baseman Chase Utley, first baseman Ryan Howard (the 2006 NL MVP), outfielder Pat Burrell (the No. 1 overall pick in 1998), left-handed starting pitcher Cole Hamels, and catcher Carlos Ruiz. These core talents were complemented by veteran additions, including center fielder Shane Victorino, third baseman Pedro Feliz, and closer Brad Lidge, acquired via trade prior to the 2008 season.
+
+```
+       [2007 NL East Champions]
+                  │
+                  ▼ (Eliminated in NLDS)
+  [2008 Offseason: Acquired Brad Lidge]
+                  │
+                  ▼
+   [2008 NL East Champions (92–70)]
+                  │
+     ┌────────────┴────────────┐
+     ▼                         ▼
+[Defeated Brewers]     [Defeated Dodgers]
+    (3–1 NLDS)             (4–1 NLCS)
+     └────────────┬────────────┘
+                  ▼
+      [2008 World Series Champions]
+```
+
+In 2007, the Phillies made a dramatic late-season comeback to overtake the New York Mets on the final day of the regular season to win the NL East, though they were swept by the Colorado Rockies in the NLDS. Entering 2008 with a refined focus, the team battled closely with the Mets once again. Bolstered by a strong September push, Philadelphia captured the NL East title with a 92–70 record. In the postseason, the Phillies dispatched the Milwaukee Brewers 3–1 in the NLDS, highlighted by a memorable grand slam by Shane Victorino off C.C. Sabathia in Game 2. In the NLCS, Philadelphia eliminated the Los Angeles Dodgers 4–1, powered by Matt Stairs' dramatic pinch-hit two-run home run in Game 4 at Dodger Stadium and Cole Hamels' dominant pitching, earning Hamels the NLCS MVP award.
+
+---
+
+## 4. Course of events
+
+The 2008 World Series pitted the National League champion Phillies against the American League champion Tampa Bay Rays, a franchise making its first-ever postseason appearance after years at the bottom of the AL East.
+
+### Game 1: October 22, 2008 (Tropicana Field, St. Petersburg)
+Cole Hamels set the tone for the series with a commanding performance on the road. Chase Utley launched a two-run home run in the top of the first inning to give Philadelphia an immediate lead. Hamels pitched seven strong innings, allowing two runs, while the bullpen held the line to secure a 3–2 victory for Philadelphia.
+
+### Game 2: October 23, 2008 (Tropicana Field, St. Petersburg)
+The Rays responded in Game 2 behind starter James Shields and an aggressive run-manufacturing strategy. Tampa Bay built an early lead through infield hits and stolen bases, taking advantage of cold initial hitting from the Phillies. The Rays prevailed 5–2, tying the series as action shifted to Philadelphia.
+
+### Game 3: October 25, 2008 (Citizens Bank Park, Philadelphia)
+Game 3 in Philadelphia was delayed by rain for over ninety minutes, starting late into the evening. Chase Utley and Ryan Howard hit back-to-back home runs in the bottom of the sixth inning to put Philadelphia ahead. After Tampa Bay tied the game 4–4 in the eighth inning, the Phillies mounted a walk-off rally in the bottom of the ninth. With the bases loaded, catcher Carlos Ruiz hit an infield single up the third-base line, allowing Eric Bruntlett to score the winning run in a 5–4 triumph.
+
+### Game 4: October 26, 2008 (Citizens Bank Park, Philadelphia)
+The Phillies' offense erupted in Game 4. Ryan Howard drove in five runs with two home runs, while starting pitcher Joe Blanton famously hit a solo home run—becoming the first pitcher to hit a World Series home run in 34 years. Blanton also delivered six solid innings on the mound, guiding Philadelphia to a commanding 10–2 victory and a 3–1 series lead.
+
+```
+Game 1: PHI 3, TB 2  (PHI leads 1-0)
+Game 2: TB 5, PHI 2  (Series tied 1-1)
+Game 3: PHI 5, TB 4  (PHI leads 2-1)
+Game 4: PHI 10, TB 2 (PHI leads 3-1)
+Game 5: PHI 4, TB 3  (PHI wins 4-1) [Suspended Oct 27, Resumed Oct 29]
+```
+
+### Game 5: October 27 & 29, 2008 (Citizens Bank Park, Philadelphia)
+Game 5 began on the night of October 27 under deteriorating weather conditions. The Phillies built an early 2–0 lead via RBI hits by Shane Victorino and Pedro Feliz. However, rain intensified throughout the evening, turning the infield dirt into mud. In the top of the sixth inning, the Rays tied the game 2–2. At that point, umpires officially suspended play—the first weather suspension in World Series history.
+
+After a full day of cold, heavy rain on October 28, the game resumed on the night of October 29 in the bottom of the sixth inning. Pinch-hitter Geoff Jenkins doubled immediately upon resumption and scored on a Jayson Werth single to put Philadelphia up 3–2. Tampa Bay's Rocco Baldelli answered with a solo home run off Ryan Madson in the top of the seventh to knot the score at 3–3.
+
+In the bottom of the seventh, Pat Burrell led off with a double off the center-field wall and was replaced by pinch-runner Eric Bruntlett. After a groundout advanced Bruntlett to third, Pedro Feliz drove him home with a clutch RBI single to give Philadelphia a 4–3 lead. In the top of the eighth, Chase Utley executed a legendary defensive play, fake-throwing to first base on a ground ball before throwing out Jason Bartlett at home plate to preserve the lead.
+
+In the top of the ninth inning, closer Brad Lidge took the mound. After allowing a baserunner, Lidge struck out Eric Hinske swinging on an 0–2 slider at 9:58 PM EDT. Lidge dropped to his knees in jubilation as catcher Carlos Ruiz ran to embrace him, prompting a bench-clearing pile-up on the infield dirt.
+
+---
+
+## 5. Aftermath
+
+The conclusion of Game 5 unleashed wild enthusiasm across the Delaware Valley. Hundreds of thousands of fans flooded the streets of South Philadelphia, Center City, and the university campuses to celebrate the breaking of the quarter-century championship drought.
+
+On October 31, 2008, the city hosted the official victory parade along Broad Street. An estimated two million spectators lined the route from City Hall down to the South Philadelphia Sports Complex. The parade culminated in a ceremony at Citizens Bank Park, where Hall of Fame broadcaster Harry Kalas delivered an emotional address to the crowd, immortalizing the moment with his signature phrase: "The Philadelphia Phillies are 2008 World Champions of baseball!"
+
+```
+2008 Victory Parade Highlights:
+• Location: Broad Street to Sports Complex
+• Attendance: Estimated 2.0 Million
+• Key Moment: Harry Kalas' stadium address
+• Legacy: Catalyst for 5 consecutive NL East titles (2007–2011)
+```
+
+The World Series title validated manager Charlie Manuel's leadership style and cemented the legacy of the 2008 core players in Philadelphia sports folklore. Cole Hamels was named World Series MVP, matching his NLCS MVP honors. Brad Lidge completed one of the most statistically extraordinary relief seasons in modern baseball history, finishing 48-for-48 in save opportunities across the regular season and playoffs.
+
+The 2008 championship signaled the apex of a dominant era for the franchise. The Phillies returned to the World Series in 2009 (falling to the New York Yankees in six games) and continued a streak of five consecutive NL East division championships through 2011, establishing a sellout streak at Citizens Bank Park that lasted 257 consecutive games.
+
+---
+
+## 6. See also
+
+* History of the Philadelphia Phillies
+* 1980 World Series (Phillies' first championship)
+* Citizens Bank Park
+* Charlie Manuel
+* Cole Hamels
+* Brad Lidge
+* Sports in Philadelphia
+
+---
+
+## 7. References
+
+1. Major League Baseball. "2008 World Series Schedule and Results." *MLB.com*, October 2008. https://www.mlb.com/postseason/history/2008/world-series
+2. Britannica, The Editors of Encyclopaedia. "Philadelphia Phillies". *Encyclopedia Britannica*, 2023. https://www.britannica.com/topic/Philadelphia-Phillies
+3. Britannica, The Editors of Encyclopaedia. "2008 World Series". *Encyclopedia Britannica*, 2023. https://www.britannica.com/event/2008-World-Series
+4. Encyclopedia of Greater Philadelphia. "Baseball and Philadelphia Sports History." *Mid-Atlantic Regional Center for the Humanities*, Rutgers University–Camden. https://philadelphiaencyclopedia.org
+5. The Philadelphia Inquirer. "Phillies Win the 2008 World Series: Special Commemorative Coverage." *The Philadelphia Inquirer*, October 30, 2008. https://www.inquirer.com

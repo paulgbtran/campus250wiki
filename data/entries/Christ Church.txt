@@ -1,0 +1,148 @@
+# Christ Church
+
+### Infobox
+
+| Key Metadata | Details |
+| :--- | :--- |
+| **Official Name** | Christ Church |
+| **Location** | 20 N. American Street, Philadelphia, Pennsylvania 19106 |
+| **Denomination** | Episcopal Church (Episcopal Diocese of Pennsylvania) |
+| **Founded** | 1695 |
+| **Building Construction** | 1727–1744 (Chancel and Nave); 1754 (Tower and Steeple) |
+| **Architectural Style** | Georgian Colonial |
+| **Architects / Builders** | Dr. John Kearsley; Robert Smith (Steeple) |
+| **Steeple Height** | 196 ft (60 m) |
+| **National Historic Landmark** | Designated April 15, 1970 |
+| **NRHP Reference No.** | 66000678 (Listed October 15, 1966) |
+| **Associated Burial Site** | Christ Church Burial Ground (5th and Arch Streets) |
+
+---
+
+## Lead section
+
+Christ Church is an Episcopal parish located at 20 North American Street in the historic Old City neighborhood of Philadelphia, Pennsylvania. Established in 1695 by members of the Church of England, the congregation played a foundational role in the religious, civic, and political history of colonial Pennsylvania and the early American Republic. Often designated "The Nation's Church," Christ Church served as a primary house of worship for many of the American Revolutionary generation, including delegates to the First and Second Continental Congresses and the Constitutional Convention.
+
+The present church edifice, constructed between 1727 and 1744 with a famous spire completed in 1754, is widely recognized as one of the finest surviving examples of Georgian ecclesiastical architecture in the United States. Designed under the supervision of physician and vestryman Dr. John Kearsley and master builder Robert Smith, the parish edifice was modeled on the contemporary London churches of Sir Christopher Wren and James Gibbs. Upon the completion of its 196-foot (60-meter) tower and steeple in 1754, Christ Church became the tallest structure in North America, a title it retained for over half a century until 1810.
+
+During the American Revolution, Christ Church stood at the intersection of spiritual life and political revolt. Following the declaration of independence, rector and parish leaders adapted the Anglican liturgy to align with the new sovereign nation, leading directly to the establishment of the Protestant Episcopal Church in the United States of America in 1789. Under the guidance of Reverend William White, who served as rector for nearly sixty years and became the first Presiding Bishop of the Episcopal Church, the parish established the structural governance that continues to define modern Episcopalianism.
+
+Today, Christ Church remains an active Episcopal congregation and a major historic preservation site, welcoming hundreds of thousands of visitors annually. Designated a National Historic Landmark in 1970, the church works in close partnership with the National Park Service and Independence National Historical Park to preserve its architectural fabric, liturgical artifacts, and nearby historic burial ground.
+
+---
+
+## History
+
+### Colonial Foundation (1695–1726)
+
+Christ Church was organized in 1695 under the provisions of the 1681 Royal Charter granted to William Penn. Although Penn designed Philadelphia as a haven for Quakers, the charter stipulated that an Anglican parish could be established if twenty or more residents petitioned the Bishop of London. Led by Reverend Thomas Clayton, the original congregation built a small, wooden-frame church on the current site. As the English Crown established greater administrative control over colonial trade and politics, the church became a social anchor for Anglican merchants, Royal government officials, and gentry settling in Pennsylvania.
+
+By the early eighteenth century, Philadelphia's rapid demographic and commercial expansion overwhelmed the original timber church. Under the tenure of Reverend Evan Evans and his successors, the vestry resolved to construct a cathedral-like structure capable of accommodating the city's expanding population and projecting the Anglican Church's prestige in British North America.
+
+```
+       1695                   1727–1744                   1754                   1789
+ [Parish Founded]  ───►  [Main Body Built]  ───►  [Steeple Completed]  ───►  [Episcopal Church
+   Wooden Frame            Georgian Brick            196 ft Spire              U.S. Founded]
+```
+
+### Construction of the Present Edifice (1727–1754)
+
+Construction of the current brick edifice commenced in 1727. To ensure that religious services remained uninterrupted, the new structure was erected directly around the original timber building, which was dismantled from within as the surrounding brick walls neared completion. Vestryman Dr. John Kearsley served as the primary director of design and construction, drawing inspiration from classical architectural handbooks imported from Great Britain.
+
+The main body of the church was finished in 1744. Ten years later, in 1754, a prominent west tower and steeple were added to the building. Financed in part through public lotteries organized by parishioner Benjamin Franklin, the tower was designed and built by master carpenter and architect Robert Smith. Upon its completion, the tower housed a chime of eight bells cast by the Whitechapel Bell Foundry in London—the same foundry responsible for casting the Liberty Bell. The completed 196-foot spire dominated Philadelphia’s skyline and served as a landmark for ships navigating the Delaware River.
+
+### Revolutionary Era and National Independence (1775–1789)
+
+As political tension between Great Britain and the American colonies escalated during the 1770s, Christ Church emerged as a vital spiritual home for Revolutionary leaders. Delegates to the Continental Congress, including George Washington, John Adams, Benjamin Franklin, Robert Morris, and Betsy Ross, regularly attended services in family pews. In July 1776, following the reading of the Declaration of Independence at the nearby Pennsylvania State House (Independence Hall), the vestry voted to excise prayers for the King of England from the Book of Common Prayer, effectively severing formal liturgical ties with the British Crown.
+
+During the British occupation of Philadelphia in 1777–1778, Christ Church faced severe disruptions. Anticipating the fall of the city, American patriots removed the church's chime of bells alongside the Liberty Bell, transporting them to Allentown, Pennsylvania, to prevent British troops from melting the bronze into munitions. The bells were safely returned and reinstalled following the British evacuation in 1778.
+
+Following the Revolutionary War, Reverend William White led efforts to reorganize the shattered Anglican churches across the former Thirteen Colonies. At national conventions held at Christ Church in 1785 and 1789, delegates drafted the constitution and canons of the Protestant Episcopal Church in the United States, established an independent American bishopric, and revised the Book of Common Prayer for American use. Bishop White was consecrated as the first Bishop of Pennsylvania and served as Presiding Bishop of the national church.
+
+### Nineteenth Century to Present
+
+Throughout the nineteenth and twentieth centuries, Christ Church maintained continuous worship services while surrounding Old City transformed into an industrial and commercial district. In 1948, the federal government established Independence National Historical Park, protecting the surrounding urban fabric. Christ Church was designated a National Historic Landmark on April 15, 1970. In 1965, the parish established the Christ Church Preservation Trust, a non-profit organization dedicated to managing historic preservation, educational programs, and public tourism independently of church operations.
+
+---
+
+## Architecture
+
+```
+                      / \
+                     /   \   Steeple & Vane (1754)
+                    /     \  Height: 196 ft
+                   |_______|
+                   |       |
+                   |   O   | Clock Tower & Bell Deck
+                   |_______|
+         __________|_______|__________
+        /                             \
+       |   [P]   [P]   [P]   [P]   [P] |  Georgian Brick Façade
+       |                               |  Flemish Bond Pattern
+       |   ====  === MAIN ===  ====   |  Symmetrical Arched Windows
+       |_______________________________|
+```
+
+### Exterior Georgian Design
+
+Christ Church is recognized as a masterpiece of American Georgian architecture, characterized by symmetry, classical proportions, and fine craftsmanship. The exterior is constructed of red brick laid in a Flemish bond pattern, accented by dark glazed headers that create a subtle geometric motif. The north and south facades feature two tiers of tall, arched windows framed by dressed limestone trim and decorative brick lintels.
+
+The east facade overlooking 2nd Street is distinguished by a grand Palladian window (also called a Venetian window) set above the chancel. Framed by brick pilasters with carved stone capitals and capped by a pediment, this window reflects the high classical influence of English architects Christopher Wren and James Gibbs.
+
+The west front is anchored by a three-story square brick tower, above which rises a wooden octagonal belfry and spire reaching 196 feet (60 meters). Capped by a gilded copper weather vane, the steeple features balustrades, classical cornices, and decorative urns at each corner.
+
+### Interior Layout and Liturgical Space
+
+The interior of Christ Church is designed as a double-aisled hall chapel with a barrel-vaulted ceiling. Two rows of fluted Ionic columns support gallery seating along the north and south walls before continuing toward the eastern chancel. The ceiling features ornate plaster moldings and a central vault painted in light, light-reflecting tones designed to maximize natural illumination from the large clear-glass windows.
+
+| Architectural Feature | Description & Historic Significance |
+| :--- | :--- |
+| **The Chancel & East Window** | A central altar area framed by the large Palladian window, designed to illuminate the sanctuary with natural light. |
+| **Folwell Pulpit** | Built in 1770 by Philadelphia cabinetmaker John Folwell; a wine-glass pulpit with an overhead sounding board. |
+| **Baptismal Font** | Carved font imported in 1697 from All Hallows Barking church in London; used in 1644 for the baptism of William Penn. |
+| **Pew 58** | The preserved family pew used by George Washington during his presidency (1790–1797) and frequently shared with government officials. |
+| **The Organ** | Houses historical pipe organ casings and mechanisms updated across successive generations of American organ builders. |
+
+---
+
+## Cultural significance
+
+Christ Church occupies a celebrated position in the political and religious narrative of the United States. Due to its close association with members of the Continental Congress, the parish is frequently commemorated alongside Independence Hall and the Liberty Bell as a cradle of American liberty.
+
+### The Nation's Church and Revolutionary Leadership
+
+During Philadelphia’s tenure as the capital of the United States under the Articles of Confederation and later the U.S. Constitution (1790–1800), Christ Church functioned as an informal national cathedral. President George Washington and First Lady Martha Washington regularly occupied Pew 58, while John Adams, Alexander Hamilton, Thomas Jefferson, and Benjamin Franklin held or frequented pews within the nave. Fifteen signers of the Declaration of Independence held pews at the church, anchoring its place in early national politics.
+
+### Christ Church Burial Ground
+
+In 1719, as the original churchyard surrounding the sanctuary filled to capacity, the parish purchased a plot of land at 5th and Arch Streets, two blocks west of the main church edifice, to establish Christ Church Burial Ground. Spanning two acres, the cemetery is one of the most historically significant burial sites in North America.
+
+It serves as the final resting place for numerous notable historic figures:
+* **Benjamin Franklin** (1706–1790), statesman, printer, scientist, and signatory of the Declaration of Independence and U.S. Constitution, buried alongside his wife, Deborah Read Franklin.
+* **Dr. Benjamin Rush** (1746–1813), "Father of American Psychiatry," Surgeon General of the Continental Army, and signatory of the Declaration of Independence.
+* **Francis Hopkinson** (1737–1791), author, judge, and signatory of the Declaration of Independence.
+* **Joseph Hewes** (1730–1779) and **George Ross** (1730–1779), signatories of the Declaration of Independence.
+
+Additional historical figures, including Founding Father and financier Robert Morris (interred in the family vault of Bishop White), Bishop William White, and Revolutionary War General Charles Lee, are interred in the churchyard and vaults adjacent to the main church edifice on 2nd Street.
+
+### Modern Public History and Heritage Tourism
+
+Christ Church continues to serve dual roles as an active parish within the Episcopal Diocese of Pennsylvania and as a civic museum. Supported by the Christ Church Preservation Trust, the site offers guided historic tours, musical organ concerts, and educational programs focusing on colonial history, early American religious freedom, and architectural preservation. The churchyard and burial ground remain open to the public as key destinations along Philadelphia’s historic tourism corridor.
+
+---
+
+## See also
+
+* Independence National Historical Park
+* Christ Church Burial Ground
+* Gloria Dei (Old Swedes') Church
+* St. Peter's Church (Philadelphia)
+* Bishop William White House
+* Old City, Philadelphia
+* Colonial Philadelphia
+
+---
+
+## References
+
+1. Encyclopedia of Greater Philadelphia. "Historic Places and Religious Institutions in Philadelphia." Retrieved from https://philadelphiaencyclopedia.org
+2. National Park Service. "Independence National Historical Park: Christ Church." U.S. Department of the Interior. Retrieved from https://www.nps.gov

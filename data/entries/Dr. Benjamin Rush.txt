@@ -1,0 +1,160 @@
+| **Benjamin Rush** |
+| :--- |
+| **Dr. Benjamin Rush**<br>*Portrait by Charles Willson Peale, 1783* |
+| **Delegate to the Continental Congress** |
+| **In office:** July 20, 1776 – February 1777 |
+| **Treasurer of the United States Mint** |
+| **In office:** 1797–1813 |
+| **Personal details** |
+| **Born** | January 4, 1746<br>Byberry Township, Province of Pennsylvania, British America |
+| **Died** | April 19, 1813 (aged 67)<br>Philadelphia, Pennsylvania, U.S. |
+| **Resting place** | Christ Church Burial Ground, Philadelphia, Pennsylvania |
+| **Spouse** | Julia Stockton ​(m. 1776)​ |
+| **Children** | 13 (including Richard Rush and James Rush) |
+| **Alma mater** | College of New Jersey (B.A., 1760)<br>University of Edinburgh (M.D., 1768) |
+| **Profession** | Physician, professor, social reformer, politician |
+| **Known for** | Signing the Declaration of Independence; "Father of American Psychiatry"; leader during the 1793 Philadelphia Yellow Fever epidemic; founder of Dickinson College |
+
+---
+
+### Lead section
+
+Dr. Benjamin Rush (January 4, 1746 – April 19, 1813) was an American physician, politician, social reformer, educator, and Founding Father who lived and practiced primarily in Philadelphia, Pennsylvania. A prominent figure in early American medical history, Rush was a signatory of the United States Declaration of Independence as a delegate representing Pennsylvania in the Continental Congress. Throughout his career, he bridged the domains of political ideology and scientific inquiry, positioning Philadelphia as a central hub of North American medicine and Enlightenment philosophy.
+
+Rush made significant contributions to medical education, public health, and institutional reform in the United States. Appointed Professor of Chemistry at the College of Philadelphia in 1769, he published the first chemistry textbook authored by an American. As a senior physician at the Pennsylvania Hospital, he revolutionized the treatment of mental illness, pioneering humane therapeutic practices that earned him recognition as the "Father of American Psychiatry." During the Revolutionary War, he served briefly as Surgeon General of the Middle Department of the Continental Army, though his tenure was marked by administrative conflict over military hospital sanitation and medical care.
+
+In Philadelphia history, Rush is particularly remembered for his controversial leadership during the 1793 Yellow Fever Epidemic. When a devastating outbreak wiped out nearly ten percent of the city's population, Rush remained in Philadelphia to care for thousands of afflicted residents. His aggressive therapeutic regime—consisting of heavy bloodletting and mercurial purges—sparked intense debate among contemporary physicians, yet his tireless public devotion and coordination with the local Free African Society solidified his status as a heroic figure during the crisis.
+
+Beyond medicine, Rush was a prominent activist for human rights, civic improvement, and educational reform. He served as president of the Pennsylvania Society for Promoting the Abolition of Slavery, advocated for public education, co-founded Dickinson College in Carlisle, Pennsylvania, and helped establish Franklin College. Later in life, he served as Treasurer of the United States Mint from 1797 until his death in 1813 and successfully mediated the historical reconciliation between political rivals John Adams and Thomas Jefferson.
+
+---
+
+### Early life and education
+
+Benjamin Rush was born on January 4, 1746, in Byberry Township, a rural community situated approximately fourteen miles outside Philadelphia (now part of Northeast Philadelphia). He was the fourth of seven children born to John Rush, a gunsmith and farmer, and Susanna Harvey Rush. Following his father’s death in 1751, when Benjamin was five years old, his mother moved the family into Philadelphia proper to operate a grocery shop, prioritizing her children’s academic instruction.
+
+At age eight, Rush was sent to live with his uncle, the Reverend Samuel Finley, who operated an academy in West Nottingham, Maryland. Under Finley's strict classical regimen, Rush studied Latin, Greek, mathematics, and religion. In 1759, at age thirteen, Rush enrolled at the College of New Jersey (now Princeton University), graduating with a Bachelor of Arts degree in 1760 at the age of fourteen. 
+
+```
+                                  [Samuel Finley's Academy]
+                                              │
+                                              ▼
+[Byberry Township] ──► [Philadelphia] ──► [College of New Jersey] ──► [Edinburgh Medical School]
+   (Birth, 1746)        (Childhood)        (B.A., 1760)                (M.D., 1768)
+```
+
+Determined to pursue medicine, Rush spent six years (1760–1766) serving as an apprentice under Dr. John Redman, one of Philadelphia’s most respected physicians. Encouraged by Redman and Dr. John Morgan, Rush traveled overseas in 1766 to matriculate at the University of Edinburgh Medical School in Scotland, then considered the premier medical faculty in the Western world. Studying under renowned figures such as William Cullen and Joseph Black, Rush obtained his Doctor of Medicine (M.D.) degree in 1768. He subsequently completed tours of hospitals in London and Paris, forming lifelong intellectual connections with Benjamin Franklin, Samuel Johnson, and English radical reformers before returning to Philadelphia in 1769.
+
+---
+
+### Career
+
+#### Academic Appointments and Revolutionary Politics
+Upon returning to Philadelphia in 1769, Rush opened a private medical practice that quickly grew due to his willingness to treat impoverished citizens without fee. That same year, at age twenty-three, he was elected Professor of Chemistry at the College of Philadelphia (later absorbed into the University of Pennsylvania), becoming the first professor of chemistry in British North America. In 1770, he published *A Syllabus of a Course of Lectures on Chemistry*, establishing foundational coursework for American scientific education.
+
+Rush enthusiastically embraced the Patriot cause as tension grew between Great Britain and the American colonies. He authored political pamphlets under pseudonyms, aligned with radical democratic leaders in Pennsylvania, and personally encouraged Thomas Paine to write *Common Sense* in 1775, providing the pamphlet's title. In July 1776, Rush was elected to the Second Continental Congress as a delegate from Pennsylvania, officially signing the Declaration of Independence in August 1776.
+
+```
+       [1769: Chemistry Chair, College of Phil.] ──► First US Chemistry Textbook (1770)
+                                │
+       [1776: Continental Congress Delegate]   ──► Signer, Declaration of Independence
+                                │
+       [1777: Continental Army Surgeon General]──► Middle Dept. Military Sanitation
+                                │
+       [1793: Yellow Fever Epidemic Leader]    ──► Coordinated with Free African Society
+                                │
+       [1812: Psychiatric Treatise Published]  ──► Medical Inquiries... Diseases of the Mind
+```
+
+In 1777, Rush entered military service as Surgeon General of the Middle Department of the Continental Army. Shocked by the unsanitary conditions and rampant disease in military hospitals, he clashed repeatedly with Director General Dr. William Shippen Jr. over corruption and supply shortages. Frustrated by Congress's failure to intervene and critical of General George Washington's military leadership, Rush resigned his commission in early 1778 and returned to civil practice in Philadelphia.
+
+#### The 1793 Yellow Fever Epidemic
+Rush's defining public health role occurred late in the summer of 1793, when a devastating outbreak of yellow fever struck Philadelphia, then serving as the national capital. As official institutions collapsed and thousands of residents fled, Rush remained in the city, routinely treating upwards of one hundred patients per day.
+
+Believing the disease originated locally from rotting coffee on the Delaware River docks rather than being imported, Rush developed an aggressive treatment plan known as "heroic medicine." This regimen combined severe intestinal purges using calomel (mercurous chloride) and jalap with extensive phlebotomy (bloodletting), often extracting significant quantities of blood from patients. While criticized by contemporary physicians such as Dr. William Currie and mocked by political journalists like William Cobbett, Rush held steadfast in his belief that violent depletion eased the body's vascular pressure. During the crisis, Rush relied heavily on black volunteers organized by Richard Allen and Absalom Jones of the Free African Society, mistakenly operating under the common belief that African Americans possessed immunity to the fever—an assumption disproved as the outbreak progressed.
+
+```
+[August 1793: Outbreak Begins] ──► [Rush Stays in Phila.] ──► [Partnership with Free African Society]
+                                           │
+                                           ▼
+                               [Heroic Medicine Regimen]
+                             • Calomel & Jalap Purges
+                             • Aggressive Phlebotomy
+```
+
+#### Psychiatric Innovations and Reform Leadership
+In his long appointment at the Pennsylvania Hospital starting in 1783, Rush spearheaded revolutionary reforms in the treatment of the mentally ill. At a time when psychiatric patients were routinely confined to unheated basements and exhibited for public entertainment, Rush insisted that mental illness was a physical disease originating in the blood vessels of the brain rather than a moral defect or demonic possession.
+
+He established dedicated wards, implemented occupational therapy, and published *Medical Inquiries and Observations upon the Diseases of the Mind* (1812), the first systematic treatise on psychiatry published in the United States. Although he introduced controversial mechanical devices such as the "tranquillizer chair" and the "gyrator" to manipulate cerebral blood flow, his core emphasis on warm baths, physical exercise, and respectful patient interaction marked a major shift toward moral therapy.
+
+Beyond clinical practice, Rush was an energetic civic reformer. He served as president of the Pennsylvania Society for Promoting the Abolition of Slavery from 1803 until his death, published early pamphlets condemning the Atlantic slave trade, and advocated for penal reform, opposing capital punishment and public executions. Believing that a republic required an educated citizenry, Rush published proposals for free public school systems and championed higher education, founding Dickinson College in 1783 and supporting the establishment of Franklin College (later Franklin & Marshall).
+
+---
+
+### Personal life
+
+On January 11, 1776, Benjamin Rush married Julia Stockton (1759–1848), the daughter of Richard Stockton, a prominent New Jersey lawyer and fellow signatory of the Declaration of Independence. The couple established their primary household in Philadelphia and maintained a close, affectionate marriage spanning thirty-seven years.
+
+Together, Benjamin Rush and Julia Rush had thirteen children, nine of whom survived infancy. Their home on Fourth Street in Philadelphia served as a central salon for visiting scholars, politicians, and medical pupils. Among their children, Richard Rush became a distinguished diplomat, serving as United States Attorney General, Secretary of the Treasury, and Minister to Great Britain and France, while James Rush followed his father into the medical profession, writing extensively on vocal physiology and endowing Philadelphia's Library Company.
+
+```
+                    ┌───────────────────────────────┐
+                    │      Dr. Benjamin Rush        │
+                    │         (1746–1813)           │
+                    └───────────────┬───────────────┘
+                                    │
+                         m. Julia Stockton (1776)
+                                    │
+             ┌──────────────────────┴──────────────────────┐
+             │                                             │
+   Richard Rush (1780–1859)                     James Rush (1786–1869)
+ (U.S. Attorney General &                       (Physician & Endower of
+  Secretary of Treasury)                         The Library Company)
+```
+
+Rush’s personal philosophy was deeply anchored in his changing religious convictions. Raised a Presbyterian, he maintained a lifelong faith in Christian humanism, briefly identifying with Universalist doctrines before returning to mainstream evangelical protestantism. In his final years, Rush turned his focus to personal reconciliations, successfully initiating a historic correspondence between former presidential rivals John Adams and Thomas Jefferson in 1812, restoring their friendship after a decade of political estrangement.
+
+In mid-April 1813, Rush contracted an acute febrile illness, diagnosed at the time as typhus fever. Despite receiving the bloodletting therapies he had long advocated for others, his condition deteriorated rapidly. He died at his Philadelphia home on April 19, 1813, at the age of sixty-seven, and was buried at Christ Church Burial Ground alongside many of his fellow revolutionary figures.
+
+---
+
+### Legacy
+
+Benjamin Rush remains one of the most complex and influential figures in early American history. His contributions to the nation’s founding, medical education, institutional reform, and intellectual culture left a lasting stamp on early nineteenth-century Philadelphia and the broader United States.
+
+```
+                                  Dr. Benjamin Rush's Legacy
+                                              │
+     ┌───────────────────┬────────────────────┼────────────────────┐
+     ▼                   ▼                    ▼                    ▼
+[American Psychiatry] [Medical Education]   [Public Reform]    [Educational Institutions]
+  • First US treatise   • 3,000+ Students     • Anti-slavery     • Founder, Dickinson College
+  • Pennsylvania Hosp.   • Penn Med Faculty     • Prison Reform   • Co-founder, Franklin Coll.
+```
+
+In American medicine, Rush is remembered as a founding figure who trained over three thousand medical students at the University of Pennsylvania, establishing Philadelphia as the capital of North American medical education throughout the nineteenth century. The American Psychiatric Association honors him on its official seal, recognizing his foundational text *Medical Inquiries and Observations upon the Diseases of the Mind* as the starting point for psychiatric study in North America.
+
+While modern medical historians acknowledge that his reliance on heroic medical therapies like bloodletting was scientifically flawed, his visionary work in public hygiene, mental health advocacy, anti-slavery organization, and educational access cemented his legacy. Numerous medical and educational institutions bear his name, including Rush University and Rush University Medical Center in Chicago, Illinois, Benjamin Rush Middle School, and Benjamin Rush State Park in his native Byberry Township, Philadelphia.
+
+---
+
+### See also
+
+* Yellow Fever Epidemic of 1793
+* Pennsylvania Hospital
+* Free African Society
+* Declaration of Independence
+* Dickinson College
+* Christ Church Burial Ground
+* Richard Allen (bishop)
+* University of Pennsylvania Perelman School of Medicine
+
+---
+
+### References
+
+1. University of Pennsylvania Archives & Records Center. "Benjamin Rush (1746–1813)." *Penn Biographies*. Available at: https://archives.upenn.edu/exhibits/penn-people/biography/benjamin-rush/
+2. National Park Service. "Benjamin Rush - Independence National Historical Park." *U.S. Department of the Interior*. Available at: https://www.nps.gov/inde/learn/historyculture/resources-declarationsigners-rush.htm
+3. Pennsylvania Hospital History. "Dr. Benjamin Rush (1746–1813): Father of American Psychiatry." *Penn Medicine History*. Available at: https://www.uphs.upenn.edu/paharc/features/rush.html
+4. Dickinson College Archives. "Benjamin Rush (1746–1813): Founder of Dickinson College." *Dickinson College Chronicles*. Available at: https://archives.dickinson.edu/people/benjamin-rush
+5. National Archives. "Signers of the Declaration of Independence: Benjamin Rush." *America's Founding Documents*. Available at: https://www.archives.gov/founding-docs/declaration-signers

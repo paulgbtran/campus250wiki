@@ -1,0 +1,166 @@
+### Infobox
+
+| **First United States Mint** | |
+| :--- | :--- |
+| **Event Type** | Establishment of the national coinage facility |
+| **Date** | April 2, 1792 (Enactment of Coinage Act) / July 1792 (Construction and initial striking) |
+| **Location** | 37 and 39 North Seventh Street, Philadelphia, Pennsylvania |
+| **Key Figures** | George Washington, Alexander Hamilton, Thomas Jefferson, David Rittenhouse, Henry Voigt |
+| **Authorized Denominations** | Eagle ($10), Half Eagle ($5), Quarter Eagle ($2.50), Dollar ($1), Half Dollar, Quarter Dollar, Disme (10¢), Half Disme (5¢), Cent (1¢), Half Cent |
+| **Monetary System Introduced** | Bimetallic decimal standard (Gold and Silver anchored to 100 cents per dollar) |
+| **Historical Significance** | First federal building constructed under the U.S. Constitution; established sovereign national currency infrastructure for the United States |
+
+---
+
+### Lead Section
+
+The establishment of the First United States Mint in Philadelphia in 1792 marked a foundational moment in the economic sovereignty and national infrastructure of the early United States. Authorized under the federal Coinage Act of April 2, 1792, the institution was established to address the financial chaos following the American Revolutionary War by providing a legal tender monetary system standardized across all thirteen states. Located in Philadelphia—then serving as the temporary capital of the United States—the Mint became the first federal facility commissioned and erected under the U.S. Constitution.
+
+The creation of the Mint was guided by prominent statesmen, most notably Secretary of the Treasury Alexander Hamilton and Secretary of State Thomas Jefferson, under the administration of President George Washington. Renowned polymath, astronomer, and inventor David Rittenhouse was appointed by Washington as the institution's first Director. The Mint instituted an innovative decimal currency system—subdividing the base unit dollar into one hundred cents—making the United States one of the earliest Western nations to formally adopt decimalized monetary accounting.
+
+Operationally, the Philadelphia facility commenced its initial coin production in July 1792 with the striking of silver half dismes (half dimes), reputedly produced from bullion supplied directly from President Washington’s personal silver collection. Full-scale operations expanded over the subsequent years with the production of copper cents and half cents in 1793, followed by standard gold and silver coinage in 1794 and 1795. The physical facility on Seventh Street, popularly known in later years as "Ye Olde Mint," operated for over four decades before being replaced by larger premises in Philadelphia.
+
+The establishment of the First U.S. Mint transformed the American financial ecosystem by gradually replacing circulating foreign specie, state-issued paper tokens, and inconsistent trade script with a uniform, federally guaranteed physical currency. It laid the foundation for modern American monetary policy and established Philadelphia as the historical epicenter of American coin production.
+
+---
+
+### Background
+
+#### Post-Revolutionary Monetary Context
+Following the conclusion of the Revolutionary War in 1783, the newly recognized United States suffered from severe monetary fragmentation. Lacking a central government authority capable of minting uniform federal currency under the Articles of Confederation, the American marketplace was dominated by a chaotic mixture of foreign coins. Spanish silver milled dollars (eight-reales pieces or "pieces of eight"), British guineas, French crowns, and Portuguese joes circulated alongside worn silver coins and diverse state-authorized copper tokens. Compounding this disarray was the collapse of Continental paper currency ("Continental currency"), which had suffered severe hyperinflation during the war effort.
+
+The lack of standardized exchange rates and widespread counterfeiting stifled domestic interstate commerce and hampered foreign trade. While individual states such as Massachusetts, Connecticut, and New Jersey set up local private or municipal mints in the mid-1780s to produce copper cents, these efforts lacked uniformity in weight, purity, and standard legal tender authority across state lines.
+
+#### Constitutional Authority and Political Debates
+The ratification of the United States Constitution in 1788 sought to rectify these monetary flaws. Article I, Section 8, Clause 5 explicitly conferred upon the United States Congress the power "To coin Money, regulate the Value thereof, and of foreign Coin." Conversely, Article I, Section 10 prohibited individual states from coining money or issuing paper bills of credit, ensuring federal supremacy over the national currency supply.
+
+```
+       [ U.S. Constitution (1788) ]
+   "To coin Money, regulate the Value thereof"
+                       │
+                       ▼
+ [ Hamilton's Report on the Mint (1791) ]
+   - Bimetallic Standard (Gold & Silver)
+   - Decimal Monetary Divisions
+                       │
+                       ▼
+    [ Passage of Coinage Act (Apr 2, 1792) ]
+   - Authorized U.S. Mint in Philadelphia
+```
+
+In January 1791, Secretary of the Treasury Alexander Hamilton submitted his influential *Report on the Establishment of a Mint* to the House of Representatives. Building upon earlier work by Thomas Jefferson and Gouverneur Morris, Hamilton proposed a bimetallic standard rooted in both gold and silver, anchored by a decimal structure. While Jefferson advocated for assigning administrative control of the Mint to the Department of State and favored a simple, practical decimal division, Hamilton viewed the institution as a vital pillar of national public credit and commercial expansion.
+
+#### Passage of the Coinage Act of 1792
+Congress formally enacted the legislation creating the Mint through the Coinage Act of April 2, 1792 (1 Stat. 246). The law formally established the United States Mint in the federal capital at Philadelphia, positioned the institution under the immediate administrative supervision of the Secretary of State, and authorized ten specific coin denominations spanning copper, silver, and gold:
+
+* **Gold Denominations:** Eagle ($10), Half Eagle ($5), Quarter Eagle ($2.50)
+* **Silver Denominations:** Dollar ($1), Half Dollar, Quarter Dollar, Disme (10¢), Half Disme (5¢)
+* **Copper Denominations:** Cent (1¢), Half Cent
+
+The Act established legal standards for metallic purity, specified national imagery—requiring an emblem freedom-symbolizing Liberty on the obverse and an American eagle on the reverse—and instituted the death penalty for any Mint officers found committing debasement or embezzlement.
+
+---
+
+### Course of Events
+
+#### Site Acquisition and Construction
+Following passage of the Act, President George Washington moved swiftly to execute its provisions. On April 14, 1792, Washington appointed David Rittenhouse as Director of the Mint, a choice praised across political factions due to Rittenhouse's reputation in mechanics, metallurgy, and mathematics. Henry Voigt, a clockmaker and mechanic, was appointed Chief Coiner.
+
+```
++----------------------------------------------------------------+
+|          CHRONOLOGY OF EARLY MINT OPERATIONS (1792-1795)        |
++----------------------------------------------------------------+
+| April 2, 1792   | Coinage Act passed by U.S. Congress.          |
+| April 14, 1792  | David Rittenhouse appointed First Director.   |
+| July 18, 1792   | Real estate purchased on 7th St, Philadelphia. |
+| July 1792       | First 1792 Half Dismes struck in shop nearby. |
+| March 1, 1793   | First public coinage (1793 Cents) released.    |
+| October 1794    | First silver dollars (Flowing Hair) struck.    |
+| September 1795  | First gold eagles and half eagles issued.      |
++----------------------------------------------------------------+
+```
+
+On July 18, 1792, the federal government acquired two lots at 37 and 39 North Seventh Street (near Sugar Alley) in Philadelphia for $4,266.67. Existing derelict buildings were cleared, and construction began immediately on a three-story brick factory building—the first building constructed by the federal government specifically for public operations. The site comprised three distinct structures:
+1. A three-story main office building facing Seventh Street.
+2. A middle building containing melting furnaces, rolling mills, and assay quarters.
+3. A rear mill house where horses originally turned the drive shafts powering the heavy coin-rolling machinery.
+
+#### Initial Coinage and Operational Challenges
+Pending completion of the mint building and installation of heavy machinery, early pattern pieces and test runs were executed in a nearby basement machine shop owned by John Harper at Sixth and Cherry Streets. On July 13, 1792, the first official federal trial strike occurred with the production of roughly 1,500 silver half dismes. Legend holds that Martha and George Washington contributed personal silver tableware to supply bullion for these initial strikes, which were later distributed by Thomas Jefferson to public officials and commercial figures.
+
+```
+       [ Raw Bullion / Silver Plate ]
+                     │
+                     ▼
+       [ Melting & Alloy Adjustment ]
+                     │
+                     ▼
+       [ Rolling Mill & Strip Planchets ]
+                     │
+                     ▼
+       [ Screw Press / Coin Dies ]
+                     │
+                     ▼
+ [ Finished Legal Tender (e.g., 1792 Half Disme) ]
+```
+
+By early 1793, the primary Seventh Street building was operational. On March 1, 1793, Chief Coiner Henry Voigt oversaw the striking of the first regular-issue circulation coins: 11,178 copper cents featuring the "Chain" reverse motif. Production quickly encountered public criticism regarding the artistic depiction of Liberty and the tight chain design on the reverse, leading engraver Adam Eckfeldt and die-sinker Joseph Wright to adjust the artwork to the "Wreath Cent" and "Liberty Cap" designs later that year.
+
+#### Expansion to Silver and Gold
+The Mint’s ability to strike silver and gold coins was initially delayed by statutory bonding requirements. Under the 1792 Act, the Chief Coiner and Assayer were required to post $10,000 bonds before handling precious metals—an exorbitant sum for private artisans. At the urging of Mint Director David Rittenhouse and government officials, Congress reduced these security bonds in March 1794, enabling bullion deposits to be processed.
+
+In October 1794, the Mint produced its first official silver coins: 1,758 silver dollars carrying Robert Scot’s "Flowing Hair" design. Gold coin production commenced in late summer 1795 with the issuance of 744 Capped Bust half eagles ($5), followed shortly by $10 eagles.
+
+| Denomination Class | First Year Issued | Primary Metal | Initial Iconic Design |
+| :--- | :--- | :--- | :--- |
+| **Half Disme** | 1792 | Silver (0.892 fine) | Early Liberty / Flying Eagle |
+| **Cent** | 1793 | Copper | Chain Cent / Wreath Cent |
+| **Dollar** | 1794 | Silver (0.892 fine) | Flowing Hair Dollar |
+| **Half Eagle ($5)** | 1795 | Gold (0.916 fine) | Capped Bust Right |
+
+Throughout these formative years, the Mint faced recurring external disruptions. Severe yellow fever epidemics struck Philadelphia repeatedly in 1793, 1797, 1798, and 1799, forcing temporary evacuations of the facility and causing the deaths of key personnel, including Engraver Joseph Wright in 1793 and Treasurer Dr. Nicholas Way in 1797. (Rittenhouse resigned due to failing health in June 1795 and was succeeded briefly by Henry William de Saussure, followed by Elias Boudinot).
+
+---
+
+### Aftermath
+
+#### Institutional Growth and Branch Mints
+Despite early technical and administrative difficulties, the Philadelphia Mint systematically expanded its production capacity throughout the early nineteenth century. Steam-powered press technology, introduced under Mint Director Samuel Moore and Chief Engineer Franklin Peale in the 1830s, replaced the original manual screw presses and horse-drawn machinery, vastly increasing output.
+
+As the nation’s borders expanded westward and massive gold strikes occurred in Georgia, North Carolina, and California, the single mint in Philadelphia could no longer meet national demand for circulating coinage. Under the Congressional Act of March 3, 1835, branch mints were established in Charlotte (North Carolina), Dahlonega (Georgia), and New Orleans (Louisiana), though the Philadelphia facility retained central administrative control and produced all master dies.
+
+#### Physical Legacy of the Original Site
+The original Seventh Street mint facility remained in continuous operation for forty-one years until 1833, when federal operations were transferred to a larger, classical revival marble building designed by John Haviland at Ninth and Chestnut Streets (the Second Philadelphia Mint). A third mint facility was opened on Spring Garden Street in 1901, followed by the current, fourth Philadelphia Mint on Arch Street in 1969.
+
+```
+[ 1st Mint (1792–1833) ] ──> 7th & Arch Streets ("Ye Olde Mint")
+[ 2nd Mint (1833–1901) ] ──> 9th & Chestnut Streets
+[ 3rd Mint (1901–1969) ] ──> 1700 Spring Garden Street
+[ 4th Mint (1969–Pres) ] ──> 151 North Independence Mall East
+```
+
+After being decommissioned in 1833, the original brick structures on Seventh Street were sold into private hands and utilized for commercial shops, print houses, and storage. Despite efforts by early antiquarians to preserve "Ye Olde Mint" as a national historical sanctuary, the buildings were demolished in 1911. Today, a historic marker located on Seventh Street near Arch Street in Philadelphia commemorates the precise location of the nation's inaugural mint building.
+
+---
+
+### See Also
+
+* [[Coinage Act of 1792]]
+* [[United States Mint]]
+* [[David Rittenhouse]]
+* [[Alexander Hamilton]]
+* [[Thomas Jefferson]]
+* [[Philadelphia High Court and Capital Era]]
+* [[History of the United States dollar]]
+* [[Flowing Hair Dollar]]
+
+---
+
+### References
+
+1. Taxay, Don. *The U.S. Mint and Coinage: An Illustrated History from 1792 to the Present*. New York: Arco Publishing, 1966.
+2. Stewart, Frank H. *History of the First United States Mint, Its People and Its Operations*. Philadelphia: Privately Printed, 1924. Available online via [Internet Archive](https://archive.org/details/historyoffirstun00stew).
+3. United States Mint. "History of the Philadelphia Mint." *U.S. Mint Historical Records*. Accessed 2024. Available online via [USMint.gov](https://www.usmint.gov/learn/history/historical-documents).
+4. Julian, R. W. *Early United States Coinage and Coin Mints*. Lawrence, KS: Quarterman Publications, 1977.
+5. National Archives and Records Administration. "Records of the Bureau of the Mint (Record Group 104), 1792–1998." *National Archives Catalog*. Available online via [Archives.gov](https://www.archives.gov/research/guide-fed-records/groups/104.html).
+6. Independence National Historical Park. "The First United States Mint Site." *National Park Service*. Available online via [NPS.gov](https://www.nps.gov/inde/index.htm).

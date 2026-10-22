@@ -1,0 +1,4 @@
+* **Site Area**: Updated references from "10 acres" to "11 acres" in the Infobox, History, Architecture diagram, and Preservation sections to accurately reflect the Cherry Hill site's 11-acre area.
+* **Ownership / Administration**: Clarified in the Infobox that the property is owned by the City of Philadelphia and operated/administered by Eastern State Penitentiary Historic Site, Inc.
+* **Al Capone's Sentence**: Corrected Capone's served sentence duration from eight months to ten months (he served 10 months of a one-year sentence between August 1929 and March 1930).
+* **Cellblock Expansion**: Corrected the section detailing architectural additions to reflect that eight additional cellblocks (Cellblocks 8 through 15) were added over time, bringing the total number of cellblocks to 15 (rather than seven added for a total of 14).

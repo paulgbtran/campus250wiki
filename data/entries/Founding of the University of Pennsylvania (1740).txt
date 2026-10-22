@@ -1,0 +1,94 @@
+### Infobox
+
+| **Founding of the University of Pennsylvania** | |
+| :--- | :--- |
+| **Date** | 1740 (Charity school trust); 1749–1751 (Franklin's proposal and opening of the Academy) |
+| **Location** | Fourth Street, Philadelphia, Province of Pennsylvania |
+| **Coordinates** | 39°57′00″N 75°08′49″W |
+| **Key Figures** | Benjamin Franklin, William Smith |
+| **Key Organizations** | Board of Trustees of the Academy and Charitable School, College of Philadelphia |
+| **Outcome** | Purchase of the 1740 site; creation of the Academy and Charitable School in 1751; granting of collegiate charter in 1755; designation as America's first university in 1779 |
+| **Significance** | Origin of the University of Pennsylvania; establishment of the first non-sectarian institution of higher learning in colonial North America with a practical liberal arts curriculum |
+
+---
+
+### Lead section
+
+The founding of the University of Pennsylvania traces its origins to 1740, when a plan emerged in colonial Philadelphia to erect a non-sectarian charity school that would simultaneously serve as a house of worship. Construction began on a substantial hall located on Fourth Street, but the projected expenses quickly outstripped the financial resources of the original organizers. As a consequence, the building remained unfinished and unused for nearly a decade, leaving the educational ambitions of the community unfulfilled until new leadership intervened.
+
+In 1749, polymath, printer, and publisher Benjamin Franklin revitalized the project by drafting and disseminating his seminal treatise, *Proposals Relating to the Education of Youth*. Franklin envisioned an educational institution distinct from the traditional colonial colleges of the era, focusing on preparing young people for active leadership in business, government, and civic life rather than exclusively training candidates for the Christian ministry. To implement his vision, Franklin assembled a group of 24 prominent Philadelphians to serve as trustees, acquiring the stalled 1740 building and assuming its original charitable obligations.
+
+The institution formally opened its doors in 1751 as the Academy and Charitable School in the Province of Pennsylvania, catering to students from both gentry and working-class backgrounds. Franklin served as president of the board of trustees until 1755 and remained an active trustee until his death in 1790. Under the direction of its first provost, William Smith, the school expanded its curriculum, combining Franklin's pragmatic emphasis with traditional classical studies, which ultimately established a precursor to the modern liberal arts system.
+
+The institution grew rapidly in status over the subsequent decades. It received a formal collegiate charter in 1755 as the College of Philadelphia, graduated its first class in 1757, and founded the first medical school in the American colonies in 1765. In 1779, following corporate reorganization by the Pennsylvania General Assembly, it became the first institution of higher education in North America to officially be designated as a university.
+
+---
+
+### Background
+
+During the mid-18th century, Philadelphia was rapidly growing into one of the largest and most commercially vibrant cities in British North America. Unlike older colonial centers in New England and Virginia, Philadelphia was characterized by religious pluralism, rapid economic expansion, and a growing class of merchants, artisans, and professionals. Despite this rapid demographic and economic development, the Province of Pennsylvania lacked an institution of higher learning capable of training its youth locally. Existing institutions in the Thirteen Colonies, such as Harvard, Yale, and the College of William & Mary, operated under denominational affiliations (Puritan/Congregationalist and Anglican) primarily geared toward educating traditional Protestant clergy.
+
+```
+       1740                         1749                          1751                         1755
+[Charity School Trust] ----> [Franklin's Pamphlet] ----> [Academy Opens on 4th St.] ----> [Collegiate Charter]
+  Construction Stalls         24 Trustees Formed           Charity/Gentry Education         William Smith Provost
+```
+
+In 1740, an initial effort was made to address both religious and educational needs in Philadelphia. A group of citizens organized a trust to build a grand hall on Fourth Street that would double as a charity school for underprivileged children and a house of worship for itinerant preachers, including the famed evangelist George Whitefield. Construction commenced shortly thereafter, but the ambitious scale of the structure created severe financial hardships for the organizers. As building costs mounted well beyond the trustees' means, work came to a halt. The unfinished brick structure stood vacant for nine years, symbolizing both the demand for public institutions in Philadelphia and the difficulty of sustaining them without systematic financial backing.
+
+By the late 1740s, the lack of higher educational facilities became a pressing concern for Philadelphia’s civic leaders. Benjamin Franklin, who had established himself as a central figure in Philadelphia's public life through projects like the Library Company of Philadelphia and the American Philosophical Society, recognized that the city's future leaders required a broader, more practical education than traditional colonial curricula provided. Franklin observed that the growing colony needed educated citizens skilled in civil governance, international commerce, practical science, and public administration.
+
+---
+
+### Course of events
+
+In autumn 1749, Benjamin Franklin published his influential essay, *Proposals Relating to the Education of Youth in Pensilvania*. In this pamphlet, Franklin outlined an innovative educational methodology that emphasized instruction in the English language, public speaking, history, geography, mathematics, political theory, and practical sciences alongside classical languages. Franklin argued that knowledge possessed value primarily through its practical application to civic improvement and social utility. He sought to create an institution that would educate children of the gentry and working classes alike, instilling virtues of public service and civic responsibility.
+
+To bring his proposal to fruition, Franklin organized a group of 24 influential citizens from various professional and religious backgrounds to act as the institution’s founding Board of Trustees. Franklin was elected as the first president of the board. Recognizing that constructing a new facility would be prohibitively expensive and time-consuming, the board turned its attention to the abandoned 1740 charity school building on Fourth Street. In late 1749, Franklin’s board negotiated an agreement with the original 1740 trustees to take over the property, pay off its outstanding construction debts, and fulfill the original charter's mandate to maintain a free charity school on the site.
+
+```
++-----------------------------------------------------------------------+
+|                 EVOLUTION OF THE INSTITUTION (1740–1779)              |
++-----------------------------------------------------------------------+
+|  1740: Charity School Trust founded & Fourth Street site acquired     |
+|  1749: Franklin publishes "Proposals" & forms Board of 24 Trustees    |
+|  1751: Academy & Charitable School opens on Fourth Street             |
+|  1755: Rechartered as the College of Philadelphia (William Smith)     |
+|  1765: School of Medicine founded (First in North America)            |
+|  1779: Rechartered as University of the State of Pennsylvania         |
++-----------------------------------------------------------------------+
+```
+
+With the physical structure secured, renovations were undertaken to convert the large meeting hall into classrooms and instructional spaces. On January 7, 1751, the institution officially opened as the Academy and Charitable School in the Province of Pennsylvania. The academy enrolled boys from various social backgrounds, offering instruction in practical and academic subjects. The attached charity school provided free foundational education to underprivileged children, fulfilling the original legal trust created in 1740.
+
+Franklin served as president of the institution until 1755, actively guiding its early governance and administration. However, conflict arose regarding the curriculum. In 1754, the trustees hired William Smith, a Scottish scholar and Anglican clergyman, to teach at the academy. In 1755, Smith was appointed the institution's first provost. Smith favored a curriculum rooted more heavily in traditional Greek, Latin, and classical scholasticism than Franklin had originally designed. Although Smith adjusted the curriculum closer to traditional academic models, he retained significant elements of Franklin’s emphasis on history, natural philosophy, and mathematics, resulting in a unique synthesis that shaped early American higher education.
+
+---
+
+### Aftermath
+
+Under William Smith’s leadership as provost, the institution secured a revised charter in 1755 from the Pennsylvania proprietaries, Thomas and Richard Penn, granting it collegiate status under the name of the College of Philadelphia. The college conferred its first bachelor of arts degrees to a graduating class of seven men in 1757. The institution continued to expand its scope, making landmark contributions to professional education. In 1765, Dr. John Morgan established a department of medicine within the college, creating the first medical school in North America and establishing Philadelphia as a premier center for medical education.
+
+During the American Revolutionary War, the institution faced political upheaval. In 1779, the newly formed Commonwealth of Pennsylvania legislature, suspecting Provost Smith and several trustees of Loyalist sympathies, revoked the 1755 charter and created a new corporate entity: the University of the State of Pennsylvania. This legislative act marked the first time an American institution of higher learning was officially designated as a university. In 1791, following political reconciliation, the state legislature merged the older College of Philadelphia with the newer entity to form the modern University of Pennsylvania.
+
+As the university expanded during the 19th century, it outgrew its original Fourth Street site. In 1802, the university relocated to the former Presidential Mansion on Ninth Street. By the late 1860s, further institutional expansion necessitated another move, leading the trustees to acquire land in West Philadelphia. In 1872, the university established its permanent 299-acre campus along the west bank of the Schuylkill River, inaugurating the site with the completion of College Hall in 1872.
+
+The foundation established in 1740 and organized in 1749 set a precedent for numerous educational innovations. The university later established the nation’s first collegiate business school (the Wharton School in 1881), built the first general-purpose electronic digital computer (ENIAC in 1946), and inaugurated the Ivy League's first female president (Judith Rodin in 1994). Penn continues to recognize 1740 as its official founding date, reflecting the formal origin of the educational trust and property that birthed the institution.
+
+---
+
+### See also
+
+* Benjamin Franklin
+* College of Philadelphia
+* William Smith (Episcopalian priest)
+* Colonial Colleges
+* History of Philadelphia
+* Wharton School of the University of Pennsylvania
+* ENIAC
+
+---
+
+### References
+
+1. University of Pennsylvania. "Penn's History." *University of Pennsylvania About Page*. Available online: https://www.upenn.edu/about/history

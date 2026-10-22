@@ -1,0 +1,6 @@
+* **Façade Material**: Corrected "blue marble" and "blue-grade Pennsylvania marble" to "white marble" and "Pennsylvania white marble". The building's front façade is faced with white marble quarried in Montgomery County, Pennsylvania.
+* **Reopening Timeline**: Changed past-tense assertions that the building "reopened to the public on July 1, 2026" to state that it is "scheduled to reopen to the public in 2026", as the major restoration project by the National Park Service is underway in preparation for the 2026 U.S. Semiquincentennial.
+* **Removed Fictitious Architectural Elements**:
+  * Removed descriptions of a non-existent doorway "Arch Keystone" featuring the "Head of Mercury" and a "Carved Marble Panel" depicting an "infant wearing Mercury's helmet" with a globe explicitly labeled "Africa".
+  * Updated the ASCII architectural diagram to remove the fictitious keystone/panel elements and reflect the actual entablature, modillion cornice, and white marble façade structure.
+* **Pediment Eagle Material**: Corrected "mahogany" to "wood" in the text, sub-heading, and ASCII diagram. National Park Service documentation describes Claudius LeGrand's pediment eagle sculpture simply as a carved wooden relief sculpture.

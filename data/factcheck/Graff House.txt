@@ -1,0 +1,5 @@
+* **Section 2 (Lead Section) & Section 4 (Architecture):** Clarified the sources used for the 1975 historic reconstruction. Original 18th-century architectural blueprints did not exist; the reconstruction relied primarily on a floor plan sketch drawn by Thomas Jefferson in an 1825 letter to Dr. James Mease, photographs of the exterior taken prior to its 1883 demolition, and historical tax/land records.
+* **Grammatical Fixes:**
+  * Fixed article usage in Section 3 ("a adjoining front parlor" -> "an adjoining front parlor").
+  * Fixed article usage in Section 4 ("a enclosed brick courtyard" -> "an enclosed brick courtyard").
+* **Section 7 (References):** Updated the NPS reference URL to align with official park documentation resources.

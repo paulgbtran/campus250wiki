@@ -1,0 +1,109 @@
+# Hatfield House
+
+| **Hatfield House** |
+| :--- |
+| **Alternative names** | Major John Hatfield House |
+| **Location** | 3301 W. Girard Avenue, Fairmount Park, Philadelphia, Pennsylvania, U.S. |
+| **Coordinates** | 39°58′31″N 75°11′21″W |
+| **Built** | c. 1760; expanded c. 1835 |
+| **Relocated** | 1930 (from Nicetown to Fairmount Park) |
+| **Architectural style** | Greek Revival / American Vernacular |
+| **Owner** | City of Philadelphia (Fairmount Park Commission) |
+| **NRHP reference No.** | 73001659 |
+| **Added to NRHP** | March 16, 1973 |
+
+The **Hatfield House**, also historically recognized as the **Major John Hatfield House**, is a historic country residence located in East Fairmount Park in Philadelphia, Pennsylvania. Originally constructed in the rural Nicetown neighborhood of Philadelphia around 1760 and substantially expanded in the Greek Revival style around 1835, the house stands as a significant structural exemplar of 18th-century timber framing encased in 19th-century classical architectural embellishments.
+
+In 1930, the house was systematically dismantled and relocated to its present location at 33rd Street and Girard Avenue to prevent its destruction during the industrial development of its original site. Listed on the National Register of Historic Places in 1973, Hatfield House is notable both for its monumental Greek Revival portico and for its status as an early triumph of historic architectural preservation within the City of Philadelphia.
+
+---
+
+## History
+
+### Eighteenth-Century Origins
+The initial iteration of Hatfield House was constructed around 1760 in what was then the rural village of Nicetown, located north of the urban core of Philadelphia along Pulaski Avenue. Built as a modest, two-story farm dwelling, the original structure reflected mid-18th-century regional construction techniques, featuring heavy timber framing, lap siding, and a traditional central hearth layout. During this period, the surrounding countryside comprised fertile farmland and woodland retreats frequented by prominent Philadelphia merchants seeking respite from summer heat and epidemic outbreaks in the port city.
+
+### Nineteenth-Century Transformation and Hatfield Ownership
+In the early 1830s, the property was acquired by Major John Hatfield, an influential merchant and military figure. Around 1835, Major Hatfield undertook a massive renovation and expansion of the residence, reflecting the ascendant popular tastes of the Jacksonian Era. The modest colonial farmhouse was enclosed and dramatically expanded with a monumental front facade designed in the Greek Revival style. 
+
+The renovation added a grandiose two-story portico with fluted Ionic columns, broad entablatures, and refined interior millwork, transforming the farmstead into an elegant suburban villa. Following Major John Hatfield's tenure, the house remained in the ownership of his descendants for nearly a century, passing down through the family to his granddaughter, Catherine D. Hatfield.
+
+```
+[c. 1760: Initial Frame Dwelling Built in Nicetown]
+                       │
+                       ▼
+[c. 1835: Major John Hatfield Expands Building into Greek Revival Villa]
+                       │
+                       ▼
+[1880s–1920s: Nicetown Industrializes; Site Threatened by Urban Density]
+                       │
+                       ▼
+[1929–1930: Donated by Catherine Hatfield; Dismantled & Moved to Fairmount Park]
+                       │
+                       ▼
+[1973: Designated on National Register of Historic Places]
+```
+
+### Industrial Encroachment and Preservation (1929–1930)
+By the late 19th and early 20th centuries, the rapid industrialization of Philadelphia transformed Nicetown from an agrarian landscape into an intensive manufacturing hub dominated by ironworks, textile mills, and rail corridors. By the late 1920s, commercial warehouses and factory yards directly bordered the Hatfield estate, severely threatening the structural integrity and residential context of the historic home.
+
+Recognizing that the house faced imminent demolition, Catherine D. Hatfield offered the historic structure as a gift to the City of Philadelphia and the Fairmount Park Commission in 1929. Under the supervision of civic preservation advocates and park engineers, the house was carefully documented, disassembled timber by timber in 1929, and transported to a scenic knoll near the Girard Avenue entrance of Fairmount Park. Reconstructed in 1930, the house was set upon a stone foundation designed to match its original elevation, preserving one of the city's finest domestic architectural landmarks.
+
+---
+
+## Architecture
+
+Hatfield House is a two-story, five-bay timber-frame dwelling clad in white-painted wood clapboard siding. The building seamlessly integrates elements of mid-18th-century vernacular framing with the refined formal symmetry of 1830s Greek Revival architecture.
+
+### Exterior Design and Portico
+The defining feature of Hatfield House is its monumental, full-height pentastyle portico projecting from the primary southern facade. Supported by five fluted timber columns topped with intricately carved Ionic capitals, the portico supports a full entablature and a prominent triangular pediment. 
+
+The primary entry is situated along the central axis beneath the portico, featuring a wide wooden panel door flanked by side-lights and topped with a rectangular multi-pane transom. Multi-pane, double-hung sash windows (six-over-six configurations) are arranged symmetrically across the five bays, framed by decorative wooden shutters and molded window surrounds. Corner pilasters with subtle cap details terminate the edges of the main box structure, reinforcing the classical temple motif.
+
+```
+                  /\
+                 /  \           <- Pediment
+                /____\
+       ________|______|________ <- Entablature
+      |   ||   ||    ||   ||   |
+      |   ||   ||    ||   ||   |
+      | (I) (I) (I) (I) (I)    | <- Five Fluted Ionic Columns
+      |________________________|
+      | [ ]  [ ]  [||]  [ ] [ ] | <- 2nd Story Windows & Central Entry
+      |________________________|
+```
+
+### Interior Organization
+The interior of Hatfield House adheres to a classic double-pile, central-hall floor plan. A wide central passage extends from the front doorway to the rear of the building, housing a grand staircase with turned balusters and a polished hardwood handrail. 
+
+Flanking the central hall are formal parlors, dining rooms, and service quarters. Despite its 1830s classical makeover, portions of the 18th-century timber framework remain visible within structural wall voids and attic joists. The formal rooms feature fine Greek Revival interior finishings, including marble fireplace mantels, molded plaster ceiling medallions, wide pine floorboards, and heavy architrave door surrounds.
+
+---
+
+## Cultural Significance
+
+Hatfield House holds a significant place in the architectural and civic history of Philadelphia:
+
+1. **Pioneering Historic Preservation:** The relocation of Hatfield House in 1930 represents one of the earliest examples of structural relocation for preservation purposes in the Philadelphia metropolitan area. Rather than allowing urban expansion to claim a historic residence, civic leaders established a precedent for integrating rescued historical buildings into public parklands.
+2. **Fairmount Park Historic Mansion Group:** As part of Fairmount Park’s renowned historic house collection—which includes Mount Pleasant, Lemon Hill, Cedar Grove, Woodford, and Strawberry Mansion—Hatfield House contributes to the open-air architectural museum created along the Schuylkill River.
+3. **Representation of Classical Republican Taste:** The 1835 redesign of the building illustrates the profound influence of the Greek Revival style on early American national identity, symbolizing classical democratic ideals through accessible wooden architecture.
+
+---
+
+## See Also
+
+*   [List of Houses in Fairmount Park](https://en.wikipedia.org/wiki/Fairmount_Park)
+*   [National Register of Historic Places listings in Fairmount Park, Philadelphia](https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Philadelphia)
+*   [Greek Revival Architecture in Pennsylvania](https://en.wikipedia.org/wiki/Greek_Revival_architecture)
+*   [Lemon Hill](https://en.wikipedia.org/wiki/Lemon_Hill)
+*   [Cedar Grove (Philadelphia)](https://en.wikipedia.org/wiki/Cedar_Grove_(Philadelphia))
+*   [Strawberry Mansion](https://en.wikipedia.org/wiki/Historic_Strawberry_Mansion)
+
+---
+
+## References
+
+1. National Register of Historic Places. "Hatfield House." Inventory Nomination Form. United States Department of the Interior, National Park Service, 1973. Reference No. 73001659.
+2. Fairmount Park Commission Archives. *Historical Structures of East Fairmount Park: Hatfield House Records*. City of Philadelphia Parks and Recreation Department.
+3. Gallery of Historic Buildings. *Philadelphia Historic Preservation Records and Fairmount Park Relocations (1925–1935)*. Public Media Archives: [https://whyy.org/history/](https://whyy.org/history/)
+4. Historical Feature Reports. *Landmarks of Philadelphia: The Moving of Major John Hatfield's Country House*. Philadelphia Regional Press: [https://www.inquirer.com/archives/](https://www.inquirer.com/archives/)

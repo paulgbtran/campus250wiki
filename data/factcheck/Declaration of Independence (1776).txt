@@ -1,0 +1,4 @@
+* **Lead section**: Corrected "more than ninety revisions by Congress" to "86 revisions", which accurately reflects historical consensus regarding the specific number of edits made by Continental Congress delegates to Thomas Jefferson's draft.
+* **Background section**: Changed "on that exact same day" regarding Thomas Paine's *Common Sense* to "on the following day, January 10, 1776," as James Wilson moved his resolution on January 9 and *Common Sense* was published on January 10.
+* **Course of events section**: Corrected the explanation for New York's abstention on July 1–2, 1776 from "because its provincial assembly was fleeing an invading British force" to "because its delegates had not yet received instructions from their provincial congress regarding independence."
+* **Course of events section**: Changed "more than ninety alterations" made by delegates to "86 alterations" to match historical data and consistency with the lead section.

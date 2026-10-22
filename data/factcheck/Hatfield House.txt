@@ -1,0 +1,3 @@
+* **NRHP Reference Number**: Corrected from `73001662` to `73001659` according to the official National Register listing.
+* **NRHP Designation Year**: Corrected from 1972 / March 16, 1972 to March 16, 1973 across the infobox, lead text, timeline, and reference citation.
+* **Portico Style & Column Count**: Corrected "tetrastyle" / "four fluted timber columns" to "pentastyle" / "five fluted timber columns". Hatfield House is famous for its unusual five-column Greek Revival portico. Updated the ASCII diagram to reflect all five columns.

@@ -1,0 +1,5 @@
+* **Construction Date Updated**: Replaced the general designation "18th Century" in the Infobox and text with the specific opening year of 1773 (construction began in 1772).
+* **Added First Continental Congress**: Clarified in the Lead, History, and "See also" sections that delegates to the First Continental Congress (1774) initially gathered at City Tavern prior to convening at Carpenters' Hall, including John Adams' famous description of it as "the most genteel tavern in America."
+* **Added 1834 Fire Event**: Included the fact that a major fire damaged the building in 1834, which precipitated its decline and ultimate demolition in 1854.
+* **Timeline Updated**: Added entries for the 1773 opening, the 1774 First Continental Congress gathering, and the 1834 fire.
+* **Reference URL Corrected**: Corrected the URL for Reference #2 to `https://www.nps.gov/inde/learn/historyculture/resources-citytavern.htm`.

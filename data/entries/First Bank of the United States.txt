@@ -1,0 +1,132 @@
+### Infobox
+
+| **First Bank of the United States** | |
+| :--- | :--- |
+| **Former Names** | Bank of the United States, Girard Bank |
+| **Location** | 116–120 S. 3rd Street (between Walnut and Chestnut Streets), Philadelphia, Pennsylvania, U.S. |
+| **Coordinates** | 39°56′51″N 75°08′46″W |
+| **Established** | December 1791 (Charter signed February 25, 1791) |
+| **Charter Expired** | March 4, 1811 |
+| **Construction Dates** | 1795–1797 |
+| **Architect** | Samuel Blodgett, Jr. |
+| **Sculptor** | Claudius LeGrand (pediment eagle) |
+| **Key Figures** | Alexander Hamilton, Thomas Jefferson, George Washington, James Madison, Thomas Willing, Stephen Girard |
+| **Architectural Style** | Neoclassical / Federal |
+| **Current Management** | National Park Service (Independence National Historical Park) |
+
+---
+
+### Lead section
+
+The **First Bank of the United States** (originally chartered simply as the Bank of the United States) was a national banking institution chartered by the United States Congress on February 25, 1791. Conceived by Alexander Hamilton, the first Secretary of the Treasury, the bank was established to handle the federal government's financial transactions, collect taxes, issue banknotes that served as a uniform currency, and manage national debt incurred during the American Revolutionary War. Headquartered in Philadelphia, Pennsylvania—then serving as the capital of the United States—the bank played a major role in establishing national credit and stabilizing the young nation's economy.
+
+The proposal to charter a national bank became a landmark flashpoint in early American political and constitutional history. Opposed by Secretary of State Thomas Jefferson and Representative James Madison, who advocated for a strict constructionist view of the U.S. Constitution, the bank bill passed Congress only after Hamilton produced a seminal defense of the doctrine of implied constitutional powers. This debate solidified the split between the nation's political factions, helping spark the First Party System between Hamilton's Federalists and Jefferson's Democratic-Republicans.
+
+Originally operating out of Carpenters' Hall, the bank moved into a newly constructed, purpose-built headquarters on South Third Street in 1797. Designed by architect Samuel Blodgett, Jr., the structure is one of the earliest examples of Neoclassical monumental architecture in the United States. Featuring a white marble façade, Corinthian columns, and ornamental details—including a carved wooden eagle on its pediment—the building communicated economic strength, stability, and national pride.
+
+Congress allowed the bank's twenty-year charter to expire in 1811 without renewal. The building and its local assets were subsequently purchased by Philadelphia merchant Stephen Girard, who operated it as Girard Bank. In 1955, the structure was acquired by the National Park Service to become part of Independence National Historical Park. Following extensive interior and exterior restoration, the historical building is scheduled to reopen to the public in 2026.
+
+---
+
+### History
+
+#### Origins and Constitutional Debate
+Following the Revolutionary War, the federal and state governments suffered under severe national debt, currency instability, and a lack of centralized fiscal mechanism. To establish credit and regulate commerce, Secretary of the Treasury Alexander Hamilton proposed creating a national bank modeled in part on the Bank of England, as well as a Philadelphia antecedent, the Bank of North America (established in 1781 under Superintendent of Finance Robert Morris). In December 1790, Hamilton submitted a detailed report to Congress requesting a twenty-year charter for a central banking corporation capitalized at $10 million, with $2 million provided by the federal government and the remainder opened to private investors.
+
+```
+       [Revolutionary War Debt & Instability]
+                         │
+                         ▼
+        [Hamilton Proposes National Bank (1790)]
+                         │
+        ┌────────────────┴────────────────┐
+        ▼                                 ▼
+[Jefferson & Madison]           [Hamilton Defense]
+Strict Construction             Implied Powers Doctrine
+Unconstitutional Proposal       15,000-word Rebuttal
+        │                                 │
+        └────────────────┬────────────────┘
+                         ▼
+          [Washington Signs Charter (1791)]
+```
+
+The proposal ignited intense legal and political opposition. Secretary of State Thomas Jefferson and James Madison argued that the U.S. Constitution provided no explicit authorization for Congress to incorporate a bank or grant chartered monopolies. Jefferson warned President George Washington that creating such an institution violated principles of strict constitutional construction, encroached upon state rights, and enriched urban elites and financial speculators at the expense of agrarian citizens. 
+
+Washington requested written opinions from his cabinet before deciding whether to veto the bill. Hamilton delivered a 15,000-word rebuttal arguing that Article I, Section 8 of the Constitution—specifically the "Necessary and Proper Clause"—granted Congress the implied power to execute its enumerated duties, such as collecting taxes, borrowing money, and regulating commerce. Hamilton’s doctrine of loose construction convinced Washington, who signed the chartering legislation into law on February 25, 1791.
+
+#### Bank Operations and Expansion
+The Bank of the United States officially commenced operations in December 1791. Its initial management board included prominent Philadelphians: Thomas Willing, who had previously served as president of the Bank of North America, became the First Bank's first president, working alongside appointed commissioners Samuel Howell and David Rittenhouse. The bank operated in tandem with the United States Mint in Philadelphia to help stabilize and regulate the national monetary supply.
+
+Although the First Bank did not directly set federal monetary policy in the modern sense, its sheer economic scale allowed it to exert immense influence over the economy. Its banknotes became the primary accepted medium for paying federal taxes, effectively creating the first reliable national currency at a time when private state-chartered banks issued fluctuating and unregulated paper bills. To ensure its reach expanded beyond Philadelphia, the bank established eight regional branches across major commercial ports and administrative centers:
+* **1792**: Boston, Baltimore, New York City, and Charleston
+* **1800**: Norfolk, Virginia
+* **1802**: Washington, D.C., and Savannah, Georgia
+* **1805**: New Orleans, Louisiana
+
+Despite its success in restoring credit and serving as a safe depository for federal receipts, the bank was involved in early financial turbulence, including a credit contraction during the Panic of 1792. Nevertheless, it fulfilled its role of paying off federal debt from the Revolution and facilitating foreign and domestic fiscal business.
+
+#### Charter Expiration, Girard Bank, and Modern Era
+As the bank's twenty-year charter approached expiration in 1811, political opposition reemerged. Democratic-Republicans, who held majorities in Congress under President James Madison, viewed the bank with continued ideological distrust and noted that a significant portion of its shares were held by foreign investors, primarily British capital. In early 1811, a recharter bill failed by a single vote in both the House and the Senate.
+
+Upon the liquidation of the First Bank's assets, wealthy Philadelphia merchant Stephen Girard purchased the bank's building on Third Street along with most of its stocks and physical capital, opening "Girard Bank" in 1812. Girard’s private institution provided crucial loans to the federal government during the War of 1812. 
+
+Following severe monetary disorganization during the War of 1812, President Madison recognized the need for a national central bank and signed legislation chartering the Second Bank of the United States in 1816. After Stephen Girard’s death in 1831, ownership of the building passed to the City of Philadelphia and later to subsequent corporate banking institutions, which utilized the headquarters through the mid-20th century. In 1955, the National Park Service acquired the property for inclusion in Independence National Historical Park, preserving its grand Classical Revival exterior. Following multi-million dollar stabilization and restoration campaigns, the bank is scheduled to reopen for public visitation in 2026.
+
+---
+
+### Architecture
+
+```
+                    [Triangular Pediment]
+             Carved Wooden Eagle (C. LeGrand)
+ ══════════════════════════════════════════════════════════
+    [ Corinthian Marble Columns / Portico Structure ]
+ ──────────────────────────────────────────────────────────
+           [ Modillion Cornice & Entablature ]
+ ──────────────────────────────────────────────────────────
+           [ White Marble Façade / Brick Core ]
+```
+
+#### Design and Construction
+When the bank opened in December 1791, it operated temporarily out of Carpenters' Hall on Chestnut Street. Construction on a dedicated bank building began on South Third Street in 1795 and concluded in 1797. Designed by merchant, developer, and amateur architect Samuel Blodgett, Jr., the building was conceived as a monumental monument symbolizing financial dependability, democratic permanence, and national order.
+
+The structure is three stories high, constructed primarily with a brick core faced entirely on its main street front with Pennsylvania white marble. The design adapts Roman monumental precedents—specifically modeled after Classical temples—introducing monumental Neoclassical and Federal architecture to civic construction in the new republic.
+
+#### Exterior Portico and Decorative Iconography
+The defining feature of the Third Street elevation is its grand two-story central portico supported by six fluted marble Corinthian columns. The portico projects from the main elevation and supports an classical entablature with a detailed modillion cornice, exemplifying Roman Classical influence on early American civic architecture.
+
+#### Carved Wooden Pediment Eagle
+Prominently mounted inside the tympanum of the building's triangular upper pediment is a monumental carved relief of an American bald eagle. Executed out of wood by woodcarver Claudius LeGrand, the sculpture depicts the eagle with outstretched wings holding an olive branch and arrows, flanked by a shield. The pediment piece represents the oldest known architectural application of the Great Seal of the United States on a public structure.
+
+#### Interior Modifications
+While the classical exterior facade remains preserved, the internal layout underwent substantial alteration over time. The most extensive modification occurred in 1902, when corporate banking owners remodeled the original late-18th-century floor plan into a spacious open banking room capped by an ornamental skylight. The National Park Service maintained these historical structural layers during mid-20th-century exterior preservation and 21st-century adaptive restoration.
+
+---
+
+### Cultural significance
+
+The First Bank of the United States occupies a pivotal place in the constitutional, economic, and cultural development of the early American republic:
+
+1. **Constitutional Precedent**: The legal controversy surrounding the creation of the bank established the broad interpretation of the "Necessary and Proper Clause" of the U.S. Constitution. Alexander Hamilton's 1791 argument for implied powers became the foundation for chief constitutional doctrines later codified by the U.S. Supreme Court under Chief Justice John Marshall in *McCulloch v. Maryland* (1819).
+2. **First Party System**: The bank proposal acted as the primary ideological catalyst that created the nation's first political parties. The conflict crystallized opposing constitutional philosophies—Federalist central administration and commercial expansion versus Democratic-Republican agrarian localism and limited federal power.
+3. **Philadelphia as Financial Epicenter**: Alongside the Bank of North America, the United States Mint, and Chestnut Street financial firms, the establishment of the First Bank cemented Philadelphia's position as the financial capital of the early United States throughout the Federal period.
+4. **Architectural Legacy**: Designed by Samuel Blodgett, Jr., the landmark established Neoclassical portico designs as the standard visual language for American financial and government institutions throughout the 19th and early 20th centuries.
+
+---
+
+### See also
+
+* [Bank of North America](https://philadelphiaencyclopedia.org/essays/bank-of-north-america/)
+* [Second Bank of the United States](https://www.nps.gov/inde/learn/historyculture/places-secondbank.htm)
+* [Carpenters' Hall](http://www.carpentershall.org/history/)
+* [Independence National Historical Park](https://philadelphiaencyclopedia.org/archive/independence-national-historical-park/)
+* [Panic of 1792](https://philadelphiaencyclopedia.org/essays/bank-of-the-united-states-first/)
+* Stephen Girard
+
+---
+
+### References
+
+1. Independence National Historical Park. "First Bank of the United States." National Park Service, U.S. Department of the Interior. https://www.nps.gov/inde/learn/historyculture/places-firstbank.htm
+2. Fansler, Jordan AP. "Bank of the United States (First)." *Encyclopedia of Greater Philadelphia*, Mid-Atlantic Regional Center for the Humanities (MARCH) at Rutgers University-Camden, 2016. https://philadelphiaencyclopedia.org/essays/bank-of-the-united-states-first/
+3. Independence National Historical Park. "First Bank Visitor Information." National Park Service. https://www.nps.gov/inde/planyourvisit/firstbank.htm

@@ -1,0 +1,4 @@
+* **Infobox (Cole Hamels' Stat Line):** Corrected Cole Hamels' World Series record from `2–0` to `1–0`. Hamels won Game 1 and earned a no-decision in Game 5 (reliever J.C. Romero earned the win in Game 5).
+* **Section 3 (Background):** Reclassified Pat Burrell as a homegrown draft pick rather than a veteran addition/trade acquisition. Burrell was drafted 1st overall by the Phillies in 1998 and spent his entire major league career up to 2008 with Philadelphia.
+* **Section 4 (Game 4):** Corrected the time gap since the last World Series home run hit by a pitcher from 35 years to 34 years (Ken Holtzman hit the previous one in 1974).
+* **Section 4 (Game 5):** Corrected the sequence of events in the bottom of the 7th inning. Pat Burrell led off with a double (replaced by pinch-runner Eric Bruntlett), and Pedro Feliz singled to drive in Bruntlett for the game-winning run (Chase Utley did not walk and score in that inning).

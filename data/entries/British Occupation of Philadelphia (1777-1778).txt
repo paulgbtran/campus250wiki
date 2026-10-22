@@ -1,0 +1,137 @@
+# British Occupation of Philadelphia (1777–1778)
+
+| **British Occupation of Philadelphia** |
+| :--- |
+| **Part of the American Revolutionary War** |
+| **Dates:** September 26, 1777 – June 18, 1778 |
+| **Location:** Philadelphia, Pennsylvania |
+| **Result:** Temporary British military occupation; strategic withdrawal to New York following French entry into the war |
+| **Belligerents:** Great Britain, Hesse-Kassel vs. United States |
+| **Commanders and Leaders:** Sir William Howe, Sir Henry Clinton, Charles Grey vs. George Washington, Anthony Wayne |
+| **Strength:** ~15,000 British & Hessian troops vs. ~11,000 Continental Army |
+| **Significance:** Interrupted British northern strategy; failed to destroy the Continental Army; catalyzed French intervention; created severe socio-economic disruption in the revolutionary capital |
+
+The **British Occupation of Philadelphia** (September 26, 1777 – June 18, 1778) was a major military event during the American Revolutionary War in which British and German garrison forces occupied Philadelphia, Pennsylvania, then serving as the national capital of the revolutionary United States and the meeting place of the Continental Congress. Initiated by Commander-in-Chief General Sir William Howe as part of the Philadelphia Campaign, the occupation followed a series of pitched tactical battles in eastern Pennsylvania and resulted in the flight of patriot government officials and thousands of civilian residents.
+
+Despite successfully capturing the rebel capital and holding it through the winter of 1777–1778, the British army achieved no decisive strategic advantage. Washington’s Continental Army maintained its forces intact during its winter encampment at nearby Valley Forge, while British troops under Howe struggled with river blockades, severe logistical supply shortages, inflation, and civil disruption within the city. 
+
+The occupation was additionally characterized by complex civilian internal dynamics. Philadelphia's population split between staunch Loyalists, displaced Patriots, and a substantial population known as "the disaffected"—neutral citizens, including many Quakers, who sought merely to survive the wartime demands of both sides. Additionally, the presence of British forces drew dozens of enslaved African Americans who sought emancipation under royal proclamations.
+
+Following the defeat and surrender of General John Burgoyne's army at Saratoga in October 1777 and the subsequent formal entry of France into the war as an American ally, British grand strategy shifted toward consolidating forces in New York. Howe resigned his command in the spring of 1778 and was succeeded by General Sir Henry Clinton, who executed a total evacuation of Philadelphia in June 1778, ending the nearly nine-month occupation without lasting military gain for the Crown.
+
+---
+
+## Background
+
+In 1777, British strategic planning originally called for a coordinated offensive aimed at isolating New England from the remaining American colonies. According to the original ministry plans, General John Burgoyne was to march south from Canada into New York State, while forces under General William Howe were expected to advance northward from New York City along the Hudson River valley. Instead of prosecuting the Hudson campaign, Howe made the unilateral decision to alter his operational focus and launch an amphibious expedition against Philadelphia. Howe calculated that seizing the revolutionary capital would draw General George Washington into a decisive battle that could destroy the Continental Army, while prominent Pennsylvania Loyalists, such as Joseph Galloway, assured British commanders that over 75 percent of the regional population remained loyal to the British Crown and would welcome royal authority.
+
+```
+       [Amphibious Expedition]
+Head of Elk (MD)  --->  Battle of Brandywine  --->  Paoli Massacre  --->  Occupation of Philadelphia
+  (August 1777)          (Sept 11, 1777)            (Sept 20, 1777)          (Sept 26, 1777)
+```
+
+In July 1777, Howe embarked roughly 15,000 British and Hessian soldiers aboard naval transports, sailing south along the Atlantic coast and entering the Chesapeake Bay to disembark at Head of Elk, Maryland, on August 25, 1777, approximately fifty miles southwest of Philadelphia. Washington moved the Continental Army to intercept the British advance. On September 11, 1777, the armies engaged at the Battle of Brandywine Creek, where Howe flanked the Continental lines, inflicting roughly 900 casualties on Washington's 11,000-man army while sustaining around 550 losses. 
+
+Following Brandywine, British Major General Charles Grey executed a surprise night ambush against Brigadier General "Mad Anthony" Wayne’s division at Paoli on September 20, ordering his men to remove their gun flints and rely solely on bayonets and swords. The attack resulted in 53 Continental deaths and 71 prisoners, becoming known in patriot press as the "Paoli Massacre."
+
+As news of the approaching British army reached Philadelphia, panic swept the city. Diarist Sarah Logan Fisher described a scene of chaos marked by rattling wagons, galloping horses, fleeing delegates, and crying children. More than 10 percent of Philadelphia’s houses were abandoned as patriot citizens and delegates of the Continental Congress fled into the hinterlands. Looting and civil disorder mounted in the empty homes until British forces under General Howe formally marched into Philadelphia on September 26, 1777, welcomed by Loyalist residents who lined the streets. On October 4, Washington attempted to dislodge the garrison at the Battle of Germantown, but a coordinated British counterattack repulsed the assault.
+
+---
+
+## Course of events
+
+### River Fortifications and Logistical Siege
+Upon occupying Philadelphia, Howe encountered immediate supply complications. Although thousands of Patriots had fled, the civilian population remaining in the city numbered approximately 15,000, which, combined with 15,000 military troops, doubled local demand for provisions. Because overland supply lines were precarious and subject to Continental partisan interdiction, Howe needed to secure the Delaware River to allow British naval supply ships access to the city quays.
+
+```
+                DELAWARE RIVER FORTIFICATIONS (1777)
+[Philadelphia] <=== River Access Blocked === [Chevaux-de-frise (Spikes)]
+                                                  |-- Fort Mifflin (Mud Island)
+                                                  |-- Fort Mercer (Red Bank, NJ)
+                                                  |-- Fort Billingsport (NJ)
+```
+
+However, Delaware River transit was blocked by three American fortifications:
+* **Fort Mifflin** on Mud Island;
+* **Fort Mercer** at Red Bank, New Jersey;
+* **Fort Billingsport** at Billingsport, New Jersey.
+
+Connecting these forts across the river channel were underwater lines of *chevaux-de-frise*—heavy wooden frames tipped with iron spikes designed to pierce the hulls of approaching warships. American garrisons defended these positions for nearly seven weeks, effectively imposing a blockade on British-occupied Philadelphia. 
+
+Food, firewood, and basic commodities grew scarce, causing severe inflation. Diarist Elizabeth Drinker recorded the distress of the period, noting that "everything [is] scarce and dear, and nothing suffer’d to be brought in to us." To shelter troops, British officers quartered soldiers in private homes and repurposed local churches into military hospitals for wounded and sick personnel. Conditions were especially brutal in the Walnut Street Jail, where captured American prisoners suffered from starvation, extreme cold, and harsh treatment by jailers. 
+
+Although Howe attempted to regulate soldier conduct by establishing courts-martial—sentencing plundering soldiers to up to 1,000 lashes and offering financial rewards for information on theft—looting of livestock, wood, and personal property remained widespread. In November 1777, prolonged British naval bombardments and land assaults finally reduced Forts Mifflin, Mercer, and Billingsport, clearing the *chevaux-de-frise* and opening the river for British transports, though commodity prices in the city remained high.
+
+### Civilian Dynamics and "The Disaffected"
+Historical analysis of the occupation demonstrates that Philadelphia's political sentiment was far more nuanced than a simple division between Patriots and Loyalists. A substantial portion of the population belonged to what historians term "the disaffected." This group included Quaker pacifists, religious conscientious objectors, and pragmatists who viewed the Revolutionary War not as an ideological contest to be won, but as an existential disaster to be endured.
+
+Figures such as diarist James Allen exemplified this sentiment, writing in 1776, "I love the cause of liberty, but cannot heartily join in the prosecution of measures totally foreign to the original plan of Resistance." The disaffected refused to rally to either side, adapting their compliance to whichever army held local physical authority. They sought primarily to safeguard their families, properties, and commercial interests, treating both the British Crown and the Continental Congress with equal skepticism.
+
+```
+              PHILADELPHIA CIVILIAN SPECTRUM (1777–1778)
++-------------------+-----------------------------------+-------------------+
+|     PATRIOTS      |          THE DISAFFECTED          |     LOYALISTS     |
+| Fled city; framed | Pacifists, Quakers, Pragmatists;  | Welcomed Howe;    |
+| Continental war   | Neutrality, self-preservation,    | Assisted British  |
+| effort externally | adapting to active garrison rule  | administration    |
++-------------------+-----------------------------------+-------------------+
+```
+
+For African American residents, both free and enslaved, the occupation presented distinct dilemmas and opportunities. Some Black Philadelphians aligned with the Revolutionary cause; 35 Black soldiers served in the Second Pennsylvania Brigade of the Continental Army, while others sailed on privateer vessels. Conversely, many enslaved individuals leveraged Lord Dunmore’s 1775 Proclamation—which promised freedom to enslaved persons owned by rebels who joined royal forces—by escaping to British lines. During the occupation, Black men and women served the British army as laborers, guides, and military auxiliary units. When the British army ultimately evacuated the city, dozens of formerly enslaved individuals departed alongside the garrison to avoid re-enslavement.
+
+### Military Life, Leisure, and the Meschianza
+Throughout the winter of 1777–1778, while Washington’s army underwent winter training amidst severe deprivation at Valley Forge, the British garrison in Philadelphia engaged in extensive leisure activities. Officers and enlisted men frequented taverns, gambled, played cards, and organized social functions. From January through May 1778, British officers staged at least fourteen theatrical productions at the Southwark Theatre on Monday evenings.
+
+```
+                      THE MESCHIANZA (MAY 18, 1778)
+========================================================================
+Flatboat Regatta  ==>  Jousting Tournament  ==>  Gala Feast, Fireworks
+  (Delaware River)    ("Blended Rose" vs.         & Ballroom Dance at
+                        "Burning Mountain")       Walnut Grove Mansion
+========================================================================
+```
+
+Having submitted his resignation as commander-in-chief in October 1777 (which was accepted by London in April 1778), General William Howe prepared to relinquish his command. Prior to his departure, his subordinate officers planned an elaborate farewell celebration held on May 18, 1778, known as the **Meschianza** (Italian for "medley"). Organized by Captain John André, the festival included:
+1. A grand regatta of decorated flatboats and galleys carrying hundreds of guests down the Delaware River;
+2. A medieval-style jousting tournament featuring officers outfitted as knights fighting on behalf of the "Ladies of the Blended Rose" and "Ladies of the Burning Mountain";
+3. An elaborate feast, fireworks display, and ballroom dance hosted at the Wharton family’s Walnut Grove mansion in South Philadelphia.
+
+The Meschianza cost over 3,000 guineas, prompting sharp condemnation from local citizens and diarists like Elizabeth Drinker, who criticized the extravagance amidst widespread wartime ruin, writing, "How insensible do these people appear, while our Land is so greatly desolated."
+
+---
+
+## Aftermath
+
+The strategic landscape of the Revolutionary War shifted dramatically during the occupation. On October 17, 1777, General Burgoyne surrendered his army following the Battle of Saratoga. The American victory convinced the French Crown to form a military alliance with the United States. Faced with the threat of a French fleet capable of trapping British forces along the Atlantic seaboard, the British ministry determined that holding Philadelphia offered no strategic value and diverted forces away from the middle colonies.
+
+General Sir Henry Clinton replaced Howe in May 1778 with explicit orders to abandon Philadelphia and retreat to New York City. On June 18, 1778, the British garrison completed its evacuation of the city, crossing the Delaware River into New Jersey. Approximately 3,000 Loyalist citizens fled Philadelphia alongside Clinton's army, fearing retribution from returning Patriots. Washington's forces moved swiftly to reoccupy the city, restoring the Continental Congress to its capital.
+
+```
+                STRATEGIC REVERSAL & EVACUATION
+Surrender at Saratoga (Oct 1777)  --->  Franco-American Alliance
+                                              |
+                                              v
+Clinton replaces Howe (May 1778)  --->  British Evacuation of Phila (June 1778)
+```
+
+Ultimately, Howe’s occupation of Philadelphia proved to be an operational failure. It failed to break the political will of the Continental Congress, failed to destroy the Continental Army, alienated neutral regional populations, and directly contributed to the disaster at Saratoga by diverting vital forces away from the Hudson River offensive.
+
+---
+
+## See also
+
+* [[Philadelphia Campaign]]
+* [[Battle of Brandywine]]
+* [[Battle of Germantown]]
+* [[Meschianza]]
+* [[Valley Forge]]
+* [[Fort Mifflin]]
+* [[Walnut Street Jail]]
+
+---
+
+## References
+
+1. Robinson, Martha K. "British Occupation of Philadelphia." *Encyclopedia of Greater Philadelphia*. Mid-Atlantic Regional Center for the Humanities, Rutgers University-Camden. https://philadelphiaencyclopedia.org/essays/british-occupation-of-philadelphia/
+2. Sullivan, Aaron. "The Disaffected." *Museum of the American Revolution*. https://www.amrevmuseum.org/read-the-revolution/the-disaffected

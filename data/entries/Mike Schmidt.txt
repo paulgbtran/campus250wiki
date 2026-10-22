@@ -1,0 +1,137 @@
+# Mike Schmidt
+
+## 1. Infobox
+
+| Key Attribute | Details |
+| :--- | :--- |
+| **Full Name** | Michael Jack Schmidt |
+| **Born** | September 27, 1949 (Dayton, Ohio, U.S.) |
+| **Position** | Third baseman |
+| **Batted / Threw** | Right / Right |
+| **MLB Debut** | September 12, 1972, for the Philadelphia Phillies |
+| **Last MLB Appearance** | May 28, 1989, for the Philadelphia Phillies |
+| **Career MLB Statistics** | Batting Average: .267<br>Home Runs: 548<br>Hits: 2,234<br>Runs Batted In: 1,595<br>On-Base Plus Slugging (OPS): .908 |
+| **Teams Played For** | Philadelphia Phillies (1972–1989) |
+| **Major Awards & Honors** | 3× NL Most Valuable Player (1980, 1981, 1986)<br>World Series Champion (1980)<br>World Series MVP (1980)<br>12× MLB All-Star (1974, 1976, 1977, 1979–1984, 1986, 1987, 1989)<br>10× Gold Glove Award (1976–1984, 1986)<br>6× Silver Slugger Award (1980–1984, 1986)<br>8× NL Home Run Leader (1974–1976, 1980, 1981, 1983, 1984, 1986)<br>Philadelphia Phillies No. 20 Retired<br>National Baseball Hall of Fame (1995) |
+
+---
+
+## 2. Lead section
+
+Michael Jack Schmidt (born September 27, 1949) is an American former professional baseball third baseman who spent his entire 18-year Major League Baseball (MLB) career playing for the Philadelphia Phillies from 1972 to 1989. Widely recognized by baseball historians, analytics experts, and peers as the greatest third baseman in the history of professional baseball, Schmidt combined elite power hitting with exceptional defensive skills at third base. Over the course of his career, he fundamentally transformed expectations for his position and became one of the defining figures of Philadelphia sports history during the late twentieth century.
+
+During his tenure with the Phillies, Schmidt amassed 548 career home runs, drove in 1,595 runs, and won eight National League (NL) home run titles. A twelve-time All-Star, Schmidt was awarded ten Gold Glove Awards for his defensive excellence at third base and captured six Silver Slugger Awards. His offensive prowess and defensive consistency earned him three National League Most Valuable Player (MVP) Awards in 1980, 1981, and 1986, placing him among an elite group of players to win the award three or more times in MLB history.
+
+Schmidt played a central role in guiding the Philadelphia Phillies through one of the most successful eras in franchise history. Under the leadership of manager Dallas Green and alongside teammates such as pitcher Steve Carlton, catcher Bob Boone, and infielder Larry Bowa, Schmidt anchored the core that won Division titles in 1976, 1977, 1978, 1980, and 1983. His defining team achievement occurred in 1980, when he led the Phillies to the franchise’s first World Series championship in its 97-year history, securing World Series MVP honors following his pivotal offensive performance against the Kansas City Royals.
+
+Following his retirement during the 1989 season, Schmidt was elected to the National Baseball Hall of Fame in 1995 in his first year of eligibility, receiving 96.5% of the vote. The Philadelphia Phillies retired his jersey number 20 and erected a bronze statue in his honor outside Citizens Bank Park. Schmidt's enduring association with the region remains a cornerstone of Greater Philadelphia's athletic heritage and regional sports culture.
+
+---
+
+## 3. Early life and education
+
+Michael Jack Schmidt was born on September 27, 1949, in Dayton, Ohio. Raised in a working-class Midwestern family, Schmidt displayed early athletic versatility, playing baseball, basketball, and football during his youth. While attending Fairview High School in Dayton, he suffered severe back injuries—including a cracked vertebra—that temporarily endangered his athletic future. Despite these physical setbacks, Schmidt recovered and concentrated his talents primarily on baseball and football during his senior high school years.
+
+Following high school graduation, Schmidt enrolled at Ohio University in Athens, Ohio, where he joined the Ohio Bobcats baseball program under head coach Bob Wren. Playing shortstop for the Bobcats, Schmidt established himself as a dominant collegiate player. In 1970, he led Ohio University to the NCAA College World Series in Omaha, Nebraska, earning first-team All-American honors in both 1970 and 1971. His collegiate performance demonstrated significant defensive agility and pull-side raw power, catching the attention of major league scouts across the country.
+
+In June 1971, the Philadelphia Phillies selected Schmidt in the second round (30th overall pick) of the Major League Baseball Draft. After signing with the organization, he was assigned to the Phillies' minor league affiliates, beginning his professional career with the Reading Phillies in the Eastern League and later progressing to the Triple-A Eugene Emeralds of the Pacific Coast League, where franchise coaches transitioned him from shortstop to third base.
+
+---
+
+## 4. Career
+
+### Early MLB Years and Breakthrough (1972–1975)
+Schmidt made his major league debut on September 12, 1972, for the Philadelphia Phillies. His initial stint in the major leagues proved challenging; in his first full season in 1973, Schmidt struggled at the plate, hitting just .196 with 136 strikeouts in 438 at-bats. Despite these early plate-discipline difficulties, manager Danny Ozark maintained faith in Schmidt's defensive reflexes and bat speed.
+
+Schmidt’s major breakthrough came during the 1974 season. Adjusting his batting stance by opening his hips and standing further back in the batter's box, he saw immediate dividends. Schmidt hit .282 with 36 home runs and 116 runs batted in (RBIs), winning his first National League home run title and earning his first All-Star selection. On June 10, 1974, at the Houston Astrodome, Schmidt hit a famous ball off the centerfield speaker suspended 117 feet above the field; under local ground rules, the ball remained in play for a single, though it was estimated to have traveled over 500 feet. He followed his 1974 campaign by winning home run titles in 1975 (38 HRs) and 1976 (38 HRs), cementing his status as one of the premier sluggers in the Senior Circuit.
+
+```
++-------------------------------------------------------------------+
+|                  MIKE SCHMIDT: CAREER MILESTONES                  |
++----------------------+--------------------------------------------+
+| April 17, 1976       | Hits 4 consecutive HRs vs. Chicago Cubs     |
+| October 21, 1980     | Wins World Series Championship & MVP       |
+| November 1980, 81, 86| Captures 3 National League MVP Awards       |
+| April 18, 1987       | Connects for 500th Career Home Run         |
+| May 29, 1989         | Announces Retirement from Professional MLB  |
+| January 1995         | Inducted into Baseball Hall of Fame (96.5%)|
++----------------------+--------------------------------------------+
+```
+
+### Championship Era and MVP Dominance (1976–1983)
+On April 17, 1976, Schmidt performed one of the most remarkable single-game offensive feats in baseball history at Wrigley Field against the Chicago Cubs. Coming back from a 13–2 deficit, the Phillies won 18–16 in 10 innings, powered by Schmidt’s four consecutive home runs, culminating in a game-winning two-run shot in the top of the tenth inning. That same year, Schmidt received his first of nine consecutive Gold Glove Awards, demonstrating elite range, soft hands, and a powerful throwing arm at third base.
+
+The peak of Schmidt's career aligned with the Philadelphia Phillies' championship era. In 1980, Schmidt put together one of the finest individual seasons by a third baseman in baseball history. He batted .286, set a then-record for third basemen with 48 home runs, drove in 121 runs, and posted a slugging percentage of .624. He was unanimously named the National League MVP. 
+
+In the postseason, Schmidt batted .381 with two home runs and seven RBIs in the 1980 World Series against the Kansas City Royals. In Game 6 at Veterans Stadium, his two-run single off Rich Gale provided the offensive spark needed to secure a 4–1 victory and the Phillies' first World Series crown in franchise history. Schmidt was awarded the World Series Most Valuable Player Award.
+
+```
+                    1980 NL MVP Season
+         +--------------------------------------+
+         | Home Runs           48 (NL Leader)   |
+         | RBIs               121 (NL Leader)   |
+         | Slugging %        .624 (NL Leader)   |
+         | World Series MVP  .381 AVG, 2 HRs    |
+         +--------------------------------------+
+```
+
+Schmidt retained his peak performance during the strike-shortened 1981 season, claiming his second consecutive NL MVP award after leading the league in home runs (31), RBIs (91), runs scored (78), walks (73), and total bases (228). In 1983, Schmidt led the Phillies back to the World Series—dubbed the "Wheeze Kids" era due to the team's veteran roster—where they ultimately fell to the Baltimore Orioles.
+
+### Later Career, 500th Home Run, and Retirement (1984–1989)
+Schmidt won his third NL MVP award in 1986 at age 37, leading the National League with 37 home runs and 119 RBIs while picking up his tenth Gold Glove Award. On April 18, 1987, at Three Rivers Stadium in Pittsburgh, Schmidt hit his 500th career home run off Pittsburgh Pirates pitcher Don Robinson in the top of the ninth inning, becoming just the 14th player in MLB history to reach the milestone.
+
+Injuries began to diminish Schmidt’s durability in the late 1980s, particularly persistent shoulder pain. On May 29, 1989, during a road trip in San Diego, Schmidt unexpectedly announced his retirement from active play, effective immediately. Visibly emotional during his press conference, Schmidt explained that he felt he could no longer perform at the elite standard he set for himself, choosing to retire rather than compromise his legacy. Despite retiring early in the season, fans voted him as the starting third baseman for the 1989 National League All-Star team, though he opted to participate in uniform without taking an at-bat.
+
+---
+
+## 5. Personal life
+
+Mike Schmidt married Donna Wightman in 1974, and the couple established their primary residence in suburban Philadelphia before later relocating to Jupiter, Florida. They have two children, Jessica and Jonathan. Throughout his active playing career, Schmidt was known for maintaining a reserved, highly disciplined personal lifestyle off the field, balancing the intense public spotlight of Philadelphia sports media with personal privacy.
+
+During his early career, Schmidt experienced a complex relationship with Philadelphia sports fans and media columnists. Known for his seemingly smooth, effortless style of play on defense and his unemotional demeanor, some fans misconstrued his low-key intensity as a lack of effort—a dynamic Schmidt occasionally addressed in public interviews. Over time, however, mutual respect developed between Schmidt and the Philadelphia fanbase, which fully embraced his competitive drive, loyalty to the franchise, and historic on-field excellence.
+
+In retirement, Schmidt remained active in public life, pursuing charitable causes, commercial endorsements, and broadcast media work. He hosted annual charity golf tournaments to raise funds for cancer research and pediatric health initiatives. In 2013, Schmidt disclosed that he had successfully fought Stage III melanoma, after which he became a vocal advocate for skin cancer awareness, early detection, and sun safety precautions for outdoor athletes and fans. He also served as a guest instructor for the Phillies during Spring Training in Clearwater, Florida, and worked as a color commentator for Phillies television broadcasts on NBC Sports Philadelphia.
+
+---
+
+## 6. Legacy
+
+Mike Schmidt’s legacy in Philadelphia and major league baseball history is defined by his unprecedented combination of offensive power and defensive mastery at third base. Prior to Schmidt's career, third basemen were rarely expected to serve as a team's primary middle-of-the-order power hitter while simultaneously offering Gold Glove-caliber defensive coverage. Schmidt established the modern template for the position, leading all third basemen in major league history in wins above replacement (WAR), total home runs at the position, and field-general impact.
+
+In January 1995, Schmidt was elected to the National Baseball Hall of Fame in Cooperstown, New York, receiving votes on 96.5% of ballots cast by the Baseball Writers' Association of America (BBWAA). His induction alongside Phillies legend Richie Ashburn and pitcher Leon Day marked a celebration of his career achievements by baseball fans across Greater Philadelphia.
+
+```
+===================================================================
+                  MIKE SCHMIDT CAREER HONORS
+===================================================================
+  * 3× National League Most Valuable Player (1980, 1981, 1986)
+  * World Series MVP (1980)
+  * 10× Gold Glove Award Winner at Third Base
+  * 12× Major League Baseball All-Star
+  * Member of the Major League Baseball All-Century Team (1999)
+  * Philadelphia Sports Hall of Fame Charter Member
+===================================================================
+```
+
+Within Greater Philadelphia, Schmidt remains a central figure in regional identity and regional sports lore. He spent all 18 seasons of his major league career exclusively with the Phillies, a rarity in modern professional sports. His bronze statue, created by sculptor Zenos Frudakis and installed outside the Third Base Gate at Citizens Bank Park, serves as a physical monument to the championship era he defined. For generations of Philadelphians, Mike Schmidt represents the absolute pinnacle of athletic achievement, excellence, and loyalty in the history of Philadelphia sports.
+
+---
+
+## 7. See also
+
+*   Philadelphia Phillies
+*   1980 World Series
+*   Veterans Stadium
+*   Citizens Bank Park
+*   Steve Carlton
+*   Dallas Green (baseball)
+*   History of sports in Philadelphia
+
+---
+
+## 8. References
+
+1. Britannica, The Editors of Encyclopaedia. "Mike Schmidt". *Encyclopaedia Britannica*. Available online: [https://www.britannica.com/biography/Mike-Schmidt](https://www.britannica.com/biography/Mike-Schmidt)
+2. The Encyclopedia of Greater Philadelphia. "Sports and Recreation / Philadelphia Athletics and Phillies History". *Encyclopedia of Greater Philadelphia*. Available online: [https://philadelphiaencyclopedia.org](https://philadelphiaencyclopedia.org)
+3. National Baseball Hall of Fame and Museum. "Mike Schmidt Class of 1995". *Baseball Hall of Fame Cooperstown*.
+4. Philadelphia Phillies Hall of Fame Archives. "Number 20: Michael Jack Schmidt Career Retrospective". *MLB.com / Philadelphia Phillies History*.

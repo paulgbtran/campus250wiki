@@ -1,0 +1,121 @@
+# George Meade
+
+## Infobox
+
+| **Major General George Gordon Meade** |
+| :--- |
+| **Commander of the Union Army of the Potomac (1863–1865)** |
+| **Born** | December 31, 1815 <br> Cádiz, Spain |
+| **Died** | November 6, 1872 (aged 56) <br> Philadelphia, Pennsylvania, U.S. |
+| **Place of Burial** | Laurel Hill Cemetery, Philadelphia, Pennsylvania |
+| **Allegiance** | United States of America |
+| **Service / Branch** | United States Army |
+| **Years of Service** | 1835–1836, 1842–1872 |
+| **Rank** | Major General |
+| **Commands Held** | Army of the Potomac <br> V Corps <br> 3rd Division, I Corps <br> 2nd Brigade, Pennsylvania Reserves |
+| **Battles / Wars** | Mexican–American War <br> American Civil War <br> • Battle of Glendale <br> • Battle of Second Manassas <br> • Battle of Antietam <br> • Battle of Gettysburg <br> • Overland Campaign <br> • Siege of Petersburg <br> • Appomattox Campaign |
+| **Civic Roles** | Commissioner of Fairmount Park, Philadelphia (1868–1872) |
+
+---
+
+## Lead section
+
+George Gordon Meade (December 31, 1815 – November 6, 1872) was a senior United States Army officer and civil engineer who played a decisive role in the American Civil War, most notably as the commanding general of the Union Army of the Potomac from 1863 until the war's conclusion in 1865. A graduate of the United States Military Academy at West Point, Meade initially pursued civil engineering in private industry before re-entering military service in the U.S. Corps of Topographical Engineers. His early military career featured staff duty during the Mexican-American War as well as extensive surveys and construction projects along the American coast.
+
+At the onset of the Civil War, Meade was appointed brigadier general of volunteers and assigned to the Eastern Theater. He rose rapidly through command levels due to his tactical skill and bravery under fire, serving in major engagements across Virginia and Maryland. Despite suffering a severe wound at the Battle of Glendale in 1862, he quickly returned to lead troops at Second Manassas, Antietam, and Fredericksburg. In June 1863, amid the second Confederate invasion of the North, President Abraham Lincoln abruptly named Meade commander of the Army of the Potomac, replacing General Joseph Hooker. 
+
+Only three days after assuming army command, Meade engaged General Robert E. Lee’s Army of Northern Virginia at the Battle of Gettysburg (July 1–3, 1863). Meade’s skillful defensive management repulsed Lee's offensive, delivering a pivotal victory that halted the Confederate invasion of Pennsylvania. Although celebrated for his success, Meade faced sharp political criticism for failing to aggressively pursue and destroy Lee's retreating army before it recrossed the Potomac River. When Ulysses S. Grant was named general-in-chief of all Union armies in March 1864, Grant established his field headquarters directly alongside Meade’s army, resulting in a complex command structure through the Overland Campaign, the Siege of Petersburg, and the final Confederate surrender at Appomattox Court House.
+
+Following the war, Meade maintained deep ties to the city of Philadelphia, serving as a military governor in the Reconstruction South before returning to Pennsylvania. In 1868, he was appointed a commissioner of Fairmount Park, where his civil engineering expertise helped shape the city’s landmark urban parkland. Meade died in Philadelphia in 1872 and was buried at Laurel Hill Cemetery. His legacy remains preserved through national military sites and public monuments throughout Philadelphia, including an iconic bronze equestrian statue in West Fairmount Park.
+
+---
+
+## Early life and education
+
+George Gordon Meade was born on December 31, 1815, in Cádiz, Spain, where his father, Richard Worsam Meade, served as an American merchant and U.S. naval agent. The family returned to the United States following financial difficulties brought on by the Napoleonic Wars and political complications in Spain. Raised in the United States, Meade sought a career in public service and secured an appointment to the United States Military Academy at West Point, New York. He graduated in 1835, embarking on his early career during a period of expanding national infrastructure.
+
+Following graduation, Meade received a commission in the U.S. Army, but his initial military tenure was brief. Desiring more lucrative civilian opportunities in civil engineering, Meade resigned his commission in 1836 after just one year of active service. Over the next six years, he engaged in railroad surveying and government mapping projects throughout the Atlantic states. However, the expected financial gains from private engineering ventures failed to materialize, leading Meade to seek re-entry into the armed forces.
+
+In 1842, Meade was re-appointed to the U.S. Army as a lieutenant in the Corps of Topographical Engineers. Over the next decade, his engineering assignments provided vital technical experience, encompassing coastal surveys, mapping, and lighthouse construction along the East Coast and Great Lakes. During the Mexican-American War (1846–1848), Meade served as a staff officer under generals Zachary Taylor and William J. Worth, conducting tactical reconnaissances and mapping strategic terrain. His meticulous engineering background and war-zone staff work established a firm foundation for his future field command roles.
+
+---
+
+## Career
+
+Meade entered the American Civil War as a brigadier general of volunteers in August 1861, taking command of a brigade in the Pennsylvania Reserves assigned to the Eastern Theater. During the Peninsula Campaign in June 1862, Meade demonstrated conspicuous courage during the Battle of Glendale, where he was severely wounded in the arm and torso. Despite the gravity of his injuries, he returned to active duty in time to command his brigade at the Battle of Second Manassas in August 1862, winning praise for his defensive handling of Union troops during a difficult retreat.
+
+Meade’s leadership during the Maryland Campaign in September 1862 further cemented his military reputation. Promoted to division command, he directed troops during the Battle of South Mountain and took over command of the I Corps temporarily at the Battle of Antietam after General Joseph Hooker was wounded. By December 1862, Meade led his division in a daring break through Confederate lines at the Battle of Fredericksburg. His effective tactical performance brought a promotion to major general of volunteers and permanent command of the V Corps, which he led through the Chancellorsville campaign in May 1863.
+
+On June 28, 1863, while the Army of the Potomac was actively maneuvering against Robert E. Lee's invasion of Maryland and Pennsylvania, President Lincoln unexpectedly ordered Meade to replace Joseph Hooker as commander of the Army of the Potomac. Accepting the command under extraordinary pressure, Meade organized his scattered army while marching north. Just three days later, Union and Confederate forces collided at the crossroads town of Gettysburg, Pennsylvania. From July 1 to July 3, 1863, Meade coordinated defensive operations along Cemetery Ridge, repulsing sequential Confederate assaults—culminating in the defeat of Pickett's Charge on the final day. 
+
+```
+                          [ Command Hierarchy (1864–1865) ]
+                                          │
+                     Lieutenant General Ulysses S. Grant
+                       (General-in-Chief, U.S. Army)
+                                          │
+                                          ▼
+                      Major General George G. Meade
+                  (Commander, Army of the Potomac)
+                                          │
+       ┌──────────────────────────┬───────┴───────────────────┐
+       ▼                          ▼                           ▼
+    II Corps                   V Corps                     VI Corps
+(Hancock/Humphreys)        (Warren/Griffin)                (Sedgwick/Wright)
+```
+
+Despite the major Union triumph at Gettysburg, political tension immediately surfaced. President Lincoln and Northern officials expressed deep disappointment that Meade did not aggressively pursue and destroy Lee's battered forces before they safely retreated across the flooded Potomac River into Virginia. In March 1864, Ulysses S. Grant was promoted to lieutenant general and named general-in-chief of all Union armies. Grant chose to establish his field headquarters alongside Meade’s Army of the Potomac, supervising overall strategy while Meade managed operational army details. Meade chaffed under Grant’s close oversight during the grueling Overland Campaign, the Siege of Petersburg, and the Appomattox Campaign, frequently resenting press reports and public accounts that credited Grant exclusively for victories achieved by the Army of the Potomac.
+
+---
+
+## Personal life
+
+Meade was married to Margaretta Sergeant, the daughter of prominent Philadelphia politician and lawyer John Sergeant. Together they raised a large family, maintaining strong social ties within Philadelphia's civic and political elite. Throughout his military service, Meade maintained a voluminous personal correspondence with his wife, revealing a private perspective on army politics, military strategy, and his own internal struggles. Meade was known by his contemporaries as an officer of intense personal discipline and high duty, though he possessed a quick, fiery temper that earned him the nickname "Old Snapping Turtle" among his subordinates and war correspondents.
+
+In the post-war period, Meade briefly served as military governor over the Third Military District (encompassing Georgia, Alabama, and Florida) during Reconstruction, exercising authority over local political restructuring. Returning to civilian life in Philadelphia, Meade accepted an appointment in 1868 as a commissioner for Fairmount Park. Applying his engineering expertise, Meade personally designed and surveyed many of the park's early infrastructure projects, including its scenic carriage drives, walking paths, and bridle trails, transforming the city's vast green spaces into structured public parkland.
+
+Meade resided in Philadelphia until his death on November 6, 1872, at the age of 56, stemming from pneumonia aggravated by complications from his old war wounds. He was interred with major public honors at Philadelphia's historic Laurel Hill Cemetery.
+
+---
+
+## Legacy
+
+Meade’s historical legacy is tied to his victorious defense at the Battle of Gettysburg and his postwar civic service to the City of Philadelphia. Although historically overshadowed by Grant's supreme command, modern military historians recognize Meade for his exceptional defensive management, organizational competence, and steady leadership during critical national moments. His post-war engineering work on Fairmount Park established a physical landscape legacy that remains heavily used by Philadelphians today.
+
+```
++-------------------------------------------------------------------------+
+|                  MAJOR GENERAL GEORGE GORDON MEADE                      |
+|                  Equestrian Monument (Dedicated 1887)                   |
+|                                                                         |
+|   Sculptor:  Alexander Milne Calder (1846–1923)                         |
+|   Sponsor:   Association for Public Art (Fairmount Park Art Assoc.)     |
+|              & Meade Memorial Women's Auxiliary Committee               |
+|   Location:  Lansdowne Drive, West Fairmount Park, Philadelphia        |
+|                                                                         |
+|   Features:  Bronze statue of Meade atop his warhorse "Old Baldy"       |
+|              Positioned facing toward his resting place at              |
+|              Laurel Hill Cemetery across the Schuylkill River           |
++-------------------------------------------------------------------------+
+```
+
+Following Meade’s death, the Fairmount Park Art Association (now the Association for Public Art) launched a fundraising campaign alongside the Meade Memorial Women's Auxiliary Committee to erect a monument in his honor. Despite economic disruptions following the Panic of 1873, the committee secured funds to commission sculptor Alexander Milne Calder. Dedicated in 1887 before a crowd of over thirty thousand onlookers, the major bronze equestrian statue depicts Meade atop his warhorse "Old Baldy." Situated on Lansdowne Drive north of Memorial Hall in West Fairmount Park, the monument stands atop a granite base, with Meade’s figure oriented toward his burial place at Laurel Hill Cemetery across the river.
+
+Today, Meade is commemorated across several national military parks—including Gettysburg, Antietam, Fredericksburg & Spotsylvania, Petersburg, Richmond, and Appomattox Court House—reflecting his comprehensive operational presence across the Civil War's Eastern Theater.
+
+---
+
+## See also
+
+* Laurel Hill Cemetery
+* Fairmount Park
+* Association for Public Art
+* Alexander Milne Calder
+* Battle of Gettysburg
+* Army of the Potomac
+
+---
+
+## References
+
+1. National Park Service. "George G. Meade." *U.S. National Park Service*, Department of the Interior. Accessed January 12, 2022. https://www.nps.gov/people/george-g-meade.htm
+2. Association for Public Art. "Major General George Gordon Meade." *Association for Public Art*. Accessed April 2026. https://associationforpublicart.org/artwork/major-general-george-gordon-meade/

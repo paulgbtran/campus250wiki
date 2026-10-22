@@ -14,6 +14,8 @@ import os
 import sys
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
+sys.path.append(str(rootDir / "scripts"))
+import gemini_utils
 
 from google import genai
 from google.genai import types
@@ -21,7 +23,7 @@ from google.genai import types
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash"
 OUTPUT_DIR = rootDir / "data"
 OUTPUT_FILE = OUTPUT_DIR / "topics.txt"
 
@@ -37,7 +39,8 @@ BASE_PROMPT = (
     "Constitutional Convention of 1787; Event\n"
     "The Great Migration's impact on Philadelphia; Cultural Narrative\n\n"
     "Be thorough and include entries spanning Philadelphia's full 250-year "
-    "history, from its founding by William Penn in 1682 through the present day."
+    "history, from its founding by William Penn in 1682 through the present day. "
+    "Do not add in articles that is already added or fully references existing topics."
 )
 
 
@@ -58,70 +61,74 @@ def build_prompt(existing_entries: list[str]) -> str:
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    # Resolve API key
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        sys.exit(
-            "Error: GEMINI_API_KEY environment variable is not set.\n"
-            "Set it with:  export GEMINI_API_KEY='your-key-here'  (Linux/macOS)\n"
-            "              set GEMINI_API_KEY=your-key-here        (Windows CMD)\n"
-            "              $env:GEMINI_API_KEY='your-key-here'     (PowerShell)"
+    try:
+        # Resolve API key
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+            sys.exit(
+                "Error: GEMINI_API_KEY environment variable is not set.\n"
+                "Set it with:  export GEMINI_API_KEY='your-key-here'  (Linux/macOS)\n"
+                "              set GEMINI_API_KEY=your-key-here        (Windows CMD)\n"
+                "              $env:GEMINI_API_KEY='your-key-here'     (PowerShell)"
+            )
+
+        # Load existing topics so we can merge rather than overwrite
+        existing_lines: list[str] = []
+        if OUTPUT_FILE.exists():
+            raw = OUTPUT_FILE.read_text(encoding="utf-8")
+            existing_lines = [l.strip() for l in raw.splitlines() if l.strip()]
+            print(f"Found {len(existing_lines)} existing topics in {OUTPUT_FILE}")
+
+        # Build a normalised set for fast duplicate detection (case-insensitive)
+        existing_normalised = {l.lower() for l in existing_lines}
+
+        # Initialize the Gemini client
+        client = genai.Client(api_key=api_key)
+
+        print(f"Querying {MODEL} for new Philadelphia historical topics …")
+
+        prompt = build_prompt(existing_lines)
+        response = gemini_utils.query_gemini(
+            client=client,
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                temperature=0.4,          # lower temperature for factual output
+                max_output_tokens=8192,   # allow a long list
+            ),
         )
 
-    # Load existing topics so we can merge rather than overwrite
-    existing_lines: list[str] = []
-    if OUTPUT_FILE.exists():
-        raw = OUTPUT_FILE.read_text(encoding="utf-8")
-        existing_lines = [l.strip() for l in raw.splitlines() if l.strip()]
-        print(f"Found {len(existing_lines)} existing topics in {OUTPUT_FILE}")
+        # Extract the text from the response
+        text = response.text.strip()
+        if not text:
+            sys.exit("Error: Gemini returned an empty response.")
 
-    # Build a normalised set for fast duplicate detection (case-insensitive)
-    existing_normalised = {l.lower() for l in existing_lines}
+        # Clean up and deduplicate against existing entries
+        new_lines = [
+            line.strip()
+            for line in text.splitlines()
+            if line.strip() and line.strip().lower() not in existing_normalised
+        ]
 
-    # Initialize the Gemini client
-    client = genai.Client(api_key=api_key)
+        if not new_lines:
+            print("No new topics found — file is already up to date.")
+            return
 
-    print(f"Querying {MODEL} for new Philadelphia historical topics …")
+        # Merge: existing entries first, then new ones
+        merged = existing_lines + new_lines
 
-    prompt = build_prompt(existing_lines)
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            temperature=0.4,          # lower temperature for factual output
-            max_output_tokens=8192,   # allow a long list
-        ),
-    )
+        # Ensure output directory exists
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Extract the text from the response
-    text = response.text.strip()
-    if not text:
-        sys.exit("Error: Gemini returned an empty response.")
+        # Write the merged list (one entry per line)
+        OUTPUT_FILE.write_text("\n".join(merged) + "\n", encoding="utf-8")
 
-    # Clean up and deduplicate against existing entries
-    new_lines = [
-        line.strip()
-        for line in text.splitlines()
-        if line.strip() and line.strip().lower() not in existing_normalised
-    ]
-
-    if not new_lines:
-        print("No new topics found — file is already up to date.")
-        return
-
-    # Merge: existing entries first, then new ones
-    merged = existing_lines + new_lines
-
-    # Ensure output directory exists
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-    # Write the merged list (one entry per line)
-    OUTPUT_FILE.write_text("\n".join(merged) + "\n", encoding="utf-8")
-
-    print(
-        f"✓ Added {len(new_lines)} new topics "
-        f"(total {len(merged)}) to {OUTPUT_FILE}"
-    )
+        print(
+            f"✓ Added {len(new_lines)} new topics "
+            f"(total {len(merged)}) to {OUTPUT_FILE}"
+        )
+    except Exception as e:
+        print(f"Error in search topics main: {e}")
 
 
 if __name__ == "__main__":

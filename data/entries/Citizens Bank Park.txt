@@ -1,0 +1,123 @@
+# Citizens Bank Park
+
+## Infobox
+
+| Category | Information |
+| :--- | :--- |
+| **Name** | Citizens Bank Park |
+| **Location** | 1 Citizens Bank Way, Philadelphia, Pennsylvania 19148 |
+| **Location Context** | South Philadelphia Sports Complex |
+| **Coordinates** | 39.9061° N, 75.1665° W |
+| **Owner** | City of Philadelphia / Philadelphia Authority for Industrial Development |
+| **Operator** | Philadelphia Phillies |
+| **Capacity** | 42,735 (originally 43,500) |
+| **Field Dimensions** | Left field: 329 ft; Center field: 401 ft; Right field: 330 ft |
+| **Construction Cost** | $458 million ($740 million in 2023 dollars) |
+| **Architect** | Populous (formerly HOK Sport) and EwingCole |
+| **Groundbreaking** | June 28, 2001 |
+| **Opened** | April 3, 2004 |
+| **Main Tenant** | Philadelphia Phillies (MLB) |
+
+---
+
+## Lead section
+
+Citizens Bank Park is a world-class baseball stadium located in South Philadelphia, Pennsylvania. It serves as the home venue for Major League Baseball's Philadelphia Phillies. Opened in April 2004, the ballpark replaced the multi-purpose Veterans Stadium, which had hosted both the Phillies and the NFL's Philadelphia Eagles for more than three decades. Situated within the South Philadelphia Sports Complex, the ballpark stands alongside Lincoln Financial Field and the Wells Fargo Center, forming one of the most prominent concentrated professional sports districts in North America.
+
+The facility was designed through a collaboration between architectural firms EwingCole and Populous (then known as HOK Sport). Built at a cost of $458 million, the venue represented a shift away from the concrete multi-purpose "cookie-cutter" stadiums of the 1960s and 1970s toward retro-classic, baseball-only architecture tailored specifically to optimize fan experience, sightlines, and local cultural identity. The design incorporates open concourses, brick-and-steel facades reminiscent of classic Philadelphia venues, and expansive views of the Center City skyline beyond the outfield wall.
+
+Among its signature features is Ashburn Alley, a wide pedestrian walkway situated behind center field named in honor of legendary Phillies outfielder and broadcaster Richie Ashburn. The park is also famous for its iconic 50-foot-tall mechanical Liberty Bell in right-center field, which lights up and sways back and forth accompanied by the sound of a ringing bell whenever a Phillies player hits a home run or when the team wins a game. Over its history, the venue has gained a reputation as one of baseball's most energetic stadiums, frequently highlighted by sellout crowds during post-season runs.
+
+Since its inauguration, Citizens Bank Park has hosted numerous landmark sporting and cultural events. It was the site of the Phillies' 2008 World Series championship victory, postseason series in 2007–2011 and 2022–2023, the 2012 NHL Winter Classic between the Philadelphia Flyers and the New York Rangers, as well as major stadium concert tours by globally renowned musical artists.
+
+---
+
+## History
+
+### Planning and Site Selection
+By the late 1990s, Veterans Stadium—opened in 1971—was widely criticized for its artificial turf, poor sightlines for baseball, and aging infrastructure. Both the Phillies and the Eagles sought modern, venue-specific facilities to remain competitive in revenue generation and fan amenities. In 2000, the Commonwealth of Pennsylvania approved a funding framework to support the construction of two new stadiums in Philadelphia.
+
+Initial site proposals sparked intense urban planning debates. City officials and community planners considered building a downtown ballpark near Chinatown or Callowhill. However, local business owners, community activists, and residents expressed strong opposition over potential displacement, parking strain, and traffic congestion. Ultimately, municipal leadership and team owners agreed to keep the new venue in South Philadelphia within the established Sports Complex, leveraging existing parking lots, highway connections, and public transit access via the Broad Street Line.
+
+### Construction and Inauguration
+Groundbreaking for Citizens Bank Park occurred on June 28, 2001. Citizens Bank acquired the naming rights to the facility in 2003 under a 25-year, $95 million agreement. Construction progressed through 2002 and 2003, featuring extensive brickwork, structural steelwork, and natural Kentucky Bluegrass installation on the playing surface.
+
+The ballpark officially opened on April 3, 2004, with an exhibition game against the Cleveland Indians. The Phillies played their first official regular-season game at Citizens Bank Park on April 12, 2004, facing the Cincinnati Reds before a sold-out crowd. Bobby Abreu hit the first regular-season home run in stadium history during the inaugural contest.
+
+### On-Field Legacy and Major Events
+The stadium's first golden era occurred between 2007 and 2011, during which the Phillies won five consecutive National League East division titles. The crowning moment arrived on October 29, 2008, when the Phillies defeated the Tampa Bay Rays in Game 5 of the World Series, capturing the franchise's second World Series championship before a raucous home crowd.
+
+Other memorable baseball milestones at the venue include Roy Halladay's postseason no-hitter against the Cincinnati Reds on October 6, 2010—only the second no-hitter in MLB postseason history. Following a decade-long playoff drought, the stadium re-emerged as a postseason epicenter during the 2022 and 2023 National League Championship Series runs, earning widespread national media commentary for its extreme crowd noise levels and hostile environment for visiting teams.
+
+Beyond baseball, Citizens Bank Park hosted the 2012 NHL Winter Classic on January 2, 2012, transforming the diamond into an outdoor ice hockey rink for an original-six matchup between the Philadelphia Flyers and New York Rangers. The stadium also serves as a major concert venue, having hosted acts such as Bruce Springsteen, Billy Joel, Paul McCartney, and the Who.
+
+---
+
+## Architecture
+
+```
++-----------------------------------------------------------------------+
+|                           OUTFIELD PLAZA                              |
+|   +---------------------------------------------------------------+   |
+|   |                       ASHBURN ALLEY                           |   |
+|   |  [Bullpens]   [Memory Lane]   [Bull's BBQ]   [Liberty Bell]   |   |
+|   +---------------------------------------------------------------+   |
+|                                                                       |
+|   Left Field: 329 ft     Center Field: 401 ft    Right Field: 330 ft  |
+|                                                                       |
+|                             PLAYING FIELD                             |
+|                           (Natural Grass)                             |
+|                                                                       |
+|                              [ Infield ]                              |
+|                             Home Plate                                |
+|                                                                       |
+|                      MAIN GRANDSTAND / CONCOURSES                      |
++-----------------------------------------------------------------------+
+```
+
+### Exterior and Materials
+Citizens Bank Park was designed to harmonize traditional ballpark aesthetic traditions with modern structural engineering. The exterior is clad in red brick and architectural concrete, accented by exposed dark blue structural steel framework. The building's massing is split into distinct pavilions to avoid an overly monolithic presence, echoing the scale of classical urban ballparks such as Philadelphia's historic Connie Mack Stadium (Shibe Park).
+
+### Interior Layout and Sightlines
+Unlike traditional bowl-shaped multi-purpose venues, Citizens Bank Park features an asymmetrical layout oriented to frame the Philadelphia skyline. The grandstand seating bowl is angled to focus attention toward the pitcher's mound and home plate.
+
+An open 360-degree main concourse allows fans to walk around the perimeter of the field while maintaining continuous sightlines to the action on the dirt. The upper seating levels are stepped back closer to the field, reducing upper-deck distance to home plate compared to older multi-tier stadiums.
+
+### Field Dimensions and Ground Rules
+The playing surface is natural grass composed primarily of Kentucky Bluegrass. The outfield fence configuration features distinct angles and variations in wall height:
+* **Left Field Line:** 329 feet (100 m)
+* **Left-Center Power Alley:** 374 feet (114 m)
+* **Deepest Center Field:** 401 feet (122 m)
+* **Right-Center Power Alley:** 369 feet (112 m)
+* **Right Field Line:** 330 feet (101 m)
+
+The stadium features a unique "stacked" bullpen design in right-center field, allowing fans in Ashburn Alley to view relief pitchers warming up from elevated railings directly above the pitchers.
+
+---
+
+## Cultural Significance
+
+Citizens Bank Park holds a central place in the cultural fabric of Greater Philadelphia. It represents a focal point for regional civic identity and sports fan culture. The park's layout was intentionally designed to foster social gathering space, exemplified by Ashburn Alley, which functions as an interactive fan area featuring historic memorabilia displays, interactive games, and traditional local food vendors offering Philly cheesesteaks, roast pork, and regional delicacies.
+
+The venue's open-air footprint and adjacent suburban-scale parking infrastructure preserved Philadelphia's deeply rooted tailgating tradition. On game days, tens of thousands of supporters gather hours prior to first pitch in the surrounding lots along Pattison and Citizens Bank Way.
+
+In regional urban development, the park contributed to the consolidation of the South Philadelphia Sports Complex. The proximity of the venues subsequently inspired the development of nearby commercial entertainment hubs, such as Xfinity Live!, turning the former industrial marshlands of South Philadelphia into a destination district for regional sports, entertainment, and tourism.
+
+---
+
+## See also
+
+* [South Philadelphia Sports Complex](https://philadelphiaencyclopedia.org)
+* [Veterans Stadium](https://philadelphiaencyclopedia.org)
+* [Philadelphia Phillies](https://www.inquirer.com)
+* [Connie Mack Stadium](https://philadelphiaencyclopedia.org)
+* [Lincoln Financial Field](https://whyy.org)
+
+---
+
+## References
+
+1. Philadelphia Inquirer Newsroom Staff. "Coverage of Regional Sports Facilities and Stadium Planning." *The Philadelphia Inquirer*. Available at: [https://www.inquirer.com/news/philadelphia/](https://www.inquirer.com/news/philadelphia/)
+2. Encyclopedia of Greater Philadelphia Editorial Board. "Sports and Recreation Landmarks in Philadelphia." *The Encyclopedia of Greater Philadelphia*. Available at: [https://philadelphiaencyclopedia.org/subjects/sports-and-recreation/](https://philadelphiaencyclopedia.org/subjects/sports-and-recreation/)
+3. WHYY News Staff. "Public Infrastructure, Ballpark Development, and Regional History." *WHYY*. Available at: [https://whyy.org/news/](https://whyy.org/news/)
+4. Associated Press Reporting. "Major Events and Regional Developments in Pennsylvania." *The Philadelphia Inquirer / AP*. Available at: [https://www.inquirer.com/news/nation-world/](https://www.inquirer.com/news/nation-world/)

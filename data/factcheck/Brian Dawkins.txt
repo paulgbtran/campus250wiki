@@ -1,0 +1,4 @@
+* **Infobox - Age**: Corrected Dawkins' age calculation from 52 to 51 based on his birth date of October 13, 1973.
+* **Infobox - Pro Bowl Years**: Fixed the missing years in the Pro Bowl list. The list previously only included 7 seasons despite stating 9× Pro Bowl; added 2002 and 2005 (`1999, 2001, 2002, 2004, 2005, 2006, 2008, 2009, 2011`).
+* **Early life and education - 3-Interception Game**: Corrected the collegiate opponent from South Carolina to Duke. Dawkins set the ACC/Clemson record with three interceptions in a single quarter against Duke on October 21, 1995.
+* **Career - Philadelphia Eagles Stats**: Corrected forced fumble total during his Eagles tenure from 32 to 28 (Dawkins forced 28 fumbles in 13 seasons with Philadelphia and 8 fumbles in 3 seasons with Denver, totaling 36 career forced fumbles).

@@ -1,0 +1,4 @@
+* **Infobox**: Changed age at death from `78–79` to `79`. Born January 2, 1872 and died July 24, 1951, Barnes was exactly 79 years old.
+* **Career (Diagram)**: Updated diagram node `A. C. Barnes Co. (1902-1929)` to `A. C. Barnes Co. (1908-1929)`. The A. C. Barnes Company was established in 1908 after Barnes bought out Hermann Hille's interest (their initial partnership was formed in 1902 as Barnes & Hille).
+* **Personal Life**: Corrected the description of Barnes's dog, Fidèle de Gallia, from "a French bulldog" to "a stray mongrel".
+* **Legacy**: Corrected the year of Judge Louis Stefan's court order granting approval for the international art tour from 1993 to 1992 (the ruling was issued in July 1992, allowing the tour to take place from 1993 to 1995).

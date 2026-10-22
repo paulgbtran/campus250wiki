@@ -1,0 +1,2 @@
+* **Infobox - Occupation**: Fixed typo "playwrighter" to "playwright".
+* **Early life and education**: Corrected the birthplace of Fanny Kemble's mother, Maria Theresa Kemble (*née* De Camp), from "Swiss-born" to "Austrian-born" (she was born in Vienna, Austria).

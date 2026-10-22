@@ -1,0 +1,124 @@
+# Congress Hall
+
+| **Congress Hall** |
+| :--- |
+| **Former name:** Philadelphia County Courthouse |
+| **Location:** 6th and Chestnut Streets, Independence Square, Philadelphia, Pennsylvania 19106 |
+| **Period of federal operation:** 1790–1800 |
+| **Architectural style:** Federal civic architecture |
+| **Key occupants:** United States House of Representatives, United States Senate |
+| **Key events:** Second Inauguration of George Washington (1793), Inauguration of John Adams (1797) |
+| **Governing body:** National Park Service (Independence National Historical Park) |
+
+**Congress Hall** is a historic civic building located at the corner of 6th and Chestnut Streets on Independence Square in Philadelphia, Pennsylvania. Constructed in the late 18th century as the Philadelphia County Courthouse, the building served as the official seat of the United States Congress from 1790 to 1800 during the decade in which Philadelphia functioned as the temporary national capital of the United States.
+
+During its ten-year tenure as the capital building, Congress Hall was the physical venue where the newly ratified United States Constitution was tested in practice. Within its walls, the bicameral legislature—comprising the House of Representatives on the first floor and the Senate on the second floor—convened to debate, draft, and pass foundational national policy, establishing critical administrative and legal precedents for the nascent republic.
+
+The building is notably recognized as the site of two early presidential inaugurations. President George Washington took the oath of office for his second presidential term here in 1793, and President John Adams was inaugurated in the hall in 1797. The inauguration of John Adams marked the first peaceful transfer of executive power between political leaders in the history of the United States.
+
+Today, Congress Hall stands as a restored historic landmark within Independence National Historical Park. Administered by the National Park Service (NPS), the structure is open to the public daily for educational tours, serving as a monument to early American political history and civic constitutionalism.
+
+---
+
+## History
+
+### Construction and Local Governance
+
+Congress Hall was originally planned and constructed as the Philadelphia County Courthouse in the late 1780s. Situated on the northwest corner of Independence Square, the building was designed to serve local municipal and county legislative and judicial functions for the growing metropolis of Philadelphia. Its proximity to the Pennsylvania State House (now known as Independence Hall) placed it at the center of Pennsylvania's regional governance.
+
+### Federal Era and Capital Status (1790–1800)
+
+Under the terms of the Residence Act of 1790, the permanent seat of the federal government was slated for establishment along the Potomac River in what would become the District of Columbia. During the ten-year construction period required for the new federal city, Philadelphia was selected as the temporary national capital. To accommodate the federal government, local authorities offered the newly constructed Philadelphia County Courthouse for use by the United States Congress.
+
+From December 1790 through May 1800, Congress Hall functioned as the legislative heart of the American republic. The national legislature converted the interior spaces to accommodate both houses of Congress. The bicameral body enacted monumental national laws during this period, establishing the early financial system, naval defense capabilities, and federal administrative infrastructure.
+
+### Presidential Inaugurations and Political Milestones
+
+Congress Hall hosted significant constitutional milestones during the early Republic era:
+
+* **George Washington's Second Inauguration (March 4, 1793):** President George Washington took his second oath of office inside the Senate chamber on the second floor, delivering the shortest inaugural address in American history.
+* **John Adams' Inauguration (March 4, 1797):** John Adams was inaugurated as the second President of the United States inside the lower House chamber. This assembly represented a critical moment in democratic governance, demonstrating that political leadership could transition peacefully from one chief executive to another under a written constitution.
+
+### Post-Federal Use and Preservation
+
+Following the relocation of the federal government to Washington, D.C., in the summer of 1800, the building reverted to its original administrative function as the Philadelphia County Courthouse throughout much of the 19th century. Local and state courts held legal proceedings inside its chambers, and municipal offices operated from its rooms.
+
+Recognizing the historic significance of Independence Square, efforts to preserve Congress Hall and its surrounding structures emerged during the late 19th and early 20th centuries. The building was thoroughly restored to its late 18th-century appearance. In the mid-20th century, Congress Hall was integrated into the newly established Independence National Historical Park, bringing the landmark under federal stewardship managed by the National Park Service.
+
+---
+
+## Architecture
+
+Congress Hall exhibits classic Federal-style civic architecture, characterized by red-brick masonry, symmetrical fenestration, simple trim details, and functional layout tailored for formal assembly. Located at 6th and Chestnut Streets, the building anchors the western flank of Independence Square, providing a balanced architectural enclosure alongside Independence Hall, the West Wing, and Old City Hall.
+
+### First-Floor House of Representatives Chamber
+
+The lower floor of Congress Hall was configured to seat the United States House of Representatives, the larger of the two legislative chambers. 
+
+```
++-------------------------------------------------------+
+|                    RAISED DAIS                        |
+|              [ Speaker's Chair ]                      |
+|                                                       |
+|         /---  DESK  ---  DESK  ---\                   |
+|        /                           \                  |
+|       |  ROW 1    ROW 2    ROW 3    |                 |
+|       |  (Horseshoe Seating)        |                 |
+|        \                           /                  |
+|         \-------------------------/                   |
+|                                                       |
+|                   [ Entrance ]                        |
++-------------------------------------------------------+
+```
+
+The room is framed by wooden millwork and features three concentric rows of polished wooden desks and chairs arranged in a horseshoe configuration. These seats face a prominent raised wooden dais at the end of the hall where the Speaker of the House presided over legislative deliberations.
+
+### Second-Floor Senate Chamber
+
+The second floor houses the smaller, more intimate chamber built for the United States Senate. 
+
+```
++-------------------------------------------------------+
+|                    RAISED DAIS                        |
+|              [ Presiding Chair ]                      |
+|                                                       |
+|         /---  DESK  ---  DESK  ---\                   |
+|        /                           \                  |
+|       |  ROW 1          ROW 2       |                 |
+|       |  (Horseshoe Seating)        |                 |
+|        \                           /                  |
+|         \-------------------------/                   |
+|                                                       |
+|                   [ Entrance ]                        |
++-------------------------------------------------------+
+```
+
+The Senate chamber features mahogany desks arranged in a semi-circular (horseshoe) configuration directed toward a single presiding officer chair situated upon an elevated dais. Large multi-pane sash windows highlight decorative woodwork and classical architectural proportions throughout the room.
+
+---
+
+## Cultural Significance
+
+Congress Hall remains a primary architectural symbol of early political history in the United States. As the venue where the early federal government enacted legislative precedents and tested the boundaries of the executive and legislative branches, the building occupies a central role in the narrative of American democratic institutions. 
+
+Beyond its national administrative role, the hall is regarded internationally as a symbol of constitutional democracy due to its association with the inauguration of John Adams in 1797. The peaceful exchange of chief executive authority observed inside the building established a global benchmark for republican self-governance.
+
+In contemporary culture, Congress Hall functions as an educational resource within Independence National Historical Park. The National Park Service offers ranger-guided public tours alongside open-house hours, providing public access to the historic chambers. Educational media, descriptive audio tours, and National Park Service historical resources continue to highlight the building's legacy for scholars, tourists, and civic audiences.
+
+---
+
+## See Also
+
+* [[Independence Hall]]
+* [[Independence National Historical Park]]
+* [[Old City Hall (Philadelphia)]]
+* [[American Philosophical Society]]
+* [[Residence Act]]
+* [[History of Philadelphia]]
+
+---
+
+## References
+
+1. National Park Service. "Congress Hall." *Independence National Historical Park*, U.S. Department of the Interior. [https://www.nps.gov/inde/learn/historyculture/resources-congresshall.htm](https://www.nps.gov/inde/learn/historyculture/resources-congresshall.htm)
+2. National Park Service. "Visiting Congress Hall." *Independence National Historical Park*, U.S. Department of the Interior. [https://www.nps.gov/inde/planyourvisit/congresshall.htm](https://www.nps.gov/inde/planyourvisit/congresshall.htm)

@@ -1,0 +1,6 @@
+* **Origins section**: Corrected William Bradford's arrival / establishment date for Philadelphia's first press from 1683 to 1685. Bradford set up his press in Pennsylvania in 1685.
+* **Origins diagram**: Replaced *General Magazine* under "Post-Revolution Expansion (1780s-1790s)" with *American Museum*. Benjamin Franklin's *General Magazine* was published in 1741 (mid-18th century colonial era), whereas Mathew Carey's *American Museum* represented post-Revolution periodical publication.
+* **Origins section**: Corrected the verb form "undertaken" to "undertook" ("Thomas Dobson undertook...").
+* **Development section**: Corrected J.B. Lippincott & Co.'s plant capacity from "two thousand volumes annually" to "two thousand volumes daily." Industrial printing operations at this scale produced thousands of bound volumes per day.
+* **Development section (Table)**: Updated publication end-date for *Godey's Lady's Book* from 1878 to 1898. While Louis Godey sold the magazine in 1877/1878, publication continued until 1898.
+* **Development section**: Corrected minor typo "an massive" to "a massive".

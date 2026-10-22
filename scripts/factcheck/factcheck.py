@@ -11,13 +11,14 @@ from pathlib import Path
 import time
 
 rootDir = Path(__file__).parent.parent.parent
+sys.path.append(str(rootDir / "scripts"))
+import gemini_utils
 
 from google import genai
 from google.genai import types
 
-import classifier
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash"
 
 PROMPT_TEMPLATE = """\
 You are an expert historian and fact-checker. Please fact-check the following wiki entry about "{topic}".
@@ -38,64 +39,79 @@ Original Text:
 """
 
 def processTopic(topic: str, client: genai.Client) -> None:
-    entry_path = rootDir / "data" / "entries" / f"{topic}.txt"
-    search_path = rootDir / "data" / "factcheck" / "search" / f"{topic}.txt"
-    log_path = rootDir / "data" / "factcheck" / f"{topic}.txt"
+    try:
+        entry_path = rootDir / "data" / "entries" / f"{topic}.txt"
+        search_path = rootDir / "data" / "factcheck" / "search" / f"{topic}.txt"
+        log_path = rootDir / "data" / "factcheck" / f"{topic}.txt"
 
-    if not entry_path.exists():
-        print(f"Skipping {topic} - entry file not found.")
-        return
-
-    original_text = entry_path.read_text(encoding="utf-8")
-    
-    urls = ""
-    if search_path.exists():
-        urls = search_path.read_text(encoding="utf-8")
-
-    print(f"Fact-checking: {topic}...")
-    prompt = PROMPT_TEMPLATE.format(topic=topic, urls=urls, original_text=original_text)
-
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            temperature=0.2,
-        ),
-    )
-
-    output = response.text
-    
-    if "=== CORRECTED TEXT ===" in output and "=== CHANGELOG ===" in output:
-        parts = output.split("=== CORRECTED TEXT ===")
-        if len(parts) < 2:
-            print(f"Error parsing response for {topic}")
+        if not entry_path.exists():
+            print(f"Skipping {topic} - entry file not found.")
             return
+
+        original_text = entry_path.read_text(encoding="utf-8")
+        
+        urls = ""
+        if search_path.exists():
+            urls = search_path.read_text(encoding="utf-8")
+
+        print(f"Fact-checking: {topic}...")
+        prompt = PROMPT_TEMPLATE.format(topic=topic, urls=urls, original_text=original_text)
+
+        response = gemini_utils.query_gemini(
+            client=client,
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                temperature=0.2,
+            ),
+        )
+
+        output = response.text
+        
+        if "=== CORRECTED TEXT ===" in output and "=== CHANGELOG ===" in output:
+            parts = output.split("=== CORRECTED TEXT ===")
+            if len(parts) < 2:
+                print(f"Error parsing response for {topic}")
+                return
+                
+            subparts = parts[1].split("=== CHANGELOG ===")
+            corrected_text = subparts[0].strip()
+            changelog = subparts[1].strip()
             
-        subparts = parts[1].split("=== CHANGELOG ===")
-        corrected_text = subparts[0].strip()
-        changelog = subparts[1].strip()
-        
-        # Write corrected text
-        entry_path.write_text(corrected_text, encoding="utf-8")
-        # Write changelog
-        log_path.parent.mkdir(parents=True, exist_ok=True)
-        log_path.write_text(changelog, encoding="utf-8")
-        
-        print(f"  -> Fact-check complete. Updated {entry_path} and logged to {log_path}")
-    else:
-        print(f"  -> Unexpected response format for {topic}. Skipping.")
+            # Write corrected text
+            entry_path.write_text(corrected_text, encoding="utf-8")
+            # Write changelog
+            log_path.parent.mkdir(parents=True, exist_ok=True)
+            log_path.write_text(changelog, encoding="utf-8")
+            
+            print(f"  -> Fact-check complete. Updated {entry_path} and logged to {log_path}")
+        else:
+            print(f"  -> Unexpected response format for {topic}. Skipping.")
+    except Exception as e:
+        print(f"Error processing factcheck for topic {topic}: {e}")
 
 def main():
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        sys.exit("Error: GEMINI_API_KEY environment variable is not set.")
+    try:
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+            sys.exit("Error: GEMINI_API_KEY environment variable is not set.")
 
-    client = genai.Client(api_key=api_key)
-    entries = classifier.parse()
+        client = genai.Client(api_key=api_key)
 
-    for entry in entries:
-        processTopic(entry.name, client)
-        time.sleep(2)  # rate limiting
+        entries_dir = rootDir / "data" / "entries"
+        if not entries_dir.exists():
+            print(f"Error: {entries_dir} not found. Run the search pipeline first.")
+            return
+
+        topics = [f.stem for f in entries_dir.glob("*.txt")]
+        if not topics:
+            print("No entries found in data/entries/. Nothing to factcheck.")
+            return
+
+        for topic in topics:
+            processTopic(topic, client)
+    except Exception as e:
+        print(f"Error in factcheck main: {e}")
 
 if __name__ == "__main__":
     main()

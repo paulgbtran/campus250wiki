@@ -1,0 +1,3 @@
+* **Playing Career Statistics**: Corrected Mack's career hit total from 1,217 to 733, RBI total from 586 to 268, and batting average from .245 to .244. Mack played 834 major league games as a catcher, making the original figures vastly overstated.
+* **Player Descriptions and Recruitment**: Corrected Nap Lajoie's position (he was a second baseman, not a pitcher), corrected the characterization of Chief Bender (he was a star pitcher, not a "chief strategist"), and clarified that Eddie Plank was recruited directly from Gettysburg College rather than raided from a National League roster.
+* **Second Marriage Details**: Corrected the name of Mack's second wife from "Katherine Thomas" to Katheryn Holahan, and updated the wedding date from October 10, 1910, to October 27, 1910.

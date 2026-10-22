@@ -1,0 +1,232 @@
+# Liberty Bell
+
+### Infobox
+
+| Property | Details |
+| :--- | :--- |
+| **Name** | Liberty Bell |
+| **Former Name** | Pennsylvania State House Bell |
+| **Type** | Historic bell / Landmark |
+| **Location** | Liberty Bell Center, 526 Market Street, Philadelphia, Pennsylvania, U.S. |
+| **Coordinates / District** | Independence National Historical Park |
+| **Commissioned By** | Speaker Isaac Norris and the Pennsylvania Provincial Assembly |
+| **Original Manufacturer** | Whitechapel Bell Foundry, London, England (1751) |
+| **Recast By** | John Pass and John Stow, Philadelphia (1753) |
+| **Material Composition** | Bronze (70% copper, 25% tin, trace amounts of lead, gold, arsenic, silver, and zinc) |
+| **Weight** | 2,080 lb (943 kg) at order |
+| **Yoke Material** | American Elm |
+| **Primary Inscription** | "Proclaim LIBERTY throughout all the Land unto all the Inhabitants thereof" (Leviticus 25:10) |
+| **Key Associated Figures** | Isaac Norris, John Pass, John Stow, Benjamin Franklin, George Lippard, Katharine Wentworth Ruschenberger, Richard R. Wright Sr. |
+| **Owner** | City of Philadelphia |
+| **Management** | National Park Service (U.S. Department of the Interior) |
+
+---
+
+### Lead section
+
+The **Liberty Bell** is an iconic American artifact and world-renowned symbol of freedom, civil rights, and democracy located in Philadelphia, Pennsylvania. Housed within the Liberty Bell Center in Independence National Historical Park at 526 Market Street, the 2,080-pound bronze bell was originally commissioned in 1751 by the Assembly of the Province of Pennsylvania to hang in the bell tower of the Pennsylvania State House (now known as Independence Hall). Cast initially by London's Whitechapel Foundry and subsequently recast in Philadelphia by local artisans John Pass and John Stow in 1753, the bell served for decades as a practical civic herald, ringing to convene lawmakers for legislative sessions and gather townspeople for public announcements.
+
+During the era of the American Revolution, the State House bell became deeply entwined with colonial resistance. It rang to call public gatherings protesting parliamentary taxation acts—including the Stamp Act of 1765, the Townshend duties of 1768, the Tea Act of 1773, and the Coercive Acts of 1774. On July 8, 1776, it was tolled alongside other Philadelphia bells to announce the first public reading of the Declaration of Independence by Sheriff John Nixon in the State House yard. When British forces threatened Philadelphia in 1777, the bell was evacuated by wagon to Allentown, Pennsylvania, to prevent it from being captured and melted down into artillery munitions, returning to the city following the British withdrawal.
+
+In the 1830s, the historic State House bell was adopted as an emblem by the American abolitionist movement. Drawing inspiration from its biblical inscription—"Proclaim Liberty Throughout All the Land Unto All the Inhabitants thereof"—anti-slavery activists coined the term "Liberty Bell" in 1835. Over the course of the nineteenth century, the bell evolved from a local historic relic into an overriding symbol of national unity and ideal self-governance. This status was further cemented in popular culture by George Lippard's 1847 fictionalized tale "Ring, Grandfather, Ring," which romanticized the bell's role in the declaration of American independence.
+
+Silenced from regular acoustic use in the 1840s following a series of fractures and an unsuccessful repair attempt known as "stop drilling," the Liberty Bell embarked on seven nationwide exhibition tours between 1885 and 1915 to promote post-Civil War national reconciliation and civic identity. Throughout the twentieth century, diverse political and social reform movements—including women's suffrage, organized labor, Civil Rights advocates, and Anti-Cold War demonstrators—embraced the Liberty Bell as a vehicle for protest, celebration, and constitutional discourse. Today, managed by the National Park Service, the Liberty Bell remains one of the most visited historic artifacts in the United States, attracting approximately 1.5 million visitors annually.
+
+---
+
+### History
+
+#### Commission and Recasting (1751–1753)
+
+In November 1751, Isaac Norris, Speaker of the Pennsylvania Provincial Assembly, ordered a heavy bell from the Whitechapel Foundry in London for the newly constructed tower of the Pennsylvania State House. Norris specified that the bell carry an inscription from the Book of Leviticus (25:10), likely intended to commemorate the 50th anniversary of William Penn's 1701 Charter of Privileges, which established religious liberties and political self-government in Pennsylvania. The bell arrived in Philadelphia aboard the ship *Myrtilla* in August 1752.
+
+Upon its initial testing in the State House yard, the bell cracked along its rim under the strike of the clapper. Because returning the heavy bronze object across the Atlantic was impractical, Assembly leaders turned to two local Philadelphia foundry workers, John Pass and John Stow. Pass and Stow melted down the English metal, added extra copper to adjust the acoustic properties of the alloy, and recast the bell in early 1753. The second casting yielded an unsatisfactory, muffled tone, prompting Pass and Stow to melt and recast the bell a third time. Installed in the State House tower in mid-1753, this final iteration bore the names of the local craftsmen and the year of casting on its waist: "Pass and Stow / Philada / MDCCLIII".
+
+For the next two decades, the bell functioned as a primary instrument of civic communication. It summoned Assembly delegates to legislative debates, convened court proceedings, and alerted the city's inhabitants to public events and political developments. Writing to Catherine Ray in 1755, Benjamin Franklin famously noted the bell's commanding presence in public life: "Adieu, the Bell rings, and I must go among the Grave ones and talk Politicks."
+
+```
++-------------------------------------------------------------------+
+|                  PENNSYLVANIA STATE HOUSE BELL                    |
+|                             (1751)                                |
+|    Ordered from London's Whitechapel Foundry by Isaac Norris      |
++-------------------------------------------------------------------+
+                                  |
+                                  v
++-------------------------------------------------------------------+
+|                        FIRST TEST RING                            |
+|                 Bell cracks on first strike (1752)                |
++-------------------------------------------------------------------+
+                                  |
+                                  v
++-------------------------------------------------------------------+
+|                        PASS AND STOW RECAST                       |
+|           Melted down & recast twice in Philadelphia (1753)       |
++-------------------------------------------------------------------+
+                                  |
+                                  v
++-------------------------------------------------------------------+
+|                   REVOLUTIONARY WAR ERA (1765–1783)               |
+|      Rung for Stamp Act, Declaration Reading; hidden in            |
+|                   Allentown (1777–1778)                           |
++-------------------------------------------------------------------+
+                                  |
+                                  v
++-------------------------------------------------------------------+
+|                  FRACTURE & STOP DRILLING (1840s)                 |
+|       Widened hairline crack fails in 1846; silenced forever      |
++-------------------------------------------------------------------+
+                                  |
+                                  v
++-------------------------------------------------------------------+
+|                    NATIONAL ICON & EXHIBITIONS                    |
+|      Adopted by Abolitionists (1835); toured U.S. (1885–1915)      |
++-------------------------------------------------------------------+
+```
+
+#### Revolutionary Era and Evacuation (1765–1783)
+
+As tensions grew between Great Britain and its North American colonies, the State House bell served as an acoustic herald of resistance. In October 1765, it was rung to assemble citizens protesting the arrival of a Royal ship bearing tax paper under the Stamp Act. In 1768, it summoned Philadelphians to organize opposition to the Townshend Acts, and in late 1773, it rallied townspeople against the Tea Act. Following the passage of the Intolerable (Coercive) Acts in 1774, the bell again gathered residents to discuss colonial rights.
+
+On July 8, 1776, the bell participated in a synchronized ringing of bells throughout Philadelphia to announce the reading of the Declaration of Independence by Sheriff John Nixon in the State House yard. While popular tradition asserts that the bell rang on July 4, 1776, historic records confirm that Congress debated and approved the Declaration behind closed doors on that day, with public proclamation occurring four days later.
+
+In September 1777, following the Continental Army's defeat at the Battle of Brandywine, British troops advanced on Philadelphia. Fearing that British occupiers would capture the bronze bell and melt it into cannon artillery, the Continental Congress ordered the city's bells lowered and evacuated. The State House bell was removed from its tower and transported by heavily guarded wagon train to Zion Reformed Church in Allentown, Pennsylvania, where it was concealed beneath the floorboards. Following the British evacuation of Philadelphia in June 1778, the bell was returned to the city and reinstalled in the State House tower. It subsequently rang to announce the British surrender at Yorktown in October 1781 and the formal treaty of peace with Great Britain in April 1783.
+
+#### Post-Revolutionary Preservation and the Crack
+
+Following the relocation of Pennsylvania's state capital to Lancaster in 1799 and subsequently to Harrisburg, the Pennsylvania State House lost its original governance function and fell into disrepair. In 1812, public officials considered demolishing the building to sell the real estate, but in 1816, the City of Philadelphia purchased the historic complex and the State House bell from the Commonwealth for $70,000. Public interest in the building and its bell revived significantly in 1824 during the triumphal American tour of the Marquis de Lafayette, after which the complex began to be referred to as "Independence Hall."
+
+No contemporary documentation records the exact date or circumstance under which the bell first fractured. The prevailing historical consensus is that a narrow split developed gradually during the early 1840s following nearly a century of hard municipal service. Popular nineteenth-century tradition claimed the bell cracked while tolling for the funeral procession of Chief Justice John Marshall in July 1835, but archival evidence indicates the primary fissure emerged between 1841 and 1845.
+
+In February 1846, city officials attempted to repair the bell so it could ring for George Washington's birthday holiday. Metalworkers used a common period repair technique known as "stop drilling," employing drill bits to widen the narrow fracture line and smooth its edges, thereby preventing stress concentrations from expanding the split while attempting to restore the bell's acoustic resonance. Over 40 individual drill marks remain visible along the broad crack line. However, during the Washington's birthday celebration on February 23, 1846, a second hairline fracture expanded from the upper terminus of the repaired groove up through the word "Liberty," permanently silencing the clapper.
+
+#### National Park Service Stewardship and Modern Displays
+
+In 1948, the U.S. Federal Government established Independence National Historical Park, assuming administrative responsibility for the maintenance and public interpretation of the Liberty Bell, while legal ownership of the physical artifact was retained by the City of Philadelphia.
+
+To accommodate anticipated crowds during the United States Bicentennial, the National Park Service moved the bell on January 1, 1976, from the ground floor of Independence Hall into a purpose-built glass-and-brick pavilion located on Independence Mall at 6th and Market Streets. In October 2003, the bell was relocated to its present site, the Liberty Bell Center, a modern, light-filled exhibition hall located at 526 Market Street. The current installation features interpretive displays outlining the artifact's transformation from colonial signal to global icon, as well as educational materials contextualizing its proximity to the adjacent President's House Site, where enslaved African Americans labored in George Washington's executive household during his presidency in Philadelphia.
+
+---
+
+### Architecture and Physical Description
+
+#### Metallurgy and Technical Specifications
+
+The Liberty Bell is a classic lip-form bronze bell weighing 2,080 pounds (943 kg) at the time of its 1751 order. It measures 12 feet (3.7 m) in circumference around its lip, 3 feet (0.91 m) from lip to crown, and features a maximum rim thickness of 3 inches (7.6 cm). The metallurgical composition of the bell is predominantly bronze, consisting of approximately 70% copper and 25% tin by weight, with trace amounts of lead, zinc, arsenic, silver, and gold present as impurities or secondary additives from the 1753 Pass and Stow recasting process.
+
+The bell is suspended from its original-style headstock, or yoke, constructed from American elm (*Ulmus americana*). Although historic records do not definitively prove that the displayed wooden beam is the precise yoke carved in 1753, tree-ring analysis and structural features confirm it is a period-appropriate 18th-century component.
+
+```
+                  =============================
+                 /     AMERICAN ELM YOKE       \
+                 =============================
+                             ||
+                        .----+----.
+                       /           \
+                      /   CROWN     \
+                     |               |
+                     |  PROCLAIM     |  <-- Upper Inscription Line (Lev. XXV X)
+                     |   LIBERTY     |
+                     |  PASS & STOW  |  <-- Face Inscription (1753)
+                    /   PHILADA       \
+                   /     MDCCLIII      \
+                  /                     \
+                 /      STOP-DRILLING    \
+                /         REPAIR         \ <-- Primary Visible "Crack"
+               /         (1846)           \
+              (___________________________)
+              |         LIP / RIM         |
+              '---------------------------'
+```
+
+#### Inscriptions and Markings
+
+The Liberty Bell features two lines of raised lettering encircled around the upper shoulder, cast in a historic serif typeface. The top line contains the biblical verse selected by Isaac Norris from Leviticus 25:10 (King James Version), abbreviated in its final reference:
+
+> **Proclaim LIBERTY throughout all the Land unto all the Inhabitants thereof Lev. XXV X**
+
+The second line around the upper shoulder identifies the commissioning authority and intended building destination, utilizing an 18th-century spelling variant:
+
+> **By Order of the ASSEMBLY of the Province of PENSYLVANIA [sic] for the State House in Philada**
+
+The inscription on the main face (waist) of the bell identifies the Philadelphia craftsmen who recast the metal, the location, and the year of completion in Roman numerals:
+
+> **Pass and Stow**  
+> **Philada**  
+> **MDCCLIII**
+
+The biblical source of the primary inscription refers to the Jewish "Jubilee" year, an ordinance instructed to the Israelites every 50 years to emancipate enslaved people and restore confiscated land to original owners. Historians contend Norris chose this specific scripture to mark the 50th jubilee of William Penn's 1701 Charter of Privileges, which established freedom of conscience and legislative liberties in early Pennsylvania.
+
+#### Mechanics of the Fracture
+
+The prominent "crack" visible on the Liberty Bell is actually the result of the 1846 repair work rather than a simple stress fracture. When metalworkers widen a crack to restore sound propagation, they cut away adjacent damaged bronze. The primary wide channel running roughly 24 inches up the side of the bell contains over 40 distinct drill-bit impressions made during the stop-drilling procedure. The secondary, terminal fissure—which silences the bell today—extends as a fine line from the top of this drilled channel through the word "Liberty" toward the crown.
+
+Modern structural assessments and computer acoustic modeling indicate that the bell's failure was driven by high tin content in the Pass and Stow bronze alloy, which increased brittleness, alongside thermal expansion stresses caused by continuous outdoor exposure and hard clapper impacts over nine decades of municipal service.
+
+---
+
+### Cultural Significance
+
+#### The Abolitionist Movement
+
+The Liberty Bell's transformation from a regional legislative signal into an international emblem of freedom began in the early nineteenth century under the influence of the American Anti-Slavery Movement. In the mid-1830s, New York and Boston abolitionists recognized the profound political alignment between their cause and the bell's Leviticus inscription calling for freedom to be proclaimed to "all the inhabitants thereof."
+
+In 1835, the New York Anti-Slavery Society published *The Anti-Slavery Record*, which featured a woodcut image of the old State House bell accompanied by the title "The Liberty Bell." Prior to this publication, Philadelphia residents referred to the object simply as "the State House bell" or "the old bell." Abolitionist authors and poets wrote literature emphasizing that the bell's ringing remained an unfulfilled promise as long as millions of African Americans remained in chattel slavery. The name was rapidly adopted across anti-slavery circles, and reprinted poetry in William Lloyd Garrison's *The Liberator* popularized the bell as a moral touchstone for emancipation.
+
+Popular national romanticism surrounding the bell was further expanded in 1847 when Philadelphia journalist George Lippard authored a fictional story titled "Ring, Grandfather, Ring" for *The Saturday Courier*. Lippard's narrative dramatically described an elderly bell-ringer in July 1776 waiting anxiously in the State House tower until his young grandson shouted from below that Congress had passed the Declaration of Independence. Though entirely a work of historical fiction, Lippard's tale was widely reprinted in school textbooks as historical truth, firmly anchoring the bell in national folklore.
+
+#### Reconciliation and Exhibition Tours (1885–1915)
+
+Following the American Civil War, the Liberty Bell became a major symbol of national reconciliation between the Northern and Southern states. Starting in 1885, the City of Philadelphia permitted the artifact to leave Independence Hall for national expositions and patriotic fairs across the country.
+
+* **New Orleans (1885):** The bell traveled to the World's Industrial and Cotton Exposition in New Orleans, transported on a specially outfitted, flower-bedecked railroad flatcar. The tour stopped in towns across Pennsylvania, Ohio, Kentucky, Tennessee, Alabama, and Mississippi, drawing thousands of citizens who gathered at trackside stations to touch the historic metal.
+* **Chicago (1893):** Displayed at the World's Columbian Exposition, the bell was escorted by uniformed cavalry and seen by millions of visitors. For the exposition's July 4th celebration, composer John Philip Sousa premiered "The Liberty Bell March," which became a permanent fixture of American martial music.
+* **Other Major Expositions:** Subsequent journey routes carried the bell to Atlanta (1895), Charleston (1091), St. Louis (1904), and Boston (1903).
+* **Panama-Pacific Exposition (1915):** The bell's seventh and final long-distance journey occurred in 1915, traveling through 13 states to reach San Francisco and San Diego. Following a petition signed by over 500,000 California schoolchildren, city leaders authorized the transit. 
+
+Following its return to Philadelphia in late November 1915, municipal leaders and preservationists concluded that repeated rail transit posed an unacceptable risk of expanding the bell's fractures. All future travel requests were permanently denied.
+
+```
++-----------------------------------------------------------------------+
+|                    MAJOR EXHIBITION TOURS (1885–1915)                 |
++-----------------------------------------------------------------------+
+| 1885 | World's Industrial and Cotton Exposition (New Orleans, LA)     |
+| 1893 | World's Columbian Exposition (Chicago, IL)                     |
+| 1895 | Cotton States and International Exposition (Atlanta, GA)       |
+| 1901 | South Carolina Inter-State and West Indian Expo (Charleston, SC) |
+| 1903 | Bunker Hill Anniversary Exhibition (Boston, MA)                |
+| 1904 | Louisiana Purchase Exposition (St. Louis, MO)                  |
+| 1915 | Panama-Pacific International Exposition (San Francisco, CA)   |
++-----------------------------------------------------------------------+
+```
+
+#### Suffrage, Civil Rights, and Modern Social Movements
+
+Throughout the twentieth century, diverse advocacy groups adopted the Liberty Bell for both celebratory rallies and nonviolent protests.
+
+In 1915, the Pennsylvania Woman Suffrage Association commissioned a full-scale bronze replica of the bell to promote women's voting rights. Named the "Justice Bell," this replica toured all 67 Pennsylvania counties aboard a customized truck that served as an outdoor speaking platform. The Justice Bell's clapper was chained in silence to symbolize the political disenfranchisement of women; it remained silent until the passage and ratification of the Nineteenth Amendment in 1920, when it was formally rung during a victory ceremony on Independence Square.
+
+During both World Wars, the United States Department of the Treasury deployed images of the Liberty Bell for "Liberty Bond" fundraising drives. President Franklin D. Roosevelt utilized recorded sound effects or actual tappings of the bell during national radio broadcasts to rally patriotic support, tapping the bell to signal "V for Victory" during Allied advances in 1942 and playing recorded strikes to troops during the D-Day landings in June 1944.
+
+In the mid-twentieth century, Black leaders and Civil Rights activists continually drew attention to the disparity between the bell's message of universal liberty and racial inequality in America. In Philadelphia, banker and civic leader Richard R. Wright Sr. established National Freedom Day, an annual February 1 commemoration held at the Liberty Bell to mark the signing of the 13th Amendment. During the 1960s, Civil Rights organizations staged sit-ins and rallies around the bell inside Independence Hall to advocate for voting rights and desegregation.
+
+The artifact's global resonance has made it a focal point for international democracy movements, student protests, and cold-war freedom demonstrations. As an enduring world symbol, the bell's Leviticus inscription continues to serve as an evocative reference point in constitutional debates surrounding equal rights, citizenship, and human liberty.
+
+---
+
+### See also
+
+* [Independence Hall](https://philadelphiaencyclopedia.org/essays/independence-hall/)
+* [Independence National Historical Park](https://philadelphiaencyclopedia.org/essays/independence-national-historical-park/)
+* [President's House Site](https://www.nps.gov/inde/planyourvisit/presidentshousesite.htm)
+* [Pennsylvania Charter of Privileges](https://philadelphiaencyclopedia.org/essays/pennsylvania-charter-of-privileges/)
+* [Abolitionism](https://philadelphiaencyclopedia.org/essays/abolitionism/)
+* [Tourism](https://philadelphiaencyclopedia.org/essays/tourism/)
+* [National Freedom Day](https://philadelphiaencyclopedia.org/essays/national-freedom-day/)
+
+---
+
+### References
+
+1. National Park Service. "The Liberty Bell." *Independence National Historical Park*, U.S. Department of the Interior. https://www.nps.gov/inde/learn/historyculture/stories-libertybell.htm
+2. National Park Service. "Visiting the Liberty Bell Center." *Independence National Historical Park*, U.S. Department of the Interior. https://www.nps.gov/inde/planyourvisit/libertybellcenter.htm
+3. Nash, Gary B. "Liberty Bell." *Encyclopedia of Greater Philadelphia*, Mid-Atlantic Regional Center for the Humanities at Rutgers University-Camden, 2010. https://philadelphiaencyclopedia.org/essays/liberty-bell/

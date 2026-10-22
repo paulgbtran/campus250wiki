@@ -1,0 +1,112 @@
+### 1. Infobox
+
+| **Graff House (Declaration House)** |
+| :--- |
+| *Historic Reconstruction & Landmark* |
+| **Location** | 700 Market Street, Philadelphia, Pennsylvania, 19106, United States |
+| **Coordinates** | 39°57′06″N 75°09′10″W |
+| **Original Construction** | c. 1775 |
+| **Demolished** | 1883 |
+| **Reconstructed** | 1975 |
+| **Architectural Style** | Georgian / Colonial Revival (reconstruction) |
+| **Owner / Managing Body** | National Park Service (Independence National Historical Park) |
+| **Key Historical Figures** | Thomas Jefferson, Robert Hemmings, Jacob Graff |
+| **Significance** | Site where Thomas Jefferson resided while drafting the United States Declaration of Independence in June 1776. |
+
+---
+
+### 2. Lead section
+
+The **Graff House**, formally known as the **Declaration House**, is a historic reconstructed landmark located at 700 Market Street (at the corner of 7th and Market Streets) in Philadelphia, Pennsylvania. The building stands on the site where Thomas Jefferson rented lodgings during the summer of 1776 and composed the draft of the United States Declaration of Independence. Administered as a key historic site within Independence National Historical Park by the National Park Service, the Graff House serves as a focal point for understanding the intellectual and physical origins of the American Revolution.
+
+Originally erected in 1775 by Jacob Graff, a local bricklayer, the three-story brick townhome sat on what was then the quiet, western edge of Philadelphia. Jefferson deliberately chose this location to escape the noise, heat, and potential pestilence of the city’s densely populated waterfront and commercial core near the Delaware River. Accompanied by his 14-year-old enslaved valet, Robert Hemmings, Jefferson occupied the second-floor parlor and bedroom, utilizing a portable wooden lap desk to write the founding document that declared the thirteen American colonies free and independent states.
+
+The original structural edifice was altered during the 19th century as Market Street evolved into a bustling commercial corridor, leading to the building’s eventual demolition in 1883. Recognizing the deep historical resonance of the site as the birthplace of the nation's foundational charter, the National Park Service commissioned a comprehensive historic reconstruction of the Graff House in 1975. Designed using Thomas Jefferson's 1825 floor plan sketch, late-19th-century photographs taken prior to demolition, and contemporary records, the reconstruction was completed in anticipation of the United States Bicentennial celebration in 1976.
+
+Today, the Declaration House stands as an essential educational monument. Beyond commemorating Jefferson’s drafting of the founding text, the site provides critical historical context regarding the Paradox of American Liberty—examining the co-existence of Jeffersonian democratic ideals alongside the institution of chattel slavery, embodied in the lived experience of Robert Hemmings on the premises during the summer of 1776.
+
+---
+
+### 3. History
+
+#### Construction and Early Context (1775–1776)
+In 1775, Jacob Graff Jr., a Philadelphia bricklayer of German descent, purchased a plot of land situated at the southwest corner of 7th and Market (then known as High) Streets. Graff constructed a modest, three-story brick rowhouse in the prevailing Georgian style. At the time of its completion, the property was situated on the outer periphery of Philadelphia, surrounded by open fields, gardens, and sparsely developed lots.
+
+When the Second Continental Congress convened in Philadelphia in 1775 and 1776, delegates flooded into the city, placing a premium on accommodations. Delegates initially crowded into downtown taverns, boardinghouses, and private homes near Pennsylvania State House (now Independence Hall). However, the humid summers, congested streets, and risk of disease prompted many to seek quieter lodgings further inland.
+
+#### Jefferson’s Tenancy and the Drafting of the Declaration (May–July 1776)
+In May 1776, Thomas Jefferson returned to Philadelphia as a Virginia delegate to the Continental Congress. Seeking a quiet retreat conducive to writing and contemplation, Jefferson inquired about rooms outside the urban center. On May 23, 1776, Jefferson took up residence on the upper floors of Jacob Graff’s newly constructed home. Jefferson rented a two-room suite consisting of a private bedroom and an adjoining front parlor on the second floor.
+
+Jefferson was accompanied during his stay by Robert Hemmings, his 14-year-old enslaved valet. Hemmings performed critical daily duties, maintaining the quarters, attending to Jefferson's personal wardrobe, carrying correspondence, and navigating the city on Jefferson's errands.
+
+In June 1776, following the introduction of Richard Henry Lee’s resolution for independence, Congress appointed a "Committee of Five"—consisting of Thomas Jefferson, John Adams, Benjamin Franklin, Roger Sherman, and Robert R. Livingston—to draft a formal declaration. The committee selected Jefferson to author the initial manuscript. Working at a custom portable writing desk placed on a table in his second-floor parlor at the Graff House, Jefferson labored over the text between June 11 and June 28, 1776. It was within these rooms that Jefferson wrote the famous preamble affirming "Life, Liberty and the pursuit of Happiness," synthesizing Enlightenment political philosophy into an explicit indictment of King George III.
+
+```
+       [Market Street / High Street]
+__________________________________________________
+                  |  
+   Graff House    |   7th Street
+(700 Market St)   |
+                  |
+__________________|_______________________________
+```
+
+#### Alteration, Demolition, and Reconstruction (1883–1975)
+Following the Revolution, Philadelphia expanded rapidly westward, transforming High Street into a dense commercial artery renamed Market Street. The Graff House underwent numerous alterations under various commercial tenants throughout the 19th century, including the addition of store windows on the ground floor and structural modifications that obscured its 18th-century character. Despite growing historical awareness among antiquarians, the building was not protected, and in 1883 it was completely demolished to clear space for a multi-story commercial building.
+
+For nearly a century, the historic footprint remained buried beneath modern urban development. In the mid-20th century, as plans took shape for the creation of Independence National Historical Park, the federal government acquired the land at 700 Market Street. In 1975, the National Park Service executed a historic reconstruction of the Graff House on its exact original footprint. Recreated through detailed archival research, contemporary accounts, and architectural period studies, the reconstructed house was formally dedicated during the 1976 Bicentennial festivities.
+
+---
+
+### 4. Architecture
+
+#### Exterior Design and Reconstruction Methodology
+The reconstructed Graff House at 700 Market Street reflects late 18th-century Philadelphia Georgian residential architecture. The three-story structure features a red-brick exterior executed in a traditional Flemish bond pattern, characterized by alternating stretchers and dark header bricks. 
+
+The primary facade along Market Street incorporates balanced, symmetrical fenestration with multi-pane wooden sash windows flanked by classic louvred shutters. White-painted trim, molded wooden cornices along the roofline, and a gabled roof clad in wood shingles accurately replicate the mid-Atlantic colonial building traditions of the 1770s. The main entrance features a modest Georgian pediment and transom window over a paneled wooden door, reflecting the restrained middle-class aesthetics of a prosperous artisan like Jacob Graff.
+
+#### Interior Spatial Layout and Furnishings
+The interior of the Graff House was constructed using Thomas Jefferson's 1825 floor plan sketch, surviving 19th-century photographs, and contemporary tax records:
+
+*   **Ground Floor:** Reconstructed to feature an exhibition area and period spaces reflecting a middle-class Philadelphia home of the era.
+*   **Second Floor (Jefferson's Suite):** The centerpiece of the interior reconstruction includes the two rooms rented by Jefferson.
+    *   *The Parlor:* Functioning as Jefferson's study and workspace, the parlor is outfitted with period-appropriate Georgian and Windsor furniture, including a Windsor arm chair, a drop-leaf dining/writing table, a tall chest of drawers, and a tall case clock. 
+    *   *The Bedroom:* Adjoining the parlor, furnished with an 18th-century frame bed, washstand, and personal trunks.
+
+#### Site Grounds and Accessibility
+The rear of the property contains an enclosed brick courtyard and reconstructed garden, reflecting the suburban garden spaces common on the outer edges of 18th-century Philadelphia. The garden area and ground-floor exhibition space feature modern modifications designed to provide full wheelchair accessibility for park visitors.
+
+---
+
+### 5. Cultural significance
+
+#### Symbolic Birthplace of the American Republic
+The Graff House holds profound cultural and civic significance as the physical space where the United States Declaration of Independence was authored. While Independence Hall served as the legislative chamber where independence was debated and formally adopted, the Graff House represents the private sphere of intellectual creation where the concepts of modern democratic governance and natural rights were drafted into text.
+
+#### Interpreting the Paradox of Liberty and Slavery
+In contemporary historical interpretation, the Graff House serves as a vital platform for addressing the fundamental contradictions embedded within the founding of the United States. The site highlights the simultaneous presence of Thomas Jefferson—writing that "all men are created equal"—and Robert Hemmings, the enslaved teenager who maintained Jefferson's daily life while legally held as property. 
+
+Through interpretive exhibits and public educational programs, the National Park Service emphasizes Hemmings' presence at the site to encourage visitors to reflect upon the broader realities of early American society, where democratic principles were articulated within a social structure heavily reliant upon chattel slavery.
+
+#### Public History and Tourism
+As part of Independence National Historical Park, the Declaration House acts as an integral component of Philadelphia’s historic core. Situated within short walking distance of major national monuments—including the Liberty Bell Center and the Independence Visitor Center—the site provides public access to the spatial history of the American Revolution.
+
+---
+
+### 6. See also
+
+*   Independence Hall
+*   Independence National Historical Park
+*   Liberty Bell Center
+*   Independence Visitor Center
+*   Second Continental Congress
+*   United States Declaration of Independence
+*   Committee of Five
+
+---
+
+### 7. References
+
+1. National Park Service. "Visiting the Declaration House." *Independence National Historical Park*. United States Department of the Interior. Available online: [https://www.nps.gov/inde/planyourvisit/declarationhouse.htm](https://www.nps.gov/inde/planyourvisit/declarationhouse.htm)
+2. National Park Service. "Declaration House (Graff House)." *Independence National Historical Park Historic Places*. United States Department of the Interior. Available online: [https://www.nps.gov/articles/000/declaration-house.htm](https://www.nps.gov/articles/000/declaration-house.htm)
+3. National Park Service. "Accessibility Services at Independence National Historical Park." United States Department of the Interior. Available online: [https://www.nps.gov/inde/planyourvisit/accessibility.htm](https://www.nps.gov/inde/planyourvisit/accessibility.htm)

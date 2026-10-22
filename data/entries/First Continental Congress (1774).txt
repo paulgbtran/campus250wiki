@@ -1,0 +1,85 @@
+| **First Continental Congress** | |
+| :--- | :--- |
+| **Date** | September 5 – October 26, 1774 |
+| **Location** | Carpenters' Hall, Philadelphia, Pennsylvania |
+| **Key Figures** | Peyton Randolph (President), Charles Thomson (Secretary), John Dickinson, Joseph Galloway, John Adams, Samuel Adams, George Washington, Patrick Henry, Silas Deane |
+| **Participants** | 55 delegates representing 12 of the 13 American colonies (Georgia absent) |
+| **Key Documents** | Continental Association, Declaration and Resolves, Petition to the King |
+| **Significance** | Formed a unified colonial response to the Coercive Acts, instituted an economic boycott of British goods, and established the institutional framework for intercolonial governance leading to the American Revolution. |
+
+## Lead section
+
+The First Continental Congress was a convention of delegates from twelve of the Thirteen Colonies that convened at Carpenters' Hall in Philadelphia, Pennsylvania, between September 5 and October 26, 1774. Called in response to the passage of the Coercive Acts (known in North America as the Intolerable Acts) by the British Parliament, the Congress marked the first major concerted attempt by the American colonies to establish a unified political front against British imperial authority. Fifty-five delegates attended the proceedings, representing every colony except Georgia, which refrained from participating due to its reliance on British military assistance to address border disputes with the Creek nation.
+
+The assembly was brought together by a deep-seated constitutional crisis that had simmered across British North America since the end of the Seven Years' War in 1763. Following the passage of the Stamp Act in 1765 and subsequent parliamentary taxation measures, tensions culminated in late 1773 with the Boston Tea Party. In response, Parliament enacted the Coercive Acts in 1774 to punish Massachusetts by revoking its colonial charter, closing the Port of Boston, replacing local civil governance with direct military control, and increasing the quartering of British regulars. Although aimed specifically at penalizing Boston, the legislation alarmed political leaders throughout North America, who perceived it as an arbitrary threat to traditional colonial liberties guaranteed under the English constitution.
+
+During its seven weeks of deliberation in Philadelphia, the Congress served as a venue for intense political debate between radical delegates advocating firm resistance and conservative moderates seeking reconciliation with the British Crown. Leaders such as John Dickinson and Joseph Galloway of Pennsylvania counseled caution, non-violent economic leverage, and constitutional accommodation, whereas delegates from Massachusetts and Virginia pressed for aggressive intercolonial countermeasures. The delegates ultimately rejected Galloway’s proposed "Plan of Union," which would have created an American parliament subordinate to Great Britain, and opted instead for a firm enforcement of political solidarity.
+
+The primary achievement of the First Continental Congress was the creation and adoption of the Continental Association on October 20, 1774. This system mandated a strict boycott of British imports, exports, and consumption, enforced at the local level by elected committees. Before adjourning on October 26, 1774, the delegates authored formal petitions affirming their loyalty to King George III while demanding the repeal of unconstitutional parliamentary statutes. Recognizing that further coordination might be required, the Congress resolved to reassemble in May 1775 if imperial policies remained unchanged, laying the groundwork for the Second Continental Congress and the revolutionary state-building that followed.
+
+## Background
+
+At the conclusion of the Seven Years’ War in 1763, explicit movement toward independence from the British Crown was absent from colonial political discourse. American colonists enjoyed the military protections of the British Empire alongside the customary rights and liberties guaranteed to English subjects. However, the imperial government's post-war effort to consolidate administrative control and raise revenue through direct taxation—beginning with the Stamp Act of 1765—sparked widespread opposition across the continent. Over the following decade, repeated disputes over parliamentary sovereignty and taxation without representation steadily eroded political goodwill between Great Britain and colonial assemblies.
+
+The crisis escalated dramatically in 1774 following the passage of the Coercive Acts. Designed to isolate and discipline the Province of Massachusetts Bay following the destruction of tea in Boston Harbor, the legislation shuttered Boston’s maritime trade, reorganized the colonial government under military authority, and expanded the quartering of troops. Rather than isolating Massachusetts as intended, the acts generated widespread alarm throughout the other colonies. Colonial leaders recognized that if Parliament could arbitrarily suspend civil liberties and charter rights in Massachusetts, no colony was secure. This political realization created urgent calls across British North America for a unified, intercolonial assembly to address the emergency.
+
+Philadelphia was selected as the meeting site due to its central geographic location and status as the largest port city in British North America. Possessing unsurpassed commercial, industrial, and professional resources, the city was well equipped to support an extended political convention. Philadelphia boasted ample accommodations and hospitality for visiting delegates, who stayed at local taverns, inns, boarding houses, and private residences across the city. Prominent figures like John Adams of Massachusetts and Silas Deane of Connecticut recorded details of the luxurious surroundings at the Second Street residence of John Cadwalader, where delegates frequently dined, as well as the hospitality offered by elite social organizations such as the Schuylkill Fishing Company (founded in 1732).
+
+The decision to convene at Carpenters' Hall rather than the Pennsylvania State House was deeply tied to local political dynamics. The State House served as the seat of the Pennsylvania Provincial Assembly, which in the autumn of 1774 was controlled by moderate and loyalist factions skeptical of radical action. Joseph Galloway, Speaker of the Assembly since 1766, strongly advocated for reconciliation with the Crown and viewed radical sentiment with suspicion. Seeking a neutral venue independent of Assembly control, the delegates chose Carpenters' Hall, owned by the Carpenters' Company of the City and County of Philadelphia. The hall offered the added advantage of housing the collections of the Library Company of Philadelphia—established in 1731 by Benjamin Franklin—which extended subscribing privileges to all attending delegates during their stay.
+
+## Course of events
+
+When the delegates formally convened at Carpenters' Hall on September 5, 1774, their political perspectives varied widely. Fifty-five representatives from twelve colonies assembled to deliberate. Peyton Randolph of Virginia was unanimously chosen as President of the Congress, while Charles Thomson, a prominent Philadelphia political organizer, was selected as Secretary. From the outset, the assembly wrestled with fundamental legal and political questions, including the nature of colonial rights, the limits of parliamentary jurisdiction, and the appropriate method for securing redress without precipitating military conflict or complete imperial rupture.
+
+```
+       [ Imperial Crisis: Coercive Acts (1774) ]
+                           │
+                           ▼
+  [ Delegates Assemble at Carpenters' Hall (Sept 5) ]
+                           │
+       ┌───────────────────┴───────────────────┐
+       ▼                                       ▼
+[ Galloway's Plan of Union ]         [ Continental Association ]
+ (Subordinate Grand Council)         (Economic Trade Boycott)
+       │                                       │
+       ▼ (Narrowly Defeated)                   ▼ (Adopted Oct 20)
+       └───────────────────┬───────────────────┘
+                           │
+                           ▼
+   [ Declaration of Rights & Adjournment (Oct 26) ]
+```
+
+On September 28, Joseph Galloway introduced a moderate compromise known as the "Plan of Union." Galloway proposed the establishment of an American legislative body—a Grand Council—headed by a President-General appointed by the King. This council would act as a colonial branch of the imperial government, possessing a veto over parliamentary legislation affecting the colonies while remaining subordinate to Parliament. Although the proposal appealed to delegates who feared that confrontational tactics would lead to civil strife, more radical leaders, led by Samuel Adams and John Adams of Massachusetts along with Patrick Henry and Richard Henry Lee of Virginia, argued that the plan conceded too much legal authority to Parliament. Following heated debate, Galloway's plan was narrowly defeated by a vote of six colonies to five, and its text was expunged from the official congressional record.
+
+Defeating the Plan of Union shifted the assembly's focus toward direct economic action. On October 20, 1774, the Congress formally endorsed and adopted the Continental Association. The Association established a standardized non-importation, non-consumption, and non-exportation agreement designed to exert commercial pressure on British merchants and manufacturers. Participating colonies pledged to cease all imports of British goods starting December 1, 1774, and to halt exports to Great Britain, Ireland, and the West Indies by September 1775 if the offending statutes were not repealed. To ensure strict compliance, the Congress mandated the election of local committees of inspection in every county, town, and city, empowering them to publish the names of violators and enforce economic isolation.
+
+In its final days, the Congress drafted several state papers outlining the constitutional basis of colonial opposition. The *Declaration and Resolves*, adopted on October 14, asserted that colonists were entitled to the rights of life, liberty, and property, as well as the immunities guaranteed by their charters and the English constitution. The document explicitly denied Parliament's right to tax the colonies internally while acknowledging its authority to regulate external ocean commerce. Additionally, the Congress drafted a formal *Petition to the King*, respectfully entreating George III to intervene on behalf of his American subjects and reverse the coercive measures enacted by Parliament. Having completed its work after seven weeks of continuous session, the assembly dissolved on October 26, 1774, after agreeing to call a Second Continental Congress for May 10, 1775, should grievances remain unredressed.
+
+## Aftermath
+
+The initiatives of the First Continental Congress altered the political relationship between Great Britain and the American colonies. Rather than weakening opposition, the Continental Association created a effective intercolonial political organization. Elected committees of safety and inspection took over administration across the provinces, enforcing the boycott, suppressing loyalist opposition, and effectively replacing royal governance at the local level. In Great Britain, the colonial petitions were rejected by Parliament and King George III, who declared in late 1774 that the New England colonies were in a state of rebellion and that force would be necessary to compel submission.
+
+Before the scheduled reassembling of the delegates, political conflict transitioned into open war. On April 19, 1775, armed clashes between British regulars and Massachusetts militiamen at the Battles of Lexington and Concord initiated the Revolutionary War. When the Second Continental Congress convened on May 10, 1775, at the Pennsylvania State House in Philadelphia, it met under military crisis. Joined by new leaders such as Benjamin Franklin and Thomas Jefferson, and presided over by John Hancock, the Second Congress moved from political petitioning to managing an armed conflict. It formed the Continental Army, appointed George Washington as Commander-in-Chief, issued paper currency, and sought foreign alliances.
+
+Although moderate leaders like John Dickinson made a final attempt at reconciliation through the *Olive Branch Petition* in July 1775, its rejection by King George III solidified support for separation. On July 2, 1776, the Congress voted to declare independence from Great Britain, adopting the formal Declaration of Independence two days later. Philadelphia served as the capital of the newly declared nation until September 1777, when approaching British forces during the Philadelphia Campaign forced Congress to evacuate. The national government temporarily relocated to Lancaster and York, Pennsylvania, before returning to Philadelphia following the British evacuation in June 1778.
+
+The First Continental Congress established the precedent for collective governance that resulted in the Articles of Confederation (drafted in 1777 and fully ratified in 1781) and later the United States Constitution of 1787. The institution of the Continental Congress continued as the primary governing body of the United States throughout the War for Independence until its eventual dissolution. On March 2, 1789, the Congress adjourned for the last time in New York City under its final attending delegate, Philip Pell, making way for the newly established federal government under the Constitution.
+
+## See also
+
+* Carpenters' Hall
+* Independence Hall
+* Second Continental Congress
+* Articles of Confederation
+* British Occupation of Philadelphia
+* Continental Association
+* Joseph Galloway's Plan of Union
+* Revolutionary Crisis (American Revolution)
+
+## References
+
+1. Karpyn, Michael. "Continental Congresses." *Encyclopedia of Greater Philadelphia*, 2012. https://philadelphiaencyclopedia.org/essays/continental-congresses/
+2. "Joseph Galloway’s Plan of Union, September 28, 1774." *The Founders' Constitution*, University of Chicago Press. http://press-pubs.uchicago.edu/founders/documents/v1ch7s3.html
+3. "Journals of the Continental Congress, 1774–1789." *The Avalon Project*, Yale Law School. http://avalon.law.yale.edu/subject_menus/contcong.asp
+4. "Continental Congress, 1774–1781." *Office of the Historian*, U.S. Department of State. https://history.state.gov/milestones/1776-1783/continental-congress
+5. "Primary Documents in American History: The Articles of Confederation." *Library of Congress*. http://www.loc.gov/rr/program/bib/ourdocs/articles.html

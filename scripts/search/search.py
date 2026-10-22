@@ -10,9 +10,12 @@ for article URLs related to that entry, restricting results to the
 approved domains listed in sources.list. Results are written to
 data/search/<topic>.txt.
 """
+import sys
 import time
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
+sys.path.append(str(rootDir / "scripts"))
+import gemini_utils
 from urllib.parse import urlparse
 
 from google import genai
@@ -23,7 +26,7 @@ import classifier
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash"
 SOURCES_LIST = Path(__file__).parent / "sources.list"
 
 PROMPT_TEMPLATE = """\
@@ -45,15 +48,19 @@ def loadApprovedDomains() -> list[str]:
     Reads sources.list and returns a list of approved base URLs
     (skipping comment lines and blank lines).
     """
-    if not SOURCES_LIST.exists():
-        print(f"Warning: {SOURCES_LIST} not found. Searches will not be domain-filtered.")
+    try:
+        if not SOURCES_LIST.exists():
+            print(f"Warning: {SOURCES_LIST} not found. Searches will not be domain-filtered.")
+            return []
+        domains = []
+        for line in SOURCES_LIST.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                domains.append(line)
+        return domains
+    except Exception as e:
+        print(f"Error loading approved domains: {e}")
         return []
-    domains = []
-    for line in SOURCES_LIST.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line and not line.startswith("#"):
-            domains.append(line)
-    return domains
 
 def parseUrls(text: str) -> list[str]:
     """Extracts valid-looking URLs from a block of model output text."""
@@ -66,12 +73,15 @@ def parseUrls(text: str) -> list[str]:
 
 def isApprovedDomain(url: str, approved_domains: list[str]) -> bool:
     """Returns True if the URL's domain matches any approved domain."""
-    netloc = urlparse(url).netloc.lower()
-    for base in approved_domains:
-        approved_netloc = urlparse(base).netloc.lower()
-        if netloc == approved_netloc or netloc.endswith("." + approved_netloc):
-            return True
-    return False
+    try:
+        netloc = urlparse(url).netloc.lower()
+        for base in approved_domains:
+            approved_netloc = urlparse(base).netloc.lower()
+            if netloc == approved_netloc or netloc.endswith("." + approved_netloc):
+                return True
+        return False
+    except Exception:
+        return False
 
 # ---------------------------------------------------------------------------
 # Core logic
@@ -82,59 +92,66 @@ def searchTopic(topic: str, client: genai.Client, approved_domains: list[str]) -
     Queries Gemini for article URLs about a topic restricted to approved
     domains, then writes the filtered results to data/search/<topic>.txt.
     """
-    print(f"Searching for: {topic}...")
+    try:
+        print(f"Searching for: {topic}...")
 
-    domain_list = "\n".join(f"  - {d}" for d in approved_domains) if approved_domains else "  (any credible source)"
-    prompt = PROMPT_TEMPLATE.format(topic=topic, approved_domains=domain_list)
+        domain_list = "\n".join(f"  - {d}" for d in approved_domains) if approved_domains else "  (any credible source)"
+        prompt = PROMPT_TEMPLATE.format(topic=topic, approved_domains=domain_list)
 
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            temperature=0.2,        # low temp for factual URL output
-            max_output_tokens=8192,
-        ),
-    )
+        response = gemini_utils.query_gemini(
+            client=client,
+            model=MODEL,
+            contents=prompt,
+            config=types.GenerateContentConfig(
+                temperature=0.2,        # low temp for factual URL output
+                max_output_tokens=8192,
+            ),
+        )
 
-    # Post-filter: keep only URLs from approved domains
-    candidates = parseUrls(response.text)
-    if approved_domains:
-        filtered = [url for url in candidates if isApprovedDomain(url, approved_domains)]
-        rejected = len(candidates) - len(filtered)
-        if rejected:
-            print(f"  Filtered out {rejected} URL(s) not in sources.list")
-    else:
-        filtered = candidates
+        # Post-filter: keep only URLs from approved domains
+        candidates = parseUrls(response.text)
+        if approved_domains:
+            filtered = [url for url in candidates if isApprovedDomain(url, approved_domains)]
+            rejected = len(candidates) - len(filtered)
+            if rejected:
+                print(f"  Filtered out {rejected} URL(s) not in sources.list")
+        else:
+            filtered = candidates
 
-    output_path = rootDir / "data" / "search" / f"{topic}.txt"
-    output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path = rootDir / "data" / "search" / f"{topic}.txt"
+        output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # Load existing URLs to avoid overwriting previously found sources
-    existing: list[str] = []
-    if output_path.exists():
-        existing = [u for u in output_path.read_text(encoding="utf-8").splitlines() if u.strip()]
+        # Load existing URLs to avoid overwriting previously found sources
+        existing: list[str] = []
+        if output_path.exists():
+            existing = [u for u in output_path.read_text(encoding="utf-8").splitlines() if u.strip()]
 
-    # Merge, preserving order and deduplicating
-    seen = set(existing)
-    new_urls = [u for u in filtered if u not in seen]
-    combined = existing + new_urls
+        # Merge, preserving order and deduplicating
+        seen = set(existing)
+        new_urls = [u for u in filtered if u not in seen]
+        combined = existing + new_urls
 
-    output_path.write_text("\n".join(combined), encoding="utf-8")
-    print(f"  Saved {len(combined)} URL(s) ({len(new_urls)} new) -> {output_path}")
+        output_path.write_text("\n".join(combined), encoding="utf-8")
+        print(f"  Saved {len(combined)} URL(s) ({len(new_urls)} new) -> {output_path}")
+    except Exception as e:
+        print(f"Error searching topic {topic}: {e}")
 
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
 def main() -> None:
-    client = genai.Client()
-    approved_domains = loadApprovedDomains()
-    entries = classifier.parse()
+    try:
+        client = genai.Client()
+        approved_domains = loadApprovedDomains()
+        entries = classifier.parse()
 
-    for i, entry in enumerate(entries):
-        searchTopic(entry.name, client, approved_domains)
+        for i, entry in enumerate(entries):
+            searchTopic(entry.name, client, approved_domains)
 
-    print("All searches complete.")
+        print("All searches complete.")
+    except Exception as e:
+        print(f"Error in search main: {e}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,3 @@
+* **Infobox - Height**: Corrected Joe Frazier's personal height from `11 ft (commemorative statue dimension)` to `5 ft 11 ½ in (182 cm)`.
+* **Career Section - Professional Debut Date**: Corrected the debut date from "September 1965" to "August 1965" (Frazier's first professional fight against Woody Goss took place on August 16, 1965).
+* **Lead Section - Grammar**: Corrected "a iconic left hook" to "an iconic left hook".

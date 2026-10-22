@@ -1,0 +1,4 @@
+* **Infobox - Practice**: Corrected practice name from "Horace Trumbauer & Associates" to "Office of Horace Trumbauer", as the professional firm was operated under Trumbauer's name (and later "Office of Horace Trumbauer").
+* **Career - Miramar Client**: Changed client from George D. Widener to Eleanor Elkins Widener. George D. Widener died on the RMS *Titanic* in April 1912; Miramar was commissioned by his widow, Eleanor Elkins Widener, and completed in 1915.
+* **Career - Frank Seeburger**: Clarified that chief designer Frank Seeburger did not die in 1909, but rather resigned/left the firm to start his own practice with Charles F. Rabenold (Seeburger & Rabenold).
+* **Personal Life - Wife's Name**: Corrected Trumbauer's wife's name from "Sara Williams" to "Agnes Gallagher" (whom he married on April 25, 1903).

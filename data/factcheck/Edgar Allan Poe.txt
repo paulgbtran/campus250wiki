@@ -1,0 +1,2 @@
+* **Grammar/Typo Fix:** In section *Early Life and Education*, corrected "a anonymous collection" to "an anonymous collection".
+* **URL Correction:** In section *References*, updated the broken National Park Service URL paths from `https://www.nps.gov/edal/...` to `https://www.nps.gov/edap/...` (the official National Park Service code for the Edgar Allan Poe National Historic Site is `edap`).

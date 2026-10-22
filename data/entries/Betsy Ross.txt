@@ -1,55 +1,95 @@
-```
-## Betsy Ross
+# Betsy Ross
 
 ### Infobox
-| Betsy Ross |
-|-------------------|
-| **Known for**     | American seamstress and upholsterer widely credited in popular folklore with making and helping design the first flag of the United States. |
-| **Era**           | American Revolutionary Era, Early Republic |
-| **Associated with** | Philadelphia, Pennsylvania |
-| **Born**          | January 1, 1752 | Gloucester City, New Jersey, British America |
-| **Died**          | January 30, 1836 (aged 84) | Philadelphia, Pennsylvania, U.S. |
-| **Occupation**    | Seamstress, Upholsterer, Flagmaker |
+
+| Attribute | Details |
+| :--- | :--- |
+| **Born** | Elizabeth Griscom<br>January 1, 1752<br>Philadelphia, Province of Pennsylvania, British America |
+| **Died** | January 30, 1836 (aged 84)<br>Philadelphia, Pennsylvania, U.S. |
+| **Resting place** | Betsy Ross House Courtyard, Philadelphia, Pennsylvania |
+| **Occupation** | Upholsterer, flagmaker, seamstress |
+| **Known for** | Sewing the first official United States flag ("Betsy Ross flag") |
+| **Spouses** | John Ross (m. 1773; d. 1776)<br>Joseph Ashburn (m. 1777; d. 1782)<br>John Claypoole (m. 1783; d. 1817) |
+| **Children** | 7 (including Clarissa, Susannah, Rachel, Jane, Harriet) |
+| **Parents** | Samuel Griscom and Rebecca James Griscom |
+| **Associated Key Figures** | George Washington, Robert Morris, George Ross |
+
+---
 
 ### Lead section
-Betsy Ross (born Elizabeth Griscom) was an American seamstress and upholsterer who became a central figure in American folklore. According to popular tradition, she fashioned and helped design the first official national flag of the United States, the "Stars and Stripes," at the request of George Washington. While historical records confirm that she manufactured flags for the Pennsylvania navy and ran a successful upholstery business for decades, there is no contemporary documentary evidence confirming she designed or created the first American flag. Her story was first made public in 1870 by her grandson, William Canby, and has since become a deeply ingrained aspect of American revolutionary legacy.
+
+Elizabeth "Betsy" Ross (née Griscom; January 1, 1752 – January 30, 1836) was an American upholsterer and businesswoman from Philadelphia, Pennsylvania, who is widely credited in popular tradition with creating the first official flag of the United States. Operating an upholstery workshop in Old City Philadelphia during the late 18th century, Ross was a skilled artisan who supplied military accoutrements, ship colors, and banners to American forces during the Revolutionary War. 
+
+According to historical tradition first brought to public attention in 1870, Ross was visited in the spring of 1776 by a committee of the Continental Congress consisting of General George Washington, financier Robert Morris, and her late husband’s uncle, Colonel George Ross. The committee presented her with a drawn proposal for a national flag consisting of thirteen red and white stripes and thirteen six-pointed stars. Ross is famously said to have demonstrated how to fold fabric to cut a five-pointed star with a single snip of her scissors, leading to the adoption of the five-pointed star in the national flag design.
+
+While modern historians generally credit Continental Congress delegate Francis Hopkinson with designing the first official national flag and consider the Betsy Ross story an unverified family legend, contemporary receipts prove that Ross made numerous naval and state flags for the Pennsylvania Navy Board during the war. Her workshop remained a central fixture of Philadelphia's textile and decorative trade across the early Republic, serving federal offices, merchants, and private citizens.
+
+Today, Ross stands as an enduring cultural icon of the American Revolution, representing the vital contributions of female artisans and domestic laborers to the founding of the nation. Her historic residence and workshop, the Betsy Ross House on Arch Street, remains a major historic landmark near Independence National Historical Park and the Museum of the American Revolution in Philadelphia.
+
+---
 
 ### Early life and education
-Elizabeth Griscom was born on January 1, 1752, in Gloucester City, New Jersey. She was the eighth of seventeen children raised in a strict Quaker household as a member of the Society of Friends. She received her education in Quaker schools before becoming an apprentice to a Philadelphia upholsterer, where she mastered the skills of sewing, furniture stuffing, and textile work that would define her career.
 
-### Career and Marriages
-By 1775, Betsy and her fellow upholstery apprentice, John Ross, whom she married in 1773, opened their own small shop in the commercial district of Philadelphia. Because John Ross was an Episcopalian, Betsy was disowned by the Society of Friends for marrying outside her faith. 
+Elizabeth Griscom was born on New Year's Day, January 1, 1752, in Philadelphia, Pennsylvania, then the largest city in British North America. She was the eighth of seventeen children born to Samuel Griscom and Rebecca James Griscom, members of a devout Quaker family belonging to the Religious Society of Friends. Her father was a master carpenter and builder who contributed to the construction of the Philadelphia State House (now known as Independence Hall) and its iconic bell tower.
 
-Her life was heavily impacted by the American Revolutionary War:
-*   **First Marriage**: Her husband John Ross joined a local militia company to fight in the Revolution and was killed in January 1776. Betsy continued operating the upholstery business independently.
-*   **Second Marriage**: In June 1777, she married Joseph Ashburn, a merchant marine. His ship was captured during the war, and he died in an English prison in 1782.
-*   **Third Marriage**: In 1783, Betsy married John Claypoole, a fellow prisoner of Ashburn who had delivered the news of his death to Betsy. Together, they joined the Free Quakers and ran the upholstery business, later maintaining it alongside Betsy's daughters, granddaughters, and nieces. Records note that she and Claypoole performed various jobs, including covering a desk at the State House (Independence Hall) with green fabric. She continued producing flags and upholstery goods until her later years.
+Ross grew up in a household defined by Quaker values of plainness, discipline, and hard work. She received her formal education at a Quaker-run public school, where female students were taught reading, writing, and practical household arts, with a heavy emphasis on plain sewing and decorative needlework. Ross demonstrated an early aptitude for textile work and handcrafts, distinguishing herself through her fine seamstress skills.
 
-### The Flag Legend and Historical Analysis
-The narrative that Betsy Ross designed and crafted the first American flag remained entirely unknown until 1870. Her grandson, William Canby, presented a paper titled "The History of the Flag of the United States" to the Historical Society of Pennsylvania. Canby claimed that in June 1776, George Washington, accompanied by a committee from the Continental Congress, visited Ross's back parlor. They allegedly presented her with a rough sketch of a flag, which Ross improved by suggesting a circular arrangement of stars and demonstrating how to cut a crisp, five-pointed star with a single snip of her shears, rather than the six-pointed stars initially proposed.
+Upon completing her schooling, her father arranged an apprenticeship for her with John Webster, a leading Philadelphia upholsterer who catered to the city's wealthy elite. During her multi-year apprenticeship, Ross mastered the intricate upholstery trade, which involved cutting, fitting, and sewing furniture coverings, draperies, mattresses, and window blinds. While working in Webster's shop, she met John Ross, a fellow apprentice, practicing Anglican, and the nephew of George Ross, a prominent Pennsylvania lawyer and eventual signer of the Declaration of Independence.
 
-Modern historians classify this account as a national myth rather than verified fact. While the Continental Congress officially adopted the Stars and Stripes on June 14, 1777, there are no congressional logs, letters, or receipts connecting Ross to the creation of that initial flag. Archival evidence proves she was paid for making navy flags for Pennsylvania, but the legend of her inventing the national design relies entirely on family oral histories and affidavits recorded decades later by her descendants, such as her daughter Rachel Claypoole Fletcher.
+In November 1773, when Betsy was 21, the couple eloped across the Delaware River to Hugg's Tavern in Gloucester City, New Jersey. Because interfaith marriages were strictly forbidden under Quaker discipline, Betsy's elopement with an Anglican caused her formal expulsion from the Society of Friends. Stripped of her religious community and alienated from her family on the eve of the American Revolution, she joined her husband’s congregation at Christ Church in Philadelphia.
 
-### The Betsy Ross House
-The Betsy Ross House, located on Arch Street in Philadelphia, operates as a prominent museum and is one of the city's most visited historic sites, ranking third in popularity behind the Liberty Bell and Independence Hall. Historical records confirm that Betsy Ross rented property on this block between 1773 and 1786, though it remains a matter of historical debate whether she lived in the exact structure standing at 239 Arch Street or an adjacent property that now serves as the museum garden.
+---
 
-In 1898, the Betsy Ross Memorial Association launched a nationwide campaign where two million Americans donated dimes to rescue the building from disrepair and convert it into a national shrine. The building was officially donated to the city of Philadelphia in 1937 and fully restored with financial backing from millionaire Atwater Kent. Today, the courtyard houses the gravesite of Betsy Ross and her third husband, John Claypoole, after their remains were relocated there from previous burial sites.
+### Career
+
+Following their marriage in late 1773, Betsy and John Ross established their own upholstery business in Old City Philadelphia, catering to local households, ship captains, and commercial establishments. Their budding venture was quickly disrupted by the outbreak of the Revolutionary War. John Ross joined the local Pennsylvania militia; in January 1776, he died from injuries sustained during an accidental gunpowder explosion while guarding military stores along the Delaware River waterfront.
+
+Left widowed at twenty-four, Betsy Ross retained control of the upholstery shop, maintaining independent business operations in an era when women rarely managed enterprises without male oversight. As wartime blockades limited imported British fabrics, Ross adapted her trade to supply military needs. She turned her technical skills toward repairing Continental Army uniforms, making musket balls, and manufacturing naval flags, pennants, and ensigns for armed merchantmen and naval vessels guarding the mid-Atlantic coast.
+
+According to family accounts, in late May or early June 1776, Ross received a private delegation at her Chestnut Street workshop comprising General George Washington, Robert Morris, and Colonel George Ross. The group presented her with a rough sketch of a flag featuring 13 alternating red and white stripes and a field of blue containing 13 six-pointed stars. Ross accepted the commission but suggested modifying the six-pointed stars to five-pointed ones, arguing that five-pointed stars could be produced far more efficiently. To prove her point, she folded a piece of paper and cut a neat, symmetrical five-pointed star with a single cut of her shears. Impressed by her ingenuity, the committee accepted her design change.
+
+Documentary evidence confirms that on May 29, 1777, the State Navy Board of Pennsylvania issued a payment order to "Elizabeth Ross" in the amount of £14 12s 2d for sewing ship colors for state naval vessels. Two weeks later, on June 14, 1777, the Continental Congress passed the official Flag Resolution, specifying that the national flag consist of 13 stripes and 13 stars in a blue field. Following the war, Ross expanded her business significantly during Philadelphia's tenure as the national capital (1790–1800), fulfilling major government upholstery and flagmaking contracts for decades.
+
+---
+
+### Personal life
+
+Betsy Ross was married three times and endured significant personal grief associated with the Revolutionary War and early American urban epidemics. Following the death of her first husband, John Ross, in early 1776, she married Joseph Ashburn, a merchant mariner, in June 1777 at Old Swedes' Church in Philadelphia. The couple had two daughters, Zilla (who died in infancy) and Elizabeth.
+
+During the war, Ashburn served as a mariner on an American privateer ship. In 1781, his vessel was captured by the British Royal Navy, and Ashburn was transported to Mill Prison in Plymouth, England. He died of disease while in captivity in May 1782. Fellow prisoner and Philadelphian John Claypoole, an old acquaintance of Betsy's, brought news of Ashburn's death and his personal belongings back to her upon his release.
+
+Betsy married John Claypoole on May 8, 1783, at Christ Church in Philadelphia. The marriage lasted over thirty-four years and produced five daughters: Clarissa, Susannah, Rachel, Jane, and Harriet (who died in infancy). John Claypoole worked in the U.S. Custom House in Philadelphia while assisting with the family upholstery business, though he suffered from long-term health complications stemming from war wounds and British captivity.
+
+Following Claypoole's death in 1817, Betsy continued operating the family shop alongside her daughters and nieces until failing eyesight forced her retirement in 1827 at the age of 75. A devout Christian in her later years, she re-established ties with the Society of Free Quakers, a group formed by Quakers who had supported the American war effort. Ross lived her final years in the home of her married daughter, Jane Claypoole Canby, in the suburban township of Kensington. She died peacefully in her sleep on January 30, 1836, at the age of 84.
+
+---
+
+### Legacy
+
+The narrative of Betsy Ross creating the first American flag remained largely a family oral history until March 1870, when her grandson, William J. Canby, presented a formal paper to the Historical Society of Pennsylvania. Canby compiled signed affidavits from Betsy's surviving daughters, nieces, and grandchildren affirming her account of Washington's visit and the flag's creation. However, 19th-, 20th-, and 21st-century historians note the lack of contemporary documentary evidence supporting the claim, generally crediting Continental Congress delegate Francis Hopkinson with designing the first official Stars and Stripes. Nevertheless, Ross's documented payments for state naval flags confirm her role as an active Revolutionary-era flagmaker.
+
+During the 1876 Centennial Exhibition in Philadelphia, Betsy Ross emerged as a national folk hero, symbolising female patriotism and working-class contribution to the Revolutionary cause. Her story was popularized through historical paintings, notably Charles H. Weisgerber's 1893 oil painting *Birth of Our Nation's Flag*, which spurred public fundraising efforts to preserve her former Arch Street residence. 
+
+The Betsy Ross House on Arch Street in Philadelphia's Historic District is maintained as a popular public museum. Although Ross was originally buried at the Free Quaker Burial Ground in Philadelphia, her remains were reinterred in 1976 in the courtyard of the Betsy Ross House in preparation for the United States Bicentennial. Her life and workshop remain central subjects of educational exhibits and historical interpretations throughout the Philadelphia heritage corridor, including programs at Independence National Historical Park and the Museum of the American Revolution.
 
 ---
 
 ### See also
-*   American Revolution
-*   Continental Congress
-*   George Washington
-*   Independence Hall
-*   Society of Friends (Quakers)
-*   United States Flag
+
+* Betsy Ross House
+* Flag of the United States
+* Independence National Historical Park
+* Historical Society of Pennsylvania
+* Museum of the American Revolution
+* George Ross (signer)
+
+---
 
 ### References
-1.  "Betsy Ross | Biography, Flag, & Facts". Encyclopedia Britannica. Available at: https://www.britannica.com/biography/Betsy-Ross
-2.  "The Betsy Ross House: Did Betsy really live here". USHistory.org. Available at: https://www.ushistory.org/betsy/prove239.html
-3.  "The Betsy Ross House". USHistory.org. Available at: https://www.ushistory.org/betsy/flaghome.html
-4.  "The Upholstery Shop - Betsy Ross House". USHistory.org. Available at: https://www.ushistory.org/betsy/house/room5.html
-5.  "Betsy Ross House: Courtyard". USHistory.org. Available at: https://www.ushistory.org/betsy/house/room2.html
 
-```
+1. National Park Service. "Independence National Historical Park - Places." U.S. Department of the Interior. Available at: `https://www.nps.gov/inde/learn/historyculture/places.htm`
+2. Encyclopædia Britannica. "Betsy Ross: American Artisan and Flagmaker." Available at: `https://www.britannica.com/biography/Betsy-Ross`
+3. Museum of the American Revolution. "The Betsy Ross Story: What You Know Is Probably Wrong." Available at: `https://www.amrevmuseum.org/read-the-revolution/perspectives/the-betsy-ross-story-what-you-know-is-probably-wrong`
+4. Museum of the American Revolution. "Betsy Ross and the Making of America." Available at: `https://www.amrevmuseum.org/read-the-revolution/betsy-ross-and-the-making-of-america`
+5. Encyclopedia of Greater Philadelphia. "Flagmaking and Revolutionary Artisans in Philadelphia." Available at: `https://philadelphiaencyclopedia.org/`
+6. Historical Society of Pennsylvania. "Canby Family Papers and Revolutionary Collections." Available at: `https://hsp.org/search`

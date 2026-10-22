@@ -1,0 +1,104 @@
+# Declaration of Independence (1776)
+
+## Infobox
+
+| Key Metadata | Details |
+| :--- | :--- |
+| **Event Name** | Adoption of the Declaration of Independence |
+| **Date** | June 7, 1776 – August 2, 1776 (Main adoption: July 4, 1776) |
+| **Location** | Pennsylvania State House (now Independence Hall), Philadelphia, Pennsylvania |
+| **Key Figures** | Thomas Jefferson, John Adams, Benjamin Franklin, Richard Henry Lee, John Hancock, John Dickinson, Caesar Rodney, Col. John Nixon |
+| **Drafting Body** | Committee of Five (Jefferson, Adams, Franklin, Sherman, Livingston) |
+| **Legislative Body** | Second Continental Congress |
+| **Significance** | Formally severed political ties between the Thirteen American Colonies and Great Britain; established the foundational principles of individual rights and self-governance for the United States. |
+
+---
+
+## Lead section
+
+The Declaration of Independence is the foundational document of the United States of America, adopted by the Second Continental Congress meeting in the East Room of the Pennsylvania State House (now Independence Hall) in Philadelphia on July 4, 1776. The document formally stated the thirteen American colonies' political separation from the Kingdom of Great Britain, declaring them to be free and independent states. By articulating the principle that all individuals possess unalienable rights—including life, liberty, and the pursuit of happiness—the Declaration transformed a colonial military conflict into a revolution grounded in democratic ideals and human rights.
+
+The process of declaring independence in Philadelphia unfolded across several tense months in the late spring and early summer of 1776. Following the outbreak of armed hostilities at Lexington and Concord in April 1775, delegates from across British North America gathered in Philadelphia to manage the war effort. While moderates initially sought reconciliation with King George III, escalating military conflicts and persuasive political writings rapidly altered public and legislative opinion. On June 7, 1776, Virginia delegate Richard Henry Lee introduced a formal resolution proposing independence, prompting Congress to appoint a drafting committee—known as the Committee of Five—led by Thomas Jefferson.
+
+Working in a rented second-floor apartment at Seventh and Market Streets, Jefferson drafted the text over roughly two weeks. After extensive debate and 86 revisions by Congress, twelve of the thirteen colonies voted to approve Lee’s resolution on July 2, 1776, with New York abstaining. Two days later, on July 4, Congress officially approved the final wording of the Declaration and authorized its immediate printing. The document was first published as a broadside by Philadelphia printer John Dunlap and publicly read aloud for the first time in the State House Yard on July 8.
+
+The adoption of the Declaration solidified Philadelphia’s historic reputation as the "Cradle of Liberty." Beyond its immediate political consequence of founding a new sovereign nation, the document served as an enduring philosophical benchmark for subsequent freedom struggles worldwide. Today, the engrossed handwritten original document is preserved at the National Archives in Washington, D.C., while the physical sites associated with its creation in Philadelphia remain core historic landmarks within Independence National Historical Park.
+
+---
+
+## Background
+
+When the Second Continental Congress convened in Philadelphia in May 1775, the American Revolutionary War had already begun with the Battles of Lexington and Concord on April 19, 1775. Assembling in the Pennsylvania State House, sixty-five delegates faced the daunting operational challenges of raising and equipping a Continental Army, selecting military leadership under Commander-in-Chief George Washington, and managing financial resources for war against Great Britain. Despite the ongoing military conflict, formal political separation from the British Crown was not initially a consensus objective among the delegates.
+
+Throughout 1775 and early 1776, deep political divisions persisted within Congress and colonial legislatures. Moderate leaders argued that reconciliation with Great Britain remained the safest and most prudent path. As late as January 9, 1776, Pennsylvania delegate James Wilson offered a motion in Congress explicitly rejecting talk of independence. However, on the following day, January 10, 1776, a political pamphlet published near Third and Walnut Streets dramatically shifted public sentiment. Written by Thomas Paine and printed by Robert Bell, *Common Sense* denounced the institution of hereditary monarchy, criticized British imperial governance, and made a fiery economic and philosophical case for immediate independence. The pamphlet became an overnight sensation, selling nearly 500,000 copies in its first year and galvanizing popular support across the colonies.
+
+Between April and July 1776, popular momentum accelerated through more than ninety local declarations of independence enacted by regional conventions, grand juries, and military units across North America. In the Philadelphia region, militia companies from Philadelphia, Chester County, and Lancaster County adopted resolutions demanding separation from Britain. These grassroots movements placed immense pressure on reluctant colonial assemblies.
+
+Political dynamics varied sharply among colonial delegations. Virginia instructed its delegates on May 15, 1776, to propose a declaration of independence. New Jersey replaced its royal governor, William Franklin (son of Benjamin Franklin), placed him under arrest, and dispatched a new delegation instructed to vote for separation. Conversely, delegates from Pennsylvania, Delaware, and Maryland operated under strict instructions to seek reconciliation. Pennsylvania held immense political and economic influence, and its newly elected provincial assembly in May 1776 remained committed to remaining within the British Empire. Overcoming this internal political resistance in Philadelphia proved vital to achieving unified continental action.
+
+---
+
+## Course of events
+
+```
+Timeline of Key Events (1776–1777)
+
+  Jun 7, 1776  ── Lee introduces resolution for independence
+  Jun 10, 1776 ── Vote postponed to July 1 to build coalition
+  Jun 11, 1776 ── Committee of Five appointed (Jefferson begins drafting)
+  Jun 28, 1776 ── Draft presented to Congress; editing begins
+  Jul 1, 1776  ── Initial vote: 9 for, 2 against, 1 abstained, 1 split
+  Jul 2, 1776  ── Resolution adopted (12 for, 1 abstained)
+  Jul 4, 1776  ── Declaration text approved; Dunlap broadsides printed
+  Jul 6, 1776  ── First newspaper printing (PA Evening Post)
+  Jul 8, 1776  ── First public reading by Col. Nixon in State House Yard
+  Aug 2, 1776  ── Official engrossed copy signed by delegates
+  Jan 18, 1777 ── Congress orders first printing with signers' names
+```
+
+On June 7, 1776, Virginia delegate Richard Henry Lee brought the issue to a formal head by submitting a resolution to Congress stating: "That these United Colonies are, and of right ought to be, free and independent States." Seconded by John Adams of Massachusetts, the motion faced opposition from moderates who argued that public opinion in several middle colonies was not yet ripe for separation. On June 10, Congress voted to postpone debate on Lee's resolution until July 1, allowing delegates time to forge coalitions and seek updated instructions from their home governments.
+
+To prepare for the potential passage of Lee's resolution, Congress appointed a five-member committee on June 11 to draft a formal statement of independence. The Committee of Five comprised Thomas Jefferson (VA), John Adams (MA), Benjamin Franklin (PA), Roger Sherman (CT), and Robert R. Livingston (NY). The committee assigned the primary writing task to Jefferson. Seeking quiet lodging away from the heat and political bustle of the State House, Jefferson rented a second-floor room at the home of bricklayer Jacob Graff at Seventh and Market Streets. Over roughly two weeks, Jefferson composed his draft, incorporating ideas from the Virginia Declaration of Rights and Enlightenment political theory. After minor edits by Adams and Franklin, the committee laid the document before Congress on June 28, 1776.
+
+Debate resumed on July 1. During an initial vote in a committee of the whole, nine colonies supported independence, Pennsylvania and South Carolina voted against it, New York abstained because its delegates had not yet received instructions from their provincial congress regarding independence, and Delaware’s two delegates were split. A formal vote was scheduled for the following day. Over the next twenty-four hours, critical political shifts occurred:
+* South Carolina delegates changed their vote to affirmative.
+* Delaware delegate Caesar Rodney rode eighty miles overnight through a severe thunderstorm to break his delegation's tie in favor of independence.
+* In Pennsylvania, opponents of independence John Dickinson and Robert Morris agreed to abstain, allowing the remaining Pennsylvania delegates to cast a 3-to-2 vote in favor of the resolution.
+
+On July 2, 1776, twelve of the thirteen colonies officially voted to approve Lee’s resolution for independence, with New York abstaining. John Adams believed July 2 would be celebrated by future generations as the definitive day of American independence.
+
+From July 2 to July 4, Congress debated and revised Jefferson’s draft text in the East Room of the State House. Delegates made 86 alterations, paring the text by nearly a quarter, refining vocabulary, and removing several grievances against King George III. Notably, Congress struck a passage condemning the slave trade and accusing the King of imposing slavery upon the colonies, a concession made to satisfy delegates from Southern colonies and Northern shipping interests.
+
+On July 4, 1776, Congress formally approved the amended text of the Declaration of Independence. President of Congress John Hancock and Secretary Charles Thomson authenticated the document, and Congress ordered it to be printed immediately. That night, Philadelphia printer John Dunlap produced approximately 200 broadside copies at his shop at Second and Market Streets to be dispatched throughout the states and army camps. On July 6, the text appeared in the *Pennsylvania Evening Post*, marking its first newspaper publication. Two days later, on July 8, Colonel John Nixon read the Declaration aloud to a large gathering in the State House Yard (now Independence Square), marking its first public reading. Amid cheers from the crowd, militiamen tore down the royal coat of arms from inside the State House and burned it in a public bonfire.
+
+---
+
+## Aftermath
+
+Following the public proclamations in early July, Congress resolved on July 19, 1776, that the text be officially engrossed on parchment under the new title: "The Unanimous Declaration of the Thirteen United States of America." On August 2, 1776, the engrossed parchment was brought to the State House for signing. Approximately fifty of the fifty-six total signers affixed their names on that day, led by John Hancock's prominent central signature. Five additional delegates signed later in 1776, and Thomas McKean of Delaware added his signature after January 1777. To protect the signers from treason charges by Great Britain, Congress kept the names secret until January 18, 1777, when it authorized Mary Katherine Goddard to print official copies featuring the full list of signers.
+
+The adoption of the Declaration transformed the local political structure of Pennsylvania and fundamentally altered Philadelphia's national role. Opposition leader John Dickinson, refusing to vote for independence on principle but loyal to the patriot cause, resigned his seat in Congress to serve as an officer in the Pennsylvania militia. The colonial assembly collapsed, replaced by a radical state constitution in September 1776. As the Revolutionary War progressed, Philadelphia became a primary military target; British forces under General William Howe occupied the city from September 1777 to June 1778, forcing Congress to flee to Lancaster and York, Pennsylvania.
+
+Over time, the Declaration of Independence evolved from a wartime political announcement into a secular holy text of American civic identity. Because early exposure to light, handling, and 19th-century copy-pressing damaged the original parchment document, Secretary of State John Quincy Adams commissioned engraver William J. Stone in 1820 to create an exact copperplate facsimile. Completed in 1823, Stone's engraving became the standard visual version reproduced in American history.
+
+In Philadelphia, the physical room where the document was debated and approved became a international shrine to democracy. The Pennsylvania State House was renamed Independence Hall, and the surrounding square was preserved as part of Independence National Historical Park, established in mid-20th century. The original handwritten engrossed Declaration is kept on permanent public display in the Rotunda for the Charters of Freedom at the National Archives in Washington, D.C.
+
+---
+
+## See also
+
+* [Articles of Confederation](https://philadelphiaencyclopedia.org/essays/articles-of-confederation/)
+* [Common Sense](https://philadelphiaencyclopedia.org/essays/common-sense/)
+* [Constitutional Convention of 1787](https://philadelphiaencyclopedia.org/essays/constitutional-convention/)
+* [Continental Congresses](https://philadelphiaencyclopedia.org/essays/continental-congresses/)
+* [Independence Hall](https://philadelphiaencyclopedia.org/essays/independence-hall/)
+* [Independence National Historical Park](https://philadelphiaencyclopedia.org/essays/independence-national-historical-park/)
+* [Revolutionary Crisis (American Revolution)](https://philadelphiaencyclopedia.org/essays/revolutionary-crisis-american-revolution/)
+
+---
+
+## References
+
+1. Independence National Historical Park. "Declaration of Independence Timeline." National Park Service, U.S. Department of the Interior. https://www.nps.gov/inde/learn/historyculture/resources-declarationofindependence.htm
+2. Karpyn, Michael. "Declaration of Independence." *The Encyclopedia of Greater Philadelphia*, Mid-Atlantic Regional Center for the Humanities (MARCH) at Rutgers University-Camden, 2012. https://philadelphiaencyclopedia.org/essays/declaration-of-independence/
+3. National Archives and Records Administration. "The Declaration of Independence." America's Founding Documents. https://www.archives.gov/founding-docs/declaration

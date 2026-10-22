@@ -1,0 +1,6 @@
+* **Lead Section**: Removed reference to "Native American iconography." Calder's *Swann Memorial Fountain* uses classical Beaux-Arts allegorical figures (nudes) representing local waterways, not Native American motifs or figures.
+* **Career Section (Table & Description)**:
+  * Removed claims that the *Delaware River* figure depicts a "member of the Lenni Lenape (Delaware) tribe" holding a bow above his head while a leaping fish sprays water over him. In reality, it is a mature male classical nude figure.
+  * Corrected the description of the *Wissahickon Creek* figure from a "young Native American girl" to a young female figure / maiden.
+* **Career Section (Dedication)**: Removed the fabricated detail stating that 10,000 citizens celebrated the fountain's 1924 dedication by "dancing the tango in the surrounding streets of Logan Square."
+* **Grammar/Style**: Fixed minor typographic agreement ("a artistic lineage" -> "an artistic lineage").

@@ -1,0 +1,5 @@
+* **Birth Date**: Updated birth date to March 5, 1901 (Gregorian calendar; Old Style February 20, 1901). Stating February 20 alone without noting the Old Style Julian calendar used in the Russian Empire at the time is inaccurate according to standard biographical references.
+* **Location of Burn Incident**: Corrected the location of Kahn's childhood burn accident from Philadelphia to Estonia. The accident occurred around 1904, prior to the family's emigration to the United States in 1906.
+* **Surname Change Year**: Corrected the year the family surname was changed from Schmuilowsky to Kahn from 1909 to 1915.
+* **Early Art Education & PAFA**: Replaced the Pennsylvania Academy of the Fine Arts (PAFA) with the Graphic Sketch Club (now Fleisher Art Memorial) in the Infobox and Early Life section. Kahn took classes at the Public Industrial Art School and the Graphic Sketch Club; although he won a scholarship to PAFA, he turned it down to attend the University of Pennsylvania.
+* **Richards Laboratories Completion Date**: Updated the initial completion/dedication date for the Richards Medical Research Laboratories to 1960 in the Infobox table.

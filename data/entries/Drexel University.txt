@@ -1,0 +1,115 @@
+# Drexel University
+
+## Infobox
+
+| **Drexel University** | |
+| :--- | :--- |
+| **Former names** | Drexel Institute of Art, Science and Industry (1891–1936)<br>Drexel Institute of Technology (1936–1970) |
+| **Established** | 1891 |
+| **Founding Figure** | Anthony J. Drexel (1826–1893) |
+| **Type** | Private, nonsectarian research university |
+| **Location** | 3141 Chestnut Street, Philadelphia, Pennsylvania 19104, United States |
+| **Landmark Category** | Educational & Architectural Landmark |
+| **Key Campus Buildings** | Main Building, Paul Peck Alumni Center |
+| **Affiliations** | The Academy of Natural Sciences (affiliated 2011) |
+| **Website** | [drexel.edu](http://drexel.edu/about/history) |
+
+---
+
+## Lead section
+
+Drexel University is a private, nonsectarian research university headquartered at 3141 Chestnut Street in the West Philadelphia section of Philadelphia, Pennsylvania. Established in 1891 by the prominent financier and philanthropist Anthony J. Drexel, the institution was conceived as a novel response to the rapid industrialization and technological expansion of late nineteenth-century America. Originally named the Drexel Institute of Art, Science and Industry, the university was designed to provide practical, high-caliber higher education accessible to men and women of all backgrounds without restriction regarding race, religion, or socioeconomic standing.
+
+Over the course of more than a century, the institution underwent significant academic and structural growth, expanding from a non-degree-granting institute into a comprehensive doctoral research university. It began conferring Bachelor of Science degrees in 1914, followed by Master of Science degrees in 1927 and Doctor of Philosophy degrees in 1965. Reflecting its changing scope and expanding commitment to scientific research, the school was renamed the Drexel Institute of Technology in 1936 and achieved university status as Drexel University in 1970. In 2006, Drexel established the first law school at a major research university in twenty-five years, operating under a cooperative education model, and in 2011, it formed an academic affiliation with Philadelphia's historic Academy of Natural Sciences.
+
+Central to Drexel’s identity and pedagogical framework is its cooperative education (co-op) program. Formally adopted in 1919, the co-op program integrates academic coursework with periods of full-time professional employment, giving students practical workforce experience while completing their degrees. This focus on experiential learning directly reflects founder Anthony J. Drexel’s core belief in combining rigorous theoretical study with real-world practical experience.
+
+In addition to its professional curriculum, Drexel University has been a recognized pioneer in academic technology. In 1983, Drexel became the first higher education institution in the United States to mandate personal microcomputers for all incoming undergraduate students, distributing Apple Macintosh units across campus in early 1984. In 2000, the university extended its technological leadership by becoming the first major university to operate a fully wireless campus network. Today, Drexel remains a major architectural and cultural landmark within Philadelphia, anchoring the University City district and contributing significantly to the region's academic and industrial history.
+
+---
+
+## History
+
+### Founder’s Vision and Establishment (1891)
+The origin of Drexel University is rooted in the life and career of Anthony J. Drexel (1826–1893). As a teenager, Anthony Drexel entered his father's currency trading business, gaining hands-on financial expertise that shaped his career. He subsequently built one of the world's prominent banking houses alongside his partner and mentee, John Pierpont Morgan. Drexel played a major role in financing American industrial development, including the expansion of transcontinental railroads, underwriting payroll for the Union Army during the Civil War, and helping to stabilize the United States economy during financial crises such as the Panic of 1873.
+
+Recognizing that the American economy was shifting rapidly toward complex industrial and technological processes, Anthony Drexel sought to create an educational institution that would equip young men and women with practical, industry-ready skills. At a time when American higher education was predominantly reserved for wealthy men preparing for traditional careers in medicine, law, or the ministry, Drexel envisioned an inclusive institution with no restrictions based on gender, race, religion, or social class. To realize this ambition, he contributed more than $3 million of his personal fortune—equivalent to roughly $78 million in modern valuation—to establish the Drexel Institute of Art, Science and Industry in 1891.
+
+### Academic Progression and Name Changes (1914–1970)
+The institute initially functioned as a non-degree-granting academy focused on practical arts, science, and technical skills. As technical fields professionalized in the early twentieth century, the institution restructured its academic offerings. In 1914, its 11 original departments were consolidated into four primary schools, and the Commonwealth of Pennsylvania authorized the institute to grant Bachelor of Science degrees.
+
+In 1919, Drexel formally established its signature cooperative education model. Designed to mirror Anthony Drexel's core focus on experiential learning, the co-op program allowed students to alternate periods of classroom study with full-time work in professional settings. This framework became a permanent fixture of the university’s academic structure.
+
+The institution's authority to grant graduate degrees grew over subsequent decades. The Commonwealth granted privilege to confer Master of Science degrees in 1927 and Doctor of Philosophy (PhD) degrees in 1965. To align its public identity with its expanding emphasis on technical and scientific instruction, the school adopted the name Drexel Institute of Technology in 1936. By 1970, with a broader range of academic colleges and an increased research capacity, the institution officially changed its name to Drexel University.
+
+```
++-------------------------------------------------------------------+
+|                  Drexel Name & Degree Evolution                   |
++-------------------------------------------------------------------+
+|  1891: Drexel Institute of Art, Science and Industry              |
+|  1914: First Bachelor of Science degrees granted                  |
+|  1919: Cooperative Education (Co-op) program formalized           |
+|  1927: First Master of Science degrees authorized                 |
+|  1936: Renamed "Drexel Institute of Technology"                   |
+|  1965: First Doctor of Philosophy (PhD) degrees authorized        |
+|  1970: Renamed "Drexel University"                                |
+|  2006: Opening of the School of Law                               |
+|  2011: Affiliation with The Academy of Natural Sciences           |
++-------------------------------------------------------------------+
+```
+
+### Technological Firsts and Modern Institutional Expansion (1983–Present)
+During the late twentieth and early twenty-first centuries, Drexel established several technological milestones in higher education. In 1983, Drexel became the first university in the United States to mandate that all incoming undergraduate students use a personal microcomputer for their coursework. Under this initiative, students in the entering class were equipped with Apple Macintosh computers distributed in early 1984 following the hardware's public launch. In 2000, Drexel built upon this infrastructure by establishing the nation's first fully wireless university campus.
+
+The twenty-first century marked further expansion of Drexel's professional and research holdings. In 2006, the university opened a new law school, becoming the first major research institution in twenty-five years to create an accredited law program, which incorporated a cooperative experiential model into its legal curriculum. In 2011, Drexel expanded its scientific assets by entering into an official administrative affiliation with The Academy of Natural Sciences, one of Philadelphia's oldest scientific institutions.
+
+---
+
+## Architecture
+
+Drexel University’s main campus is located in the University City neighborhood of West Philadelphia, centered near 3141 Chestnut Street. The spatial layout of the campus reflects its evolution from a single, self-contained technical institute into a dense urban research campus integrated into the surrounding city grid.
+
+The architectural cornerstone of the campus is the historic Main Building. Constructed to serve as the original physical facility for the Drexel Institute of Art, Science and Industry in 1891, the structure features classic late-nineteenth-century masonry and ornate stone ornamentation, serving as an architectural anchor for Market Street and Chestnut Street. Its interior court and administrative spaces were designed to accommodate academic instruction, technical workshops, and public exhibits under a single roof.
+
+```
++-------------------------------------------------------------------+
+|               Drexel University Campus Facilities                 |
++-------------------------------------------------------------------+
+| Facility                 | Significance & Function                |
++--------------------------+----------------------------------------+
+| Main Building (1891)     | Historic campus centerpiece & anchor   |
+| Paul Peck Alumni Center  | Architectural link to 1876 Centennial  |
+| Chestnut Street Corridor | Central campus artery (West Phila.)    |
++-------------------------------------------------------------------+
+```
+
+Another significant structure on campus is the Paul Peck Alumni Center. Originally constructed as the Centennial National Bank building in 1876 by architect Frank Furness, this building ties the university directly to the broader urban history of Philadelphia and the 1876 Centennial Exposition. Over time, Drexel's campus footprint expanded to include 15 distinct colleges and schools, blending nineteenth-century masonry architecture with modern instructional and laboratory facilities.
+
+---
+
+## Cultural significance
+
+Drexel University holds notable cultural and historical significance within Philadelphia and the wider landscape of American higher education. By establishing a policy of open admissions without regard to gender, race, or socioeconomic standing in 1891, the institution stood as an early model for inclusive education during a period dominated by exclusionary academic practices.
+
+The university's cooperative education model altered the relationship between higher education and industry in the Philadelphia region. By dispatching generations of students into professional roles across business, technology, and engineering firms, Drexel became an integral partner in Philadelphia's industrial and corporate growth.
+
+Drexel also maintains ties to Philadelphia's civic and cultural institutions. Its affiliation with The Academy of Natural Sciences brought one of the nation's historic scientific research bodies into its academic framework. Furthermore, the university regularly collaborates with regional cultural entities, such as managing the historical Atwater Kent Collection (the former Philadelphia History Museum) to preserve and showcase the civic heritage of the region. Through its focus on academic technology, practical education, and urban integration, Drexel University remains a major institutional landmark in West Philadelphia.
+
+---
+
+## See also
+
+* University City, Philadelphia
+* Anthony J. Drexel
+* The Academy of Natural Sciences of Drexel University
+* Cooperative education
+* West Philadelphia
+* Higher education in Pennsylvania
+
+---
+
+## References
+
+1. Drexel University. "History." *Drexel University About Page*. http://drexel.edu/about/history
+2. Drexel University News. "The Centennial on Campus: 1876 Ties to Drexel University." *Drexel News Blog*. http://drexel.edu/news/archive/2026/June/drexel-1876-centennial-ties-on-campus
+3. The Encyclopedia of Greater Philadelphia. "Search and Subject Archives." https://philadelphiaencyclopedia.org

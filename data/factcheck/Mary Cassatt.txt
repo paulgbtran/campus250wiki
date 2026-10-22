@@ -1,0 +1,5 @@
+* **Infobox and Body Text (Notable Works Date)**: Corrected the creation date of *Maternal Caress* from `1896` to `c. 1890–1891`, as it was created as part of Cassatt's famous set of ten color aquatints produced in 1890–1891 following the 1890 Japanese print exhibition.
+* **Infobox and Personal Life (Location)**: Corrected the location of the Château de Beaufresne from `Bachivillers, France` to `Mesnil-Théribus, France`, where the estate is situated and where Cassatt's family vault is located.
+* **Early Life and Education (Move to Paris)**: Corrected the year Cassatt moved to Paris to study from `1865` to `1866`.
+* **ASCII Diagram (PAFA Dates)**: Updated Pennsylvania Academy of the Fine Arts dates from `1860–1862` to `1860–1865` to accurately reflect the duration of her enrollment prior to moving to Europe.
+* **Themes of Labor, Gender, and Modern Domesticity**: Removed `operating printing presses` from the list of activities depicted in her paintings and pastels. While Cassatt physically operated printmaking presses herself as part of her artistic technique, she did not paint female subjects operating printing presses.

@@ -1,0 +1,2 @@
+* **Infobox & Lead Section**: Corrected the firm name corresponding to the acronym "VSBA" to *Venturi, Scott Brown and Associates*. 
+* **Career Section**: Clarified the timeline of the firm's name changes. The practice was renamed *Venturi, Rauch and Scott Brown* in 1980, and then became *Venturi, Scott Brown and Associates* (VSBA) in 1989 following partner John Rauch's departure (the original text incorrectly stated it became *Venturi, Rauch and Scott Brown* in 1989).

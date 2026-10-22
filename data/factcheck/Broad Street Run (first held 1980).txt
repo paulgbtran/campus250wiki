@@ -1,0 +1,2 @@
+* **Course Elevation Drop:** Corrected the course's elevation profile in the "Course of Events" section from "roughly 150 feet" to "roughly 100 feet" (the actual drop from Logan/Broad Street to sea level is approximately 102 feet).
+* **Lottery System Implementation Year:** Corrected the details regarding the lottery implementation in the "Course of Events" section. While registration was capped and sold out in under 5 hours in 2012, the random selection lottery system itself was officially implemented beginning with the **2013** race.

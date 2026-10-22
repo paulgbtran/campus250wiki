@@ -1,0 +1,3 @@
+* **Course of events (Game 2):** Corrected the description of Manny Trillo's go-ahead hit in the 8th inning from an "infield single" to a single to center field.
+* **Course of events (Game 6):** Corrected the details of how Kansas City loaded the bases in the top of the 9th inning. The bases were loaded with one out via a walk (Willie Aikens) and two singles (John Wathan and Jose Cardenal, with an Amos Otis strikeout in between), rather than "two walks and a single."
+* **Aftermath:** Corrected the parade route description. JFK Stadium was located at the southern terminus of Broad Street in South Philadelphia; therefore, the parade proceeded south down Broad Street to JFK Stadium, rather than "from South Philadelphia up to JFK Stadium."

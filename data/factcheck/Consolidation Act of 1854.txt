@@ -1,0 +1,2 @@
+* **Infobox / Date Effective**: Corrected "Date Effective" from June 1854 to July 1854 (specifically July 3, 1854). While the municipal elections under the new act were held on June 6, 1854, Section 46 of the Consolidation Act mandated that the act went into full operation on the first Monday of July 1854.
+* **Lead Section**: Changed "went into effect four months later in June" to "went into effect five months later in July" to accurately align with the legal effective date of July 1854.

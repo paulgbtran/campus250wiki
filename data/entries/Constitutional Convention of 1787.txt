@@ -1,0 +1,79 @@
+# Constitutional Convention of 1787
+
+## Infobox
+
+| **Constitutional Convention** | |
+| :--- | :--- |
+| **Date** | May 25 – September 17, 1787 |
+| **Location** | Pennsylvania State House (Independence Hall), Philadelphia, Pennsylvania |
+| **Type** | Constitutional convention / Political assembly |
+| **Presiding Officer** | George Washington |
+| **Key Delegates** | James Madison, Benjamin Franklin, Alexander Hamilton, Gouverneur Morris, Roger Sherman, William Paterson, Edmund Randolph |
+| **Primary Goal** | Initial: Revise the Articles of Confederation<br>Actual: Draft an entirely new Constitution for the United States |
+| **Outcome** | Signing of the United States Constitution |
+| **Significance** | Established the framework for the federal government of the United States, created a system of checks and balances, and transformed Philadelphia into the birthplace of modern constitutional democracy. |
+
+---
+
+## Lead section
+
+The **Constitutional Convention of 1787**, also known as the **Philadelphia Convention**, took place from May 25 to September 17, 1787, at the Pennsylvania State House (now known as Independence Hall) in Philadelphia, Pennsylvania. Called to address the severe political and economic weaknesses of the United States government under the Articles of Confederation, the assembly brought together 55 delegates representing twelve of the original thirteen states, with Rhode Island boycotting the proceedings. Although Congress had explicitly authorized the convention solely to propose amendments to the existing articles, the delegates quickly reached a consensus to abandon the Articles of Confederation altogether and construct an entirely new constitutional framework for the young republic.
+
+Presided over by Revolutionary War general George Washington, the convention included many of the most prominent political thinkers and leaders of the era. Among them, James Madison of Virginia earned the title "Father of the Constitution" for his extensive preparatory research, drafting of the influential Virginia Plan, and detailed note-keeping throughout the secret sessions. Elder statesman Benjamin Franklin provided crucial diplomatic counsel, while Alexander Hamilton championed a strong federal executive, and Gouverneur Morris served as the primary stylist of the document's final language, including its famous Preamble.
+
+Over nearly four months of intense debate in the stifling Philadelphia summer, the delegates navigated fundamental disagreements over legislative representation, federal power, slavery, and executive authority. Major compromises shaped the final structure of the government: the Great Compromise (or Connecticut Compromise) resolved disputes between large and small states by creating a bicameral legislature, while the contentious Three-Fifths Compromise addressed representation and taxation regarding enslaved populations. The delegates also engineered a complex system of separation of powers and federalism, dividing authority among executive, legislative, and judicial branches, as well as between national and state governments.
+
+On September 17, 1787, thirty-nine of the fifty-five delegates signed the engrossed copy of the United States Constitution. Sent to the states for ratification, the document established the world's longest-surviving written national constitution. The Constitutional Convention stands as a watershed event in Philadelphia's history, solidifying the city's role as the political crucible of early American democracy and leading directly to its designation as the nation's temporary capital from 1790 to 1800.
+
+---
+
+## Background
+
+Following the end of the American Revolutionary War and the formal recognition of American independence in the 1783 Treaty of Paris, the newly formed nation operated under the Articles of Confederation, ratified in 1781. The Articles established a decentralized "firm league of friendship" among thirteen sovereign states, intentionally limiting national authority due to widespread fear of monarchical tyranny. The national government consisted solely of a unicameral Confederation Congress lacking an independent executive or national judiciary. Crucially, Congress lacked the power to levy direct taxes, regulate interstate or international commerce, or effectively enforce national law, leaving the national treasury dependent on voluntary state requisitions.
+
+By the mid-1780s, the economic and structural flaws of the Articles had plunged the nation into severe financial distress and geopolitical vulnerability. Individual states printed their own paper currency, enacted protective tariffs against neighboring states, and engaged in heated boundary disputes. The federal government was unable to service its war debts, pay Continental Army veterans, or defend frontier territories from foreign intrigue and indigenous conflict. These growing tensions culminated in Shays' Rebellion (1786–1787), an armed uprising of indebted farmers in western Massachusetts led by Revolutionary veteran Daniel Shays. The Confederation Congress proved virtually powerless to assist Massachusetts in suppressing the rebellion, alarming elite nationalist leaders across the states who feared imminent anarchy and democratic excess.
+
+In September 1786, representatives from five states met at the Annapolis Convention to discuss uniform commercial regulations. Realizing that economic reform was impossible without broader structural changes, delegates Alexander Hamilton and James Madison persuaded the assembly to issue a call for a general convention of all states. In February 1787, the Confederation Congress formally endorsed a convention to gather in Philadelphia in May "for the sole and express purpose of revising the Articles of Confederation." Philadelphia was selected due to its central geographic location within the original thirteen states, its status as the nation's premier urban metropolis, and its established history as the meeting site for the Continental Congresses and the signing of the Declaration of Independence in 1776.
+
+---
+
+## Course of events
+
+Delegates began arriving in Philadelphia in early May 1787, though poor weather and long-distance travel delayed a quorum until May 25, when official proceedings commenced at the Pennsylvania State House. Unanimously chosen as president of the convention, George Washington added gravity and legitimacy to the proceedings. One of the first administrative decisions was to adopt strict rules of secrecy, prohibiting delegates from discussing deliberations with the press or the public. Doorkeepers were stationed at the doors, and the hall's windows were kept closed during hot summer days to prevent eavesdropping, allowing delegates to speak freely, alter their positions, and forge compromises without immediate political pressure.
+
+On May 29, Edmund Randolph presented the Virginia Plan, drafted primarily by James Madison. The plan proposed a bold national government composed of three branches—legislative, executive, and judicial—and a bicameral legislature with representation based on state population or wealth. Smaller states strongly opposed this model, fearing domination by populous states like Virginia and Pennsylvania. In response, William Paterson introduced the New Jersey Plan on June 15, advocating a unicameral legislature with equal representation for each state, retaining the basic structure of the Articles while expanding federal regulatory and taxation powers.
+
+The deadlock between large and small states threatened to dissolve the convention until Roger Sherman and Oliver Ellsworth of Connecticut proposed the Great Compromise (or Connecticut Compromise) in June, which was adopted in mid-July. The agreement established a bicameral Congress: a House of Representatives with proportional representation based on population (satisfying large states) and a Senate where each state held two seats regardless of size (satisfying small states). Deep ethical and regional fractures emerged over how to count enslaved individuals for representation and taxation. To preserve national union, Southern slaveholding interests secured the Three-Fifths Compromise, which counted three-fifths of enslaved persons toward state population totals, as well as protections delaying a potential federal ban on the transatlantic slave trade until at least 1808.
+
+Through July and August, specialized committees—including the Committee of Detail—worked out specific structural mechanisms, including executive power, federal jurisdiction, and presidential elections via an Electoral College. In early September, the Committee of Style and Arrangement, chaired by William Samuel Johnson (with Gouverneur Morris serving as the primary drafter), produced the final draft of the text. Morris penned the preamble, famously opening with "We the People of the United States" rather than listing individual states, emphasizing national unity. On September 17, 1787, thirty-nine delegates signed the Constitution, while three present—Elbridge Gerry, George Mason, and Edmund Randolph—refused to sign due to the absence of a Bill of Rights and concerns over federal power.
+
+---
+
+## Aftermath
+
+Following the convention's adjournment on September 17, 1787, the proposed Constitution was submitted to the Confederation Congress, which transmitted the document to the states for ratification by special state conventions. The ratification debate sparked a fiery national public dialogue between Federalists, who argued that a strong central government was essential for national stability, and Anti-Federalists, who feared that the Constitution threatened individual liberties and state sovereignty. To persuade ratifying conventions, Alexander Hamilton, James Madison, and John Jay published a celebrated series of eighty-five essays known as *The Federalist Papers*.
+
+Philadelphia quickly became a central arena for the ratification struggle in Pennsylvania, which became the second state—and first large state—to ratify the Constitution on December 12, 1787. By June 1788, New Hampshire became the ninth state to ratify, satisfying Article VII and bringing the Constitution into legal effect. To address concerns raised during the ratification debates, the First Federal Congress assembled in New York in 1789 and drafted the Bill of Rights, ten amendments guaranteeing fundamental personal freedoms and limiting federal authority, which were fully ratified in December 1791.
+
+The legacy of the Constitutional Convention profoundly transformed Philadelphia. In 1790, the city was selected as the temporary national capital while the permanent federal city was constructed along the Potomac River. For ten years, the new federal government operated out of Congress Hall and Old City Hall adjacent to Independence Hall. Today, Independence Hall is designated a UNESCO World Heritage Site and forms the cornerstone of Independence National Historical Park, while the nearby National Constitution Center on Independence Mall serves as an institution dedicated to educating the public on the history and enduring significance of the U.S. Constitution.
+
+---
+
+## See also
+
+* Independence Hall
+* Articles of Confederation
+* Federalist Papers
+* Pennsylvania State House
+* National Constitution Center
+* History of Philadelphia
+
+---
+
+## References
+
+1. Encyclopedia of Greater Philadelphia. "Constitutional Convention of 1787." Available at: https://philadelphiaencyclopedia.org
+2. Encyclopaedia Britannica. "Constitutional Convention: United States History." Available at: https://www.britannica.com/event/Constitutional-Convention
+3. National Park Service. "Independence National Historical Park: The Constitutional Convention." Available at: https://www.nps.gov
+4. National Archives and Records Administration. "America's Founding Documents: The Constitution of the United States." Available at: https://www.archives.gov
+5. National Constitution Center. "The Constitutional Convention of 1787." Available at: https://constitutioncenter.org

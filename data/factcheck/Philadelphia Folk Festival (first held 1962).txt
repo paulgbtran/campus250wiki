@@ -1,0 +1,5 @@
+* **Infobox**: Corrected venue history and date ranges. Wilson Farm hosted the festival from 1962 to 1964 (not 1962–1965). Added Spring Mountain (1965) as an interim location. Updated Old Poole Farm start date to 1966 (not 1965).
+* **Lead Section**: Corrected location timeline to show Wilson Farm was used 1962–1964, Spring Mountain in 1965, and Old Poole Farm starting in 1966.
+* **Course of Events (Timeline)**: Updated the text diagram to accurately reflect the 1965 move to Spring Mountain and the 1966 move to Old Poole Farm.
+* **Course of Events (Initial Years at Wilson Farm)**: Corrected section heading to "(1962–1964)".
+* **Course of Events (Zoning Disputes and Relocation)**: Corrected narrative to explain that the festival was held at Spring Mountain in August 1965 following the zoning revocation in Paoli, before moving permanently to Old Poole Farm in Schwenksville in 1966.

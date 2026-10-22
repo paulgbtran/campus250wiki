@@ -1,0 +1,5 @@
+* **Lead Section:** Clarified that the friendly fire incident occurred between divisions commanded by General Anthony Wayne and General Adam Stephen (Stephen's division was part of Greene's wing, but it fired on Wayne's division, not Greene's).
+* **Course of Events (Opening Clashes):** Corrected Thomas Conway's title to "Brigadier General Thomas Conway" (he had been promoted to brigadier general in May 1777).
+* **Course of Events (The Defense of Cliveden):** Corrected Timothy Pickering's title to "Colonel Timothy Pickering" (Pickering was serving as Adjutant General with the rank of Colonel, not General, during the battle).
+* **Course of Events & Aftermath:** Corrected "Colonel Stephen Mathews" to "Colonel George Mathews" (commander of the 9th Virginia Regiment, who led the thrust toward Market Square and was captured).
+* **Aftermath:** Corrected the text's total American casualty calculation from 1,072 to 1,073 to maintain internal mathematical consistency with the itemized breakdown (152 + 521 + 400 = 1,073) and match the casualty table below.

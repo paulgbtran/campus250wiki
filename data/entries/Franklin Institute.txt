@@ -1,0 +1,124 @@
+# Franklin Institute
+
+| **The Franklin Institute** |
+| :--- |
+| **Former name:** Franklin Institute of the State of Pennsylvania for the Promotion of the Mechanic Arts |
+| **Established:** February 5, 1824 |
+| **Location:** 222 N. 20th Street, Benjamin Franklin Parkway, Philadelphia, Pennsylvania, U.S. |
+| **Founders:** Samuel Vaughn Merrick, William Hypolitus Keating |
+| **Key Figures:** James Ronaldson (First President) |
+| **Architects:** John Haviland (Seventh Street building); John T. Windrim (Parkway building) |
+| **Type:** Science museum, research institution, and educational facility |
+| **Significance:** Major center for science education, historical arbiter of 19th-century industrial technology, and landmark institution on the Benjamin Franklin Parkway |
+
+The **Franklin Institute** is a science museum and center for science education and research located in Philadelphia, Pennsylvania. Founded in 1824 and named in honor of American polymath Benjamin Franklin, the institute is one of the oldest centers of scientific education and development in the United States. Throughout its history, the institute has played a dual role as an arbiter of industrial and technological innovation and as a public institution dedicated to popularizing physical science, engineering, and technology.
+
+Established during the early years of American industrialization, the Franklin Institute served as a primary forum for mechanical engineers, inventors, and manufacturers. During the nineteenth century, it evaluated technological advances through public exhibitions, published groundbreaking findings in its academic journal, and advised local, state, and federal government bodies on scientific matters. Its annual industrial fairs awarded medals that became national standards of excellence for American manufacturing.
+
+In 1934, the institute transitioned into a major public science museum upon moving to its current location on the Benjamin Franklin Parkway. Today, the Franklin Institute is recognized for its interactive exhibits—including the iconic Giant Heart and the Fels Planetarium—as well as its extensive educational outreach programs, such as the Science Leadership Academy and the Philadelphia Science Festival.
+
+---
+
+## History
+
+### Founding and Early Years (1824–1850s)
+
+The institute was founded on February 5, 1824, following an organizational meeting held at the Philadelphia County Courthouse at Sixth and Chestnut Streets. The initiative was spearheaded by Samuel Vaughn Merrick (1801–1870), an industrialist, and William Hypolitus Keating (1799–1840), a mineralogist at the University of Pennsylvania. Formally incorporated as the *Franklin Institute of the State of Pennsylvania for the Promotion of the Mechanic Arts*, the society sought to emulate Benjamin Franklin's devotion to "useful science" and foster technical knowledge among artisans, mechanics, and industrial entrepreneurs.
+
+The institute’s first president was James Ronaldson (1768–1841), a Scottish immigrant and cofounder of the first commercial type foundry in the United States. Owing to rapid membership growth during its inaugural year, the institute commissioned architect John Haviland to design a dedicated headquarters at 15 South Seventh Street in Center City Philadelphia. Groundbreaking took place on June 8, 1825. 
+
+Although initially dominated by white male manufacturers and elite natural philosophers, the institute broadened its reach in subsequent decades. Women were admitted as members as early as the 1830s, and from 1850 to 1853, the institute sponsored a Women's School of Design to provide technical and artistic training to women (an institution that later developed into the Moore College of Art and Design). In 1870, civil rights leader and educator Octavius Catto (1839–1871) was nominated for membership, but his application was rejected due to racial discrimination, sparking widespread controversy and member resignations.
+
+### 19th-Century Research, Exhibitions, and Civic Advocacy
+
+During the nineteenth century, the Franklin Institute established itself as a premier authority on technology and applied science in the United States. In October 1824, the institute hosted its first public exhibition of American manufactures at Carpenters' Hall. These exhibitions were held annually through 1858 and resurrected periodically thereafter, notably with the Twenty-Seventh Exhibition in 1874. Panels of expert judges evaluated machinery, tools, and consumer goods, awarding coveted accolades such as the Franklin Institute Silver Medal. Manufacturers frequently featured these awards in print advertising as trusted seals of quality and technical sophistication.
+
+In 1826, the institute established the *Journal of the Franklin Institute*, a peer-reviewed publication dedicated to documenting original research and advancements in physics, mechanical engineering, and practical chemistry. The institute also instituted public lecture series taught by resident professors and visiting scholars, expanding access to scientific instruction for Philadelphia's workforce.
+
+Beyond research and instruction, the institute regularly influenced public policy and urban infrastructure:
+* **1869:** The institute successfully petitioned the United States Congress to host the 1876 Centennial Exhibition in Philadelphia, celebrating the nation's centenary through an exposition of global industrial achievement.
+* **1873:** It lobbied state authorities to initiate a systematic geological survey, resulting in the Second Geological Survey of Pennsylvania.
+* **1886:** It collaborated with government officials to establish a state meteorological service based in Philadelphia.
+
+### Relocation and Evolution into a Science Museum (1930s–Present)
+
+By the early twentieth century, the institute required larger facilities to expand its educational mission. In 1930, during the onset of the Great Depression, the Franklin Institute partnered with the Poor Richard Club to launch a major fundraising drive. Demonstrating strong public support, the campaign raised $5.1 million in less than two weeks. 
+
+In 1934, the institute dedicated its new Beaux-Arts museum building along the newly developed Benjamin Franklin Parkway. The original Seventh Street building was purchased by businessman A. Atwater Kent and deeded to the City of Philadelphia, later housing the Philadelphia History Museum.
+
+The move to the Parkway transformed the institute into a modern, hands-on science center. The new facility featured the Fels Planetarium, the second planetarium built in the United States. In 1954, the museum opened the Giant Heart, a multi-story, walk-through anatomical exhibit that became one of the institution's signature features. The museum also preserved historical artifacts, including an eighteenth-century Swiss automaton built by Henri Maillardet and notable Frankliniana, such as an original lightning rod used by Benjamin Franklin.
+
+In the late twentieth and early twenty-first centuries, the museum expanded its physical footprint and educational offerings. It added a giant-screen IMAX theater in 1990 and opened the Nicholas and Athena Karabots Pavilion in 2014. In 2006, the institute co-founded the Science Leadership Academy, a science-focused public magnet high school in partnership with the School District of Philadelphia. In 2011, it launched the Philadelphia Science Festival, an annual multi-day citywide event featuring interactive demonstrations, lectures, and community science activities.
+
+---
+
+## Architecture
+
+```
++------------------------------------------------------------------+
+|                    BENJAMIN FRANKLIN PARKWAY                     |
+|                                                                  |
+|   +----------------------------------------------------------+   |
+|   |                 Main Entrance & Portico                  |   |
+|   |                   (John T. Windrim)                      |   |
+|   +----------------------------------------------------------+   |
+|   |                                                          |   |
+|   |  +------------------------+  +------------------------+  |   |
+|   |  | Benjamin Franklin      |  | Fels Planetarium       |  |   |
+|   |  | National Memorial      |  | (1934)                 |  |   |
+|   |  +------------------------+  +------------------------+  |   |
+|   |                                                          |   |
+|   |  +------------------------+  +------------------------+  |   |
+|   |  | Giant Heart Exhibit    |  | Karabots Pavilion      |  |   |
+|   |  | (1954)                 |  | (2014 Expansion)       |  |   |
+|   |  +------------------------+  +------------------------+  |   |
+|   |                                                          |   |
+|   |  +----------------------------------------------------+  |   |
+|   |  | Tuttleman IMAX Theater (1990 Addition)             |  |   |
+|   |  +----------------------------------------------------+  |   |
+|   +----------------------------------------------------------+   |
++------------------------------------------------------------------+
+```
+
+### Seventh Street Building (15 S. Seventh Street)
+
+Designed by English-born architect John Haviland in 1825, the institute’s first purpose-built facility on South Seventh Street was built in the Greek Revival style. Characterized by a symmetrical stone facade and restrained classical proportions, the structure contained lecture halls, laboratory spaces, exhibition galleries, and a library. After the institute vacated the building in 1934, it was preserved through private acquisition and repurposed as a city history museum.
+
+### Benjamin Franklin Parkway Building
+
+The current museum building on the Benjamin Franklin Parkway was designed by Philadelphia architect John T. Windrim and opened in 1934. Executed in the Beaux-Arts architectural style, the massive limestone structure features a grand classical portico, monumental staircases, and broad pediments intended to harmonize with the monumental layout of the Parkway. 
+
+The building centers around the Benjamin Franklin National Memorial, featuring a 20-foot (6.1 m) marble statue of Benjamin Franklin sculpted by James Earle Fraser. Architectural additions in 1990 and 2014 integrated modern exhibition spaces, educational classrooms, and state-of-the-art theater technology into Windrim's original plan while maintaining the classical exterior footprint.
+
+---
+
+## Cultural Significance
+
+The Franklin Institute has played an influential role in shaping the scientific, industrial, and educational heritage of the Philadelphia region:
+
+* **Industrial Development:** During the nineteenth century, when Philadelphia was widely recognized as the "Workshop of the World," the institute provided a rigorous scientific foundation for local manufacturing. By establishing standards for machinery, awarding prized medals, and disseminating research via its journal, the institute helped position Philadelphia as an international hub of mechanical engineering and industrial design.
+* **Democratization of Science:** From its inception, the institute prioritized practical, accessible technical education. Its early sponsorship of women's technical instruction reflected an effort to broaden access to technical fields, though the institution simultaneously struggled with racial exclusion during the 19th century, as highlighted by the rejection of Octavius Catto's membership in 1870.
+* **Public Education and Civic Identity:** Through interactive exhibits such as the Giant Heart and community events like the Philadelphia Science Festival, the institute pioneered experiential science pedagogy in the United States, transitioning from an exclusive professional society into an accessible regional cultural anchor.
+
+---
+
+## See also
+
+* [[Benjamin Franklin]]
+* [[Benjamin Franklin National Memorial]]
+* [[Benjamin Franklin Parkway]]
+* [[Carpenters' Hall]]
+* [[Centennial Exhibition]]
+* [[Moore College of Art and Design]]
+* [[Philadelphia History Museum]]
+* [[Science Leadership Academy]]
+
+---
+
+## References
+
+1. Linker, Jessica. "Franklin Institute." *Encyclopedia of Greater Philadelphia*. Mid-Atlantic Regional Center for the Humanities (MARCH) at Rutgers University-Camden, 2016. https://philadelphiaencyclopedia.org/essays/franklin-institute/
+2. Sinclair, Bruce. *Philadelphia’s Philosopher Mechanics: A History of the Franklin Institute, 1824–1865*. Baltimore: Johns Hopkins University Press, 1974. https://philadelphiaencyclopedia.org/essays/franklin-institute/
+3. *Centenary of the Franklin Institute of Pennsylvania, 1824–1924*. Philadelphia: Franklin Institute, 1924. https://philadelphiaencyclopedia.org/essays/franklin-institute/
+4. *Journal of the Franklin Institute of the State of Pennsylvania*. Philadelphia: Franklin Institute, 1826–present. https://philadelphiaencyclopedia.org/essays/franklin-institute/
+5. The Franklin Institute. "Franklin Institute History & Mission." Official Website. https://www.fi.edu/about-us/mission-history

@@ -1,0 +1,106 @@
+# Edgar Allan Poe
+
+| Key Metadata | Details |
+| :--- | :--- |
+| **Full Name** | Edgar Allan Poe |
+| **Born** | January 19, 1809 (Boston, Massachusetts, U.S.) |
+| **Died** | October 7, 1849 (aged 40) (Baltimore, Maryland, U.S.) |
+| **Philadelphia Residency** | 1838–1844 (Spring Garden Street home occupied 1843–1844) |
+| **Occupations** | Author, Poet, Editor, Literary Critic |
+| **Literary Movement** | Dark Romanticism, American Romanticism |
+| **Key Genres** | Gothic fiction, Macabre, Detective fiction (*Tales of Ratiocination*), Poetry |
+| **Famous Philadelphia Works** | "The Fall of the House of Usher", "The Murders in the Rue Morgue", "The Tell-Tale Heart", "The Black Cat", "The Gold-Bug", "The Philosophy of Furniture" |
+| **Family** | Virginia Eliza Clemm Poe (wife), Maria Clemm (aunt and mother-in-law) |
+| **Commemorative Site** | Edgar Allan Poe National Historic Site (Philadelphia, PA) |
+
+---
+
+## Lead Section
+
+Edgar Allan Poe (January 19, 1809 – October 7, 1849) was an American writer, poet, editor, and literary critic who stands as one of the most significant figures in nineteenth-century American literature. Recognized as a central architect of American Romanticism and Dark Romanticism, Poe pioneered the short story format and is widely celebrated as the inventor of detective fiction—a genre he termed "tales of ratiocination." His dark, psychologically intense prose and innovative poetic structures profoundly influenced international literature, shaping genres ranging from horror and science fiction to modern mystery and poetry.
+
+Poe's six-year residence in Philadelphia, spanning from 1838 to 1844, represents the most artistically fertile and intellectually transformative period of his life. During these years, Philadelphia was a rapidly expanding industrial and publishing metropolis, offering Poe a dynamic print market. While residing in the city, Poe produced a staggering array of his seminal masterworks, including "The Fall of the House of Usher," "The Tell-Tale Heart," "The Black Cat," "The Gold-Bug," and "The Murders in the Rue Morgue." His work as an editor for leading Philadelphia periodicals, such as *Burton's Gentleman's Magazine* and *Graham's Magazine*, solidified his reputation as a formidable and uncompromising literary critic.
+
+Despite his creative triumphs, Poe’s Philadelphia period was marked by acute financial hardship, persistent professional disputes, and severe personal tragedy. In 1842, his young wife and cousin, Virginia Clemm Poe, contracted tuberculosis, plunging the household into emotional anguish and financial instability. Poe’s struggle to earn a living solely through freelance writing and magazine editing highlighted the precarious nature of the nineteenth-century publishing industry. During his final year in the city (1843–1844), Poe lived in a modest three-story brick home on Spring Garden Street, a structure that survived urban redevelopment and is preserved today by the National Park Service.
+
+Today, Poe’s literary legacy remains deeply entwined with Philadelphia’s cultural history. The Edgar Allan Poe National Historic Site commemorates his profound artistic output and turbulent life in the city. Through his groundbreaking short stories, rigorous aesthetic theories, and haunting verse, Poe transformed American letters, cementing his place as a giant of world literature whose influence continues to resonate through modern popular culture and literary scholarship.
+
+---
+
+## Early Life and Education
+
+Edgar Poe was born in Boston, Massachusetts, on January 19, 1809, the second child of English-born actress Elizabeth Arnold Hopkins Poe and actor David Poe Jr. Following his father's abandonment of the family in 1810 and his mother's tragic death from tuberculosis a year later in Richmond, Virginia, the orphaned child was taken into the home of John Allan, a prosperous Scottish tobacco merchant, and his wife, Frances Keeling Valentine Allan. Although the Allans served as his foster parents and gave him the middle name "Allan," Poe was never formally adopted.
+
+Poe received a rigorous early education, attending school in Scotland and England between 1815 and 1820 while John Allan managed mercantile interests abroad. Upon returning to Richmond, Poe excelled in classics and athletics. In February 1826, Poe enrolled at the newly founded University of Virginia in Charlottesville to study ancient and modern languages. However, his time at the university was cut short by severe financial friction with John Allan, who refused to provide adequate funds for Poe's tuition and living expenses. Poe accumulated heavy gambling debts in an attempt to cover his costs, leading to an estrangement from his foster father and his eventual departure from the university after a single year.
+
+Unable to secure financial support in Richmond, Poe moved to Boston in 1827 and published his first book, an anonymous collection of poetry titled *Tamerlane and Other Poems*. Driven by economic necessity, Poe enlisted in the United States Army under the pseudonym "Edgar A. Perry," rising to the rank of Sergeant Major for Artillery. Seeking an honorable discharge, Poe secured an appointment to the United States Military Academy at West Point in 1830. Finding academy life restrictive and realizing that John Allan would not support his career, Poe purposefully sought a court-martial in 1831 by neglecting his duties, after which he relocated to Baltimore, Maryland, to pursue a career as a professional writer.
+
+---
+
+## Career
+
+Poe’s professional journey was defined by his pioneering ambition to become the first prominent American author to make a living solely through writing. After winning a short story contest hosted by the Baltimore *Saturday Visiter* in 1833 for his tale "MS. Found in a Bottle," Poe landed an editorial position at the *Southern Literary Messenger* in Richmond in 1835. His sharp, highly analytical review essays earned him a national reputation as an uncompromising literary critic—often dubbed the "Tomahawk Man"—while significantly boosting the magazine's circulation.
+
+In 1838, attracted by Philadelphia's status as the literary and publishing capital of the United States, Poe moved to the city with his family. The six years he spent in Philadelphia proved to be the absolute pinnacle of his creative output. Poe joined *Burton's Gentleman's Magazine* in 1839 as co-editor, publishing celebrated stories such as "The Fall of the House of Usher" and "William Wilson." After a falling-out with publisher William Burton, Poe transferred to *Graham's Magazine* in 1841, where his editorial brilliance pushed subscriptions from 5,000 to over 37,000. It was in *Graham's* that Poe published "The Murders in the Rue Morgue," establishing the foundational tropes of detective fiction, including the brilliant detective C. Auguste Dupin and the analytical deduction process Poe called "ratiocination."
+
+```
++-----------------------------------------------------------------------+
+|                    Key Philadelphia Period Works                      |
++-----------------------------------+-----------------------------------+
+| Fiction / Detective               | Poetry & Critical Essays          |
++-----------------------------------+-----------------------------------+
+| • "The Fall of the House of Usher"| • "The Philosophy of Furniture"   |
+| • "The Murders in the Rue Morgue" | • Critical reviews in *Graham's*  |
+| • "The Tell-Tale Heart"           | • Prospectus for *The Penn*       |
+| • "The Black Cat"                 |   (later *The Stylus*)            |
+| • "The Gold-Bug"                  |                                   |
++-----------------------------------+-----------------------------------+
+```
+
+During his Philadelphia years, Poe actively sought to establish his own independent literary journal, tentatively titled *The Penn* (and later *The Stylus*), aiming to free himself from commercial editorial constraints, though financial instability constantly thwarted the project. In 1843, Poe won a $100 prize from the Philadelphia *Dollar Newspaper* for "The Gold-Bug," a tale of cryptography and treasure hunting that became his most popular story during his lifetime. Poe also composed "The Black Cat" during this era, a macabre tale whose subterranean horror elements are frequently associated with the dark, arched brick basement of his Spring Garden residence.
+
+---
+
+## Personal Life
+
+Poe’s personal life was characterized by deep familial devotion interwoven with profound emotional trauma and financial insecurity. In May 1836, while living in Richmond, Poe married his cousin, Virginia Eliza Clemm. At the time of their marriage, Virginia was 13 years old and Poe was 27. Despite the unconventional age difference, contemporary accounts described their union as affectionate and warm. Poe’s aunt and Virginia's mother, Maria Clemm, lived with the couple, managing the household and offering steadfast domestic support throughout Poe’s volatile career.
+
+```
+                  [David Poe Jr.] === [Eliza Poe]
+                                  |
+                        +---------+---------+
+                        |                   |
+               [Edgar Allan Poe] === [Virginia Clemm]
+                                 (m. 1836)
+```
+
+In Philadelphia, the Poe household moved through several rented residences before leasing a small, three-story brick home on Spring Garden Street (located at North 7th Street) in early 1843. This home served as a sanctuary where Poe wrote, entertained literary colleagues, and cared for his family. However, domestic tranquility was shattered in January 1842 when Virginia showed the first symptoms of tuberculosis while singing at the piano. Her protracted, agonizing illness severely impacted Poe's psychological state, triggering bouts of heavy drinking and depression that destabilized his professional relationships.
+
+The economic turmoil following the Financial Panics of 1837 and 1839 further exacerbated Poe's desperation. Despite authoring widely read stories and managing highly successful magazines, strict copyright laws and low editorial pay kept him on the brink of poverty. In April 1844, seeking better economic opportunities and a fresh start for Virginia's health, Poe and his family left Philadelphia for New York City.
+
+---
+
+## Legacy
+
+Edgar Allan Poe died under mysterious circumstances in Baltimore on October 7, 1849, at the age of 40, after being found delirious in the street days earlier. In the immediate aftermath of his death, his literary rival and editor Rufus Wilmot Griswold published a libelous obituary under the pseudonym "Ludwig," followed by a biographical memoir portraying Poe as a depraved, unhinged, and drug-addicted madman. Paradoxically, Griswold’s malicious account heightened the romantic and sensational appeal of Poe's works, cementing a mythic, dark persona in the public imagination that persisted for generations.
+
+Subsequent literary scholarship rehabilitated Poe’s historical reputation, emphasizing his rigorous literary theory, technical mastery of meter and tone, and foundational contributions to world literature. His theories on the short story and poetry heavily influenced French Symbolists such as Charles Baudelaire and Stéphane Mallarmé, who translated his works and introduced them to European avant-garde circles. His detective tales directly inspired Sir Arthur Conan Doyle’s creation of Sherlock Holmes, while his horror writings established the conventions of modern Gothic literature.
+
+In Philadelphia, Poe’s legacy is preserved at the Edgar Allan Poe National Historic Site in the Spring Garden neighborhood. The historic property includes the original three-story brick residence occupied by Poe from 1843 to 1844, an adjoining exhibit area detailing his literary accomplishments, and a Reading Room furnished according to the principles outlined in his essay "The Philosophy of Furniture." A striking bronze statue of a raven, installed in the courtyard, stands as a monument to his enduring genius and his profound historical connection to the city of Philadelphia.
+
+---
+
+## See Also
+
+* Edgar Allan Poe National Historic Site
+* History of Philadelphia
+* Independence National Historical Park
+* Literature of Philadelphia
+* Rufus Wilmot Griswold
+
+---
+
+## References
+
+1. National Park Service. "Edgar Allan Poe National Historic Site." U.S. Department of the Interior. Available at: https://www.nps.gov/edap/index.htm
+2. National Park Service. "History & Culture - Edgar Allan Poe National Historic Site." U.S. Department of the Interior. Available at: https://www.nps.gov/edap/learn/historyculture/index.htm

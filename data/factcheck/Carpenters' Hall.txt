@@ -1,0 +1,4 @@
+* **Infobox - National Historic Landmark Designation Date**: Corrected the designation date from "January 12, 1970" to "April 15, 1970", which is the official National Park Service designation date for Carpenters' Hall.
+* **Section 3 (History) - Assembly Offer**: Clarified that the Pennsylvania State House was offered by Joseph Galloway, Speaker of the Pennsylvania Provincial Assembly, rather than "royal officials".
+* **Section 3 (History) - Second Bank Tenancy Dates**: Corrected the tenancy period of the Second Bank of the United States at Carpenters' Hall from "1816–1824" to "1817–1821" (the bank was chartered in 1816, opened in Carpenters' Hall in January 1817, and relocated in 1821).
+* **Section 3 (History) - Arson Date**: Corrected the date of the basement arson incident from "January 2023" to "December 2022" (it occurred on December 24, 2022).

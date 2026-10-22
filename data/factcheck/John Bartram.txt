@@ -1,0 +1,6 @@
+* **Birth Date:** Corrected John Bartram's birth date from March 23, 1699 to May 23, 1699 (23rd day of the 3rd month in the Quaker calendar of the era).
+* **Associates & Later Visitors (Infobox & Career section):** Removed André Michaux from John Bartram's personal infobox associates, and clarified that post-Revolutionary naturalists (André Michaux, Benjamin Smith Barton, Thomas Say, Thomas Nuttall, Frederick Pursh) visited the garden during the tenure of his sons (William and John Jr.), as these figures were active after John Bartram Sr.'s death in 1777.
+* **Introduction to Peter Collinson:** Corrected the timeline and details regarding Peter Collinson. Contact began c. 1733–1734 (not 1731), facilitated primarily by Joseph Breintnall and James Logan rather than Benjamin Franklin. Added mention of Bartram's 1765 appointment as Royal Botanist by King George III.
+* **Constitutional Convention Date:** Corrected the year Constitutional Convention delegates adjourned early to visit Bartram's Garden from July 1784 to July 1787.
+* **Quaker Disownment Year:** Corrected the year the Darby Friends Meeting disowned Bartram from 1757 to 1758.
+* **Typographical Fix:** Fixed the phrasing "carving carved inscriptions" in the *Early life and education* section to "carving inscriptions".

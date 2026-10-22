@@ -1,0 +1,4 @@
+* **Corrected Fatalities:** Changed fatalities/deaths from 2 to 0 across the Infobox, Lead, Aftermath text, and Summary Table. A distinguishing feature of Police Commissioner Howard Leary's containment strategy during the 1964 Philadelphia riot was that no lives were lost (0 deaths), in contrast to riots in Rochester and Harlem that same summer.
+* **Updated Casualty / Injury Statistics:** Corrected injury count to 341 total injured (100 police officers and 241 civilians), matching official records from the city and historical archives.
+* **Updated Arrest Statistics:** Corrected arrest numbers from 308/600+ to the documented official total of 225 arrests.
+* **Clarified Initial Police Officers:** Specified in the Lead section and Course of Events that officers Robert Wells and Cecil Burroughs were both Black officers, providing necessary historical context to the initial traffic stop and subsequent rumors.

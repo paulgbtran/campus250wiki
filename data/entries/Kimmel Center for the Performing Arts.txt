@@ -1,0 +1,115 @@
+# Kimmel Center for the Performing Arts
+
+## 1. Infobox
+
+| **Kimmel Center for the Performing Arts** | |
+| :--- | :--- |
+| **Location** | 300 S. Broad Street (Broad and Spruce Streets), Center City, Philadelphia, Pennsylvania, U.S. |
+| **Type** | Performing arts center |
+| **Coordinates** | South Broad Street / Avenue of the Arts |
+| **Architect** | Rafael Viñoly (Rafael Viñoly Architects) |
+| **Earlier Design** | Robert Venturi, John Rauch, and Denise Scott Brown (1987 plan, unbuilt) |
+| **Opened** | December 2001 |
+| **Size** | 450,000 sq ft (42,000 m²) |
+| **Construction Cost** | $265 million |
+| **Lead Donor** | Sidney Kimmel |
+| **Major Venues** | Verizon Hall (2,500 seats)<br>Perelman Theater (650 seats)<br>SEI Innovation Studio (200 seats) |
+| **Resident Companies** | The Philadelphia Orchestra<br>Opera Philadelphia<br>Philadelphia Ballet<br> The Chamber Orchestra of Philadelphia<br>PHILADANCO (The Philadelphia Dance Company)<br>The Philly Pops<br>Philadelphia Chamber Music Society<br>Curtis Institute of Music |
+
+---
+
+## 2. Lead section
+
+The **Kimmel Center for the Performing Arts** is a major performing arts venue and architectural landmark located at the intersection of Broad and Spruce Streets in Center City, Philadelphia, Pennsylvania. Designed as the centerpiece of the "Avenue of the Arts"—a rebranded section of South Broad Street dedicated to cultural institutions—the facility serves as a focal point for music, dance, and civic engagement within the Greater Philadelphia region. 
+
+Opened in December 2001, the 450,000-square-foot facility was developed through a partnership of public and private entities to revitalize Center City by expanding the city's entertainment infrastructure. Designed by Uruguayan architect Rafael Viñoly, the complex replaced the historic Academy of Music as the primary performance venue for the world-renowned Philadelphia Orchestra while serving a wide array of regional performing arts groups. It was named in honor of philanthropist and garment executive Sidney Kimmel, who provided the primary private donation for its construction.
+
+Architecturally, the Kimmel Center is recognized by its soaring, 150-foot glass-vaulted roof, which creates a light-filled indoor public plaza enclosing two distinct performance halls: Verizon Hall, a 2,500-seat acoustically tailored concert auditorium designed in the shape of a cello, and the Perelman Theater, a 650-seat hall equipped with a rotating stage for chamber music, dance, and theater productions. The complex also houses the SEI Innovation Studio, a 200-seat black-box theater created for experimental works.
+
+The complex hosts eight resident music and dance organizations, generating hundreds of millions of dollars in economic activity for the local economy since its opening. Beyond its main performance venues, the Kimmel Center functions as a public gathering place, offering accessible indoor spaces, roof gardens, and public programming that reinforce Philadelphia’s legacy as a premier national center for classical and contemporary arts.
+
+---
+
+## 3. History
+
+Efforts to build a modern flagship concert hall along South Broad Street began in the 1970s. For decades, the Philadelphia Orchestra, Opera Philadelphia, and Pennsylvania Ballet had shared the Academy of Music, a mid-nineteenth-century hall located at Broad and Locust Streets. Proponents of a new facility argued that the historic Academy was acoustically outdated, undersized, and chronically overbooked, limiting the artistic growth and scheduling capacity of its resident companies.
+
+In 1981, the Old Philadelphia Development Corporation (OPDC) created Academy Hall Inc. (AHI) to acquire property for a new venue. AHI purchased the Academy Apartments on the southwest corner of Broad and Spruce Streets with plans to demolish the structure for the complex. In 1986, the Philadelphia Orchestra Association, under board president Richard S. Ravenscroft, formally committed to constructing a new hall on the site. A 1983 master plan had previously expanded the scope to include renovations to the Academy of Music and nearby theater facilities alongside the new orchestra facility.
+
+In 1987, the board commissioned the prominent Philadelphia architecture firm Venturi, Rauch & Scott Brown—led by Robert Venturi, John Rauch, and Denise Scott Brown—to design a $60 million, 3,200-seat hall targeted for completion in 1992. However, when the preliminary design was unveiled in 1989, estimated costs had escalated to $95 million and the opening date was pushed back. Stalled by a lukewarm public response to the design and slow fundraising—having collected only $24 million by 1992—the orchestra board restructured the venture.
+
+To attract broader civic and donor support, the project was re-envisioned as a multi-use regional facility named the Regional Performing Arts Center (RPAC). In 1996, internationally acclaimed architect Rafael Viñoly was selected to design a comprehensive cultural complex. Viñoly unveiled a $203 million plan featuring two major halls enclosed beneath a glass barrel-vault roof. Philadelphia Mayor Edward Rendell championed the design, publicly praising it as "the signature building of our generation." Groundbreaking took place in November 1998, though rising construction requirements pushed the total building cost to $245 million during construction.
+
+The facility officially opened in December 2001 as the Kimmel Center for the Performing Arts, renamed following a landmark donation from philanthropist Sidney Kimmel. Upon opening, the total cost had reached $265 million. In the years following its debut, the facility underwent structural and acoustic refinements. Initial reviews of Verizon Hall’s acoustic resonance prompted sound engineers to perform multi-year adjustments to its acoustic panels. In 2008, design consultants began planning modifications to make the center's cavernous public plazas more welcoming. Additionally, the center's elevated rooftop garden was later enclosed in a glass sheath during the 2010s to overcome climate control and sound isolation issues, transforming it into a functional year-round event venue.
+
+---
+
+## 4. Architecture
+
+Designed by Rafael Viñoly Architects, the 450,000-square-foot Kimmel Center is celebrated for its integration of interior public space beneath a monumental glass canopy. The building’s most prominent feature is its 150-foot-high glass-vaulted rooftop, constructed as a giant glass-and-steel barrel vault. This structure spans the entire footprint of the venue, creating an indoor "building-within-a-building" layout where freestanding theater structures sit inside a weather-protected, sunlit public plaza.
+
+The exterior structure utilizes brick cladding along its street-level perimeter. At the time of its opening, *Philadelphia Inquirer* architecture critic Inga Saffron characterized the exterior brickwork as somewhat drab, though she praised the interior volume beneath the vaulted glass structure as a "bold, new treasure" for the city's urban environment.
+
+```
++-------------------------------------------------------------------+
+|                     GLASS VAULTED ROOF (150 ft)                   |
+|                                                                   |
+|    +--------------------------+      +-----------------------+    |
+|    |       VERIZON HALL       |      |   PERELMAN THEATER    |    |
+|    |      (2,500 seats)       |      |      (650 seats)       |    |
+|    |  (Cello-shaped timber)   |      |   (Rotating stage)    |    |
+|    +--------------------------+      +-----------------------+    |
+|                                         [Rooftop Garden]          |
+|                                                                   |
+|                   PUBLIC LOBBY & INDOOR PLAZA                     |
+|                                                                   |
+|                     SEI INNOVATION STUDIO                         |
+|                          (200 seats)                              |
++-------------------------------------------------------------------+
+```
+
+Inside the glass-enclosed plaza sit the facility's main performance halls:
+
+* **Verizon Hall:** The primary concert space of the complex, Verizon Hall is a 2,500-seat auditorium designed specifically for symphonic music. The interior of the hall is lined with sinuous timber curves made of warm woods, structured to mimic the interior resonance chamber of a cello. To optimize sound quality, the auditorium includes adjustable acoustical canopies and movable curtains that allow acoustic technicians to modify reverberation times based on the ensemble or performance type.
+* **Perelman Theater:** Located adjacent to Verizon Hall, the Perelman Theater is a 650-seat recital hall designed for chamber music, theater, and dance performances. It features a notable 75-foot rotating turntable stage that enables rapid scene transitions and acoustic reconfiguration. Directly above the Perelman Theater sits an elevated indoor terrace garden and café, which was subsequently enclosed in a glass sheath to optimize sound insulation and climate control.
+* **SEI Innovation Studio:** Situated at the lower level of the complex, this 200-seat flexible "black-box" theater space was built to support experimental, contemporary, and educational performances.
+
+---
+
+## 5. Cultural significance
+
+The opening of the Kimmel Center marked a pivotal milestone in the revitalization of Center City Philadelphia during the late 20th and early 21st centuries. Positioned as the cornerstone of the Avenue of the Arts, the complex helped transform South Broad Street into an active arts district, stimulating street-level activity, hospitality development, and regional tourism.
+
+The Kimmel Center serves as a home base for prominent local arts institutions. Alongside the Philadelphia Orchestra, its resident organizations include:
+* Opera Philadelphia
+* Philadelphia Ballet
+* The Chamber Orchestra of Philadelphia
+* PHILADANCO (The Philadelphia Dance Company)
+* The Philly Pops
+* Philadelphia Chamber Music Society
+* Curtis Institute of Music
+
+Financially, the complex has served as an economic engine for the region. Within its first three years of operation, the Kimmel Center generated an estimated $321 million for the local economy, including $17 million in state and local tax revenue. 
+
+In addition to ticketed artistic performances, the Kimmel Center serves a broader civic function. Its expansive, climate-controlled public lobby is open to the public daily, frequently hosting community gatherings, educational programming, and free public concerts—such as events organized for the Philadelphia International Festival of the Arts (PIFA) and live radio broadcasts. Through its combination of high-caliber artistic facilities and accessible public spaces, the Kimmel Center remains a vital symbol of Philadelphia's cultural heritage and ongoing urban renaissance.
+
+---
+
+## 6. See also
+
+* Avenue of the Arts
+* Academy of Music (Philadelphia)
+* Philadelphia Orchestra
+* Broad Street (Philadelphia)
+* Center City, Philadelphia
+* Culture of Philadelphia
+
+---
+
+## 7. References
+
+1. Gottlieb, Dylan. "Kimmel Center for the Performing Arts." *Encyclopedia of Greater Philadelphia*. Rutgers University, 2015. Available at: https://philadelphiaencyclopedia.org/essays/kimmel-center-for-the-performing-arts/
+2. "Highlighting the Kimmel Center for the Performing Arts." *Visit Philadelphia*. Available at: http://www.visitphilly.com/
+3. Central Philadelphia Redevelopment Corporation. *Remaking Center City: A History of the Central Philadelphia Redevelopment Corporation*. Philadelphia: CPRC. Available at: https://www.centercityphila.org/docs/CPDC50thBook.pdf
+4. Bounds, Anna Marie. "Philadelphia’s Avenue of the Arts: the Challenges of a Cultural District Initiative." In *Tourism, Culture and Regeneration*, edited by Melanie K. Smith. Cambridge: CABI Publishing, 2006.
+5. Saffron, Inga. "Review: Kimmel Center for the Performing Arts." *Philadelphia Inquirer*, December 2001. Archives available at: https://philadelphiaencyclopedia.org/archive/inga-saffron/

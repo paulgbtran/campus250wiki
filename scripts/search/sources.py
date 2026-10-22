@@ -11,8 +11,11 @@ This script makes a single Gemini query asking for authoritative
 reference websites (homepages/base URLs), not per-topic article links —
 that is handled by search.py.
 """
+import sys
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
+sys.path.append(str(rootDir / "scripts"))
+import gemini_utils
 from urllib.parse import urlparse
 
 from google import genai
@@ -21,7 +24,7 @@ from google.genai import types
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash"
 SOURCES_LIST = Path(__file__).parent / "sources.list"
 
 PROMPT = """\
@@ -45,14 +48,18 @@ No commentary, no bullet points, no numbering, no markdown.
 
 def loadExistingUrls() -> set[str]:
     """Returns the set of URLs already recorded in sources.list."""
-    if not SOURCES_LIST.exists():
+    try:
+        if not SOURCES_LIST.exists():
+            return set()
+        urls = set()
+        for line in SOURCES_LIST.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                urls.add(line)
+        return urls
+    except Exception as e:
+        print(f"Error loading existing URLs: {e}")
         return set()
-    urls = set()
-    for line in SOURCES_LIST.read_text(encoding="utf-8").splitlines():
-        line = line.strip()
-        if line and not line.startswith("#"):
-            urls.add(line)
-    return urls
 
 def parseUrls(text: str) -> list[str]:
     """Extracts valid-looking base URLs from the model's response."""
@@ -77,7 +84,8 @@ def findSources() -> None:
 
     print(f"Querying {MODEL} for credible Philadelphia history sources...")
     try:
-        response = client.models.generate_content(
+        response = gemini_utils.query_gemini(
+            client=client,
             model=MODEL,
             contents=PROMPT,
             config=types.GenerateContentConfig(
@@ -97,19 +105,25 @@ def findSources() -> None:
         return
 
     # Append new URLs to sources.list (preserve all existing content)
-    with open(SOURCES_LIST, "a", encoding="utf-8") as f:
-        existing_text = SOURCES_LIST.read_text(encoding="utf-8") if SOURCES_LIST.exists() else ""
-        if existing_text and not existing_text.endswith("\n"):
-            f.write("\n")
-        for url in new_urls:
-            print(f"  + {url}")
-            f.write(url + "\n")
+    try:
+        with open(SOURCES_LIST, "a", encoding="utf-8") as f:
+            existing_text = SOURCES_LIST.read_text(encoding="utf-8") if SOURCES_LIST.exists() else ""
+            if existing_text and not existing_text.endswith("\n"):
+                f.write("\n")
+            for url in new_urls:
+                print(f"  + {url}")
+                f.write(url + "\n")
 
-    print(f"\nDone. {len(new_urls)} new source(s) added to {SOURCES_LIST}.")
+        print(f"\nDone. {len(new_urls)} new source(s) added to {SOURCES_LIST}.")
+    except Exception as e:
+        print(f"Error writing to {SOURCES_LIST}: {e}")
 
 
 def main() -> None:
-    findSources()
+    try:
+        findSources()
+    except Exception as e:
+        print(f"Error in search sources main: {e}")
 
 
 if __name__ == "__main__":

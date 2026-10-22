@@ -1,0 +1,6 @@
+* **Infobox**: Corrected Lindros's age from 53 to 51 (born February 28, 1973).
+* **Early life and education**: Clarified that Carl Lindros was drafted into the CFL rather than playing in it (he was drafted by the Edmonton Eskimos in 1970 but chose to pursue a career as a chartered accountant).
+* **Career - The 1991 Draft and Blockbuster Trade to Philadelphia**: Added missing player Chris Simon to the list of assets traded to the Quebec Nordiques (the full player package sent by Philadelphia was Peter Forsberg, Mike Ricci, Steve Duchesne, Kerry Huffman, Ron Hextall, and Chris Simon).
+* **Career - Statistics Table**: 
+  * Corrected New York Rangers assist total from 92 to 85 and point total from 158 to 151 (Lindros had 73 points in 01–02, 53 points in 02–03, and 25 points in 03–04 with NYR).
+  * Updated NHL career total assists from 487 to 480 and career total points from 859 to 852 to match accurate statistics.

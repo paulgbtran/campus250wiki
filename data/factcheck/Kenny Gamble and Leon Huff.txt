@@ -1,0 +1,5 @@
+* **Occupations (Infobox):** Removed "audio engineers" from the listed occupations. Kenny Gamble and Leon Huff were songwriters, record producers, and executives; studio audio engineering was executed by professionals such as Joe Tarsia.
+* **Sigma Sound Studios Address:** Corrected the address of Sigma Sound Studios from "212 North 12th Street" to "212 North 13th Street".
+* **Universal Companies Founding Year:** Corrected the founding year of Universal Companies from 1988 to 1993.
+* **Street Naming (Legacy):** Corrected the description regarding South Broad Street to state that the 300 block of South Broad Street where PIR headquarters stood was officially renamed "Gamble & Huff Way" in 2019 (rather than claiming the block itself was designated "Avenue of the Arts", which refers to the broader cultural boulevard district).
+* **Reference URL:** Fixed the Encyclopædia Britannica URL to `https://www.britannica.com/biography/Gamble-and-Huff`.

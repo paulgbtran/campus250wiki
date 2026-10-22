@@ -1,0 +1,127 @@
+# Carpenters' Hall
+
+## 1. Infobox
+
+| **Carpenters' Hall** | |
+| :--- | :--- |
+| **Location** | 320 Chestnut Street, Philadelphia, Pennsylvania, U.S. |
+| **Coordinates** | 39.9483° N, 75.1472° W |
+| **Built** | 1770–1774 |
+| **Architect / Builder** | Robert Smith |
+| **Architectural Style** | Georgian |
+| **Owner** | The Carpenters' Company of the City and County of Philadelphia |
+| **Part of** | Independence National Historical Park |
+| **National Historic Landmark** | Designated April 15, 1970 |
+| **National Register of Historic Places** | Added October 15, 1966 |
+| **Significant Events** | Meeting place of the First Continental Congress (1774); Early site of the Library Company of Philadelphia and the First Bank of the United States |
+
+---
+
+## 2. Lead section
+
+**Carpenters' Hall** is a historic two-story brick building located at 320 Chestnut Street in the Old City neighborhood of Philadelphia, Pennsylvania. Constructed between 1770 and 1774, the hall was designed by master builder Robert Smith in the Georgian architectural style for the Carpenters' Company of the City and County of Philadelphia, the oldest existing trade guild in the United States. Situated within a secluded courtyard off Chestnut Street, the building forms an integral component of Independence National Historical Park.
+
+The hall is internationally renowned as the site of the First Continental Congress, which convened from September 5 to October 26, 1774. Delegates from twelve of the Thirteen Colonies gathered inside its assembly room to formulate a unified colonial response to the British Parliament’s Coercive Acts. The decisions enacted within Carpenters' Hall—including the adoption of the Continental Association, an embargo against British goods—marked a decisive step toward the American Revolutionary War and eventual national independence.
+
+Beyond its role in the founding of the United States, Carpenters' Hall served as a civic and financial hub during the late eighteenth and early nineteenth centuries. Over its long history, the structure housed major institutions, including Benjamin Franklin’s Library Company of Philadelphia, the American Philosophical Society, the First Bank of the United States, and the Second Bank of the United States.
+
+Today, Carpenters' Hall remains continuously owned and maintained by the Carpenters' Company of the City and County of Philadelphia. Designated a National Historic Landmark in 1970 and listed on the National Register of Historic Places in 1966, the hall functions as a public museum, commemorating early American trade craftsmanship, political debate, and revolutionary history.
+
+---
+
+## 3. History
+
+### Origins and Construction (1724–1774)
+The Carpenters' Company of the City and County of Philadelphia was founded in 1724 by a group of master house-carpenters seeking to establish architectural standards, offer technical instruction, and provide mutual aid to distressed members and their families. For its first four decades, the guild met in rented spaces across the city, including local taverns. In 1768, as membership expanded, the guild acquired a lot on Chestnut Street between Third and Fourth Streets to build a permanent hall.
+
+Architect and master builder Robert Smith, a prominent member of the guild, submitted the winning design for the proposed building. Construction began in 1770 under Smith's supervision, utilizing timber and brick crafted by guild members. Although incomplete, the building hosted its first official annual meeting of the Carpenters' Company in 1771. Work progressed steadily until final interior woodwork and decorative details were finished in early 1774.
+
+### The Revolutionary Era and First Continental Congress (1774)
+In mid-1774, political tensions between Great Britain and the American colonies escalated following the passage of the Coercive (Intolerable) Acts. Colonial leaders called for an intercolonial congress to deliberate on resistance strategies. When delegates arrived in Philadelphia in September 1774, Joseph Galloway, Speaker of the Pennsylvania Provincial Assembly, offered the Pennsylvania State House (now Independence Hall). However, the delegates sought a location independent of provincial government oversight and accepted the Carpenters' Company’s offer to use their newly completed hall.
+
+From September 5 to October 26, 1774, delegates representing twelve colonies—including George Washington, John Adams, Samuel Adams, Patrick Henry, and John Jay—assembled in the ground-floor room of Carpenters' Hall. Here, delegates debated the rights of the colonies and signed the Declaration of Rights and Grievances. They established the Continental Association, a trade boycott against Great Britain enforced by local committees, which solidified colonial unity ahead of the outbreak of armed conflict in 1775.
+
+### Revolutionary War and Institutional Tenants (1775–1850s)
+During the American Revolutionary War, Carpenters' Hall served critical military functions. Following the British occupation of Philadelphia in 1777–1778, the hall was utilized as a field hospital for wounded American and foreign troops, as well as a supply depot for Continental forces.
+
+Because of its spacious layout and central location, the hall was rented to major civic, cultural, and financial bodies:
+* **The Library Company of Philadelphia:** Founded by Benjamin Franklin, the library occupied the second floor from 1773 to 1790, effectively serving as the first Library of Congress during sessions of the Continental Congress.
+* **The American Philosophical Society:** Held meetings and stored collections in the building during the 1770s and 1780s.
+* **The First Bank of the United States:** Headquartered inside the main hall from 1791 to 1797 while its permanent building was under construction nearby.
+* **The Second Bank of the United States:** Occupied space in the hall between 1817 and 1821.
+
+### Historic Preservation and Modern Usage
+By the mid-nineteenth century, the Carpenters' Company recognized the profound historical significance of their property. In 1857, the guild restored the assembly room to its 1774 appearance and opened Carpenters' Hall to the public as a historic monument—one of the earliest deliberate acts of historic preservation in the United States.
+
+When Independence National Historical Park was established by Congress in 1948, the surrounding buildings were cleared to create landscaped vistas, while Carpenters' Hall retained its private ownership under the Carpenters' Company through a cooperative agreement with the National Park Service. The hall suffered minor damage in a December 2022 arson incident but was successfully restored and reopened shortly thereafter.
+
+---
+
+## 4. Architecture
+
+```
+                 +-------------------+
+                 |      Cupola       |
+                 +---------+---------+
+                           |
+                     +-----+-----+
+                     | Roof Pitch|
+           +---------+-----------+---------+
+           |       Second Floor    |       |
+           |      (Library/Office)         |
+           +-------------------------------+
+           |       Ground Floor            |
+           |   (Congress Assembly Room)    |
+  +--------+-------------------------------+--------+
+  | Portico|       Main Entrance           | Portico|
+  +--------+-------------------------------+--------+
+```
+
+Carpenters' Hall is an exemplar of Georgian public architecture, characterized by strict symmetry, classic proportions, and restrained ornamental detail. Built with high-grade local building materials, the structure reflects the advanced technical knowledge and craftsmanship of eighteenth-century Philadelphia builders.
+
+### Exterior Features
+The building features a cruciform (cross-shaped) floor plan, constructed primarily of red brick laid in a Flemish bond pattern. The exterior walling incorporates dark glazed headers, creating a checkered geometric pattern characteristic of mid-Atlantic colonial masonry. 
+
+Key exterior highlights include:
+* **Façade:** A symmetric front elevation featuring sash windows with molded wood frames and architraves.
+* **Belting and Trim:** White marble belt courses horizontally divide the first and second stories, contrasting with the dark red brickwork.
+* **Cupola:** The roofline is crowned by a octagonal cupola containing small sash windows and capped by a gilded weather vane, providing light to the upper level and giving the building a stately civic profile.
+* **Pedimented Entrances:** The main doorway is framed by an ornate wooden pediment, pilasters, and an arched fanlight that illuminates the central hallway.
+
+### Interior Layout
+* **Ground Floor Assembly Room:** The main interior hall is a large rectangular chamber designed for public assemblies and guild deliberations. It features raised timber paneling, heavy crown moldings, and large sash windows that flood the room with natural lighting. The room contains original eighteenth-century Windsor chairs, period tables, and historical artifacts, including the gavel used during the First Continental Congress.
+* **Second Floor:** Originally designed as committee rooms and office space, the upper level features a series of smaller chambers used by historical tenants, such as the Library Company. Access is provided via an ornate timber staircase with hand-turned balusters.
+* **Structural Framing:** The attic and roof system demonstrate advanced timber framing techniques, featuring mortise-and-tenon joinery secured with wooden trunnels (tree-nails), exemplifying the guild's structural framing mastery.
+
+---
+
+## 5. Cultural significance
+
+Carpenters' Hall occupies a prominent place in American political and cultural heritage. As the site of the First Continental Congress, it symbolizes the transition from disparate British colonies to a coordinated, self-governing political entity. The debates conducted within its walls articulated fundamental concepts of American liberty, civil rights, and collective resistance that directly informed the Declaration of Independence adopted two years later at Independence Hall.
+
+The building also stands as an enduring monument to American labor history and organized trade craftsmanship. Constructed by master carpenters who pooled resources to raise their own guild headquarters, Carpenters' Hall reflects the influence, socioeconomic standing, and civic commitment of eighteenth-century artisans and working-class builders in British North America.
+
+As one of the earliest preserved historic structures in the nation, Carpenters' Hall served as an influential model for the American historic preservation movement. Its continuous ownership by the Carpenters' Company for over two and a half centuries represents an unprecedented record of private stewardship for an American civic landmark.
+
+---
+
+## 6. See also
+
+* Independence Hall
+* First Continental Congress
+* Independence National Historical Park
+* Benjamin Franklin
+* Library Company of Philadelphia
+* First Bank of the United States
+* American Philosophical Society
+* Georgian architecture
+
+---
+
+## 7. References
+
+1. National Park Service. "Carpenters' Hall - Independence National Historical Park." U.S. Department of the Interior. https://www.nps.gov/inde/learn/historyculture/places-carpentershall.htm
+2. The Carpenters' Company of the City and County of Philadelphia. "History of Carpenters' Hall." Carpenters' Hall Historic Site. https://www.carpentershall.org/history
+3. Encyclopedia of Greater Philadelphia. "Carpenters' Hall." Mid-Atlantic Regional Center for the Humanities, Rutgers University-Camden. https://philadelphiaencyclopedia.org/archive/carpenters-hall/
+4. Historic American Buildings Survey (HABS). "Carpenters' Hall, 320 Chestnut Street, Philadelphia, Philadelphia County, PA." Library of Congress. https://www.loc.gov/pictures/item/pa0856/
+5. National Register of Historic Places. "Carpenters' Hall Designation Inventory Form." National Park Service, U.S. Department of the Interior, 1970. https://npgallery.nps.gov/AssetDetail/NRIS/66000683

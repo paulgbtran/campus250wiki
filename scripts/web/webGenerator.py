@@ -19,10 +19,14 @@ rootDir = Path(__file__).parent.parent.parent
 
 def loadTemplate() -> str:
     """Returns the template HTML for a webpage."""
-    with open(rootDir / "web" / "template.html", "r", encoding="utf-8") as file:
-        script = file.read()
-    print("Loaded template from web/template.html")
-    return script
+    try:
+        with open(rootDir / "web" / "template.html", "r", encoding="utf-8") as file:
+            script = file.read()
+        print("Loaded template from web/template.html")
+        return script
+    except Exception as e:
+        print(f"Error loading template from web/template.html: {e}")
+        return ""
 
 def clearTemplate() -> str:
     """Clears all placeholder texts and images from the template."""
@@ -51,115 +55,128 @@ def parse_entry_file(filepath: Path) -> dict:
     Parses a synthesized entry file from data/entries/<topic>.txt.
     Extracts the title, Infobox elements, and subsequent sections.
     """
-    content = filepath.read_text(encoding="utf-8")
-    lines = content.splitlines()
-    
-    title = filepath.stem
-    infobox = []
-    sections = {}
-    sections_ordered = []
-    
-    current_section = None
-    section_lines = []
-    
-    for line in lines:
-        stripped = line.strip()
-        if stripped.startswith("## "):
-            title = stripped[3:].strip()
-        elif stripped.startswith("### "):
-            # Save previous section
-            if current_section:
-                sections[current_section] = "\n".join(section_lines).strip()
-            current_section = stripped[4:].strip()
-            if current_section not in sections_ordered:
-                sections_ordered.append(current_section)
-            section_lines = []
-        else:
-            if current_section:
-                section_lines.append(line)
-            elif not title and stripped:
-                title = stripped
-                
-    if current_section:
-        sections[current_section] = "\n".join(section_lines).strip()
+    try:
+        content = filepath.read_text(encoding="utf-8")
+        lines = content.splitlines()
         
-    # Parse Infobox specifically
-    if "Infobox" in sections:
-        infobox_content = sections["Infobox"]
-        for l in infobox_content.splitlines():
-            l_strip = l.strip()
-            if l_strip.startswith("|") and l_strip.endswith("|"):
-                parts = [p.strip() for p in l_strip.split("|")[1:-1]]
-                if len(parts) >= 2:
-                    key = parts[0].replace("**", "").strip()
-                    val = parts[1].strip()
-                    if key and val and not all(c == '-' for c in key) and key.lower() != "known for":
-                        infobox.append((key, val))
-                        
-    return {
-        "title": title,
-        "infobox": infobox,
-        "sections": sections,
-        "sections_ordered": sections_ordered
-    }
+        title = filepath.stem
+        infobox = []
+        sections = {}
+        sections_ordered = []
+        
+        current_section = None
+        section_lines = []
+        
+        for line in lines:
+            stripped = line.strip()
+            if stripped.startswith("## "):
+                title = stripped[3:].strip()
+            elif stripped.startswith("### "):
+                # Save previous section
+                if current_section:
+                    sections[current_section] = "\n".join(section_lines).strip()
+                current_section = stripped[4:].strip()
+                if current_section not in sections_ordered:
+                    sections_ordered.append(current_section)
+                section_lines = []
+            else:
+                if current_section:
+                    section_lines.append(line)
+                elif not title and stripped:
+                    title = stripped
+                    
+        if current_section:
+            sections[current_section] = "\n".join(section_lines).strip()
+            
+        # Parse Infobox specifically
+        if "Infobox" in sections:
+            infobox_content = sections["Infobox"]
+            for l in infobox_content.splitlines():
+                l_strip = l.strip()
+                if l_strip.startswith("|") and l_strip.endswith("|"):
+                    parts = [p.strip() for p in l_strip.split("|")[1:-1]]
+                    if len(parts) >= 2:
+                        key = parts[0].replace("**", "").strip()
+                        val = parts[1].strip()
+                        if key and val and not all(c == '-' for c in key) and key.lower() != "known for":
+                            infobox.append((key, val))
+                            
+        return {
+            "title": title,
+            "infobox": infobox,
+            "sections": sections,
+            "sections_ordered": sections_ordered
+        }
+    except Exception as e:
+        print(f"Error parsing entry file {filepath}: {e}")
+        return {
+            "title": filepath.stem,
+            "infobox": [],
+            "sections": {},
+            "sections_ordered": []
+        }
 
 def markdown_to_html(md_text: str) -> str:
     """Converts a simple markdown text block to styled HTML."""
-    html_lines = []
-    in_list = False
-    in_ordered_list = False
-    
-    for line in md_text.splitlines():
-        stripped = line.strip()
-        if not stripped:
-            if in_list:
-                html_lines.append("</ul>")
-                in_list = False
-            if in_ordered_list:
-                html_lines.append("</ol>")
-                in_ordered_list = False
-            continue
-            
-        # Inline styling (Bold and Links)
-        processed = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', line)
-        processed = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2" class="text-blue-600 hover:underline" target="_blank">\1</a>', processed)
+    try:
+        html_lines = []
+        in_list = False
+        in_ordered_list = False
         
-        # Bullet Lists
-        if stripped.startswith("* ") or stripped.startswith("- "):
-            if not in_list:
-                if in_ordered_list:
-                    html_lines.append("</ol>")
-                    in_ordered_list = False
-                html_lines.append('<ul class="list-disc list-inside space-y-1 mb-4 text-slate-600">')
-                in_list = True
-            item_text = processed.strip()[2:].strip()
-            html_lines.append(f'<li>{item_text}</li>')
-        # Numbered Lists
-        elif re.match(r'^\d+\.\s', stripped):
-            if not in_ordered_list:
+        for line in md_text.splitlines():
+            stripped = line.strip()
+            if not stripped:
                 if in_list:
                     html_lines.append("</ul>")
                     in_list = False
-                html_lines.append('<ol class="list-decimal list-inside space-y-1 mb-4 text-slate-600">')
-                in_ordered_list = True
-            item_text = re.sub(r'^\d+\.\s+', '', processed.strip()).strip()
-            html_lines.append(f'<li>{item_text}</li>')
-        else:
-            # Paragraph
-            if in_list:
-                html_lines.append("</ul>")
-                in_list = False
-            if in_ordered_list:
-                html_lines.append("</ol>")
-                in_ordered_list = False
-            html_lines.append(f'<p class="mb-4 text-slate-600 leading-relaxed">{processed.strip()}</p>')
+                if in_ordered_list:
+                    html_lines.append("</ol>")
+                    in_ordered_list = False
+                continue
+                
+            # Inline styling (Bold and Links)
+            processed = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', line)
+            processed = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2" class="text-blue-600 hover:underline" target="_blank">\1</a>', processed)
             
-    if in_list:
-        html_lines.append("</ul>")
-    if in_ordered_list:
-        html_lines.append("</ol>")
-        
-    return "\n".join(html_lines)
+            # Bullet Lists
+            if stripped.startswith("* ") or stripped.startswith("- "):
+                if not in_list:
+                    if in_ordered_list:
+                        html_lines.append("</ol>")
+                        in_ordered_list = False
+                    html_lines.append('<ul class="list-disc list-inside space-y-1 mb-4 text-slate-600">')
+                    in_list = True
+                item_text = processed.strip()[2:].strip()
+                html_lines.append(f'<li>{item_text}</li>')
+            # Numbered Lists
+            elif re.match(r'^\d+\.\s', stripped):
+                if not in_ordered_list:
+                    if in_list:
+                        html_lines.append("</ul>")
+                        in_list = False
+                    html_lines.append('<ol class="list-decimal list-inside space-y-1 mb-4 text-slate-600">')
+                    in_ordered_list = True
+                item_text = re.sub(r'^\d+\.\s+', '', processed.strip()).strip()
+                html_lines.append(f'<li>{item_text}</li>')
+            else:
+                # Paragraph
+                if in_list:
+                    html_lines.append("</ul>")
+                    in_list = False
+                if in_ordered_list:
+                    html_lines.append("</ol>")
+                    in_ordered_list = False
+                html_lines.append(f'<p class="mb-4 text-slate-600 leading-relaxed">{processed.strip()}</p>')
+                
+        if in_list:
+            html_lines.append("</ul>")
+        if in_ordered_list:
+            html_lines.append("</ol>")
+            
+        return "\n".join(html_lines)
+    except Exception as e:
+        print(f"Error converting markdown to HTML: {e}")
+        return md_text
 
 def insertDataIntoTemplate(template: str, data: dict) -> str:
     """Inserts the synthesized data into the template."""
@@ -378,79 +395,82 @@ def insertDataIntoTemplate(template: str, data: dict) -> str:
     return script
 
 def main() -> None:
-    # 1. Scan for entries
-    entries_dir = rootDir / "data" / "entries"
-    if not entries_dir.exists():
-        print(f"Error: {entries_dir} does not exist.")
-        return
-        
-    entry_files = list(entries_dir.glob("*.txt"))
-    topics = [f.stem for f in entry_files]
-    
-    if not topics:
-        print("No synthesized entry files found in data/entries/")
-        return
-        
-    print(f"Found {len(topics)} topics: {', '.join(topics)}")
-    
-    # 2. Get category mapping for all topics
-    topics_categories = {t: loadCategory(t) for t in topics}
-    
-    # 3. Load basic HTML template
-    template_html = clearTemplate()
-    
-    # 4. Create data/web folder if not exists
-    web_dir = rootDir / "data" / "web"
-    web_dir.mkdir(parents=True, exist_ok=True)
-    
-    # 5. Process each entry
-    for filepath in entry_files:
-        topic_name = filepath.stem
-        print(f"Generating website for: {topic_name}...")
-        
-        parsed = parse_entry_file(filepath)
-        category = topics_categories.get(topic_name, "Philadelphia History")
-        parsed["category"] = category
-        
-        # Determine lead section
-        lead_content = parsed["sections"].get("Lead section", "")
-        parsed["lead"] = lead_content.strip()
-        
-        # Convert all sections to HTML
-        sections_html = {}
-        for sec_name, sec_md in parsed["sections"].items():
-            sections_html[sec_name] = markdown_to_html(sec_md)
-        parsed["sections_html"] = sections_html
-        
-        # Load Works Cited from data/search/{topic}.txt
-        search_file = rootDir / "data" / "search" / f"{topic_name}.txt"
-        works_cited_urls = []
-        if search_file.exists():
-            with open(search_file, "r", encoding="utf-8") as sf:
-                works_cited_urls = [line.strip() for line in sf if line.strip()]
-                
-        if works_cited_urls:
-            # Create list item links
-            urls_html_items = "".join(f'<li><a href="{url}" class="text-blue-600 hover:underline" target="_blank">{url}</a></li>\n' for url in works_cited_urls)
-            works_cited_html = f'<ol class="list-decimal list-inside space-y-2 mb-4 text-slate-600">\n{urls_html_items}</ol>'
+    try:
+        # 1. Scan for entries
+        entries_dir = rootDir / "data" / "entries"
+        if not entries_dir.exists():
+            print(f"Error: {entries_dir} does not exist.")
+            return
             
-            # Insert Works Cited section
-            parsed["sections_html"]["Works Cited"] = works_cited_html
-            if "Works Cited" not in parsed["sections_ordered"]:
-                parsed["sections_ordered"].append("Works Cited")
+        entry_files = list(entries_dir.glob("*.txt"))
+        topics = [f.stem for f in entry_files]
+        
+        if not topics:
+            print("No synthesized entry files found in data/entries/")
+            return
+            
+        print(f"Found {len(topics)} topics: {', '.join(topics)}")
+        
+        # 2. Get category mapping for all topics
+        topics_categories = {t: loadCategory(t) for t in topics}
+        
+        # 3. Load basic HTML template
+        template_html = clearTemplate()
+        
+        # 4. Create data/web folder if not exists
+        web_dir = rootDir / "data" / "web"
+        web_dir.mkdir(parents=True, exist_ok=True)
+        
+        # 5. Process each entry
+        for filepath in entry_files:
+            topic_name = filepath.stem
+            print(f"Generating website for: {topic_name}...")
+            
+            parsed = parse_entry_file(filepath)
+            category = topics_categories.get(topic_name, "Philadelphia History")
+            parsed["category"] = category
+            
+            # Determine lead section
+            lead_content = parsed["sections"].get("Lead section", "")
+            parsed["lead"] = lead_content.strip()
+            
+            # Convert all sections to HTML
+            sections_html = {}
+            for sec_name, sec_md in parsed["sections"].items():
+                sections_html[sec_name] = markdown_to_html(sec_md)
+            parsed["sections_html"] = sections_html
+            
+            # Load Works Cited from data/search/{topic}.txt
+            search_file = rootDir / "data" / "search" / f"{topic_name}.txt"
+            works_cited_urls = []
+            if search_file.exists():
+                with open(search_file, "r", encoding="utf-8") as sf:
+                    works_cited_urls = [line.strip() for line in sf if line.strip()]
+                    
+            if works_cited_urls:
+                # Create list item links
+                urls_html_items = "".join(f'<li><a href="{url}" class="text-blue-600 hover:underline" target="_blank">{url}</a></li>\n' for url in works_cited_urls)
+                works_cited_html = f'<ol class="list-decimal list-inside space-y-2 mb-4 text-slate-600">\n{urls_html_items}</ol>'
                 
-        # Shuffle or select other topics for the Semiquincentennial Hub cards
-        other_topics = [t for t in topics if t != topic_name]
-        parsed["other_topics"] = other_topics
-        parsed["other_topics_categories"] = topics_categories
-        
-        # Generate the final webpage
-        page_html = insertDataIntoTemplate(template_html, parsed)
-        
-        # Write to destination
-        dest_file = web_dir / f"{topic_name}.html"
-        dest_file.write_text(page_html, encoding="utf-8")
-        print(f"Saved {dest_file.name}")
+                # Insert Works Cited section
+                parsed["sections_html"]["Works Cited"] = works_cited_html
+                if "Works Cited" not in parsed["sections_ordered"]:
+                    parsed["sections_ordered"].append("Works Cited")
+                    
+            # Shuffle or select other topics for the Semiquincentennial Hub cards
+            other_topics = [t for t in topics if t != topic_name]
+            parsed["other_topics"] = other_topics
+            parsed["other_topics_categories"] = topics_categories
+            
+            # Generate the final webpage
+            page_html = insertDataIntoTemplate(template_html, parsed)
+            
+            # Write to destination
+            dest_file = web_dir / f"{topic_name}.html"
+            dest_file.write_text(page_html, encoding="utf-8")
+            print(f"Saved {dest_file.name}")
+    except Exception as e:
+        print(f"Error in webGenerator main: {e}")
 
 if __name__ == "__main__":
     main()

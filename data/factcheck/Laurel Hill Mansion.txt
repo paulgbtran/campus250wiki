@@ -1,0 +1,3 @@
+* **Corrected Octagonal Wing Description (Lead & Architecture Sections)**: Removed the statement that the octagonal wing was "later raised to two stories." The octagonal wing built c. 1801 on the south end is a single-story addition and remains single-story today.
+* **Corrected Rebecca Rawle's Death Year (History Section)**: Changed the year of Rebecca Clifford Rawle Shoemaker's death from 1814 to 1819.
+* **Updated Architectural ASCII Diagram**: Adjusted the diagram layout to correctly depict the octagonal wing attached as a side extension on the south elevation of the main block.

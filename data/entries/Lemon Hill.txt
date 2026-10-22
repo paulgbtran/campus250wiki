@@ -1,0 +1,133 @@
+# Lemon Hill
+
+| **Lemon Hill Mansion** |
+| :--- |
+| **Alternative names:** Lemon Hill Estate, The Hills |
+| **Type:** Historic house museum and public park landmark |
+| **Location:** East Fairmount Park, Philadelphia, Pennsylvania, United States |
+| **Coordinates:** 39°58′16″N 75°11′18″W |
+| **Architectural Style:** Federal |
+| **Construction Started:** 1799 |
+| **Completed:** 1800 |
+| **Original Owner:** Henry Pratt |
+| **Previous Landowner:** Robert Morris |
+| **Current Owner:** City of Philadelphia (Philadelphia Parks & Recreation) |
+| **Designated NRHP:** February 7, 1972 |
+| **Part of:** Fairmount Park Historic District |
+
+**Lemon Hill** is a prominent early nineteenth-century Federal-style historic mansion and estate located in East Fairmount Park, Philadelphia, Pennsylvania. Situated on a high bluff overlooking the Schuylkill River, Boathouse Row, and the Philadelphia skyline, the property occupies a foundational position in the history of American landscape architecture, municipal public works, and urban park development. Built between 1799 and 1800 by the wealthy Philadelphia merchant Henry Pratt, the estate was named for the extensive citrus trees cultivated in its renowned on-site conservatories and greenhouses.
+
+The grounds of Lemon Hill were originally part of "The Hills," a larger 18th-century country estate owned by Robert Morris, a signer of the Declaration of Independence and the chief financier of the American Revolution. Following Morris's financial collapse in the late 1790s, Pratt purchased the land at a public auction, dismantled Morris's earlier residence, and constructed the present two-and-a-half-story brick residence. Lemon Hill is celebrated architecturally for its sophisticated Federal-period design, distinguished by three stacked oval rooms positioned on successive floors along its river-facing facade.
+
+In 1844, the City of Philadelphia purchased the 43-acre Lemon Hill property to safeguard the municipal water supply from industrial pollution near the Fairmount Water Works along the Schuylkill River. In 1855, an ordinance formally dedicated Lemon Hill for public recreation, making it the very first land parcel acquired specifically to form Fairmount Park. This municipal acquisition established a national precedent for urban land conservation, predating the creation of New York City's Central Park.
+
+Today, Lemon Hill is recognized as a historic house museum listed on the National Register of Historic Places and serves as a contributing property to the Fairmount Park Historic District. Managed through public-private partnerships involving Philadelphia Parks & Recreation, the Fairmount Park Conservancy, and local preservation organizations, the mansion and its surrounding grounds remain key historic and recreational assets within Philadelphia's extensive park system.
+
+---
+
+## History
+
+### Eighteenth-Century Origins and the Robert Morris Era
+
+The land that comprises Lemon Hill was originally inhabited by the Lenape people prior to European settlement and William Penn's establishment of the Pennsylvania colony in 1682. By the mid-eighteenth century, the elevated ridge above the Schuylkill River attracted prominent Philadelphians seeking country retreats away from the dense urban core of the city. In 1770, Robert Morris—a wealthy merchant, politician, and future Signer of the Declaration of Independence—began purchasing contiguous tracts of land along the eastern bank of the Schuylkill River.
+
+Morris established a country estate known as "The Hills," expanding it to encompass roughly 300 acres. He constructed a grand villa, laid out serpentine gravel paths, planted ornamental gardens, and erected early glass greenhouses to cultivate tropical fruits and exotic plants. During the Revolutionary War and the subsequent Constitutional Convention of 1787, Morris hosted numerous national leaders at the estate, including George Washington. However, Morris engaged in massive western land speculation in the 1790s, which led to his financial ruin and imprisonment in Philadelphia's Prune Street Debtors' Prison in 1798. His vast holdings at The Hills were subdivided and sold at sheriff's sales to satisfy creditors.
+
+### Construction by Henry Pratt
+
+In 1799, Henry Pratt, a successful Philadelphia China-trade merchant, purchased a 43-acre parcel of Morris's former estate at auction. Pratt immediately set about transforming the property into a premiere horticultural showplace. Between 1799 and 1800, Pratt demolished Morris's main house and constructed a new, elegant residence in the Federal style, naming the property "Lemon Hill" in honor of the lemon and orange trees maintained in the estate's large heated greenhouses.
+
+Pratt spared no expense in developing the grounds, hiring skilled gardeners to lay out terraced lawns, fish ponds, lemon groves, and classical garden pavilions. Lemon Hill gained national renown for its botanical collections and romantic landscape design. Demonstrating an unusual degree of public generosity for the era, Pratt permitted Philadelphians to tour his private grounds and conservatories on designated days, establishing an early precedent for public outdoor recreation along the Schuylkill.
+
+### Municipal Acquisition and the Birth of Fairmount Park
+
+Following Henry Pratt's death in 1838, the Lemon Hill estate was sold to speculative buyers and briefly utilized as a commercial beer garden and resort. During the 1830s and 1840s, rapid industrialization along the Schuylkill River threatened to pollute the river water, which fed the nearby Fairmount Water Works—the primary source of clean municipal drinking water for Philadelphia.
+
+To protect the water supply from industrial contamination, city leaders advocated for municipal ownership of the riverbanks. In 1844, the City of Philadelphia purchased the 43-acre Lemon Hill property for $75,000. On September 28, 1855, the Philadelphia City Council formally dedicated Lemon Hill as a public park, naming it "Fairmount Park." This landmark action marked the official origin of Philadelphia's park system. Over the subsequent decades, the city expanded the park exponentially by acquiring neighboring estates along both the east and west banks of the river.
+
+During the late nineteenth century, Lemon Hill played an integral role in civic celebrations. In 1876, when Philadelphia hosted the Centennial International Exhibition in West Fairmount Park, Lemon Hill offered visitors commanding vantage points across the river toward the main exhibition grounds.
+
+---
+
+## Architecture
+
+Lemon Hill Mansion is widely regarded as one of the finest surviving examples of Federal-period residential architecture in the Middle Atlantic region. The building is a symmetrical, two-and-a-half-story red brick structure laid in Flemish bond, resting on a fieldstone basement foundation. Its design incorporates classical symmetry, delicate proportions, and expansive fenestration designed to maximize natural light and views of the surrounding landscape.
+
+```
+       +------------------------------------+
+       |              Roof                  |
+       |         [Dormer]  [Dormer]         |
+       +------------------------------------+
+       |  Second Floor: Bedroom Suite       |
+       |  [Window]   (Oval Room)   [Window] |
+       +------------------------------------+
+       |  Main Floor: Grand Parlor          |
+       |  [Window]   (Oval Room)   [Window] |
+       +------------------------------------+
+       |  Basement / Garden Level           |
+       |  [Window]   (Oval Room)   [Window] |
+       +------------------------------------+
+                     | Portico |
+                     +---------+
+```
+
+### Exterior Features
+
+The principal facade of Lemon Hill faces west toward the Schuylkill River. It features a prominent two-story semi-octagonal or curved bay projecting from the center of the elevation, flanked by multi-pane sash windows with flat marble lintels and decorative keystones. The primary entrance is sheltered by a classical portico supported by slender wooden columns with molded capitals, reached by a wide flight of stone steps. The house is topped by a hipped roof punctuated by pedimented dormers and brick chimney stacks.
+
+### The Oval Rooms
+
+The interior layout of Lemon Hill is renowned for its innovative spatial arrangement, specifically its three stacked oval rooms aligned vertically in the central projecting bay:
+
+* **Garden Level Oval Room:** Located on the ground or basement floor, this room directly accessed the lower terraces and garden walks, serving as a cool summer retreat and dining space.
+* **Main Floor Oval Parlor:** Serving as the primary reception space, the main parlor features floor-to-ceiling double-hung windows that open out to the river landscape. The room preserves delicate plaster cornices, carved wooden mantels, and custom-curved double doors fitted precisely to the room's elliptical wall curvature.
+* **Second Floor Oval Bedroom:** Positioned directly above the parlor, the second-floor oval chamber served as the principal bedroom suite, providing panoramic views across the river valley.
+
+The arrangement of stacked oval spaces required extraordinary carpentry and masonry skill, illustrating the sophistication of Philadelphia's early nineteenth-century master builders and craftsmen.
+
+---
+
+## Cultural Significance
+
+Lemon Hill holds a critical position in American architectural, environmental, and civic history. As the founding parcel of Fairmount Park, the site represents a pioneering triumph of the nineteenth-century American urban park movement. City leaders' decision to acquire Lemon Hill in 1844 combined public health imperatives—protecting the municipal drinking water—with a vision for public open space, laying the groundwork for subsequent park developments across the United States.
+
+```
+[Robert Morris Era: "The Hills"] 
+       │
+       ▼
+[Henry Pratt Era: Federal Mansion Built (1799-1800)]
+       │
+       ▼
+[City Purchase for Water Protection (1844)]
+       │
+       ▼
+[Fairmount Park Dedication (1855)]
+       │
+       ▼
+[National Register Designation (1972) & Public Preservation]
+```
+
+As an architectural monument, Lemon Hill encapsulates the refined taste of Philadelphia's post-Revolutionary merchant elite. Its survival intact amid an expanding urban landscape makes it a vital educational resource for studying Federal architecture, decorative arts, and early American landscape design.
+
+Lemon Hill was listed on the National Register of Historic Places on February 7, 1972. It is routinely featured in historic house tours, educational outreach programs, and community cultural events organized by Philadelphia Parks & Recreation and the Fairmount Park Conservancy.
+
+---
+
+## See also
+
+* Fairmount Park
+* Fairmount Water Works
+* Boathouse Row
+* Robert Morris (financier)
+* Mount Pleasant (Philadelphia)
+* Sweetbriar (mansion)
+* Federal architecture
+* Schuylkill River
+
+---
+
+## References
+
+1. The Encyclopedia of Greater Philadelphia. "Fairmount Park." Available online: [https://philadelphiaencyclopedia.org/](https://philadelphiaencyclopedia.org/)
+2. Association for Public Art. "Public Art and Historical Landscapes in Fairmount Park." Available online: [https://associationforpublicart.org/artwork/stone-age-in-america/](https://associationforpublicart.org/artwork/stone-age-in-america/)
+3. The Philadelphia Inquirer. "Historic Preservation and Parks in Philadelphia." Available online: [https://www.inquirer.com/](https://www.inquirer.com/)

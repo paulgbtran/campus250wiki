@@ -1,0 +1,5 @@
+* **Infobox**: Replaced "Randy McFadden" with percussionist/songwriter "Ralph MacDonald" in the **Associated acts** list, as Ralph MacDonald was a major collaborator and producer for Washington (including writing "Just the Two of Us" and producing *Winelight*).
+* **Lead section**: Corrected the release year for the album *Feels So Good* from 1976 to 1975.
+* **Early life and education**: Corrected the age at which Grover Washington Jr. was given his first saxophone by his father and began studying at the Wurlitzer School of Music from eight to ten.
+* **Early life and education**: Corrected the name of the touring rhythm-and-blues group he joined at age sixteen from "the Four Clefs" to "the Four Pals".
+* **Career**: Updated the release year of *Feels So Good* from 1976 to 1975 in both the narrative body and the key discography ASCII table.

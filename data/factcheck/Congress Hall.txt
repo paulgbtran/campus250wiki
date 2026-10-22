@@ -1,0 +1,3 @@
+* **Architecture (Second-Floor Senate Chamber):** Corrected the description and diagram of the Senate chamber's seating layout. The Senate desks were historically arranged in a semi-circle (horseshoe layout) facing the presiding officer's dais, rather than two straight parallel rows.
+* **Cultural Significance:** Updated phrasing regarding educational materials to reflect official National Park Service historical resources accurately.
+* **References:** Updated the reference URL for the National Park Service Congress Hall history page to match the official NPS web directory (`resources-congresshall.htm`).

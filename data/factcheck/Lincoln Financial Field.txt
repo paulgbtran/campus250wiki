@@ -1,0 +1,3 @@
+* **Infobox & Lead Section - Seating Capacity**: Corrected official seating capacity from `69,879` to `69,796`.
+* **Infobox & Architecture Section - Playing Surface**: Corrected playing surface from `"Matrix Helix Synthetic Turf / Bermuda Grass"` to `"Desso GrassMaster / Tahoma 31 Bermuda Grass"`. Lincoln Financial Field uses natural grass reinforced with synthetic fibers (a hybrid surface system) and has never installed full artificial turf products like Matrix Helix.
+* **Architecture Section - Field History**: Corrected statement claiming the venue was initially pure natural grass before adopting Desso GrassMaster; Lincoln Financial Field opened in 2003 with the Desso GrassMaster hybrid system already in place.

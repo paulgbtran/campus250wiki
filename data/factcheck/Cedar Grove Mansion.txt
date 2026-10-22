@@ -1,0 +1,12 @@
+* **Genealogical / Historical Accuracy:** 
+  * Corrected the marriage details in the *Origins and Early Construction* section. Isaac Wistar Morris (1770–1831) married Elizabeth Coates Paschall's niece, Sarah Paschall (1772–1842), in 1795—not her aunt Sarah Coates Paschall (1731–1812).
+  * Added Sarah Paschall Morris to the infobox under Key Figures.
+  * Corrected Lydia Thompson Morris's relationship to Sarah Paschall Morris and Isaac Wistar Morris (great-granddaughter).
+* **Architectural Accuracy:**
+  * Corrected roof description in the *Architecture* section from "hipped roof" to "gambrel roof," which is a defining feature of Cedar Grove's exterior design. Updated the *Expansions* section from "pitched roof" to "gambrel roof".
+* **Reference Correction:**
+  * Corrected the HABS survey code in Reference 2 from `HABS PA-165` to `HABS PA-119` to match Library of Congress/HABS records.
+* **Grammar and Typographical Corrections:**
+  * Corrected "a expansive" to "an expansive" in the Lead and History sections.
+  * Corrected "undertaken" to "undertook" in the *Expansions and Early Republic Period* section.
+  * Corrected "a wrapped piazzas" to "a wrapped piazza" in the *Expansions and Early Republic Period* section.

@@ -1,0 +1,3 @@
+* **Infobox & Body Paragraphs**: Corrected Jeremiah Elfreth's profession from "silversmith" to "blacksmith". Jeremiah Elfreth was a blacksmith and land speculator.
+* **Infobox & History Sections**: Corrected the establishment year of Elfreth's Alley from "1706" to "1702". Arthur Wells and John Gilbert combined their properties to open the cart path in 1702. Updated the ASCII diagram timeline to match.
+* **Lead Section & Preservation History**: Clarified that National Historic Landmark (NHL) designation was officially secured in 1960 (October 15, 1960), rather than in the 1950s.

@@ -1,0 +1,81 @@
+| Feature | Details |
+| :--- | :--- |
+| **Building Name** | Comcast Center |
+| **Location** | 1701 John F. Kennedy Boulevard, Philadelphia, Pennsylvania |
+| **Status** | Complete |
+| **Construction Started** | March 31, 2005 |
+| **Completed** | June 2008 |
+| **Height** | 975 ft (297 m) |
+| **Floor Count** | 58 |
+| **Floor Area** | 1,250,000 sq ft (116,100 m²) |
+| **Architect** | Robert A.M. Stern Architects |
+| **Developer** | Liberty Property Trust |
+| **Structural Engineer** | Thornton Tomasetti |
+| **Main Tenant** | Comcast Corporation |
+
+---
+
+### Lead Section
+
+The **Comcast Center** is a 58-story, 975-foot (297 m) skyscraper located at 1701 John F. Kennedy Boulevard in Center City Philadelphia, Pennsylvania. Upon its completion in 2008, it became the tallest building in Philadelphia and the Commonwealth of Pennsylvania, surpassing One Liberty Place, which had held the title since 1987. It retained this designation for nearly a decade until it was surpassed in 2017 by its sister building, the Comcast Technology Center, located immediately adjacent across 18th Street. The tower serves as the global corporate headquarters for Comcast Corporation, one of the world's largest telecommunications and media conglomerates.
+
+Designed by the internationally recognized firm Robert A.M. Stern Architects and developed by Liberty Property Trust, the Comcast Center represents a monumental shift in Philadelphia’s economic and architectural skyline. The building's design features a glass obelisk silhouette that tapers subtly as it rises, crowned by a distinct translucent top. Built directly above the underground rail infrastructure of SEPTA’s Suburban Station, the skyscraper integrates transit-oriented urban planning with high-density commercial space, offering direct internal access to regional commuter lines for thousands of employees and visitors daily.
+
+Beyond its physical stature, the skyscraper is recognized for its advanced structural engineering and sustainable environmental design. It features the largest tuned liquid column damper in North America—a 300,000-gallon water reservoir at the top of the tower engineered to counteract wind-induced motion. The building earned LEED Gold certification from the U.S. Green Building Council, setting a landmark standard for energy efficiency and water conservation in high-rise construction within the Mid-Atlantic region.
+
+The base of the building is home to a half-acre public plaza and a soaring 110-foot-high glass winter garden lobby. Within this public atrium sits "The Comcast Experience," a massive high-definition LED video display that has become a popular public art installation and tourist attraction. As a prominent fixture of Center City, the Comcast Center symbolizes Philadelphia’s 21st-century economic transition from an industrial and manufacturing power into a major center for media, technology, and commercial enterprise.
+
+---
+
+### History
+
+The development of the Comcast Center emerged from Comcast Corporation’s rapid expansion during the late 1990s and early 2000s. As the cable and telecommunications provider grew into a fortune 500 entity, its workforce was scattered across multiple leased facilities throughout Center City Philadelphia, primarily anchored at 1500 Market Street. To consolidate its operations and anchor its long-term presence in the city, Comcast partnered with Liberty Property Trust, a regional real estate investment trust, to commission a purpose-built corporate headquarters. 
+
+Official plans for the skyscraper, initially referred to as "One Pennsylvania Plaza," were unveiled in 2004. Groundbreaking formally took place on March 31, 2005. Construction required extensive subterranean engineering due to the site's placement directly over the tracks leading into SEPTA's Suburban Station. Workers excavated thousands of tons of earth while ensuring uninterrupted rail service below, constructing deep caissons and heavy concrete structural foundations to support the 975-foot superstructure above.
+
+As structural steel construction progressed through 2006 and 2007, local ironworkers observed a cherished Philadelphia cultural tradition. In June 2007, during the topping-out ceremony when the final structural beam was raised to the tower's highest point, workers attached a small figurine of city founder William Penn alongside the traditional American flag. This gesture was intended to counter the local urban legend known as the "Curse of Billy Penn"—a superstition holding that no Philadelphia sports team would win a championship after the 1987 construction of One Liberty Place broke an unwritten height limit keeping buildings lower than the William Penn statue atop Philadelphia City Hall. Following the figurine's placement, the Philadelphia Phillies won the World Series in October 2008, cementing the event in local folklore.
+
+The Comcast Center officially opened its doors in June 2008. The opening brought thousands of workers into a centralized campus and catalyzed further real estate development along the John F. Kennedy Boulevard commercial corridor. The building's success eventually prompted Comcast to commission a second tower, the 1,121-foot Comcast Technology Center, designed by Foster + Partners, which broke ground in 2014 and opened in 2019, forming a two-building corporate campus in the heart of Center City.
+
+---
+
+### Architecture
+
+Designed by Robert A.M. Stern Architects, the Comcast Center presents a modern interpretation of the classical obelisk. The exterior curtain wall is clad in ultra-clear, low-emissivity glass that reflects changing light conditions throughout the day. The building’s volume tapers symmetrically on its north and south elevations as it rises, with subtle setback notches at upper levels that emphasize its verticality. The top of the tower features a crystalline glass crown that is illuminated at night, making the building a distinct landmark on the regional skyline.
+
+Structurally, the tower relies on a high-strength concrete core encased in steel framing, engineered by Thornton Tomasetti. A notable engineering innovation is the building's tuned liquid column damper (TLCD) located on the 57th and 58th floors. Containing approximately 300,000 US gallons (1,100,000 L) of water, this double-chambered concrete reservoir acts as a massive pendulum to counteract lateral movement caused by severe winds or seismic activity. By absorbing kinetic energy, the damper reduces wind sway at the top of the tower by up to 50 percent, enhancing structural stability and occupant comfort.
+
+At ground level, the architecture emphasizes public space and civic integration. A 110-foot-high, winter garden atrium constructed of structural glass framing serves as the primary entrance foyer. The plaza surrounding the tower, designed by Olin Partnership, integrates outdoor seating, granite paving, and seasonal landscaping, creating a seamless transition between the public streetscape and the interior concourse leading down to Suburban Station's subterranean retail and transit networks.
+
+The Comcast Center was constructed with a rigorous focus on environmental sustainability, achieving LEED Gold certification. Environmental features include high-performance glazing that maximizes natural daylighting while reducing thermal heat gain, energy-efficient heating and cooling systems, and low-flow plumbing fixtures. The building also utilizes waterless urinals throughout its office floors, saving an estimated two million gallons of drinking water annually compared to standard commercial office structures.
+
+---
+
+### Cultural Significance
+
+The Comcast Center holds considerable civic and cultural importance within Philadelphia. Architecturally, its construction signaled a new wave of high-rise development in the city after a period of relative stagnation in skyscraper construction during the 1990s. Its placement at the intersection of 17th Street and JFK Boulevard reinforced Center City West as the principal commercial and executive district of the metropolitan area.
+
+A defining feature of the building's public presence is "The Comcast Experience," an 83-foot-wide by 25-foot-high (25 m × 7.6 m) high-definition LED display wall integrated into the main lobby wall. Utilizing a 10-millimeter pixel pitch, the screen features continuous artistic visuals, historical imagery, virtual nature scenes, and seasonal holiday shows. Designed by David Niles of Niles Creative Group, the installation operates daily as a free public art piece, attracting millions of local commuters and tourists each year.
+
+The tower also represents Philadelphia’s modern identity as an East Coast technology and corporate management hub. By anchoring Comcast’s corporate presence in Center City rather than the suburban perimeter, the building influenced regional planning strategies favoring transit-oriented corporate campuses over isolated suburban corporate parks.
+
+---
+
+### See Also
+
+* Comcast Technology Center
+* One Liberty Place
+* Two Liberty Place
+* Philadelphia City Hall
+* List of tallest buildings in Philadelphia
+* Curse of Billy Penn
+* Suburban Station
+
+---
+
+### References
+
+1. Encyclopedia of Greater Philadelphia. "Skyscrapers and the Philadelphia Skyline." *Mid-Atlantic Regional Center for the Humanities*, Rutgers University-Camden. https://philadelphiaencyclopedia.org
+2. Association for Public Art. "Public Art and Architecture in Center City Philadelphia." *aPA Digital Archive*. https://associationforpublicart.org
+3. WHYY News. "Building the Comcast Center: Engineering and Transit Integration." *WHYY Public Media*. https://whyy.org
+4. The Philadelphia Inquirer. "Comcast Center Opens as Pennsylvania's Tallest Tower." *The Philadelphia Inquirer Network Archive*. https://www.inquirer.com

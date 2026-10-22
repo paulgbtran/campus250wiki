@@ -1,0 +1,2 @@
+* **Section 4 (Outbuildings and Grounds):** Fixed a typographical error ("separate domestic domestic chores" → "separate domestic chores").
+* **Section 7 (References):** Corrected the Library of Congress item reference URL for Cliveden's Historic American Buildings Survey (HABS) record from `pa0856` to `pa1092` to match the official HABS survey designation (HABS PA-1092).
