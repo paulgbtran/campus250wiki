@@ -12,6 +12,8 @@ reference websites (homepages/base URLs), not per-topic article links —
 that is handled by search.py.
 """
 import sys
+import time
+import os
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
 sys.path.append(str(rootDir / "scripts"))
@@ -81,6 +83,12 @@ def findSources() -> None:
     """
     client = genai.Client()
     existing_urls = loadExistingUrls()
+
+    # Respect the pipeline timeout — if we're already over budget, skip.
+    timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
+    if timeout_sec is not None and time.perf_counter() > timeout_sec:
+        print(f"⚠  Time limit ({timeout_sec // 60}m) already reached before sources query. Skipping.")
+        return
 
     print(f"Querying {MODEL} for credible Philadelphia history sources...")
     try:

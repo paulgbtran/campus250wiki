@@ -98,8 +98,37 @@ def main():
             print("No entries found in data/entries/. Nothing to search.")
             return
 
-        for topic in topics:
+        # ---------------------------------------------------------------------------
+        # Timeout setup — read limit passed by main.py via env var
+        # ---------------------------------------------------------------------------
+        timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
+        start_time  = time.perf_counter()
+
+        # Prioritize topics with no factcheck search file yet.
+        fc_search_dir = rootDir / "data" / "factcheck" / "search"
+        new_topics  = [t for t in topics if not (fc_search_dir / f"{t}.txt").exists()]
+        done_topics = [t for t in topics if     (fc_search_dir / f"{t}.txt").exists()]
+        ordered     = new_topics + done_topics
+
+        if timeout_sec:
+            print(
+                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"searching {len(new_topics)} new topic(s) first, "
+                f"then {len(done_topics)} already-searched topic(s) if time allows."
+            )
+
+        for topic in ordered:
+            if timeout_sec is not None:
+                elapsed = time.perf_counter() - start_time
+                if elapsed >= timeout_sec:
+                    print(
+                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping factcheck search — all new topics have been prioritised."
+                    )
+                    break
+
             searchTopic(topic, client)
+
     except Exception as e:
         print(f"Error in factcheck search main: {e}")
 

@@ -12,6 +12,7 @@ data/search/<topic>.txt.
 """
 import sys
 import time
+import os
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
 sys.path.append(str(rootDir / "scripts"))
@@ -146,7 +147,36 @@ def main() -> None:
         approved_domains = loadApprovedDomains()
         entries = classifier.parse()
 
-        for i, entry in enumerate(entries):
+        # ---------------------------------------------------------------------------
+        # Timeout setup — read limit passed by main.py via env var
+        # ---------------------------------------------------------------------------
+        timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
+        start_time  = time.perf_counter()
+
+        # Prioritize topics that have no search file yet so new topics are always
+        # covered before the time limit is reached.
+        search_dir = rootDir / "data" / "search"
+        new_entries  = [e for e in entries if not (search_dir / f"{e.name}.txt").exists()]
+        done_entries = [e for e in entries if     (search_dir / f"{e.name}.txt").exists()]
+        ordered      = new_entries + done_entries
+
+        if timeout_sec:
+            print(
+                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"processing {len(new_entries)} new topic(s) first, "
+                f"then {len(done_entries)} already-searched topic(s) if time allows."
+            )
+
+        for entry in ordered:
+            if timeout_sec is not None:
+                elapsed = time.perf_counter() - start_time
+                if elapsed >= timeout_sec:
+                    print(
+                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping search — all new topics have been prioritised."
+                    )
+                    break
+
             searchTopic(entry.name, client, approved_domains)
 
         print("All searches complete.")

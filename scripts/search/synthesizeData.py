@@ -173,9 +173,42 @@ def synthesizeData(topic: str) -> None:
 
 def main() -> None:
     try:
-        for topic in os.listdir(rootDir / "data" / "search"):
-            if topic.endswith(".txt"):
-                synthesizeData(topic[:-4])
+        search_dir  = rootDir / "data" / "search"
+        entries_dir = rootDir / "data" / "entries"
+
+        all_topics = [f[:-4] for f in os.listdir(search_dir) if f.endswith(".txt")]
+
+        # ---------------------------------------------------------------------------
+        # Timeout setup — read limit passed by main.py via env var
+        # ---------------------------------------------------------------------------
+        timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
+        start_time  = time.perf_counter()
+
+        # Prioritize topics with no entry file yet (newly discovered topics).
+        # This guarantees all new topics are synthesized before the clock runs out.
+        new_topics  = [t for t in all_topics if not (entries_dir / f"{t}.txt").exists()]
+        done_topics = [t for t in all_topics if     (entries_dir / f"{t}.txt").exists()]
+        ordered     = new_topics + done_topics
+
+        if timeout_sec:
+            print(
+                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"synthesizing {len(new_topics)} new topic(s) first, "
+                f"then {len(done_topics)} existing topic(s) if time allows."
+            )
+
+        for topic in ordered:
+            if timeout_sec is not None:
+                elapsed = time.perf_counter() - start_time
+                if elapsed >= timeout_sec:
+                    print(
+                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping synthesis — all new topics have been prioritised."
+                    )
+                    break
+
+            synthesizeData(topic)
+
     except Exception as e:
         print(f"Error in synthesizeData main: {e}")
 

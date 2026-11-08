@@ -12,6 +12,7 @@ to a text file with one entry per line.
 
 import os
 import sys
+import time
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
 sys.path.append(str(rootDir / "scripts"))
@@ -84,6 +85,12 @@ def main() -> None:
 
         # Initialize the Gemini client
         client = genai.Client(api_key=api_key)
+
+        # Respect the pipeline timeout — if we're already over budget, skip.
+        timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
+        if timeout_sec is not None and time.perf_counter() > timeout_sec:
+            print(f"⚠  Time limit ({timeout_sec // 60}m) already reached before topics query. Skipping.")
+            return
 
         print(f"Querying {MODEL} for new Philadelphia historical topics …")
 
