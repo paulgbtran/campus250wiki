@@ -1,0 +1,2 @@
+* **Lead Section**: Updated the count of players who have won the Conn Smythe Trophy while playing for the losing team from "five" to "six" (Roger Crozier, Glenn Hall, Reggie Leach, Ron Hextall, Jean-Sébastien Giguère, and Connor McDavid).
+* **Career - Rookie Breakthrough and the 1987 Stanley Cup Finals**: Corrected Hextall's regular season Goals Against Average (GAA) during his rookie 1986–87 campaign from 2.56 to 3.00.

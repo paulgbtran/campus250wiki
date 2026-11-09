@@ -1,0 +1,118 @@
+{{Infobox historic event
+| name = Great Migration's Impact on Philadelphia
+| image = 
+| caption = 
+| date = c. 1916–1970
+| location = Philadelphia, Pennsylvania, United States
+| participants = African American migrants from the Southern United States; native Philadelphians
+| key_figures = W. E. B. Du Bois, Cecil B. Moore, Raymond Pace Alexander, Sadie Tanner Mossell Alexander, Charles A. Tindley
+| key_organizations = Armstrong Association of Philadelphia, Urban League, Christian Street YMCA, Mother Bethel A.M.E. Church, Philadelphia Tribune
+| significance = Transformed Philadelphia's demographic composition; reshaped housing patterns, industrial labor markets, cultural institutions, and municipal politics; established the foundation for modern Civil Rights activism in Greater Philadelphia.
+}}
+
+The **impact of the Great Migration on Philadelphia** represents one of the most transformative socio-demographic developments in the history of the city. Spanning two major waves from approximately 1916 to 1970, millions of African Americans relocated from the rural and agrarian Southern United States to northern, midwestern, and western industrial cities. In Philadelphia, this massive influx fundamentally altered the municipality’s demographic balance, labor economics, urban geography, political structures, and cultural landscape.
+
+During the First World War and the decades that followed, hundreds of thousands of Black Southerners—primarily from Atlantic coastal states such as North Carolina, South Carolina, Georgia, Virginia, and Maryland—traveled along northern train corridors to settle in Philadelphia. Drawn by the promise of industrial employment in the "Workshop of the World" and driven away by the oppressive realities of Jim Crow laws, racial terror, disenfranchisement, and economic exploitation in the South, these migrants remade the city's neighborhoods and civil institutions.
+
+The arrival of migrant families led to significant structural shifts within Philadelphia's built environment. As older Black enclaves, such as the Seventh Ward in South Philadelphia, reached maximum density, migrant populations expanded into North Philadelphia, West Philadelphia, and parts of Southwest Philadelphia. This territorial growth frequently encountered intense white resistance, local legal covenants, and institutionalized real estate discrimination, including redlining. Despite these barriers, incoming migrants built vibrant social networks, business districts, news outlets, and religious institutions.
+
+In the long term, the Great Migration laid the groundwork for modern Black political power in Philadelphia, fueling the rise of influential civil rights leaders, labor organizers, and elected officials. It also catalyzed a rich cultural legacy, profoundly influencing the city’s music, culinary traditions, religious practices, and neighborhood identity, while establishing a lasting demographic presence that continues to shape contemporary Philadelphia.
+
+== Background ==
+
+Prior to the onset of the Great Migration in the mid-1910s, Philadelphia already possessed one of the largest and most historic Black populations of any Northern American city. Founded in the late eighteenth century by Richard Allen and Absalom Jones, institutions such as Mother Bethel A.M.E. Church established the city as a center of African American religious, intellectual, and abolitionist leadership. In 1899, sociologist W. E. B. Du Bois published his seminal empirical study, *The Philadelphia Negro*, detailing the social and economic conditions of the city's Seventh Ward, located in South Philadelphia. At the turn of the twentieth century, Philadelphia's African American community was relatively small compared to its total population, making up less than five percent of the city's residents. 
+
+```
+               +-------------------------------------------------+
+               | PUSH FACTORS (Southern US)                      |
+               | - Jim Crow segregation laws                     |
+               | - Racial violence & disenfranchisement          |
+               | - Sharecropping debts & boll weevil crop ruin   |
+               +-----------------------+-------------------------+
+                                       |
+                                       v
+               +-------------------------------------------------+
+               | PULL FACTORS (Philadelphia)                     |
+               | - Labor shortages in "Workshop of the World"    |
+               | - Recruitment by Pennsylvania Railroad          |
+               | - Northern Black press (Philadelphia Tribune)   |
+               +-----------------------+-------------------------+
+                                       |
+                                       v
++---------------------------------------------------------------------------------+
+|                       PHILADELPHIA DEMOGRAPHIC EXPANSION                        |
+|   - Phase 1 (1916–1930): Growth in South Philly (7th Ward), North Philly        |
+|   - Phase 2 (1940–1970): Expansion into West Philly, Columbia Ave Corridor      |
++---------------------------------------------------------------------------------+
+```
+
+Despite the long presence of an established Black elite and middle class—often referred to as "Old Philadelphians"—industrial employment opportunities for African Americans remained severely restricted throughout the nineteenth and early twentieth centuries. Local manufacturing firms, shipyards, and textile mills overwhelmingly favored European immigrants, including Irish, Italian, Polish, and German laborers. Black Philadelphians were largely relegated to domestic service, casual labor, or personal service professions, facing systemic exclusion from unionized skilled trades.
+
+Conditions in the American South deteriorated sharply in the early decades of the twentieth century, providing the primary "push" factors for migration. The institutionalization of Jim Crow laws stripped Black citizens of voting rights and legal protections, while widespread racial terror and lynching created an atmosphere of constant peril. Economically, the sharecropping system trapped agrarian families in cycles of debt, a crisis exacerbated by the devastation of cotton crops caused by the boll weevil infestation. 
+
+Conversely, northern industrial centers like Philadelphia exerted a powerful "pull." The outbreak of World War I in Europe cut off the supply of European immigrant labor just as American industrial production surged. Major industrial employers in Pennsylvania faced unprecedented labor shortages, compelling them to look to the Southern labor force to keep factories, rail yards, and foundries operational.
+
+== Course of events ==
+
+The initial surge of the Great Migration to Philadelphia began around 1916. Industrial recruiters, sent by major corporations such as the Pennsylvania Railroad and Midvale Steel, traveled South to solicit Black workers with promises of paid transportation, higher wages, and subsidized housing. Additionally, Black publications like the *Philadelphia Tribune* and the widely circulated *Chicago Defender* published advertisements, job notices, and editorials encouraging Southerners to abandon the Jim Crow South for Northern economic opportunities.
+
+```
++-----------------------------------------------------------------------------------+
+|                        CHRONOLOGY OF MIGRATION WAVES                              |
++-------------+---------------------------------------------------------------------+
+| 1916–1918   | WWI labor shortages prompt active recruitment by industrial firms.  |
+| 1918        | Outbreak of the Philadelphia Race Riot amid housing integration.    |
+| 1920s       | Rapid settlement of North and West Philadelphia; cultural growth.   |
+| 1930s       | Migration slows during the Great Depression.                        |
+| 1940–1950s  | WWII defense boom initiates Second Wave; naval yard expansion.      |
+| 1960s–1970s | Peak Black political mobilization; rise of civil rights leadership. |
++-------------+---------------------------------------------------------------------+
+```
+
+During this first wave (1916–1930), tens of thousands of migrants arrived at Philadelphia's Broad Street Station and Reading Terminal. The city's Black population grew rapidly, increasing from approximately 84,000 in 1910 to over 219,000 by 1930. The overwhelming majority of these newcomers settled initially in South Philadelphia, overcrowding existing residential districts. As housing density spiked, the Black population began moving north of Market Street into North Philadelphia and west across the Schuylkill River into West Philadelphia.
+
+This rapid demographic expansion triggered social and racial friction. White residents, realtors, and neighborhood associations sought to maintain racial homogeneity through restrictive housing covenants, informal boycotts, and violence. In July 1918, racial tensions culminated in the Philadelphia race riot, an outbreak of violence triggered when a Black probation officer, Adella Bond, purchased a home in a historically white neighborhood in South Philadelphia. Over several days of rioting, white mobs attacked Black residents and property, resulting in multiple deaths and injuries before order was restored.
+
+To adapt to these challenges, arriving migrants relied heavily on community self-help organizations. The Armstrong Association of Philadelphia (later affiliated with the National Urban League) assisted newcomers with housing placement, job training, and social services. The Christian Street YMCA served as a vital community, educational, and recreational hub. Religious institutions expanded exponentially; traditional congregations like Mother Bethel A.M.E. and Tindley Temple A.M.E., led by the Reverend Charles A. Tindley, expanded their outreach programs, providing hot meals, temporary lodging, and social integration services to southern arrivals.
+
+Following a temporary slowdown during the Great Depression of the 1930s, the Second Wave of the Great Migration began with the onset of World War II. Philadelphia's war mobilization created thousands of defense jobs at facilities such as the Philadelphia Naval Shipyard, the Frankford Arsenal, and Sun Shipbuilding in nearby Chester. Between 1940 and 1970, hundreds of thousands more African Americans migrated to the region, making Philadelphia one of the principal urban destinations of the mid-twentieth century.
+
+== Aftermath ==
+
+The long-term aftermath of the Great Migration permanently altered Philadelphia's civic, economic, and cultural fabric. By 1970, African Americans comprised over one-third of the city's total population, creating a critical mass that transformed local municipal politics. The migrant generation and their descendants led the movement to break the decades-long dominance of the city's political machine. Leaders such as attorney Raymond Pace Alexander, judge Sadie Tanner Mossell Alexander, and attorney Cecil B. Moore mobilized Black voters, challenging police brutality, school segregation, and employment discrimination. Moore, serving as president of the local NAACP chapter, led the high-profile 1965 demonstrations that successfully desegregated Girard College.
+
+```
++-----------------------------------------------------------------------------------+
+|                           AREAS OF HISTORIC IMPACT                                |
++------------------+----------------------------------------------------------------+
+| Urban Demographics| Shifted Black population from <5% (1900) to >33% (1970).      |
+| Political Power  | Fueling civil rights battles; leading to Black representation. |
+| Cultural Sphere  | Birth of Philadelphia Soul (TSOP), jazz hubs, culinary traditions|
+| Neighborhoods    | Formation of historic Black hubs in North, West, & South Philly|
++------------------+----------------------------------------------------------------+
+```
+
+Cullturally, the migration enriched Philadelphia’s artistic landscape. Southern traditions fused with northern urban experiences, giving rise to distinct musical, linguistic, and culinary practices. The Columbia Avenue corridor in North Philadelphia became a major national hub for jazz, gospel, and rhythm and blues, featuring venues like the Uptown Theater. This cultural synthesis laid the groundwork for the emergence of the "Sound of Philadelphia" (TSOP) in the 1970s, a genre of soul music characterized by sweeping orchestral arrangements and funk rhythms that achieved international prominence.
+
+Economically, the post-migratory era presented complex structural challenges. As the Second Wave peaked in the mid-twentieth century, Philadelphia experienced rapid deindustrialization. Manufacturing firms relocated to suburban regions or international markets, eliminating many of the industrial jobs that had originally attracted southern migrants. Simultaneously, federally backed redlining policies and suburban white flight drained tax resources from urban neighborhoods, contributing to long-term disinvestment in predominantly Black communities. 
+
+Despite these economic headwinds, the legacy of the Great Migration remains a foundational pillar of modern Philadelphia. The social networks, religious institutions, civil rights organizations, and political capital established by southern migrants transformed Philadelphia into a major center of African American culture, politics, and community life.
+
+== See also ==
+
+* History of African Americans in Philadelphia
+* *The Philadelphia Negro*
+* 1918 Philadelphia race riot
+* Cecil B. Moore
+* Mother Bethel A.M.E. Church
+* Uptown Theater (Philadelphia)
+
+== References ==
+
+1. Encyclopedia of Greater Philadelphia. "Great Migration." https://philadelphiaencyclopedia.org/essays/great-migration/
+2. The Philadelphia Inquirer. "How the Great Migration Changed Philadelphia." https://www.inquirer.com/philly/news/special-reports/20161104_How_the_Great_Migration_changed_Philadelphia.html
+3. WHYY. "How the Great Migration Shaped Philadelphia's Music, Food, and Culture." https://whyy.org/episodes/how-the-great-migration-shaped-philadelphias-music-food-and-culture/
+4. National Archives and Records Administration. "African American Migration Experience." https://www.archives.gov/research/african-americans/migration
+5. Encyclopedia of Greater Philadelphia. "African American History in Greater Philadelphia." https://philadelphiaencyclopedia.org/essays/african-americans/
+6. The Philadelphia Inquirer. "How the Great Migration Shaped Philadelphia." https://www.inquirer.com/philly/news/special-reports/20161104_How_the_Great_Migration_shaped_Philadelphia.html
+7. The Philadelphia Inquirer. "The Great Migration and Philadelphia's Black History." https://www.inquirer.com/news/great-migration-philadelphia-black-history-south-20210226.html

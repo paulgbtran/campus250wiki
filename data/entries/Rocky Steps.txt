@@ -1,0 +1,147 @@
+# Rocky Steps
+
+## Infobox
+
+| **Rocky Steps** | |
+| :--- | :--- |
+| **Location** | Philadelphia Museum of Art, 2600 Benjamin Franklin Parkway, Philadelphia, Pennsylvania, U.S. |
+| **Type** | Monumental entrance steps / Public landmark |
+| **Total Steps** | 72 |
+| **Year Built** | 1923 (Museum building completed 1928) |
+| **Architectural Style** | Greek Neoclassical |
+| **Associated Artworks** | *Rocky* (1980 bronze sculpture by A. Thomas Schomberg) |
+| **Named For** | Rocky Balboa (fictional character created by Sylvester Stallone) |
+| **Significance** | Major tourist attraction, cinematic icon, and symbol of post-industrial Philadelphia's working-class resilience |
+
+---
+
+## Lead section
+
+The **Rocky Steps** refer to the 72 stone entrance steps leading to the East Terrace of the Philadelphia Museum of Art at 2600 Benjamin Franklin Parkway in Philadelphia, Pennsylvania. Constructed in 1923 as part of the museum's classical Greek design, the steps became an internationally recognized cultural icon following their appearance in the 1976 Academy Award-winning film *Rocky*. In the film, the fictional Philadelphia boxer Rocky Balboa, written by and starring Sylvester Stallone, ascends the steps during a famous training montage, culminating in a triumphant gesture overlooking the city skyline. 
+
+By the 1990s, the physical staircase had acquired the widespread vernacular name "the Rocky Steps." The location serves as both a key architectural approach to one of the nation's premier art institutions and a major tourist destination. Visitors from around the world regularly travel to the museum to recreate Balboa’s famous run, treating the climb as a participatory performance of personal perseverance and civic identity. 
+
+The narrative symbolic weight of the steps mirrors Philadelphia's late twentieth-century history. Balboa’s physical transformation from an impoverished, down-and-out neighborhood fighter into a world-class contender resonated with a city experiencing post-industrial economic contraction, loss of manufacturing jobs, and civic strife during the 1970s. As Philadelphia undertook urban renewal and tourism initiatives in the subsequent decades, the grit, determination, and ultimate triumph associated with the steps became inextricably linked to the city's public image.
+
+Accompanying the site is *Rocky*, an 8-foot-6-inch bronze sculpture commissioned by Stallone from sculptor A. Thomas Schomberg in 1980 for the film *Rocky III*. Following decades of debate regarding its artistic merit, placement, and characterization as high art versus a movie prop, the statue was permanently installed near the base of the steps in 2006.
+
+---
+
+## History
+
+### Early Construction and Architectural Context
+
+The steps leading to the Philadelphia Museum of Art were constructed in 1923 during the early development of the museum's main building, five years before the superstructure itself was completed in 1928. Designed as a key feature of the grand Greek Neoclassical facility, the 72 granite steps were engineered to provide a majestic entrance from the newly planned Benjamin Franklin Parkway to the elevated Fairmount hill. For the first half-century of their existence, the steps functioned primarily as a classical architectural element complementing the museum’s temple-like aesthetic.
+
+```
+       [ East Terrace / Museum Main Entrance ]
+                          ||
+        ========================================  <-- Top of 72 Steps (Panoramas of Parkway)
+        |  .  .  .  .  .  .  .  .  .  .  .  .  |
+        |  .  .  .  .  .  .  .  .  .  .  .  .  |  <-- 72 Granite Steps (Built 1923)
+        |  .  .  .  .  .  .  .  .  .  .  .  .  |
+        ========================================  <-- Base of Steps
+                          ||
+  [ Rocky Statue (2006-present) / Kelly Drive Junction ]
+                          ||
+             [ Benjamin Franklin Parkway ]
+```
+
+### Cinematic Debut and *Rocky* (1976)
+
+In early 1976, actor and screenwriter Sylvester Stallone (b. 1946)—who had spent part of his teenage years living in Philadelphia and attending local schools—shot the low-budget film *Rocky* over a 28-day production window. The narrative follows Rocky Balboa, a working-class debt collector and club fighter from Kensington who is unexpectedly granted a title match against heavyweight champion Apollo Creed. Stallone drew inspiration for the character from real-life twentieth-century boxers, including Rocky Marciano, Philadelphia's Joe Frazier, and Chuck Wepner, who famously endured 15 rounds against Muhammad Ali in 1975.
+
+The Philadelphia Museum of Art steps were integrated into the film as the climax of Rocky’s physical conditioning routine. In an early scene in the movie, an out-of-shape Rocky slowly jogs up the 72 steps, failing to complete the climb and leaning against the stone wall in exhaustion. Later in the film, following weeks of grueling training across Philadelphia—running through the Navy Yard, along the Schuylkill River, past South Philadelphia row homes, and through the Italian Market—Rocky sprints up the steps at dawn, raising his fists in victory at the summit as Bill Conti’s fanfare theme ("Gonna Fly Now") plays. 
+
+The low-budget film became a critical and commercial blockbuster, winning Academy Awards for Best Picture, Directing, and Film Editing, and launching an enduring multi-film franchise.
+
+### The *Rocky* Statue Controversy and Relocations
+
+In 1980, Stallone commissioned sculptor A. Thomas Schomberg to create an 8-foot-6-inch bronze statue of Rocky Balboa standing triumphant with arms raised. The sculpture was created specifically for a scene in *Rocky III* (1982), in which the fictional City of Philadelphia unveils the monument on the museum's East Terrace. After filming completed, Stallone formally donated the statue to the City of Philadelphia.
+
+```
+Timeline of the Rocky Statue (1980–present):
+ 1980: Commissioned by Stallone from sculptor A. Thomas Schomberg for Rocky III.
+ 1982: Temporarily placed at top of steps for filming; donated to City; moved to Spectrum arena amid public debate.
+ 1990: Briefly returned to the top of the steps for filming of Rocky V; returned to South Philly.
+ 2006: Installed permanently near the base of the steps (north side).
+```
+
+The donation prompted an intense civic debate over the boundary between public art and commercial promotion:
+
+*   **Museum Officials and Art Critics:** Maintained that the sculpture was essentially a commercial movie prop rather than a legitimate work of high art, arguing that its placement atop the steps compromised the architectural integrity of the museum.
+*   **City Officials and the Public:** Argued that the statue represented civic pride, hard work, and popular culture, citing its potential to drive municipal tourism and economic engagement.
+
+Due to the dispute, the city relocated the sculpture to the Spectrum, a sports arena complex in South Philadelphia. The statue was briefly returned to the top of the steps in 1990 for the filming of *Rocky V*, after which it was returned to the Spectrum. In September 2006, the sculpture was moved back to the museum grounds and permanently installed on a brick-and-concrete base in a landscaped area just north of the foot of the steps.
+
+---
+
+## Architecture
+
+The Rocky Steps consist of 72 broad granite risers ascending from the intersection of Kelly Drive and the Benjamin Franklin Parkway to the elevated plaza of the Philadelphia Museum of Art's East Terrace. 
+
+```
+                                 [Museum Neoclassical Portico]
+                                                |
+                                        (Top Platform)
+     ___________________________________________|___________________________________________
+    /                                                                                       \
+   /   [Step Tier 3]  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .    \
+  /    [Step Tier 2]  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .     \
+ /     [Step Tier 1]  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .      \
+/_______________________________________________|_______________________________________________\
+                                          [Base Level]
+```
+
+### Design and Layout
+Designed in the Greek Neoclassical tradition by architects Horace Trumbauer, Julian Abele, and the firm Zantzinger, Borie, and Medary, the steps feature:
+
+*   **Materials:** Cut light granite, matching the exterior pylons and pediments of the main building.
+*   **Proportions:** Wide, shallow treads configured into multiple descending tiers divided by broad intermediate landings.
+*   **Sightlines:** The stairwell frames a axial view down the 1.1-mile Benjamin Franklin Parkway toward Philadelphia City Hall.
+
+The architecture emphasizes dramatic height and civic formality. The contrast between this classical, high-art setting and the populist film narrative of a working-class fighter created a visual duality that defined the site's modern identity.
+
+---
+
+## Cultural Significance
+
+### Social Mobility and Urban Identity
+
+The physical ascent up the museum steps serves as a spatial metaphor for social mobility. In *Rocky*, Balboa moves from the unglamorous, impoverished row-house neighborhoods of Kensington and South Philadelphia to the summit of the city's preeminent cultural institution. The summit provides a panoramic view of the skyline, symbolically granting the marginalized character ownership over his environment.
+
+This narrative intersected directly with Philadelphia's civic recovery during the late twentieth century:
+
+```
+[1970s Post-Industrial Decline]                  [1990s–2000s Civic Renewal]
+  • Loss of manufacturing jobs                      • Urban revitalization
+  • Severe municipal debt                           • Growth in tourism & hospitality
+  • High crime & political corruption               • Embracing vernacular working-class spirit
+                   \                                 /
+                    \-->  THE "ROCKY" METAPHOR  <---/
+                          "Perseverance & Grit"
+```
+
+### Tourism and Participatory Performance
+
+Running up the steps developed into an international ritual. Visitors frequently execute the climb, concluding at the top step by raising their arms and cheering—a practice documented in the ending credit sequence of *Rocky Balboa* (2006), which captured hundreds of real citizens and tourists recreating the scene. 
+
+Art historians and urban sociologists regard this activity as a form of vernacular performance art, allowing participants to channel themes of personal endurance, physical fitness, and triumph over adversity.
+
+---
+
+## See also
+
+*   Benjamin Franklin Parkway
+*   Italian Market (Philadelphia)
+*   Philadelphia Museum of Art
+*   Spectrum (Philadelphia)
+*   Sylvester Stallone
+
+---
+
+## References
+
+1. Encyclopedia of Greater Philadelphia. "Rocky." Written by Laura Holzman. https://philadelphiaencyclopedia.org/essays/rocky/
+2. Association for Public Art. "Rocky (A. Thomas Schomberg)." https://www.associationforpublicart.org/artwork/rocky/
+3. Philadelphia Museum of Art. "Visit: Main Building & Campus Details." https://philamuseum.org/visit/rocky-statue-steps

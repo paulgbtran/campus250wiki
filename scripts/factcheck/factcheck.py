@@ -40,9 +40,10 @@ Original Text:
 
 def processTopic(topic: str, client: genai.Client) -> None:
     try:
-        entry_path = rootDir / "data" / "entries" / f"{topic}.txt"
-        search_path = rootDir / "data" / "factcheck" / "search" / f"{topic}.txt"
-        log_path = rootDir / "data" / "factcheck" / f"{topic}.txt"
+        safe_topic  = gemini_utils.sanitize_filename(topic)
+        entry_path  = rootDir / "data" / "entries" / f"{safe_topic}.txt"
+        search_path = rootDir / "data" / "factcheck" / "search" / f"{safe_topic}.txt"
+        log_path    = rootDir / "data" / "factcheck" / f"{safe_topic}.txt"
 
         if not entry_path.exists():
             print(f"Skipping {topic} - entry file not found.")
@@ -109,20 +110,20 @@ def main():
             return
 
         # ---------------------------------------------------------------------------
-        # Timeout setup — read limit passed by main.py via env var
+        # Timeout setup -- read limit passed by main.py via env var
         # ---------------------------------------------------------------------------
         timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
         start_time  = time.perf_counter()
 
         # Prioritize topics with no factcheck log yet (never been fact-checked).
         fc_log_dir  = rootDir / "data" / "factcheck"
-        new_topics  = [t for t in topics if not (fc_log_dir / f"{t}.txt").exists()]
-        done_topics = [t for t in topics if     (fc_log_dir / f"{t}.txt").exists()]
+        new_topics  = [t for t in topics if not (fc_log_dir / f"{gemini_utils.sanitize_filename(t)}.txt").exists()]
+        done_topics = [t for t in topics if     (fc_log_dir / f"{gemini_utils.sanitize_filename(t)}.txt").exists()]
         ordered     = new_topics + done_topics
 
         if timeout_sec:
             print(
-                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"[i] Time limit: {timeout_sec // 60}m -- "
                 f"fact-checking {len(new_topics)} new topic(s) first, "
                 f"then {len(done_topics)} already-checked topic(s) if time allows."
             )
@@ -132,8 +133,8 @@ def main():
                 elapsed = time.perf_counter() - start_time
                 if elapsed >= timeout_sec:
                     print(
-                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
-                        "Stopping factcheck — all new topics have been prioritised."
+                        f"\n[!] Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping factcheck -- all new topics have been prioritised."
                     )
                     break
 

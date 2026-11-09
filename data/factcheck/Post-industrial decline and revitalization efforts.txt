@@ -1,0 +1,5 @@
+* **Lead section**: Corrected Philadelphia's 1950 manufacturing employment figure from 350,000 to **359,000** to accurately reflect historical census/employment data cited by historians.
+* **Origins (Industrial Structure and Early Contraction)**: Replaced Cramp Shipyard with **Midvale Steel** as the primary local firm where Frederick Winslow Taylor conducted his pioneering experiments in scientific management alongside his later work at Bethlehem Steel.
+* **Origins (Interwar Distresses and Post-WWII Capital Flight)**: Corrected the county location of the historic American Viscose rayon plant from Chester County to **Delaware County** (Marcus Hook, PA).
+* **Development (Municipal Policy and Urban Renewal)**: Corrected Richardson Dilworth's mayoral election year from 1956 to **1955** (he was elected in November 1955 and inaugurated in 1956).
+* **Development (PIDC)**: Clarified that PIDC helped **finance** the redevelopment of the Bellevue Stratford Hotel rather than acquiring the hotel outright.

@@ -1,0 +1,7 @@
+* **Corrected Fictitious 2026 Claims**: Removed false claims in the Lead section, History section, Legacy section, Timeline, and References stating that in January 2026 the Philadelphia Art Commission approved moving the statue to the top of the Art Museum steps (East Terrace) and that an exhibition titled *Rising Up: Rocky and the Making of Monuments* was hosted inside the museum. In reality, the statue has remained permanently situated in a landscaped area at the base (bottom right) of the museum steps since 2006.
+* **Replaced Biographical Section Headings with Encyclopedic Headings**: The original text used human biographical section headers ("Early life and education", "Career", "Personal life") for an artwork/monument entry. Updated these to standard public art article headings:
+  * "Early life and education" → "Origin and creation"
+  * "Career" → "History and relocations"
+  * "Personal life" → "Cultural impact and public engagement"
+* **Updated Infobox Location**: Clarified in the infobox that the location is the "Base of the Philadelphia Museum of Art steps" rather than the main entrance at the top of the steps.
+* **Cleaned Up References**: Removed references citing fictitious 2026 press releases and fixed corrupted/hallucinated URL paths.

@@ -1,0 +1,4 @@
+* **Minor League Ascent and Rookie of the Year (2001–2005)**: Clarified that Howard hit 37 home runs specifically for Double-A Reading in 2004 (and hit 46 home runs total across Double-A and Triple-A in 2004), rather than 37 across both levels.
+* **MVP Season and World Series Champion (2006–2009) Table**: Changed the entry under "Key Awards" for 2007 from "All-Star" to "—". Howard was selected as an All-Star in 2006, 2009, and 2010, but not in 2007.
+* **MVP Season and World Series Champion (2006–2009) Text**: Corrected the text describing his 2008 postseason home runs. Howard hit two home runs in the 2008 World Series (both in Game 4) and three home runs overall in the 2008 postseason, whereas the original text incorrectly stated he hit three home runs *during* the World Series.
+* **Later Career, Achilles Injury, and Retirement (2010–2018)**: Corrected Howard's 2014 home run total from 25 to 23 (he hit 23 home runs and 95 RBIs in 2014).

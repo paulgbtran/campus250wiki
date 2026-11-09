@@ -1,0 +1,156 @@
+# Old City Hall
+
+## 1. Infobox
+
+| **Old City Hall** | |
+| :--- | :--- |
+| **Location** | 5th and Chestnut Streets, Philadelphia, Pennsylvania, United States |
+| **Coordinates** | Center City, Historic District |
+| **Built** | 1790–1791 |
+| **Architect / Master Builder** | David Evans (master carpenter) |
+| **Architectural Style** | Federal |
+| **Primary Historical Uses** | Second Philadelphia City Hall (1791–1854)<br>Supreme Court of the United States (1791–1800)<br>Volunteer HQ during 1793 Yellow Fever Epidemic<br>Venue for municipal and federal naturalization proceedings |
+| **Current Management** | National Park Service (Independence National Historical Park) |
+| **Designation** | Historic Landmark (Part of Independence Hall Complex) |
+
+---
+
+## 2. Lead section
+
+**Old City Hall**, located at the intersection of 5th and Chestnut Streets in Philadelphia, Pennsylvania, is a late 18th-century civic building that played a pivotal role in the early administrative and judicial history of the United States. Constructed between 1790 and 1791, the building was designed in the Federal architectural style by master carpenter David Evans. It stands as an integral architectural component of the historic Independence Hall complex, directly flanking Independence Hall on its east (left) side, opposite Congress Hall on the west (right) side.
+
+Originally commissioned to replace Philadelphia’s outgrown colonial-era municipal headquarters at 2nd and High (Market) Streets, the structure functioned primarily as Philadelphia's second city hall. Immediately following its completion, municipal authorities established executive, legislative, and judicial chambers within the building, including the Mayor’s office, the Mayor’s Council Chamber, and the Mayor's Court. 
+
+During the period from 1790 to 1800, when Philadelphia served as the temporary capital of the United States, Old City Hall assumed a crucial national role. From August 1791 to February 1800, the building housed the Supreme Court of the United States, which convened in the first-floor courtroom while sharing facilities with the local municipal court. During this formative decade, foundational legal precedents were set, early constitutional jurisprudence took shape, and prominent Founding Fathers—including Chief Justices John Jay and Oliver Ellsworth, as well as Associate Justice James Wilson—presided over the court's proceedings.
+
+Beyond its judicial and municipal functions, Old City Hall served as a central hub for public civic life during crises and periods of rapid national growth. It served as the operational headquarters for the Mayor's committee during the devastating Yellow Fever epidemic of 1793, and its courtroom regularly administered naturalization oaths for newly arrived immigrants entering the country through the Port of Philadelphia. Today, the preserved structure is maintained as part of Independence National Historical Park under the stewardship of the National Park Service.
+
+---
+
+## 3. History
+
+### Colonial Antecedents and Municipal Background
+Prior to the construction of Old City Hall at 5th and Chestnut Streets, Philadelphia's municipal government operated out of the Old Courthouse (or Town House) built at 2nd and High (Market) Streets. Constructed between 1707 and 1710, this original municipal seat served as the core of civic activity throughout the 18th century. The ground floor housed court space and nearby jail facilities, while the upper level contained municipal meeting rooms. An open-air public market extended westward along High Street from the building's doorstep. 
+
+The initial municipal hall was also notable for its prominent second-floor balcony, accessible via dual exterior staircases, where voters submitted their ballots on Election Day. Political life around the early courthouse was frequently turbulent; during the famous Election Riot of 1742, a party of sailors allied with the Proprietary Party attacked Quaker ("Country Party") voters surrounding the balcony staircase in an attempt to sway the election. As Philadelphia grew into the largest urban center in British North America, civic leaders realized that the modest 2nd Street structure was inadequate for the city's expanding administrative requirements.
+
+```
+       [ Early Civic Evolution of Philadelphia Municipal Seats ]
+
+   +------------------------------------------------------------------+
+   |  Old Courthouse / Town House (Built 1707–1710, 2nd & High Sts.)   |
+   |  - Upper court/meeting space; market stalls; election balcony    |
+   +------------------------------------------------------------------+
+                                   |
+                                   v
+   +------------------------------------------------------------------+
+   |  Second City Hall / "Old City Hall" (Built 1790–1791, 5th & Chestnut)|
+   |  - Housed Municipal Gov't & U.S. Supreme Court (1791–1800)       |
+   |  - Volunteer HQ for 1793 Yellow Fever Epidemic                    |
+   |  - Venue for naturalization oaths in late 18th Century            |
+   +------------------------------------------------------------------+
+```
+
+### Construction and Federal Capital Era (1790–1800)
+Following the passage of the Residence Act of 1790, which designated Philadelphia as the temporary national capital while a permanent federal city was constructed along the Potomac River, local authorities accelerated civic building projects. Construction of the second city hall began in 1790 under the direction of master carpenter David Evans and concluded in 1791. 
+
+Upon its completion, municipal offices immediately occupied the upper story, housing the Mayor's office and Council Chamber. However, because the federal government lacked dedicated accommodations for the judicial branch, the city offered space on the building's first floor to the national government. From August 1791 until February 1800, the Supreme Court of the United States convened inside the first-floor courtroom, sharing the bench with the local Mayor's Court.
+
+```
+               +----------------------------------------+
+               |           OLD CITY HALL                |
+               |       (Completed 1791)                 |
+               +----------------------------------------+
+               | SECOND FLOOR:                          |
+               |  - Mayor's Office                      |
+               |  - Mayor's Council Chamber             |
+               +----------------------------------------+
+               | FIRST FLOOR:                           |
+               |  - Mayor's Court                       |
+               |  - U.S. Supreme Court (1791–1800)      |
+               +----------------------------------------+
+```
+
+### The Early Supreme Court and Judicial Hardships
+During its tenure in Old City Hall, the Supreme Court of the United States comprised a Chief Justice and five Associate Justices. Over the court's first twelve years, twelve different men held seats on the six-member bench, reflecting the extreme physical strain and low public prestige associated with early federal judicial service. Prominent figures who served on or interacted with the court during the Philadelphia era included:
+
+*   **John Jay**: First Chief Justice (1789–1795), co-author of *The Federalist Papers*, and negotiator of the Jay Treaty, who eventually resigned his seat after being elected Governor of New York while abroad.
+*   **Oliver Ellsworth**: Constitutional Framer and principal author of the Judiciary Act of 1789, who served as Chief Justice from 1796 to 1800 before resigning to take a diplomatic post.
+*   **James Wilson**: Associate Justice (1789–1798), legal theorist, and signer of both the Declaration of Independence and the Constitution, whose intellectual contributions were praised by peers as a "blaze of light."
+*   **John Blair**: Associate Justice (1789–1796) and Constitutional signer, who was forced to resign due to severe tinnitus.
+*   **Samuel Chase**: Associate Justice (1796–1811) and Declaration signer, later impeached in 1804 on partisan charges but acquitted by the Senate.
+*   **William Paterson**: Associate Justice (1793–1806) and author of the New Jersey Plan at the Constitutional Convention.
+*   **William Cushing**: Associate Justice who notably traveled the court circuits in a specialized carriage outfitted like a early mobile living space accompanied by his wife.
+*   **John Marshall** and **Alexander Hamilton**: Both legal titans practiced before the Supreme Court bar inside the building during this decade; Marshall later became Chief Justice in 1801.
+
+Serving on the court during this era was demanding. Under the Judiciary Act of 1789, Justices were required to "ride circuit," traveling across three geographic circuits to hold court in remote regions. Justices traveled by primitive coaches over unpaved roads, stayed in unsanitary inns, and negotiated hazardous river crossings. Justice Samuel Chase fell through river ice during one journey, while Justice James Wilson contracted malaria and suffered a stroke while on circuit duty in North Carolina before his death in 1798.
+
+The Supreme Court was scheduled to meet in Old City Hall twice a year, but sessions were frequently canceled or delayed due to a lack of a four-justice quorum. The court heard no cases during its first two years of existence and averaged only seven cases per year over its first decade. Despite this low caseload, the court issued significant decisions while sitting at Old City Hall. 
+
+The most notable case was *Chisholm v. Georgia* (1793), in which the executor of a South Carolina merchant's estate sued the State of Georgia to recover unpaid debts for supplies provided during the Revolutionary War. The court's ruling against Georgia provoked severe state sovereignty concerns, leading directly to the rapid proposal and ratification of the Eleventh Amendment to the United States Constitution, which barred federal courts from hearing suits brought against a state by citizens of another state or foreign nation.
+
+### Humanitarian and Civic Functions
+In addition to its administrative and legal duties, Old City Hall played a vital role in managing civic emergencies and handling naturalization during the 1790s:
+
+*   **Yellow Fever Epidemic of 1793**: When yellow fever struck Philadelphia in the summer of 1793, killing thousands and prompting a widespread evacuation of federal officials, Old City Hall served as the operational headquarters for Mayor Matthew Clarkson and the volunteer citizens' committee who stayed behind to administer public relief, coordinate medical care, and maintain order.
+*   **Immigration and Naturalization**: As the main urban port of entry for the young republic, Philadelphia received thousands of immigrants during the post-Revolutionary period. While there was no dedicated federal immigration agency at the time, naturalization proceedings and oaths of allegiance for newly arrived residents were routinely conducted inside the courts at Old City Hall.
+
+Following the relocation of the federal government to Washington, D.C., in 1800—where the Supreme Court initially met in a basement room of the uncompleted United States Capitol—Old City Hall reverted fully to municipal governance, serving as Philadelphia's municipal center until the completion of the present-day massive Philadelphia City Hall at Penn Square in the late 19th century.
+
+---
+
+## 4. Architecture
+
+Old City Hall is an exemplar of mid-to-late 18th-century American Federal architecture. Designed by master builder David Evans, the structure was deliberately styled to create visual harmony with Independence Hall (the Pennsylvania State House) and Congress Hall, forming a balanced tripartite civic composition.
+
+```
+       [ Tripartite Civic Elevation on Chestnut Street ]
+
+  +------------------+    +-----------------------+    +------------------+
+  |   Congress Hall  |    |   Independence Hall   |    |  Old City Hall   |
+  | (Federal Senate/ |    | (State House Center)  |    | (Municipal Seat/ |
+  |      House)      |    |                       |    |   Supreme Court) |
+  +------------------+    +-----------------------+    +------------------+
+        (West)                    (Center)                   (East)
+```
+
+### Exterior Composition
+The exterior features symmetrical red brick masonry accented by white wooden trim, flat stone window arches, and keystones. Its proportions and detailing embody the refined principles of the Federal style while harmonizing with the adjacent Georgian buildings. The facade includes multi-pane double-hung sash windows, a modest pedimented entrance, and a balustraded roofline topped by a central cupola that aligns visually with the larger tower of Independence Hall.
+
+### Interior Layout
+*   **First Floor**: Designed to house municipal court proceedings, the first-floor main hall features a raised judicial bench, wooden railings dividing legal counsel from public seating, and decorative molding. This space hosted both the local Mayor's Court and the United States Supreme Court between 1791 and 1800.
+*   **Second Floor**: Accessed via an interior wooden staircase, the upper level contained private offices for the Mayor of Philadelphia and meeting chambers for the City Council. 
+
+Today, the building retains its historical spatial configuration and is fully integrated into the public interpretation programming of Independence National Historical Park.
+
+---
+
+## 5. Cultural significance
+
+Old City Hall holds high significance in American legal history as the primary site where the early United States Supreme Court laid the groundwork for the federal judiciary. The building represents the transitional era of American governance, when federal institutions operated within shared municipal spaces before the consolidation of federal power in Washington, D.C.
+
+The structural survival of Old City Hall within the Independence Hall block offers a tangible visual record of early American constitutional history. The contrast between its initial shared usage and the modern Supreme Court Building in Washington highlights the rapid growth of the judicial branch from a marginalized institution into a co-equal branch of government.
+
+Portraits of prominent justices who presided inside Old City Hall—including John Jay, Oliver Ellsworth, William Cushing, Samuel Chase, and Bushrod Washington—are preserved and displayed nearby in the Second Bank of the United States portrait gallery. The site remains a core component of Independence National Historical Park, welcoming visitors from around the world to explore the birthplace of American civic and judicial institutions.
+
+---
+
+## 6. See also
+
+*   Independence Hall
+*   Congress Hall
+*   Independence National Historical Park
+*   President's House (Philadelphia)
+*   Second Bank of the United States
+*   Liberty Bell
+*   Supreme Court of the United States
+*   Judiciary Act of 1789
+*   Eleventh Amendment to the United States Constitution
+
+---
+
+## 7. References
+
+1. National Park Service. "Old City Hall." Independence National Historical Park, U.S. Department of the Interior. https://www.nps.gov/inde/learn/historyculture/places-oldcityhall.htm
+2. Independence Hall Association. "Old City Hall: Home of the First Supreme Court, 1791 to 1800." Historic Philadelphia Tour. https://www.ushistory.org/tour/old-city-hall.htm
+3. Encyclopedia of Greater Philadelphia. "City Hall." Mid-Atlantic Regional Center for the Humanities (MARCH) at Rutgers University–Camden. https://philadelphiaencyclopedia.org/archive/city-hall/

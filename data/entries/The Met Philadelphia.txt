@@ -1,0 +1,124 @@
+# The Met Philadelphia
+
+## Infobox
+
+| **The Met Philadelphia** | |
+| :--- | :--- |
+| **Former names** | Metropolitan Opera House, Philadelphia Opera House |
+| **Location** | 858 N. Broad Street, Philadelphia, Pennsylvania, U.S. |
+| **Coordinates** | 39.9678° N, 75.1601° W |
+| **Built** | 1908 |
+| **Opened** | November 17, 1908 |
+| **Reopened** | December 3, 2018 |
+| **Architect** | William H. McElfatrick |
+| **Impresario / Founder** | Oscar Hammerstein I |
+| **Capacity** | Approximately 3,500 (concert layout) |
+| **Renovation Cost** | $56 million (2017–2018 redevelopment) |
+| **Current Operator** | Live Nation Entertainment |
+| **Historic Significance** | Listed on the National Register of Historic Places |
+
+---
+
+## Lead section
+
+**The Met Philadelphia**, originally opened in 1908 as the **Metropolitan Opera House**, is a historic performing arts venue located at 858 North Broad Street in the North Philadelphia section of Philadelphia, Pennsylvania. Conceived and constructed under the leadership of theatrical impresario Oscar Hammerstein I, the building was designed as a grand operatic theater intended to rival established traditional performing arts venues in the United States. Upon its completion, it stood as one of the largest and most technologically advanced opera houses in the world, featuring an expansive seating capacity and innovative acoustics designed to ensure clear sightlines and sound delivery across all seating tiers.
+
+Over the course of the twentieth century, the venue adapted to shifting cultural demands and economic dynamics within the city. Following its initial period hosting grand opera productions, the building transitioned through various uses, including serving as a movie palace, a ballroom, a sports arena for boxing and wrestling matches, a recording studio, and a community church. Despite its rich history, the structure suffered decades of deferred maintenance and structural decay during the late twentieth century, placing it at severe risk of demolition.
+
+The venue avoided destruction through its acquisition in 1996 by the Holy Ghost Headquarters Church, which utilized the space for religious services while maintaining the integrity of the physical structure. In 2017, a major collaborative restoration initiative was launched by real estate developer Eric Blumenfeld, the Holy Ghost Headquarters Church, and concert promoter Live Nation Entertainment. This $56 million adaptive reuse project restored the building's historic Beaux-Arts interior and exterior features while installing modern stage technology, sound reinforcement, and patron amenities.
+
+The Met Philadelphia officially reopened on December 3, 2018, as a state-of-the-art live music and entertainment facility. Operating under the management of Live Nation, the venue serves as a major cultural anchor along the North Broad Street commercial corridor, hosting touring musical acts, comedy shows, theatrical productions, and civic events while continuing its historic dual function as a place of worship for the Holy Ghost congregation.
+
+---
+
+## History
+
+### Construction and Early Opera Era (1908–1920s)
+The origin of the Metropolitan Opera House is rooted in the competitive theatrical landscape of the early twentieth century. In 1907, impresario Oscar Hammerstein I sought to break the performance monopoly held by New York City's Metropolitan Opera Association and established local venues such as Philadelphia's Academy of Music. Hammerstein commissioned architect William H. McElfatrick—a prominent designer of American theaters—to plan a monumental opera house on North Broad Street. Construction began in early 1908, and the building was completed in less than a year at a cost of more than $1.2 million.
+
+The theater opened on November 17, 1908, under the name *Philadelphia Opera House*, featuring a performance of Georges Bizet's *Carmen*. The facility housed Hammerstein's Philadelphia Opera Company, attracting high-society audiences and critical acclaim for its grand scale and acoustics. However, the financial burden of operating rival opera companies in both New York and Philadelphia strained Hammerstein's capital. In 1910, Hammerstein sold the venue to his rival, the Metropolitan Opera Association of New York, after agreeing to cease producing grand opera in both cities. Renamed the *Metropolitan Opera House*, the venue functioned as the Metropolitan Opera's official Philadelphia home for several decades, hosting touring productions featuring world-renowned vocalists.
+
+```
+1908: Opened as Philadelphia Opera House by Oscar Hammerstein I
+ │
+1910: Acquired by Metropolitan Opera; renamed Metropolitan Opera House
+ │
+1930s–1980s: Transitioned to cinema, ballroom, sports arena, and church use
+ │
+1996: Acquired by Holy Ghost Headquarters Church, preventing demolition
+ │
+2017–2018: Underwent $56 million comprehensive historic restoration
+ │
+2018: Reopened as The Met Philadelphia live music venue
+```
+
+### Repurposing and Decline (1930s–1990s)
+As grand opera attendance shifted during the Great Depression, the venue began diversifying its programming. During the 1930s and 1940s, the building operated as a movie theater, a ballroom, and a venue for pop concerts and sports events, including professional boxing and wrestling matches. In the 1950s, the auditorium was adapted into a recording facility, appreciated by audio engineers for its exceptional natural reverberation and acoustic isolation.
+
+By the 1970s and 1980s, economic disinvestment along North Broad Street impacted the surrounding neighborhood. The Metropolitan Opera House fell into disrepair, suffering from severe roof leaks, water infiltration, and interior deterioration. Large portions of the ornate plasterwork crumbled, and the building was repeatedly cited for building code violations. By the early 1990s, municipal authorities considered demolishing the structure due to public safety concerns.
+
+### Preservation and $56 Million Restoration (2017–2018)
+The building's trajectory changed in 1996 when the congregation of the Holy Ghost Headquarters Church, led by Reverend Mark Hatcher, purchased the property for $250,000. The church utilized portions of the building for religious services and spent hundreds of thousands of dollars stabilization efforts to halt water damage, effectively preventing the building's destruction.
+
+In 2017, real estate developer Eric Blumenfeld partnered with Reverend Hatcher and entertainment management firm Live Nation Entertainment to execute a full structural and historic restoration. The $56 million redevelopment project combined private investment, historic tax credits, and municipal redevelopment funds. Restorers repaired the structural steel framework, completely replaced the roof, meticulously recreated missing decorative plasterwork using original molds, installed modern HVAC systems, and built updated patron lounges and backstage accommodations. The auditorium seating was reconfigured to accommodate modern production equipment while maintaining original sightlines.
+
+The venue officially reopened on December 3, 2018, marked by a concert by singer-songwriter Bob Dylan, exactly 110 years after its original dedication.
+
+---
+
+## Architecture
+
+The Met Philadelphia is a prominent example of Beaux-Arts style theatrical architecture. Designed by William H. McElfatrick, the structure features a monumental street facade constructed of Indiana limestone and brick, accented by classical pilasters, decorative cornices, and grand entrance portals facing North Broad Street. The exterior reflects the civic monumentality characteristic of public architecture during the City Beautiful movement in early twentieth-century Philadelphia.
+
+```
++-------------------------------------------------------------------+
+|                     NORTH BROAD STREET FACADE                     |
+|        Indiana Limestone & Brick | Classical Beaux-Arts Style     |
++-------------------------------------------------------------------+
+|                             FOYER & LOBBY                         |
+|        Restored Marble Finishes | Historic Ticket Windows         |
++-------------------------------------------------------------------+
+|                           MAIN AUDITORIUM                         |
+|   Ornate Proscenium Arch | Gilded Plasterwork | Ceiling Dome      |
+|   ~3,500 Seating Capacity Across Orchestra, Mezzanine, & Balcony  |
++-------------------------------------------------------------------+
+|                            STAGE COMPLEX                          |
+|   Expansive Fly Loft | Contemporary Rigging, Sound, & Lighting    |
++-------------------------------------------------------------------+
+```
+
+The interior of the building was engineered specifically to facilitate unamplified musical performances. The auditorium was constructed without large interior support columns, using hidden structural steel trusses to cantilever the upper seating levels and provide unobstructed views of the stage from every seat. Key interior architectural elements include:
+
+*   **Proscenium Arch:** A monumental, highly decorated proscenium arch frames the stage, adorned with intricate gilded plaster mouldings, relief sculptures, and classical motifs.
+*   **Ceiling Dome:** The auditorium central ceiling features an expansive recessed dome engineered to act as an acoustic resonator, directing sound evenly throughout the orchestra and balcony levels.
+*   **Ornate Plasterwork:** The walls, balcony faces, and ceiling surfaces are covered in detailed plasterwork featuring floral garlands, lyres, and classical figures, restored during the 2018 project to match historical color schemes.
+*   **Stage Complex:** The stage and fly loft were originally among the largest in North America, allowing for elaborate operatic set changes. The modern renovation integrated state-of-the-art stage rigging, acoustic baffling, and lighting grids into the historic stage house structure without altering the primary historic frame.
+
+---
+
+## Cultural significance
+
+The Met Philadelphia occupies a unique position in Philadelphia's architectural, cultural, and urban history. As one of Oscar Hammerstein I's signature theatrical developments, its creation challenged established arts institutions and helped extend the city's primary theater district northward along Broad Street during the early 1900s.
+
+The building is notable for its historic dual operational model. It stands as a rare example of a major commercial performance hall operating harmoniously with a religious institution. Under the terms of the redevelopment agreement, the venue serves as the primary sanctuary for the Holy Ghost Headquarters Church on Sunday mornings while operating as a commercial concert hall managed by Live Nation throughout the remainder of the week.
+
+Furthermore, the $56 million restoration of The Met Philadelphia served as a major anchor project for the economic and physical revitalization of the North Broad Street corridor. By reactivating a long-vacant landmark, the project stimulated commercial activity, pedestrian traffic, and secondary historic preservation projects in the surrounding neighborhood, demonstrating the viability of adaptive reuse in urban historic preservation.
+
+---
+
+## See also
+
+*   North Broad Street
+*   Academy of Music (Philadelphia)
+*   Avenue of the Arts
+*   National Register of Historic Places listings in North Philadelphia
+*   Live Nation Entertainment
+
+---
+
+## References
+
+1. Encyclopedia of Greater Philadelphia. "Metropolitan Opera House." Available at: https://philadelphiaencyclopedia.org/essays/metropolitan-opera-house/
+2. WHYY News. "The Met Philadelphia reopens after $56 million renovation." Available at: https://whyy.org/articles/the-met-philadelphia-reopens-after-56-million-renovation/
+3. The Philadelphia Inquirer. "The Met Philadelphia Opera House Broad Street Reopening." Available at: https://www.inquirer.com/real-estate/commercial/met-philadelphia-opera-house-broad-street-reopening-20181203.html
+4. The Philadelphia Inquirer. "Metropolitan Opera House Restoration Live Nation Holy Ghost Triumph." Available at: https://www.inquirer.com/philly/entertainment/metropolitan-opera-house-philadelphia-restoration-live-nation-holy-ghost-triumph-20181203.html

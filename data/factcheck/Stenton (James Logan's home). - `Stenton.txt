@@ -1,0 +1,5 @@
+* **Corrected National Historic Landmark (NHL) Designation Year**: Changed the NHL designation date from 1965 to 1967 in the infobox, lead paragraph, and Legacy section (Stenton was designated an NHL on November 27, 1967).
+* **Corrected Dinah's Legal Status**: Corrected descriptions referring to Dinah as an "enslaved housekeeper" during the 1777 British occupation. Historical records (and modern Stenton research) confirm Dinah was manumitted (freed) in 1776 by William Logan's estate, making her a free Black woman at the time she saved the mansion.
+* **Corrected Timeline of Dinah's Manumission**: Fixed the timeline stating she was freed *after* saving Stenton; she was freed prior to the event.
+* **Clarified Ownership Transfer Timeline**: Updated the Legacy section to clarify that The National Society of The Colonial Dames of America in the Commonwealth of Pennsylvania assumed administration of Stenton in 1899, while full legal ownership was transferred from the Logan family to the City of Philadelphia in 1910.
+* **Grammar/Typo Fixes**: Corrected minor typographical errors (e.g., "a educated scholar" to "an educated scholar", "a arriving" to "an arriving").

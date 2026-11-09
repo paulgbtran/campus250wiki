@@ -1,0 +1,5 @@
+* **Removed Heading `## Lead section`**: Standard encyclopedic/Wikipedia formatting requires the introductory lead text to directly follow the top-level header/infobox without an explicit `## Lead section` heading.
+* **Renamed `## Early life and education` to `## Origins and early development`**: Standard biographical section headers were incorrectly applied to a geographic moniker/urban history concept.
+* **Renamed `## Career` to `## Historical evolution and industrial growth`**: Replaced an inappropriate biographical header with a proper topical urban history header.
+* **Renamed `## Personal life` to `## Social structure and community culture`**: Replaced an inappropriate biographical header with a proper sociological/cultural header.
+* **Adjusted introductory sentence in "Origins and early development"**: Reworded "The 'education' of Philadelphia's urban form..." to "The formation of Philadelphia's urban form..." to remove the forced anthropomorphic metaphor required by the former biographical heading.

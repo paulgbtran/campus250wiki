@@ -1,0 +1,2 @@
+* **Architecture Section**: Removed the assertion that John Penn (1760–1834), who built Solitude in 1784–1785, was "the last hereditary colonial governor of the province." The last hereditary governor of Pennsylvania was his cousin, John Penn (1729–1795).
+* **See Also Section**: Updated `John Penn (governor)` to `John Penn (1760–1834)` to correctly reference the specific John Penn who built Solitude House.

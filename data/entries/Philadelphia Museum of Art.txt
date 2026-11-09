@@ -1,0 +1,221 @@
+# Philadelphia Museum of Art
+
+## Infobox
+
+| **Philadelphia Museum of Art** | |
+| :--- | :--- |
+| **Former Name** | Pennsylvania Museum and School of Industrial Art |
+| **Established** | February 27, 1876 (opened May 10, 1877) |
+| **Location** | 2600 Benjamin Franklin Parkway, Philadelphia, Pennsylvania, U.S. |
+| **Current Building Opened** | 1928 |
+| **Architectural Style** | Neoclassical |
+| **Architects** | Horace Trumbauer, Paul Cret, Zantzinger, Borie, and Medary (with perspective drawings by Julian Abele) |
+| **Key Directors / Figures** | Eli Kirk Price, Fiske Kimball, Anne d'Harnoncourt, Timothy Rub |
+| **Significant Collections** | Marcel Duchamp (Arensberg Collection), John G. Johnson Collection, A. E. Gallatin Collection, Edmond Foulc Collection |
+| **Notable Works & Exhibits** | *The Gross Clinic* (Thomas Eakins), *The Bathers* (Paul Cézanne), Pillared Temple Hall (Madurai), Samuel Powel House Parlor, Grace Kelly Wedding Dress |
+
+---
+
+## Lead Section
+
+The **Philadelphia Museum of Art** is one of the premier art institutions in the United States, situated at the western terminus of the Benjamin Franklin Parkway in Philadelphia, Pennsylvania. Originating from the 1876 Centennial Exhibition in Fairmount Park, the institution was initially chartered as the Pennsylvania Museum and School of Industrial Art. Opening to the public in Memorial Hall on May 10, 1877, it was explicitly modeled after London’s South Kensington Museum (now the Victoria and Albert Museum), aiming to unify art education, craftsmanship, and industrial design to elevate American-made manufactured goods against European competition.
+
+Over the course of the late nineteenth and early twentieth centuries, the museum shifted its primary orientation from industrial art instruction to the acquisition and display of elite fine art. Pivotal financial bequests and collection donations—including those of Anna H. Wilstach, William L. Elkins, George W. Elkins, John Howard McFadden, and corporate attorney John G. Johnson—transformed the institution into a world-class repository of European, Asian, and American masterworks. To house these rapidly expanding holdings, civic leaders commissioned a monumental new facility atop Fairmount (now Eakins Oval), which opened its doors in 1928.
+
+Under the legendary leadership of director Fiske Kimball from 1925 to 1955, the museum pioneered an innovative organizational scheme. Kimball arranged the main galleries into a comprehensive "walk through time" that illustrated the evolution of art history, enhanced by the integration of intact, authentic architectural period rooms brought in from across the globe. Subsequent directorships—most notably that of Anne d'Harnoncourt from 1982 to 2008—further expanded the museum’s holdings in modern and contemporary art, incorporating groundbreaking collections such as the Walter and Louise Arensberg Collection, rich in works by Marcel Duchamp, as well as landmark individual acquisitions like Thomas Eakins' *The Gross Clinic*.
+
+Beyond its architectural grandeur and encyclopedic collections, the Philadelphia Museum of Art occupies a central place in American popular culture and civic identity. Its iconic 72 granite entrance steps, famously featured in the 1976 motion picture *Rocky*, serve as a major global tourist destination and civic gathering site. The museum continues to balance its historic legacy of elite stewardship with evolving twenty-first-century initiatives focused on community engagement, architectural revitalization, and public outreach.
+
+---
+
+## History
+
+### Origins and the South Kensington Model (1876–1890s)
+
+The seeds of the museum were planted during the planning of the 1876 Centennial Exhibition, the nation's first official World's Fair held in Fairmount Park. Members of the Fairmount Park Commission, alongside civic officials and federal representatives, sought to establish a permanent legacy from the exposition. Chartered on February 27, 1876, the Pennsylvania Museum and School of Industrial Art formally opened to the public inside Memorial Hall on May 10, 1877. 
+
+```
+[1876 Centennial Exhibition]
+           │
+           ▼
+[Pennsylvania Museum & School of Industrial Art (Memorial Hall, 1877)]
+           │
+           ▼ (1893 Wilstach Bequest & Major Art Donors)
+[Shift to Fine Art Focus]
+           │
+           ▼ (1928 Parkway Opening)
+[Philadelphia Museum of Art (Parkway Building)]
+```
+
+Reflecting post-Civil War anxieties regarding American industrial taste compared to European design, the museum adopted the organizational philosophy of the South Kensington Museum in London. Its original mission was explicitly educational and utilitarian: working-class artisans, industrial designers, and factory laborers were encouraged to examine systematically cataloged glass-case displays of decorative objects categorized by material and technique. By exposing workers to high-quality craftsmanship, the museum aimed to improve the aesthetic quality of Philadelphia's industrial output. Like contemporary scientific institutions, including the Academy of Natural Sciences and the Penn Museum, the original collection was arranged chronologically and typologically.
+
+### Transition to Fine Art and the Parkway Building (1893–1928)
+
+The character of the institution began to shift fundamentally in 1893 with the bequest of Anna H. Wilstach (1822–1892). Wilstach left her valuable private painting collection along with a $500,000 discretionary purchase fund managed by the Fairmount Park Commission and museum trustees. This endowment enabled the acquisition of nearly one thousand works over subsequent decades, including Paul Cézanne’s modern masterworks and Henry Ossawa Tanner's landmark paintings.
+
+```
+       Key Bequests & Early Collections
+┌──────────────────────────────────────────────┐
+│ • Anna H. Wilstach (1893)                    │
+│ • William L. & George W. Elkins              │
+│ • John Howard McFadden                       │
+│ • John G. Johnson (Renaissance Art)          │
+└──────────────────────────────────────────────┘
+```
+
+In the early twentieth century, major Philadelphia collectors conditioned their gifts on the construction of a more prominent, fireproof facility closer to Center City. Figures such as William L. Elkins, George W. Elkins, John Howard McFadden, and corporate lawyer John G. Johnson—whose collection of European Renaissance art was among the finest in the nation—bequeathed their collections to the city. By 1917, city leaders finalized plans to relocate the museum to the head of the newly constructed Benjamin Franklin Parkway. 
+
+The new building, designed collaboratively by Horace Trumbauer, Paul Cret, and the firm of Zantzinger, Borie, and Medary, opened in 1928 at a construction cost to the city of $12 million. Museum president Eli Kirk Price strategically structured the building as a massive physical shell. This design allowed the museum to gradually build out inner galleries as new collections were donated, assuring wealthy patrons that their gifts would be permanently displayed rather than stored.
+
+### The Kimball Era and mid-20th-Century Growth (1925–1950s)
+
+In 1925, Fiske Kimball assumed the directorship, initiating a transformative era that lasted until 1955. Kimball reshaped the museum’s internal organization, creating a narrative history of art on the main exhibit floors. The second floor was arranged as a continuous chronological progression of European art from the Middle Ages to the modern era. Kimball famously introduced full-scale architectural period rooms, bringing entire historic interiors directly into the gallery layout.
+
+```
+Fiske Kimball's Narrative Layout (1928 shell implementation):
+┌─────────────────────────────────────────────────────────────┐
+│ 2nd Floor: Chronological European Art & Period Rooms       │
+├─────────────────────────────────────────────────────────────┤
+│ 1st Floor: "Study Collections" & Decorative Arts Displays   │
+└─────────────────────────────────────────────────────────────┘
+```
+
+Despite the financial strain of the Great Depression, the museum expanded throughout the 1930s with assistance from New Deal initiatives like the Works Progress Administration (WPA) and the Public Works of Art Project (PWAP). It acquired landmark treasures, such as an entire 13th-century French Medieval cloister and the Edmond Foulc Collection of Medieval and Renaissance Art. However, municipal funding cuts created tensions; in 1937, cartoonists and local politicians criticized the museum’s $110,000 purchase of Cézanne’s *The Bathers* during an era of widespread economic hardship.
+
+The School of Industrial Art had moved its educational classes to South Broad Street in 1893. In 1938, the museum institution officially adopted its present name, the **Philadelphia Museum of Art**, formally leaving the Parkway building dedicated entirely to museum functions, while the affiliated school was renamed the Philadelphia Museum School of Industrial Art (later becoming the Philadelphia College of Art in 1964 and merging into the University of the Arts in 1987).
+
+In the 1950s, the museum solidified its modern holdings through the acquisition of the Louise and Walter Arensberg Collection—which contained the world’s most significant assembly of works by Marcel Duchamp—and the A. E. Gallatin Collection (The Museum of Living Art).
+
+```
+Post-WWII Landmark Acquisitions:
+- Alfred Stieglitz Photography Collection (1940s)
+- Louise & Walter Arensberg Collection (Duchamp holdings, 1950s)
+- A. E. Gallatin Collection / Museum of Living Art (1950s)
+- Grace Kelly Wedding Dress Donation (1956)
+```
+
+### Modern Era and Expansion (1960s–Present)
+
+In 1962, the museum introduced its first general admission fee of 50 cents. To preserve its public mandate, it created the Department of Urban Outreach (DUO) in 1970 to fund neighborhood murals and accessible public programming. Under the directorship of Anne d'Harnoncourt (1982–2008), the museum expanded its contemporary holdings, securing key acquisitions by Cy Twombly, Bruce Nauman, and the Muriel and Philip Berman print collection. 
+
+In 2007, facing the potential loss of Thomas Eakins' masterwork *The Gross Clinic* to out-of-state buyers, the museum partnered with the Pennsylvania Academy of the Fine Arts (PAFA) to buy the painting for $68 million, raising funds through nationwide donations and municipal backing. 
+
+```
+Recent Institutional Developments:
+- 1989: Legal victory allowing full integration of John G. Johnson Collection
+- 2007: Joint $68M purchase of Thomas Eakins' "The Gross Clinic" with PAFA
+- 2007: Opening of the Ruth and Raymond G. Perelman Building
+- 2017: Commencement of Frank Gehry-designed Core Project expansion
+```
+
+To accommodate its expanding collections, the museum acquired the art-deco Ruth and Raymond G. Perelman Building across Pennsylvania Avenue in 2007. In 2017, under director Timothy Rub, construction commenced on a multi-phase master design plan led by architect Frank Gehry, aimed at carving out subterranean gallery space, opening public thoroughfares, and enhancing visitor accessibility.
+
+---
+
+## Architecture
+
+The main building of the Philadelphia Museum of Art is an iconic example of Neoclassical architecture in North America. Designed between 1917 and 1928, the massive structure sits atop Fairmount hill, commanding a sweeping vista along the Benjamin Franklin Parkway toward Philadelphia City Hall.
+
+### Design and Architectural Team
+
+The design was a collaborative effort among prominent early twentieth-century architects:
+
+*   **Horace Trumbauer**: Managed the overall scale and classical detailing of the exterior.
+*   **Paul Cret**: Contributed to the Beaux-Arts spatial layout and urban integration with the Parkway.
+*   **Zantzinger, Borie, and Medary**: Handled structural integration and internal specifications.
+*   **Julian Abele**: Chief designer in Trumbauer's office, who created the perspective drawings and detailed interior schemas. Abele was one of the earliest prominent African American architects in the United States.
+
+```
+       Architectural Design Team
+┌──────────────────────────────────────┐
+│ Horace Trumbauer (Principal Firm)    │
+│ Paul Cret (Urban & Beaux-Arts Plan) │
+│ Zantzinger, Borie & Medary (Exec)    │
+│ Julian Abele (Chief Designer)       │
+└──────────────────────────────────────┘
+```
+
+The building was constructed using Minnesota dolomite stone, featuring pediments decorated with classical figures. The exterior design incorporates three distinct wings forming a U-shaped court around Eakins Oval.
+
+### Architectural Period Rooms
+
+A defining structural feature introduced under Fiske Kimball is the integration of complete architectural period rooms directly into the floor plans. Rather than presenting isolated artifacts, entire structural fragments were imported and re-assembled within the galleries:
+
+*   **Pillared Temple Hall (Madurai, India)**: Acquired in 1919 from the Madana Gopala Swamy Temple in South India, featuring carved stone pillars portraying deities from the *Ramayana* and *Mahabharata*.
+*   **Samuel Powel House Parlor**: The original 18th-century plasterwork and architectural woodwork from the Philadelphia home of Mayor Samuel Powel, where George and Martha Washington were historically entertained.
+*   **13th-Century French Medieval Cloister**: A reconstructed monastic stone courtyard forming the focal point of the Medieval art galleries.
+
+```
+Architectural Period Rooms Highlights:
+├── Madana Gopala Swamy Temple Hall (16th C. South India)
+├── French Medieval Cloister (13th C. France)
+└── Samuel Powel House Parlor (18th C. Philadelphia)
+```
+
+### Modern Additions and Gehry Master Plan
+
+In 2007, the museum expanded across Pennsylvania Avenue into the **Ruth and Raymond G. Perelman Building**, an Art Deco landmark formerly serving as the headquarters of the Reliance Standard Life Insurance Company. 
+
+In 2017, the museum broke ground on its "Core Project," a long-term architectural master plan designed by Frank Gehry. The project focused on opening interior spaces, restoring historic vaulted ceilings, introducing a wide central gallery beneath the main terrace, and improving physical accessibility without altering the building's iconic exterior profile.
+
+---
+
+## Cultural Significance
+
+### Tension Between High Art and Public Mission
+
+Throughout its history, the Philadelphia Museum of Art has navigated a central tension between serving as a repository for elite tastes and fulfilling a public mandate as a civic institution. Initially created to educate working-class laborers in design, its focus shifted heavily toward private, high-society collections during the early 20th century. Over 90 percent of its holdings were acquired through private donations.
+
+```
+     Institutional Dual Mission
+┌──────────────────────────────────┐
+│   Civic Education & Outreach     │
+│   (DUO, Fleisher, Free Programs) │
+└────────────────┬─────────────────┘
+                 │
+                 ▼
+┌──────────────────────────────────┐
+│     Elite Taste & Stewardship    │
+│ (Wilstach, Johnson, Arensberg)   │
+└────────────────┬─────────────────┘
+```
+
+To counter perceptions of elitism, the museum launched public-facing initiatives throughout the late 20th and early 21st centuries. In 1944, it agreed to manage the **Fleisher Art Memorial** in South Philadelphia, offering free community art instruction. In 2017, the museum staged *Philadelphia Assembled*, an exhibition at the Perelman Building that invited local activists, artists, and community organizations to build installations focused on social resistance and community history.
+
+### The "Rocky Steps" and Popular Culture
+
+The 72 granite steps leading to the main Parkway entrance of the museum are among the most famous public site features in popular culture. In the 1976 Academy Award-winning film *Rocky*, protagonist Rocky Balboa (played by Sylvester Stallone) completes his training runs by sprinting up the steps, raising his arms in triumph at the top.
+
+```
+              [Top of the Steps]
+              View of Parkway & City Hall
+              ─────────────────────────
+             /                         \
+            /    72 Granite Steps       \
+           /  (The "Rocky Balboa" Run)   \
+          /                               \
+         /─────────────────────────────────\
+        [Bottom of Steps: Rocky Statue Site]
+```
+
+The scene converted the steps into a symbol of perseverance, making them a regular stop for tourists, marathon runners, and media broadcasts. A debate over a bronze statue of Rocky, donated by Stallone after the filming of *Rocky III* (1982), highlighted differing perspectives on art within the city. Museum officials argued the statue was a movie prop rather than high art, resulting in its temporary relocation to the Spectrum arena in South Philadelphia. In 2006, a compromise placed the statue permanently at the grassy base near the bottom of the museum steps.
+
+---
+
+## See Also
+
+*   [Benjamin Franklin Parkway](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Centennial Exhibition](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Fairmount Park](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Memorial Hall](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Rodin Museum](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Pennsylvania Academy of the Fine Arts](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Barnes Foundation](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+*   [Julian Abele](https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/)
+
+---
+
+## References
+
+1. Rosenheck, Mabel. "Philadelphia Museum of Art." *The Encyclopedia of Greater Philadelphia*, https://philadelphiaencyclopedia.org/essays/philadelphia-museum-of-art/
+2. Philadelphia Museum of Art. "Our Story & Campus Overview." *Philadelphia Museum of Art Official Website*, https://philamuseum.org/about/our-story

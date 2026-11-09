@@ -1,0 +1,6 @@
+* **Corrected Section Headings**: Replaced biographical headings ("Early life and education", "Career", "Personal life") with headings appropriate for a historic property entry ("Early history", "Design and development", "Private ownership and municipal acquisition").
+* **Corrected Architectural Orientation**: Changed the projection of the oval rooms/bay from "western elevation" to "south elevation" (facing south toward the Schuylkill River and Philadelphia skyline).
+* **Corrected Exterior Materials**: Changed "Flemish-bond brickwork" to stucco-rendered brick, which accurately describes Lemon Hill's exterior finish.
+* **Removed Architectural Anachronism**: Removed reference to builder Thomas Nevell regarding the c. 1800 mansion, as Nevell died in 1797 prior to construction; replaced with contemporary architect Thomas Carstairs, to whom the design is frequently attributed alongside pattern books.
+* **Corrected Typo / Name in Genealogy**: Fixed Henry Pratt's mother's name from the duplicated "Elizabeth Elizabeth Pratt" to "Elizabeth Moore Pratt" (Matthew Pratt married Elizabeth Moore in 1760).
+* **Corrected Spousal Name**: Corrected Henry Pratt's first wife's name from "Frances Dundas" to Frances Moore (his second wife was Elizabeth Dundas).

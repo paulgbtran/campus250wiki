@@ -1,0 +1,4 @@
+* **Infobox - Age Correction**: Updated age calculation from `age 97` to `age 95` (born December 7, 1928).
+* **Lead Section - Residency Duration**: Corrected the assertion that Chomsky spent the "first twenty-six years of his life" in Philadelphia. Chomsky moved to Cambridge, Massachusetts in 1951 (at age 22) when he was appointed a Junior Fellow at Harvard University.
+* **Lead Section & Early Life - William Chomsky's Primary Institution**: Corrected William Chomsky's primary academic institutional affiliation. While he earned his Ph.D. from Dropsie College, his primary teaching career and leadership role (serving as faculty and president) were at Gratz College in Philadelphia.
+* **Personal Life - Valeria Wasserman's Profession**: Corrected Valeria Wasserman's profession from "linguist" to "translator" (she worked as a translator/press officer).

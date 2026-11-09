@@ -1,0 +1,4 @@
+* **Corrected Legal Case Name**: Updated references to the landmark lawsuit over the Logan Circle platform funding from `*ACLU v. City of Philadelphia*` to its official case name, `*Gilfillan v. City of Philadelphia*` (637 F.2d 924).
+* **Corrected Quote Location**: Moved the Pope's quote about making "inner city and suburbs places where people are no strangers to each other..." from the Cathedral address to the Logan Circle Mass homily section, where it was actually delivered on October 3, 1979.
+* **Clarified Civic Center Event**: Clarified that Pope John Paul II's gathering at the Philadelphia Civic Center on October 4, 1979, was an address to priests and religious sisters/nuns rather than a celebrated Mass.
+* **Updated Diagram & Infobox**: Adjusted the Infobox and ASCII flowchart to reflect the correct case name and the Civic Center address.

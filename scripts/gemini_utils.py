@@ -1,10 +1,28 @@
+import re
 import time
 import json
 import logging
 from pathlib import Path
 
 # ---------------------------------------------------------------------------
-# Token ledger – written after every Gemini call so the parent process
+# Filename sanitization
+# ---------------------------------------------------------------------------
+
+_WIN_ILLEGAL = re.compile(r'[\\/:*?"<>|]')
+
+def sanitize_filename(name: str) -> str:
+    """
+    Returns a Windows-safe version of name for use as a filename stem.
+    Double-quotes are replaced with single-quotes to preserve readability.
+    All other illegal characters are stripped.
+    """
+    safe = name.replace('"', "'")
+    safe = _WIN_ILLEGAL.sub("", safe)
+    safe = safe.strip(" .")
+    return safe or "_unnamed_"
+
+# ---------------------------------------------------------------------------
+# Token ledger -- written after every Gemini call so the parent process
 # (main.py) can diff before/after each subprocess to get per-script costs.
 # ---------------------------------------------------------------------------
 _LEDGER_PATH = Path(__file__).parent.parent / "data" / ".token_ledger.json"
@@ -74,11 +92,17 @@ def tokens_to_usd(prompt_tokens: int, output_tokens: int, model: str) -> float:
 
 # ---------------------------------------------------------------------------
 
+# Maximum characters allowed in a single string prompt (approx 750,000 tokens, safely below the 1,048,576 limit)
+MAX_PROMPT_CHARS = 3_000_000
+
 def query_gemini(client, model, contents, config=None, retries=5, delay=20):
     """
     Wrapper for client.models.generate_content that adds automatic retries,
     a mandatory delay after querying to handle rate limits, and token tracking.
     """
+    if isinstance(contents, str) and len(contents) > MAX_PROMPT_CHARS:
+        logging.warning(f"Prompt length ({len(contents)} chars) exceeds safe limit. Truncating to {MAX_PROMPT_CHARS} chars.")
+        contents = contents[:MAX_PROMPT_CHARS]
     try:
         for attempt in range(1, retries + 1):
             try:

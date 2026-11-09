@@ -72,7 +72,7 @@ def _ledger_delta(before: dict, after: dict) -> dict:
 def _print_topic_summary(topic: str, elapsed: float, delta: dict) -> None:
     cost = gemini_utils.tokens_to_usd(delta["prompt_tokens"], delta["output_tokens"], MODEL)
     print(
-        f"  ✓ Done  |  {_fmt_duration(elapsed):>8}  |  "
+        f"  [+] Done  |  {_fmt_duration(elapsed):>8}  |  "
         f"{delta['total_tokens']:>8,} tokens  |  ${cost:.6f}"
     )
 
@@ -91,7 +91,7 @@ def _print_final_summary(run_elapsed: float, results: list[dict]) -> None:
     sep    = "  " + "-" * (len(header) - 2)
 
     print("\n" + "=" * 60)
-    print("  UPDATE RUN COMPLETE — SUMMARY")
+    print("  UPDATE RUN COMPLETE -- SUMMARY")
     print("=" * 60)
     print(header)
     print(sep)
@@ -137,11 +137,12 @@ def _resolve_topics(requested: list[str]) -> list[str]:
     if requested:
         valid = []
         for t in requested:
-            if not (search_dir / f"{t}.txt").exists():
-                print(f"  Warning: no search file found for '{t}' — skipping.")
+            safe_t = gemini_utils.sanitize_filename(t)
+            if not (search_dir / f"{safe_t}.txt").exists():
+                print(f"  Warning: no search file found for '{t}' -- skipping.")
                 continue
-            if not (entries_dir / f"{t}.txt").exists():
-                print(f"  Warning: no existing entry for '{t}' — skipping (use synthesizeData.py for new topics).")
+            if not (entries_dir / f"{safe_t}.txt").exists():
+                print(f"  Warning: no existing entry for '{t}' -- skipping (use synthesizeData.py for new topics).")
                 continue
             valid.append(t)
         return valid
@@ -167,7 +168,7 @@ def run_update(topics: list[str], timeout_sec: int | None) -> None:
     gemini_utils.reset_ledger()
 
     print(f"\nUpdating {len(topics)} article(s)" +
-          (f" — time limit: {timeout_sec // 60}m" if timeout_sec else "") + "\n")
+          (f" -- time limit: {timeout_sec // 60}m" if timeout_sec else "") + "\n")
 
     run_start = time.perf_counter()
     results: list[dict] = []
@@ -178,7 +179,7 @@ def run_update(topics: list[str], timeout_sec: int | None) -> None:
             elapsed_so_far = time.perf_counter() - run_start
             if elapsed_so_far >= timeout_sec:
                 print(
-                    f"\n⚠  Time limit reached ({timeout_sec // 60}m) after "
+                    f"\n[!] Time limit reached ({timeout_sec // 60}m) after "
                     f"{i - 1}/{len(topics)} article(s). Stopping."
                 )
                 break

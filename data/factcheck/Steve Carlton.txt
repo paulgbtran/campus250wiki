@@ -1,0 +1,5 @@
+* **Hall of Fame Vote Percentage**: Corrected Carlton's 1994 Baseball Hall of Fame voting percentage from 95.8% to 95.6% (436 out of 456 ballots) across the Infobox, Lead section, and Legacy section.
+* **Early Life & High School Sports**: Corrected the text regarding high school sports. Carlton did not play baseball for North Miami High School; he played American Legion Baseball during those years.
+* **Minor League Teams**: Fixed minor league team name in "Early life and education" from "Rockford Colonials" to "Rock Island Redbirds" (Class A affiliate in 1964).
+* **1971–1972 Contract Dispute**: Corrected the figures in the contract dispute with Cardinals owner Gussie Busch. Carlton requested $65,000 while Busch offered $55,000 ($10,000 difference), rather than requesting a raise from $90,000.
+* **Media Blackout Start Year**: Corrected the starting year of Carlton's media blackout in the Personal Life section from 1974 to 1978.

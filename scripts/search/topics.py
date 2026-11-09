@@ -31,7 +31,7 @@ OUTPUT_FILE = OUTPUT_DIR / "topics.txt"
 BASE_PROMPT = (
     "List all notable historical figures, landmarks, events, and cultural "
     "narratives or shifts related to Philadelphia, Pennsylvania. "
-    "Return **only** the list — one entry per line, no numbering, no bullet "
+    "Return **only** the list -- one entry per line, no numbering, no bullet "
     "points, no extra commentary. Each line should contain the name or short "
     "description of the item followed by its category in parentheses, for "
     "example:\n\n"
@@ -52,7 +52,7 @@ def build_prompt(existing_entries: list[str]) -> str:
     existing_block = "\n".join(existing_entries)
     return (
         BASE_PROMPT
-        + "\n\nThe following entries already exist — do NOT repeat them; "
+        + "\n\nThe following entries already exist -- do NOT repeat them; "
         "only return entries that are not already in this list:\n\n"
         + existing_block
     )
@@ -89,10 +89,10 @@ def main() -> None:
         # Respect the pipeline timeout — if we're already over budget, skip.
         timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
         if timeout_sec is not None and time.perf_counter() > timeout_sec:
-            print(f"⚠  Time limit ({timeout_sec // 60}m) already reached before topics query. Skipping.")
+            print(f"[!] Time limit ({timeout_sec // 60}m) already reached before topics query. Skipping.")
             return
 
-        print(f"Querying {MODEL} for new Philadelphia historical topics …")
+        print(f"Querying {MODEL} for new Philadelphia historical topics...")
 
         prompt = build_prompt(existing_lines)
         response = gemini_utils.query_gemini(
@@ -118,7 +118,7 @@ def main() -> None:
         ]
 
         if not new_lines:
-            print("No new topics found — file is already up to date.")
+            print("No new topics found -- file is already up to date.")
             return
 
         # Merge: existing entries first, then new ones
@@ -131,7 +131,7 @@ def main() -> None:
         OUTPUT_FILE.write_text("\n".join(merged) + "\n", encoding="utf-8")
 
         print(
-            f"✓ Added {len(new_lines)} new topics "
+            f"[+] Added {len(new_lines)} new topics "
             f"(total {len(merged)}) to {OUTPUT_FILE}"
         )
     except Exception as e:

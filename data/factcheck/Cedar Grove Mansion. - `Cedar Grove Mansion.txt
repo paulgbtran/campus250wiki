@@ -1,0 +1,5 @@
+* **Section Headings Updated:** Replaced human biographical headings ("3. Early life and education", "4. Career", and "5. Personal life") with structure-appropriate architectural/historical headings ("3. Origins and construction", "4. History and relocation", and "5. Interior and decorative arts").
+* **Construction Dates Corrected:** Updated the initial construction range from 1746–1750 to 1748–1750 across the Infobox, Lead, and Section 3 to accurately reflect historical records (land bought in 1746; house construction 1748–1750).
+* **Expansion Dates Standardized:** Corrected the second construction phase from "1795–1799" / "1790s" to 1795 in the Infobox and Lead to match the documented 1795 building addition.
+* **Joseph Paschall Death Date Corrected:** Updated Joseph Paschall's year of death from 1742 to 1741 in Section 3.
+* **Genealogy and Inheritance Corrected:** In Section 4, corrected Sarah Paschall's married name to Sarah Paschall Morris, and corrected the 1795 transfer of ownership to her son, Isaac Wistar Morris, and his wife Sarah Coates Morris (fixing the inaccurate reference to a "niece").

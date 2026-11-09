@@ -1,0 +1,124 @@
+# George Washington
+
+## Infobox
+
+| Key Attribute | Detail |
+| :--- | :--- |
+| **Full Name** | George Washington |
+| **Born** | February 22, 1732 (Popes Creek, Virginia) |
+| **Died** | December 14, 1799 (Mount Vernon, Virginia) |
+| **Offices Held** | 1st President of the United States (1789–1797); Commander-in-Chief of the Continental Army (1775–1783) |
+| **Philadelphia Residence** | President's House (Sixth and Market Streets, 1790–1797) |
+| **Key Regional Military Engagements** | Philadelphia Campaign (1777), Battle of Brandywine (September 11, 1777), Valley Forge Encampment (1777–1778) |
+| **Historical Significance in Philadelphia** | Led military operations protecting and reclaiming the revolutionary capital; established the executive branch's working traditions during Philadelphia's era as the national capital (1790–1800). |
+
+---
+
+## Lead Section
+
+George Washington (February 22, 1732 – December 14, 1799) was an American military officer, statesman, and Founding Father who served as the first president of the United States from 1789 to 1797. Prior to his presidency, Washington commanded the Continental Army during the American Revolutionary War, steering patriot forces through critical regional theaters, including the Philadelphia Campaign of 1777 and the winter encampment at Valley Forge. His leadership during the formative decades of the American republic tightly interwove his biography with the political, strategic, and civic life of Philadelphia.
+
+During the Revolutionary War, Washington spent extended periods maneuvering troops in the immediate vicinity of Philadelphia, which served as the seat of the Second Continental Congress. Following British forces landing at Head of Elk, Washington confronted General William Howe's army at the Battle of Brandywine on September 11, 1777. Though the engagement resulted in a Continental defeat and led to the enemy occupation of Philadelphia, Washington preserved his army and retreated into winter quarters at Valley Forge from 1777 to 1778, where the forces underwent crucial organizational and tactical reorganization.
+
+When Philadelphia was designated the temporary capital of the United States under the Residence Act from 1790 to 1800, Washington established the executive branch's operational seat in the city. For nearly seven years of his presidency, Washington resided and conducted federal business at the President's House, situated at the intersection of Sixth and Market Streets. In this urban mansion, Washington managed state dinners, cabinet deliberations, and foreign policy disputes while overseeing a complex household that included both paid white staff and enslaved African Americans brought from his Virginia plantation.
+
+In modern historical scholarship and civic memory, Washington's presence in Philadelphia represents both the structural founding of the executive office and the complex social realities of early American national governance. Physical excavations and public commemorations at the President's House site, supported by organizations such as the Independence Hall Association, highlight the intersection of presidential leadership, urban federalism, and the history of enslaved members of his household within the nation's early capital.
+
+---
+
+## Early Life and Education
+
+George Washington was born into the landed gentry of colonial Virginia on February 22, 1732, in Westmoreland County. His early education was conducted locally and focused on practical disciplines including mathematics, drafting, and land surveying. Following the early death of his father, Augustine Washington, George acquired foundational skills in frontier land measurement, securing an appointment as official surveyor for Culpeper County in 1749. This early career exposed him to western territorial topography and frontier military dynamics.
+
+Washington's early military career began during the French and Indian War, where he served as an officer in the Virginia Regiment. His experiences during engagements in the Ohio Valley provided him with foundational military command knowledge and established his regional reputation throughout the Mid-Atlantic colonies. When political resistance against British parliamentary authority intensified during the 1770s, Washington was chosen as a delegate from Virginia to the First and Second Continental Congresses, which convened in Philadelphia. In June 1775, Congress elected Washington Commander-in-Chief of the newly created Continental Army, formally linking his leadership to the Philadelphia assembly.
+
+---
+
+## Career
+
+### Military Leadership and the Philadelphia Campaign (1777–1778)
+
+Washington's strategic focus shifted directly to the defense of Philadelphia during the summer of 1777, when British forces under Sir William Howe launched a maritime campaign to capture the revolutionary capital. Moving north from positions in the Chesapeake, British troops advanced toward the city. Washington intercepted the British forces along the Brandywine Creek. On September 11, 1777, the Battle of Brandywine erupted as the largest single-day land battle of the Revolutionary War. Despite strategic maneuvering, Continental forces were outflanked, forcing Washington to retreat and allowing the British to occupy Philadelphia later that month.
+
+```
++-----------------------------------------------------------------------+
+|                 Major Events in Washington's Career                   |
++-------------------+---------------------------------------------------+
+| June 1775         | Commissioned Commander-in-Chief in Philadelphia   |
+| Sept 11, 1777     | Commands Continental forces at Battle of Brandywine|
+| 1777–1778         | Oversees winter encampment at Valley Forge        |
+| 1790–1797         | Resides at President's House (Sixth & Market Sts) |
++-------------------+---------------------------------------------------+
+```
+
+Following the loss of the capital and an inconclusive engagement at Germantown, Washington marched his army into winter quarters at Valley Forge, located approximately twenty miles northwest of Philadelphia. The encampment from December 1777 to June 1778 proved pivotal. Under severe supply shortages and harsh winter weather, Washington maintained organizational discipline while collaborating with military reformers to standardize drill routines and logistical practices. By the time the British evacuated Philadelphia in June 1778, Washington led a restructured army back into the field to contest British troop movements across New Jersey.
+
+### Presidential Tenure in Philadelphia (1790–1797)
+
+Following his inauguration in New York City in 1789, Washington relocated to Philadelphia in late 1790 when the federal government transferred its seat under the federal Residence Act. For the remainder of his presidency, Washington operated out of the President's House, a substantial brick mansion leased by the city government at Sixth and Market Streets (formerly owned by Richard Penn and Robert Morris).
+
+During this period, known historiographically as "Republican Philadelphia," Washington codified executive governance practices. He regularly met with cabinet officials, handled legislative coordination with Congress sitting at nearby Congress Hall, and issued key executive policies, including the 1793 Proclamation of Neutrality. The executive residence functioned simultaneously as a private domestic house and the official administrative office of the chief executive.
+
+---
+
+## Personal Life
+
+Washington's personal life during his Philadelphia residence was defined by the complex domestic management of the executive household. Accompanied by First Lady Martha Washington, the household maintained active civic visibility, hosting weekly formal receptions known as levees to project republican dignity without adopting monarchical ceremony.
+
+```
+                     +-------------------------------+
+                     |     President's House         |
+                     |   (Sixth & Market Streets)    |
+                     +---------------+---------------+
+                                     |
+             +-----------------------+-----------------------+
+             |                                               |
++------------v------------+                     +------------v------------+
+|  Free Household Staff   |                     |   Enslaved Household    |
+| (Cooks, Stewards, etc.) |                     | (Oney Judge, Hercules,  |
++-------------------------+                     |  Austin, Moll, etc.)    |
+                                                +-------------------------+
+```
+
+The domestic workforce at Sixth and Market Streets comprised both free white servants and enslaved individuals transported from Mount Vernon. Pennsylvania had enacted the Gradual Abolition Act of 1780, which stipulated that enslaved adults brought into the state by non-residents would become legally free after six consecutive months of residency. To circumvent this law and preserve his property rights in human chattel, Washington arranged for enslaved household members—including the cook Hercules and Martha Washington's personal attendant Oney Judge—to be periodically rotated out of Pennsylvania across state borders back to Virginia or Delaware. 
+
+Despite these measures, enslaved members of the household sought their freedom; Oney Judge successfully escaped directly from the Philadelphia mansion in May 1796 with the assistance of the city's free Black community, and Hercules escaped from Mount Vernon on February 22, 1797, after being returned to Virginia late the previous year.
+
+---
+
+## Legacy
+
+George Washington's legacy in Greater Philadelphia is preserved across physical landmarks, institutional archives, and public historical displays. Valley Forge National Historical Park preserves the terrain and reconstructed cantonments where Washington held the Continental forces together during the winter of 1777–1778, serving as an enduring symbol of military resilience.
+
+```
+       +-----------------------------------------------------------+
+       |                  Commemorative Legacy                     |
+       +-----------------------------------------------------------+
+       |                                                           |
++------v--------------------+                     +----------------v-----+
+|  Valley Forge Encampment  |                     |  President's House   |
+| (Military Transformation) |                     |  Commemoration Site  |
++---------------------------+                     +----------------------+
+```
+
+In Center City Philadelphia, the footprint of the President's House at Sixth and Market Streets became the subject of extensive archaeological investigation, archival reconstruction, and public interpretation in the early 21st century. Through collaborative advocacy involving historians, civic organizations like the Independence Hall Association (founded in 1942), and local community leaders, the excavated foundation was integrated into an open-air structural monument within Independence National Historical Park. The site features physical floor plans, historical text, and structural markers that concurrently honor Washington's executive leadership and document the lives, labor, and resistance of the enslaved individuals who lived and worked on the ground.
+
+---
+
+## See Also
+
+* President's House (Philadelphia)
+* Philadelphia Campaign (1777)
+* Battle of Brandywine
+* Valley Forge Encampment
+* Independence National Historical Park
+* Independence Hall Association
+
+---
+
+## References
+
+1. Independence Hall Association. *The President's House: The First Executive Mansion*. ushistory.org. Available at: `https://www.ushistory.org/presidentshouse/`
+2. Independence Hall Association. *George Washington at Valley Forge*. ushistory.org. Available at: `https://www.ushistory.org/march/`
+3. Independence Hall Association. *The Philadelphia Campaign of 1777*. ushistory.org. Available at: `https://www.ushistory.org/march/phila/`
+4. National Park Service. *Independence National Historical Park: President's House Site*. U.S. Department of the Interior. Available at: `https://www.nps.gov/inde/`

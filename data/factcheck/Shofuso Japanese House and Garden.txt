@@ -1,0 +1,4 @@
+* **Craftsmanship Period Correction**: Changed "mid-Edo period craftsmanship" to "16th- and 17th-century craftsmanship" in the lead section, matching the *shoin-zukuri* era described in the text (mid-Edo refers to the 18th century).
+* **Nio-mon Acquisition History**: Corrected the origin of John T. Morris's acquisition of the 14th-century *Nio-mon* gate; it was purchased after being exhibited at the 1904 Louisiana Purchase Exposition in St. Louis before being relocated to Philadelphia in 1905.
+* **Roof Nail Terminology**: Corrected "bamboo nails (*tsubaki-kugi*)" to "camellia wood nails (*tsubaki-kugi*)". *Tsubaki* refers to camellia wood, which was traditionally used to fashion nails for *hiwada-buki* roofing (bamboo nails are called *take-kugi*).
+* **Architectural Terminology Correction**: Corrected *tsukishoin* to *tsuke-shoin* for standard Hepburn transliteration of the Japanese built-in writing desk.

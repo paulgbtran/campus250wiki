@@ -1,0 +1,130 @@
+### Infobox
+
+| **Urban Renewal in Philadelphia** | |
+| --- | --- |
+| **Active Period** | Late 1940s – 1974 |
+| **Location** | Philadelphia, Pennsylvania |
+| **Key Agencies & Organizations** | Philadelphia Redevelopment Authority (PRA), Philadelphia City Planning Commission (PCPC), Greater Philadelphia Movement (GPM), Old Philadelphia Development Corporation (OPDC), Philadelphia Industrial Development Corporation (PIDC) |
+| **Key Figures** | Edmund Bacon, William Rafsky, Joseph S. Clark Jr., Richardson Dilworth, Oskar Stonorov, Vincent Kling, I. M. Pei, Charles Peterson, Louis Kahn |
+| **Enabling Legislation** | Pennsylvania Urban Redevelopment Law (1945), U.S. Housing Act of 1949 (Title I), U.S. Housing Act of 1954, Housing and Community Development Act of 1974 |
+| **Major Projects** | East Poplar, Penn Center, Society Hill, Market East (The Gallery), Far Northeast, Eastwick, University City Science Center |
+| **Federal Grant Funding** | $209 million reserved by 1965 (2nd nationwide behind New York City) |
+| **Primary Significance** | Transformed Philadelphia's built environment through commercial redevelopment, historic preservation, low-rise housing, industrial planning, and widespread urban displacement. |
+
+---
+
+### Lead section
+
+The impact of urban renewal on Philadelphia’s landscape represents one of the most transformative chapters in the city’s post-World War II history. Spanning from the late 1940s through the mid-1970s, urban renewal in Philadelphia was a sweeping, federally subsidized initiative intended to reverse municipal economic decline, address postwar industrial deindustrialization, stem suburban flight, and modernize transportation infrastructure. By the end of 1965, Philadelphia had secured $209 million in federal urban renewal funding—an amount surpassed nationally only by New York City—underscoring the municipality's prominent role in shaping mid-century national redevelopment policy.
+
+While urban renewal projects across the United States were frequently defined by wholesale clearance—a top-down approach epitomized by planner Robert Moses in New York—Philadelphia distinguished itself through what planners and critics termed the "Philadelphia Approach." Under the administrative and design leadership of Planning Commission Executive Director Edmund Bacon and Housing/Development Director William Rafsky, the city frequently prioritized selective spot demolition, historic preservation, and low-rise row house rehabilitation over total clearance. Utilizing public-private partnerships backed by elite civic organizations such as the Greater Philadelphia Movement, municipal leaders sought to modernize the city center while preserving its pedestrian scale and historical housing stock.
+
+Despite its international acclaim for innovative design and preservation, urban renewal in Philadelphia produced deeply mixed and highly contested results. Major undertakings such as Penn Center, Market East, Society Hill, and the Far Northeast reconfigured commercial districts, restored colonial-era architecture, and established new industrial parks. However, these developments came at severe social costs. Lower-income communities and minority populations, particularly African American and working-class residents, bore the brunt of widespread displacement, rising housing costs, and community disruption. 
+
+The program triggered profound demographic shifts, accelerated early gentrification, and provoked intense grass-roots neighborhood resistance. High-profile community opposition—most notably the campaign that halted the proposed Crosstown Expressway—ultimately contributed to the decline of top-down urban planning models nationwide and prompted a transition toward community-based block grants by the mid-1970s.
+
+---
+
+### Origins
+
+Philadelphia’s engagement with urban renewal began prior to the passage of key federal legislation. In 1945, the Commonwealth of Pennsylvania passed enabling legislation allowing municipalities to establish local redevelopment authorities, leading to the creation of the Philadelphia Redevelopment Authority (PRA) in 1946. Public interest and political momentum for urban modernization were catalyzed by the landmark Better Philadelphia Exhibition of 1947, held at Gimbels department store in Center City. Conceived by modernist architect Oskar Stonorov and urban planner Edmund Bacon, with contributions from architect Louis I. Kahn and Planning Commission members Robert Leonard and Robert B. Mitchell, the exhibition attracted over 365,000 visitors. Featuring interactive light displays, a life-sized model of a rehabilitated row house, and a 14-by-40-foot scale model of the city, the event popularized urban planning as a vital civic endeavor and built broad public support for municipal tax investments in redevelopment.
+
+```
+       [ Pennsylvania Urban Redevelopment Law (1945) ]
+                             │
+                             ▼
+         [ Philadelphia Redevelopment Authority (1946) ]
+                             │
+                             ▼
+         [ Better Philadelphia Exhibition at Gimbels (1947) ]
+                             │
+                             ▼
+       [ Reform Mayors (Clark & Dilworth) & GPM (1948–1950s) ]
+                             │
+                             ▼
+         [ Federal Housing Acts of 1949 (Title I) & 1954 ]
+```
+
+Political leadership aligned behind urban renewal with the 1951 mayoral election of Democratic reformer Joseph S. Clark Jr., followed by Mayor Richardson Dilworth in 1956. This political coalition worked alongside the Greater Philadelphia Movement (GPM), a business civic group founded in 1948 to mobilize private investment behind municipal projects. Concurrently, national policy provided the financial backing necessary for large-scale intervention. Title I of the federal Housing Act of 1949 offered municipal authorities federal loans and two-thirds grants to acquire and clear lands designated as "blighted," transferring them to private developers for reconstruction.
+
+Philadelphia’s initial federally funded renewal effort occurred in East Poplar, a neighborhood in lower North Philadelphia marked by aging structures and economic hardship. Planners selected East Poplar to eradicate physical blight while attempting to provide affordable housing for displaced residents. The PRA partnered with private entities and the American Friends Service Committee on cooperative rehabilitation and new construction, such as the Towne Center development. However, despite municipal subsidies, rental rates remained beyond the reach of many original residents. Displaced families frequently relocated to adjacent, un-renovated blocks, creating new pockets of overcrowding along the project's perimeter—an early manifestation of the displacement and affordability challenges that marked the era.
+
+---
+
+### Development
+
+Following the Housing Act of 1954—which expanded federal funding to support commercial, industrial, and office reuses as well as building rehabilitation—Philadelphia expanded its renewal agenda. In 1956, Housing Director William Rafsky directed the Central Urban Renewal Area (CURA) Study, which shifted city policy toward preserving "conservable" neighborhoods rather than focusing exclusively on "worst-first" slum clearance. This approach aimed to stabilize viable urban fabric before decay set in, consolidating the "Philadelphia Approach."
+
+Downtown commercial revitalization centered on West Market Street. In 1952, the Pennsylvania Railroad vacated its Broad Street Station and demolished the elevated track structure known as the "Chinese Wall," which had physically divided Center City. Edmund Bacon championed a unified commercial center for the site, selecting a design by architect Vincent Kling modeled on New York’s Rockefeller Center. Although private developers scaled back Kling's original vision of multi-level pedestrian plazas to reduce costs, the resulting Penn Center established a modern office corridor. Farther east, planners designed Market East to compete with suburban shopping centers. Introduced in 1958 and designed by architects Bower & Fradley, the project led to the 1977 opening of The Gallery at Market East—an enclosed multi-level transit-oriented mall developed by the PRA, the Rouse Company, and SEPTA—followed by Gallery II in 1983.
+
+```
++-------------------------------------------------------------------+
+|                  MAJOR URBAN RENEWAL INITIATIVES                  |
++-------------------+-----------------------------------------------+
+| Project Site      | Primary Focus & Key Details                   |
++-------------------+-----------------------------------------------+
+| Penn Center       | West Market St commercial office complex;     |
+|                   | replaced PRR "Chinese Wall" tracks (1952+).   |
++-------------------+-----------------------------------------------+
+| Market East       | Transit-oriented shopping complex; Gallery I  |
+|                   | (1977) & Gallery II (1983) by Bower & Fradley.|
++-------------------+-----------------------------------------------+
+| Society Hill      | Historic preservation, spot clearance, I. M.  |
+|                   | Pei towers, Charles Peterson restored homes.  |
++-------------------+-----------------------------------------------+
+| Far Northeast     | 16,000-acre master plan; superblocks, row     |
+|                   | house clusters, PIDC industrial parks.        |
++-------------------+-----------------------------------------------+
+| Eastwick          | 3,000-acre "city-within-a-city"; mixed housing|
+|                   | & industry; nation's largest renewal site.    |
++-------------------+-----------------------------------------------+
+| University City   | Institutional expansion for medicine/science; |
+| Science Center    | displaced 400+ working-class families.        |
++-------------------+-----------------------------------------------+
+```
+
+Residential renewal achieved national recognition in Society Hill (historically Washington Square East). Formerly a neglected district termed the "Bloody Fifth Ward," the area was transformed through spot demolition, modern infill construction, and historic preservation. The clearance of the historic Dock Street wholesale food market in 1959 made way for three 30-story apartment towers designed by architect I. M. Pei. Concurrently, under the preservation guidelines of National Park Service architect Charles Peterson and the coordination of the Old Philadelphia Development Corporation (OPDC), hundreds of eighteenth- and early nineteenth-century Georgian and Federal row houses were restored, while late nineteenth-century commercial structures were cleared for brick pedestrian greenways designed by Bacon.
+
+Philadelphia also applied renewal strategies to industrial retention and peripheral urban growth. In the Far Northeast, Bacon designed a master plan across 16,000 acres, utilizing superblocks, looped residential streets, and clustered row houses to counter unstructured tract housing while providing affordable homeownership options. Simultaneously, the Philadelphia Industrial Development Corporation (PIDC), established in 1958, financed over one hundred industrial park projects between 1959 and 1970 to retain manufacturing firms within city borders. In Eastwick, a 3,000-acre marshland neighborhood in Southwest Philadelphia, planners launched the nation's largest single urban renewal project, designing a "city-within-a-city" intended for 20,000 jobs and integrated housing for 60,000 residents. In West Philadelphia, institutional expansion led to the creation of the University City Science Center, expanding medical and research space at the expense of surrounding residential blocks.
+
+---
+
+### Impact
+
+The spatial and social outcomes of Philadelphia's urban renewal era were profound and long-lasting. By emphasizing low-rise row house preservation and pedestrian greenways in neighborhoods like Society Hill, Philadelphia demonstrated that central city revitalization did not depend entirely on total structural clearance. Society Hill became a celebrated model for historic preservation, driving real estate values up by nearly 250 percent during the 1960s. However, this success initiated modern gentrification patterns. The conversion of multi-family rental properties into single-family owner-occupied homes systematically priced out long-standing residents. Between 1960 and 1970, Society Hill’s nonwhite population dropped from 20 percent to 7 percent, while the proportion of college-educated adults rose from under 4 percent in 1950 to 64 percent by 1980.
+
+```
+Society Hill Demographic Transformation (1950–1980)
+┌─────────────────────────────────────────────────────────┐
+│ Nonwhite Population (1960):        ██████████ 20%       │
+│ Nonwhite Population (1970):        ███ 7%               │
+├─────────────────────────────────────────────────────────┤
+│ College-Educated Adults (1950):    ██ 4%                │
+│ College-Educated Adults (1980):    ███████████████ 64%  │
+└─────────────────────────────────────────────────────────┘
+```
+
+Across the city, urban renewal inflicted severe displacement on lower-income and minority communities, echoing nationwide critiques of the program as "Negro removal." Displaced families experienced significant social disruption and psychological loss—described by scholars as "root shock." In West Philadelphia, the expansion of the University City Science Center displaced over 400 working-class families. Public housing developments constructed to absorb displaced residents often suffered rapid physical deterioration; even architecturally noted projects, such as Louis Kahn’s Mill Creek towers in West Philadelphia, experienced social and structural decline and were eventually demolished. In Eastwick, widespread clearance dismantled an established, racially integrated working-class neighborhood, replacing it with lower-density housing and industrial sites that fell short of planners' initial population and economic targets.
+
+These social costs catalyzed powerful countermovements and freeway revolts during the 1960s and 1970s. Influenced by urban theorists such as Jane Jacobs, grass-roots neighborhood coalitions organized against top-down municipal planning. In Queen Village and South Philadelphia, a multiracial, cross-class coalition successfully halted the construction of the proposed Crosstown Expressway—an interstate highway project that would have destroyed the South Street commercial corridor, displaced a vibrant African American community, and physically separated Center City from South Philadelphia.
+
+Direct federal funding for traditional urban renewal ended with the passage of the Housing and Community Development Act of 1974, which replaced categorical Title I grants with Community Development Block Grants (CDBG) geared toward local, neighborhood-directed initiatives. Nevertheless, the physical legacies of postwar urban renewal remain central to Philadelphia’s contemporary landscape, reflected in the commercial infrastructure of Center City, the preserved architecture of Society Hill, and the ongoing debate surrounding neighborhood gentrification and displacement.
+
+---
+
+### See also
+
+* Center City Philadelphia
+* Edmund Bacon (city planner)
+* Gentrification in Philadelphia
+* History of Philadelphia
+* Market East, Philadelphia
+* Penn Center
+* Society Hill, Philadelphia
+
+---
+
+### References
+
+1. Ammon, Francesca Russello. "Urban Renewal." *The Encyclopedia of Greater Philadelphia*, 2016 (edited 2020). https://philadelphiaencyclopedia.org/archive/urban-renewal/
+2. Gottlieb, Dylan. "Gentrification." *The Encyclopedia of Greater Philadelphia*, 2018. https://philadelphiaencyclopedia.org/archive/gentrification/

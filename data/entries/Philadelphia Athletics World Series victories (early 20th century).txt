@@ -1,0 +1,115 @@
+# Philadelphia Athletics World Series victories (early 20th century)
+
+### Infobox
+
+| **Philadelphia Athletics World Series Victories (1910–1913)** | |
+| :--- | :--- |
+| **Event** | Major League Baseball World Series Championships |
+| **Location** | Philadelphia, Pennsylvania (Shibe Park); Chicago (West Side Park); New York City (Polo Grounds) |
+| **Dates** | 1910, 1911, 1913 (October postseason series) |
+| **Key Figures** | Connie Mack (Manager/Co-owner), Ben Shibe (Co-owner), Eddie Collins, Frank "Home Run" Baker, Jack Barry, Stuffy McInnis, Charles "Chief" Bender, Eddie Plank, Jack Coombs |
+| **Championships Won** | 1910 (vs. Chicago Cubs, 4–1)<br>1911 (vs. New York Giants, 4–2)<br>1913 (vs. New York Giants, 4–1) |
+| **Venue** | Shibe Park (Home) |
+| **Significance** | Established baseball's first modern dynasty; marked the rise of Philadelphia as a dominant sports hub in the early 20th century. |
+
+---
+
+### Lead section
+
+The Philadelphia Athletics World Series victories of the early 20th century—specifically their championship titles in 1910, 1911, and 1913—represent one of the most dominant eras in Major League Baseball (MLB) history. Under the leadership of manager and partial team owner Cornelius McGillicuddy (famously known as Connie Mack), the Athletics established the sport's first modern dynasty. Operating out of North Philadelphia, the franchise captured three World Series titles in a four-year span, cementing the city’s status as an epicenter of professional American sports during the Progressive Era.
+
+The foundation of this championship run lay in Mack’s deliberate strategy of scouting young talent, constructing a balanced defensive and offensive roster, and securing the financial backing of team co-owner Benjamin Shibe. A crucial catalyst for this success was the opening of Shibe Park in 1909 at 21st Street and Lehigh Avenue. As baseball's first steel-and-concrete stadium, Shibe Park provided the franchise with unprecedented fan capacity and financial stability, enabling Mack to assemble and retain world-class talent, most notably the legendary "$100,000 Infield" consisting of Stuffy McInnis, Eddie Collins, Jack Barry, and Frank "Home Run" Baker.
+
+The Athletics' championship run began in 1910 with a decisive five-game victory over the Chicago Cubs, ending the Cubs' own period of dominance. In 1911, Philadelphia defeated John McGraw's formidable New York Giants in a six-game series highlighted by Baker’s crucial postseason home runs. After a second-place finish in 1912, the Athletics returned to the World Series in 1913, once again defeating the Giants in five games. Throughout these championship campaigns, the Athletics relied on a pitching staff led by hall-of-fame arms Charles "Chief" Bender, Eddie Plank, and Jack Coombs, whose postseason consistency complemented the team’s high-powered offensive production.
+
+The victories brought immense civic pride to Philadelphia, a city undergoing rapid industrial expansion and urban growth during the early decades of the twentieth century. The Athletics' early victories established standards for team building, venue infrastructure, and tactical management in professional baseball. Although financial pressures and rival leagues ultimately forced Mack to dismantle the roster following the 1914 season, the 1910–1913 championship era remains a defining chapter in Philadelphia sports history and early American popular culture.
+
+---
+
+### Background
+
+The origins of the Philadelphia Athletics’ early 20th-century dynasty trace back to the founding of the American League (AL) as a major league in 1901. Connie Mack, a former major league catcher and manager of the Western League's Milwaukee club, was recruited by American League president Ban Johnson to establish a franchise in Philadelphia to compete directly with the National League's (NL) Philadelphia Phillies. Mack secured financial backing from manufacturing magnate Benjamin Shibe, who took majority ownership while Mack managed baseball operations and retained a minority stake. 
+
+In their inaugural years, the Athletics quickly established competitiveness, capturing American League pennants in 1902 and 1905. However, their 1905 World Series appearance ended in defeat against John McGraw’s New York Giants, who shut out Philadelphia in four victories. Following this setback, Mack recognized the necessity of constructing a younger, more resilient roster capable of sustained success. He shifted his organizational strategy toward recruiting collegiate athletes and promising minor league prospects, laying the foundation for the club's future championship core.
+
+```
+       [ Benjamin Shibe ] -------------> [ Capital / Shibe Park (1909) ]
+              |                                       |
+              v                                       v
+       [ Connie Mack ] --------------> [ Dynasty Era (1910–1913) ]
+              |                                       |
+              +---> [ Scouting & Development ] -------> [ "$100,000 Infield" & Elite Pitching ]
+```
+
+A pivotal transformation occurred in 1909 with the construction of Shibe Park in North Philadelphia. Prior to Shibe Park, professional baseball teams played primarily in wooden ballparks vulnerable to fire and structural degradation, such as the Athletics' previous home, Columbia Park. Shibe Park was designed as a modern, fireproof structure featuring ornate French Renaissance architectural elements, a domed tower for front-office operations, and seating for more than 20,000 spectators. The stadium not only elevated the fan experience but also generated substantial revenue streams that allowed Mack to maintain high team payrolls during an era of rapidly escalating player salaries.
+
+By 1910, Mack’s long-term player development strategy had matured. The infielder lineup—consisting of first baseman Stuffy McInnis, second baseman Eddie Collins, shortstop Jack Barry, and third baseman Frank "Home Run" Baker—was recognized for its defensive precision and offensive versatility, earning the nickname the "$100,000 Infield" from sportswriters. Complementing this infield was a formidable pitching rotation anchored by Native American pitcher Charles "Chief" Bender, veteran left-hander Eddie Plank, and right-hander Jack Coombs. Together, this combination of elite facilities, strategic ownership, and dynamic talent positioned the Athletics to dominate the Major Leagues.
+
+---
+
+### Course of events
+
+#### The 1910 World Series: Victory over the Chicago Cubs
+The Philadelphia Athletics entered the 1910 World Series after winning the American League pennant with a 102–48 record. Their opponents, the Chicago Cubs, had dominated the National League for half a decade, winning three consecutive NL pennants from 1906 to 1908. The series opened on October 17, 1910, at Shibe Park. In Game 1, Chief Bender pitched a complete game, allowing only three hits and striking out eight batters in a 4–1 victory. 
+
+Jack Coombs delivered a dominant performance in Game 2, leading the Athletics to a 9–3 win. As the series shifted to West Side Park in Chicago, Coombs pitched again in Game 3, securing a 12–5 victory while adding three hits of his own at the plate. Although the Cubs managed to win Game 4 in ten innings, Coombs returned to pitch Game 5 on October 23, securing his third victory of the series in a 7–2 triumph. The Athletics claimed the series four games to one, delivering Philadelphia its first modern World Series title.
+
+```
+1910 World Series Summary:
+Game 1: Philadelphia 4, Chicago 1  (W: Bender)
+Game 2: Philadelphia 9, Chicago 3  (W: Coombs)
+Game 3: Philadelphia 12, Chicago 5 (W: Coombs)
+Game 4: Chicago 4, Philadelphia 3  (10 inn.)
+Game 5: Philadelphia 7, Chicago 2  (W: Coombs)
+Result: Philadelphia wins 4–1
+```
+
+#### The 1911 World Series: Rematch with the New York Giants
+In 1911, the Athletics captured another AL pennant with 101 wins, setting up a high-profile World Series rematch against John McGraw's New York Giants. The series became famous for the offensive heroics of third baseman Frank Baker. In Game 2 at Shibe Park, with the series tied 1–1, Baker broke a sixth-inning tie with a two-run home run off Giants pitcher Rube Marquard, driving the Athletics to a 3–1 victory. 
+
+In Game 3 at the Polo Grounds in New York, Baker struck again in the ninth inning, hitting a dramatic game-tying home run off legendary Giants starter Christy Mathewson; Philadelphia went on to win 3–2 in eleven innings. Baker’s back-to-back clutch home runs earned him the permanent moniker "Home Run Baker." After weather delays stretched the series over nearly two weeks, the Athletics closed out the Giants in Game 6 at Shibe Park on October 26 with a decisive 13–2 victory, securing back-to-back championships.
+
+#### The 1913 World Series: Third Championship in Four Years
+After finishing second to the Boston Red Sox in 1912, the Athletics reclaimed the AL pennant in 1913 with a 96–57 record and met the New York Giants in the World Series for the third time in nine years. Philadelphia established control early in the series. In Game 1 at the Polo Grounds, Chief Bender pitched a complete game in a 6–4 victory, aided by three hits and three RBIs from second baseman Eddie Collins.
+
+After Christy Mathewson pitched a 10-inning shutout for the Giants in Game 2, the Athletics won the remaining games. Game 3 saw game-winning offensive production from Collins and Baker in an 8–2 road win behind rookie pitcher Bullet Joe Bush, while Chief Bender pitched the Athletics to a 6–5 victory in Game 4. Eddie Plank pitched a complete-game two-hitter in Game 5 at the Polo Grounds on October 11, securing a 3–1 win and sealing the Athletics' third World Series title in four seasons.
+
+```
+Summary of Early 20th Century Athletics World Series Titles:
++------+-------------------+-------------------+---------------+
+| Year | Opponent          | Series Result     | Key Pitchers  |
++------+-------------------+-------------------+---------------+
+| 1910 | Chicago Cubs      | Won, 4–1          | Coombs (3–0)  |
+| 1911 | New York Giants   | Won, 4–2          | Bender, Plank |
+| 1913 | New York Giants   | Won, 4–1          | Bender, Plank |
++------+-------------------+-------------------+---------------+
+```
+
+---
+
+### Aftermath
+
+The success of the 1910–1913 Athletics established Connie Mack as one of the preeminent figures in American sports management. However, the championship run came to an abrupt end following the 1914 World Series, in which the Athletics were unexpectedly swept in four games by the Boston "Miracle" Braves. The defeat, combined with rapidly shifting economic realities within professional baseball, prompted Mack to execute the first of two famous roster breakups during his 50-year tenure as Athletics manager.
+
+The emergence of the rival Federal League in 1914 inflated player salaries across Major League Baseball, as the new league attempted to lure star players away with lucrative contract offers. Unable and unwilling to match these escalating financial demands, Mack sold or released key members of his championship core. Star second baseman Eddie Collins was sold to the Chicago White Sox, home run hero Frank Baker sat out the 1915 season before being traded to the New York Yankees, and star pitchers Chief Bender and Eddie Plank departed for the Federal League. As a result, the Athletics plummeted to the bottom of the American League standings, enduring a period of competitive struggle throughout the late 1910s and early 1920s.
+
+Despite the rapid dismantling of the roster, the legacy of the 1910–1913 victories left an enduring mark on Philadelphia's cultural and physical landscape. Shibe Park remained the centerpiece of Philadelphia baseball for decades, eventually hosting both the Athletics and the Phillies after the Phillies moved into the venue as tenants in 1938. The stadium was later renamed Connie Mack Stadium in 1953 in honor of the long-serving manager. Mack would build a second championship dynasty at Shibe Park in the late 1920s, winning World Series titles in 1929 and 1930.
+
+Historically, the early 20th-century Athletics championships served as a benchmark for early professional sports dynasties. The franchise's success established tactical norms—such as Mack’s pioneering use of hit-and-run plays, defensive shifts guided by scorecards, and strategic pitch rotation—that influenced major league operations for generations. Although the Athletics eventually relocated to Kansas City in 1955 and later to Oakland in 1968, their early championships in Philadelphia remain celebrated as a high point in North Philadelphia's urban and sporting heritage.
+
+---
+
+### See also
+
+* Shibe Park (Connie Mack Stadium)
+* Connie Mack
+* History of Philadelphia
+* Sports in Philadelphia
+* Philadelphia Athletics (1929–1931 dynasty)
+
+---
+
+### References
+
+1. Encyclopedia of Greater Philadelphia. "Philadelphia Athletics." https://philadelphiaencyclopedia.org/essays/philadelphia-athletics/
+2. Encyclopedia of Greater Philadelphia. "Shibe Park / Connie Mack Stadium." https://philadelphiaencyclopedia.org/essays/shibe-park-connie-mack-stadium/

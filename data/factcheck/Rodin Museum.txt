@@ -1,0 +1,6 @@
+* **Infobox ("Mediums Featured")**: Replaced "Bronze, limestone, concrete" with "Bronze, plaster, marble". Limestone and concrete are architectural elements of the building and pedestal, whereas bronze, plaster, and marble represent the artistic mediums featured in Rodin's artwork collection.
+* **Lead Section**: Corrected grammatical typo from "comprehensive collection" to "comprehensive collections".
+* **Section 5 ("Cultural Significance" – *The Gates of Hell* figures)**: 
+  * Corrected the location of *Count Ugolino and his Sons* from the left door to the lower portion of the **right door**.
+  * Corrected the description of *Paolo and Francesca*, who are positioned on the **left door** rather than "beneath Ugolino".
+  * Removed the bullet point describing a "Rodin's Self-Portrait" figure on the base of the right-hand jamb. No such separate self-portrait figure exists on the door's jamb (*The Thinker* itself on the tympanum is historically regarded as representing Dante and/or Rodin contemplating his work).

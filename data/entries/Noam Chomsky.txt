@@ -1,0 +1,93 @@
+# Noam Chomsky
+
+| **Avram Noam Chomsky** | |
+| :--- | :--- |
+| **Born** | December 7, 1928 (age 95)<br>Philadelphia, Pennsylvania, U.S. |
+| **Alma mater** | University of Pennsylvania (B.A., M.A., Ph.D.) |
+| **Academic Discipline** | Linguistics, Cognitive Science, Philosophy |
+| **Institutions** | Massachusetts Institute of Technology (MIT)<br>University of Arizona |
+| **Known for** | Transformational-generative grammar<br>Universal grammar<br>Chomsky hierarchy<br>Cognitive revolution<br>Propaganda model (*Manufacturing Consent*) |
+| **Key Influences** | Zellig Harris, William Chomsky, Rudolf Carnap |
+| **Philadelphia Connections** | East Oak Lane neighborhood<br>Oak Lane Country Day School<br>Central High School<br>University of Pennsylvania |
+
+## Lead section
+
+**Avram Noam Chomsky** (born December 7, 1928) is an American linguist, philosopher, cognitive scientist, historical essayist, social critic, and political activist. Widely regarded as the "father of modern linguistics," Chomsky is one of the central figures in cognitive science and analytical philosophy. His intellectual development, early political education, and academic training were profoundly shaped by his upbringing in Philadelphia, Pennsylvania, where he spent his formative years before moving to Cambridge, Massachusetts in 1951. 
+
+Born to Jewish immigrant parents in North Philadelphia, Chomsky grew up in the East Oak Lane neighborhood during the Great Depression. His early exposure to the city’s vibrant radical political culture, working-class activism, and intellectual traditions helped form the foundation of his lifelong anti-authoritarianism and social criticism. His father, Dr. William Chomsky, was a prominent Hebrew scholar and long-time faculty member at Philadelphia’s Gratz College, instilling in young Noam a rigorous structural interest in language from an early age.
+
+Chomsky completed his entire formal education in Philadelphia, attending the experimental Oak Lane Country Day School, Central High School, and the University of Pennsylvania. At Penn, under the tutelage of linguist Zellig S. Harris—also a key figure in Philadelphia’s left-wing intellectual circles—Chomsky developed the conceptual framework of transformational-generative grammar. This theoretical innovation revolutionized the study of human language, shifting linguistics from a descriptive behaviorist discipline into a branch of cognitive psychology focused on innate human faculties.
+
+Beyond his contributions to linguistics, Chomsky gained international prominence as a public intellectual and political dissident starting in the 1960s with his opposition to the Vietnam War. Over subsequent decades, he published dozens of books analyzing foreign policy, media apparatuses, and state power, notably co-authoring *Manufacturing Consent: The Political Economy of the Mass Media* (1988). Despite spending much of his professional career at the Massachusetts Institute of Technology (MIT), Chomsky’s analytical methodology and radical democratic outlook remain deeply tied to his Philadelphia heritage.
+
+---
+
+## Early life and education
+
+Noam Chomsky was born on December 7, 1928, in Philadelphia, Pennsylvania. He was the elder son of William (Ze'ev) Chomsky and Elsie Simonofsky, both Jewish immigrants who had fled persecution in the Russian Empire. William Chomsky had arrived in the United States in 1913, settling in Philadelphia, where he worked in sweatshops before earning his degree and becoming a distinguished professor of Hebrew grammar at Gratz College in Philadelphia (having earned his Ph.D. from Dropsie College). Elsie Simonofsky taught at the Mikveh Israel religious school in the city. The family lived in the East Oak Lane neighborhood of North Philadelphia, an area characterized by a vibrant Jewish community with diverse political and cultural leanings.
+
+Chomsky's early schooling took place at the Oak Lane Country Day School, an experimental progressive institution operated by Temple University. The school prioritized student autonomy, creative expression, and non-competitive learning environments, which Chomsky later credited with fostering his lifelong self-directed intellectual curiosity. However, upon entering Central High School—a prestigious, academically rigorous public high school in Philadelphia—in 1941, Chomsky experienced a stark contrast in educational philosophy. At Central High (Batch 184), he excelled academically while simultaneously engaging with political literature outside the classroom.
+
+During the 1930s and early 1940s, Philadelphia was home to an active working-class left-wing political scene. Chomsky frequently travelled into Center City Philadelphia to visit working-class relatives who ran newsstands and left-wing bookstores near 8th Street. There, he absorbed anarchist literature, anti-fascist pamphlets, and critiques of both Western capitalism and Soviet Bolshevism. At age ten, while attending school in Philadelphia, Chomsky wrote his first major political essay, focusing on the fall of Barcelona during the Spanish Civil War and the threat of rising fascism in Europe.
+
+In 1945, at the age of sixteen, Chomsky enrolled at the University of Pennsylvania (Penn). Initially disillusioned by the rigid academic curriculum, he considered dropping out to move to Mandatory Palestine to work on an Arab-Jewish cooperative kibbutz. However, his trajectory changed when he met Zellig S. Harris, a professor who had founded Penn's linguistics department—the first formal department of its kind in an American university. Harris was a brilliant linguist and a committed libertarian socialist who shared Chomsky’s political sympathies. Under Harris’s mentorship, Chomsky pursued a tailored course of study combining linguistics, mathematics, and philosophy. He completed his Bachelor of Arts at Penn in 1949 with a thesis titled *Morphophonemics of Modern Hebrew*, earned his Master of Arts in 1951, and received his Doctor of Philosophy in linguistics in 1955.
+
+---
+
+## Career
+
+Chomsky began his formal academic career while completing his doctorate. From 1951 to 1955, he was appointed a Junior Fellow in the Society of Fellows at Harvard University, where he conducted the research that formed his doctoral dissertation, *Transformational Analysis*. Submitting the work to the University of Pennsylvania in 1955, he was awarded his Ph.D., though his theoretical ideas diverged sharply from the structuralist consensus held by conventional linguists at the time.
+
+In 1955, Chomsky was hired as an assistant professor at the Massachusetts Institute of Technology (MIT) in Cambridge, Massachusetts. Two years later, he published *Syntactic Structures* (1957), a concise monograph derived from his lecture notes at MIT and his Penn doctoral research. *Syntactic Structures* challenged the prevailing behaviorist paradigm advocated by figures such as B.F. Skinner. Chomsky argued that human language cannot be explained through conditioned responses, but rather relies on an innate, universal system of rules—a "Universal Grammar"—hardwired into the human brain. This work sparked the "Chomskyan Revolution" in linguistics and served as a catalyst for the broader cognitive revolution in psychology and philosophy.
+
+```
+                  [ Universal Grammar (Innate Human Faculty) ]
+                                      │
+                                      ▼
+             [ Generative Grammar Rules / Transformations ]
+                                      │
+                                      ▼
+           [ Surface Structure of Human Speech / Syntax ]
+```
+
+Throughout the 1960s, Chomsky solidified his theoretical models in works such as *Aspects of the Theory of Syntax* (1965) and *Cartesian Linguistics* (1966). Concurrently, he became one of the nation's leading voices against the United States' involvement in the Vietnam War. His seminal 1967 essay, "The Responsibility of Intellectuals," published in *The New York Review of Books*, criticized the academic and political elite for providing moral and technical cover for state violence.
+
+Over the ensuing decades, Chomsky maintained a dual career as a pioneering theoretical linguist and an influential political theorist. With co-author Edward S. Herman, he developed the "propaganda model" of media critique in *Manufacturing Consent: The Political Economy of the Mass Media* (1988), analyzing how structural economic forces, corporate ownership, and government reliance shape news coverage. Chomsky remained on the faculty at MIT for over six decades, eventually holding the title of Institute Professor Emeritus, before joining the faculty at the University of Arizona in 2017.
+
+---
+
+## Personal life
+
+In 1949, while still an undergraduate student at the University of Pennsylvania, Chomsky married Carol Doris Schatz. The two had known each other since childhood in Philadelphia, as their families moved in similar cultural and political circles in East Oak Lane. Carol Chomsky was herself an accomplished educational linguist and specialist in early childhood language acquisition, earning her doctorate from Harvard University. The couple remained married for fifty-nine years until Carol’s death from cancer in 2008.
+
+Together, Noam and Carol Chomsky had three children: Aviva (born 1957), a historian and professor of Latin American history; Diane (born 1960); and Harry (born 1967). Despite relocating to Massachusetts for his career at MIT, Chomsky maintained close personal and familial ties to the Philadelphia metropolitan area, frequently visiting relatives and returning for guest lectures and academic symposia at his alma mater, Penn. In 2014, Chomsky married Brazilian translator Valeria Wasserman. 
+
+---
+
+## Legacy
+
+Chomsky's intellectual legacy is twofold, spanning the cognitive sciences and modern political discourse. In linguistics, his formulation of transformational-generative grammar transformed language study from an empirical cataloging of spoken utterances into a scientific inquiry into the cognitive architecture of the human mind. His theoretical constructs—such as the Chomsky hierarchy in computer science and the concept of a Language Acquisition Device (LAD) in psychology—fundamentally reshaped field methodology across logic, artificial intelligence, and neuroscience. He is consistently listed among the most cited scholars in modern history.
+
+Within Philadelphia's historical narrative, Chomsky stands as one of the most prominent academic figures produced by the city's public education system and public university institutions. His scholarly approach reflects the distinctive intellectual ecosystem of mid-20th-century Philadelphia: a synthesis of progressive educational experimentation (Oak Lane Country Day School), elite civic public scholarship (Central High School), and pioneering structural linguistics combined with radical political thought (the University of Pennsylvania under Zellig Harris). 
+
+Chomsky's work is celebrated across academic institutions in Philadelphia, where archival collections, public lectures, and dedicated linguistic research programs continue to draw upon his foundational contributions to cognitive theory and political philosophy.
+
+---
+
+## See also
+
+* University of Pennsylvania
+* Central High School (Philadelphia)
+* Zellig Harris
+* East Oak Lane, Philadelphia
+* Dropsie College for Hebrew and Cognate Learning
+* Transformational-generative grammar
+* History of linguistics in Philadelphia
+
+---
+
+## References
+
+1. The Philadelphia Inquirer. *Noam Chomsky: From East Oak Lane and Central High to Penn and World Fame.* https://www.inquirer.com/news/columnists/noam-chomsky-philadelphia-east-oak-lane-central-high-penn-20240625.html
+2. The Philadelphia Inquirer. *Noam Chomsky Returns to Penn, His Alma Mater.* https://www.inquirer.com/education/noam-chomsky-returns-to-penn-his-alma-mater-20131025.html
+3. WHYY. *Noam Chomsky on His Philadelphia Childhood and the State of the World.* https://whyy.org/segments/noam-chomsky-on-his-philadelphia-childhood-and-the-state-of-the-world/

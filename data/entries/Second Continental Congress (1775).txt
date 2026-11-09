@@ -1,0 +1,146 @@
+# Second Continental Congress (1775)
+
+## 1. Infobox
+
+| **Second Continental Congress** | |
+| :--- | :--- |
+| **Date** | May 10, 1775 – March 1, 1781 (succeeded by Congress of the Confederation) |
+| **Location** | Pennsylvania State House (Independence Hall), Philadelphia, Pennsylvania |
+| **Preceded by** | First Continental Congress (1774) |
+| **Succeeded by** | Congress of the Confederation (1781) |
+| **Presiding Officers** | Peyton Randolph, John Hancock, Henry Laurens, John Jay, Samuel Huntington |
+| **Key Participants** | George Washington, Thomas Jefferson, Benjamin Franklin, John Adams, Samuel Adams, John Dickinson, Silas Deane |
+| **Key Accomplishments** | Created the Continental Army; appointed George Washington Commander-in-Chief; issued Continental currency; authorized the Olive Branch Petition (1775); adopted the Declaration of Independence (1776); drafted the Articles of Confederation (1777) |
+
+---
+
+## 2. Lead Section
+
+The Second Continental Congress was a convention of delegates from the Thirteen Colonies that convened in Philadelphia, Pennsylvania, on May 10, 1775. Meeting in the Pennsylvania State House (later known as Independence Hall), it succeeded the First Continental Congress, which had met briefly between September and October 1774 at Carpenters' Hall. While the first assembly came together primarily to petition the British Crown and coordinate non-importation boycotts in response to the Coercive Acts, the assembly of the Second Continental Congress coincided with the outbreak of open armed conflict between colonial militiamen and imperial forces at the Battles of Lexington and Concord on April 19, 1775. 
+
+Initially operating without formal statutory authority, the Second Continental Congress rapidly assumed the functions of a de facto national government. To respond to the military crisis in New England, the assembly established the Continental Army in June 1775 and appointed Virginian delegate George Washington as supreme commander. To finance the war effort, Congress authorized the printing of paper currency and established administrative bodies, including a standing committee tasked with managing relations with foreign powers. 
+
+Despite military preparation, the delegatory body was initially divided over the ultimate political goal of the resistance. Moderate leaders, such as Pennsylvania delegate John Dickinson, sought reconciliation with Great Britain, leading to the drafting of the Olive Branch Petition in July 1775. However, after King George III refused to receive the petition and issued the Proclamation of Rebellion—declaring the colonies in open treason and hiring Hessian mercenaries to restore imperial authority—the balance of political influence tilted decisively toward radical delegates advocating total separation, led by figures such as John Adams, Samuel Adams, and Thomas Jefferson.
+
+On July 2, 1776, the Congress formally voted in favor of independence from Great Britain, adopting the Declaration of Independence two days later on July 4. Following the declaration, the Second Continental Congress managed the American Revolutionary War effort and drafted the nation’s first legal constitutional framework, the Articles of Confederation, in 1777. The assembly continued to govern the newly proclaimed nation from Philadelphia—punctuated by temporary evacuations during the British occupation of the city in 1777–1778—until the Articles of Confederation were fully ratified in March 1781, at which point it transitioned into the Congress of the Confederation.
+
+---
+
+## 3. Background
+
+Tensions between the British Parliament and the American colonies intensified rapidly following the conclusion of the Seven Years’ War in 1763. The imposition of parliamentary revenue measures, beginning with the Stamp Act of 1765, provoked widespread constitutional resistance across the colonies. In 1774, Parliament enacted the Coercive Acts (termed the "Intolerable Acts" in America) to punish Massachusetts for the Boston Tea Party. These measures suspended Massachusetts’ charter government, closed the Port of Boston, and increased the quartering of imperial forces. Though targeted at one colony, the acts sparked widespread fear that British authorities were systematically dismantling English constitutional liberties throughout North America.
+
+In response, twelve of the thirteen colonies dispatched delegates to Philadelphia in September 1774 to form the First Continental Congress. Georgia, embroiled in border conflicts with Creek Native Americans and reliant on royal troops, did not send representatives. Meeting at Carpenters' Hall—a choice driven by political maneuverings to avoid the Pennsylvania State House, where the loyalist-leaning Pennsylvania Provincial Assembly sat—the First Congress debated strategies of resistance. Moderates like Pennsylvania Assembly Speaker Joseph Galloway urged caution, proposing a "Plan of Union" that sought political compromise under a colonial council and a crown-appointed President-General. However, the arrival of the radical Suffolk Resolves from Boston prompted the rejection of Galloway’s plan by a narrow margin. Before adjourning in October 1774, delegates established "The Association," a continental non-importation agreement, and resolved to reconvene in May 1775 if their grievances were not addressed by the Crown.
+
+```
+       [Seven Years' War Ends (1763)]
+                     │
+         [Stamp Act Crisis (1765)]
+                     │
+    [Coercive / Intolerable Acts (1774)]
+                     │
+    [First Continental Congress (1774)]
+     ── Meets at Carpenters' Hall
+     ── Passes "The Association" boycott
+     ── Rejects Galloway's Plan of Union
+                     │
+ [Battles of Lexington & Concord (Apr 1775)]
+                     │
+   [Second Continental Congress Convened]
+           (May 10, 1775, PA State House)
+```
+
+The political context fundamentally transformed on April 19, 1775, when British regulars exchanged fire with Massachusetts militiamen at Lexington and Concord. Unlike the philosophical and commercial debates that defined the First Congress, the delegates gathering for the Second Continental Congress were forced to address active warfare. British army units were under orders to seize colonial munitions and arrest patriot figures, resulting in casualties among American minutemen.
+
+Philadelphia was chosen as the convening venue due to its position as the largest port city and commercial hub in British North America. The city offered superior infrastructure, professional services, and public buildings capable of supporting an assembly, such as the Pennsylvania Hospital, the British Barracks in Northern Liberties, and the Walnut Street Prison. Furthermore, delegates benefited from the municipal resources of the Library Company of Philadelphia at Carpenters' Hall, founded by delegate Benjamin Franklin in 1731. Delegates were hosted in the grand residences of Philadelphia's elite class, such as John Cadwalader's Second Street estate, and gathered in private social institutions including the Schuylkill Fishing Company (established in 1732). 
+
+Unlike the 1774 meeting, the 1775 Congress convened inside the Pennsylvania State House. Shifts in local political sentiment and the escalation of hostilities rendered the State House available for the continental delegation, positioning Philadelphia as the political and administrative center of the American rebellion.
+
+---
+
+## 4. Course of Events
+
+The Second Continental Congress convened at the Pennsylvania State House on May 10, 1775. Delegates representing all thirteen colonies eventually took their seats, with Georgia sending a delegation later that summer. Peyton Randolph of Virginia was initially re-elected president of the body, but upon his departure due to provincial duties, John Hancock of Massachusetts assumed the presidency. The assembly was bolstered by the arrival of prominent figures who had not attended the First Congress, notably Benjamin Franklin, recently returned from his diplomatic mission in London, and Thomas Jefferson of Virginia.
+
+```
++-------------------------------------------------------------------------+
+|                  SECOND CONTINENTAL CONGRESS (1775–1776)               |
++-------------------------------------------------------------------------+
+|                                                                         |
+|  [Military & Administrative Governance]    [Diplomatic Reconciliation]  |
+|  • Est. Continental Army (June 1775)       • Olive Branch Petition      |
+|  • Appointed Washington Supreme Cmdr.        (July 1775)                |
+|  • Issued Continental currency             • Rejected by King George III|
+|  • Est. Foreign Affairs Committee            (August 1775)              |
+|                                                                         |
++-------------------------------------------------------------------------+
+                                    │
+                                    ▼
++-------------------------------------------------------------------------+
+|                       THE PIVOT TO INDEPENDENCE                         |
+|  • Hiring of Hessian mercenaries pushes moderate delegates to radicalism |
+|  • Thomas Jefferson drafts Declaration of Independence                  |
+|  • Congress votes for Independence (July 2, 1776) / Adopts (July 4)     |
++-------------------------------------------------------------------------+
+```
+
+Faced with an ongoing siege of British-occupied Boston, Congress moved to transform colonial forces into an organized military entity. In June 1775, Congress voted to adopt the New England militia forces surrounding Boston as the Continental Army. On June 15, Congress unanimously elected George Washington as Commander-in-Chief of all continental forces. Washington accepted the commission and chose to serve without a salary. To maintain the armed forces, Congress began issuing paper currency ("Continentals") and established administrative institutions, including a post office system managed by Franklin and a standing committee to manage secret foreign affairs.
+
+Despite military mobilization, deep ideological divisions persisted within the chamber throughout 1775. Moderate delegates, led by Pennsylvania’s John Dickinson, argued that the conflict resulted from misguided parliamentary advisers rather than royal malice, and pressed for continued efforts at reconciliation. In July 1775, Congress approved the Olive Branch Petition, written by Dickinson after an initial draft by Jefferson. The document affirmed colonial loyalty to King George III and implored the monarch to intervene to stop further bloodshed. Concurrently, Congress issued the *Declaration of the Causes and Necessity of Taking Up Arms*.
+
+The prospect of reconciliation collapsed later that year. King George III refused to read the Olive Branch Petition, viewing the Continental Congress as an illegal assembly acting in open rebellion. In August 1775, the Crown issued the Proclamation of Rebellion, ordering imperial officials to suppress the American uprising. British authorities also signed agreements with German principalities to contract Hessian mercenaries to enforce imperial authority. The news of Hessian deployment, arriving in late 1775 and early 1776, alienated moderate delegates and bolstered the faction pushing for complete separation.
+
+By the spring of 1776, public opinion and congressional debates shifted toward independence, spurred by published works such as Thomas Paine's *Common Sense*. In June 1776, Virginia delegate Richard Henry Lee introduced a resolution asserting that the colonies "are, and of right ought to be, free and independent States." Congress appointed a Committee of Five—comprising Thomas Jefferson, John Adams, Benjamin Franklin, Roger Sherman, and Robert R. Livingston—to draft a formal declaration. Jefferson prepared the initial text, drawing from creative drafts and colonial constitutional philosophy. After debates and revisions by the broader assembly, Congress voted in favor of Lee's resolution for independence on July 2, 1776, and formally adopted the Declaration of Independence on July 4, 1776.
+
+---
+
+## 5. Aftermath
+
+Following the adoption of the Declaration of Independence, the Second Continental Congress transitioned from an interim convention into the recognized legal government of the sovereign United States of America. Philadelphia retained its role as the national capital, serving as the nerve center for war direction, diplomatic communications with European powers, and state-building efforts.
+
+```
+       [Declaration of Independence (July 1776)]
+                           │
+    [British Capture Philadelphia (Fall 1777)]
+                           │
+  [Congress Flees: Lancaster, York, Baltimore, etc.]
+                           │
+       [Articles of Confederation Drafted (1777)]
+                           │
+    [British Evacuate; Congress Returns (1778)]
+                           │
+   [Articles Fully Ratified → New Government (1781)]
+                           │
+      [U.S. Constitution Adjourns Congress (1789)]
+```
+
+The military challenges of the Revolutionary War directly impacted the operations of the assembly. Congress was forced to relocate on several occasions due to wartime threats. In December 1776, facing potential British invasion during the New Jersey Campaign, Congress temporarily moved to Baltimore, Maryland, returning to Philadelphia in March 1777. Later, in the fall of 1777, following British victories at the Battle of Brandywine and across the Philadelphia Campaign, imperial forces occupied Philadelphia. The Continental Congress evacuated the city, fleeing first to Lancaster for a single day on September 27, 1777, and then establishing operations in York, Pennsylvania, through June 1778. During the nine-month British occupation of Philadelphia, the Pennsylvania State House was repurposed by occupying imperial troops. Congress returned to Philadelphia in 1778 after the British army evacuated the city, resuming its governance from the capital until 1781.
+
+To construct a permanent legal framework for the union, Congress drafted the Articles of Confederation in November 1777. The document established a "firm league of friendship" among the thirteen sovereign states, deliberate in its limitation of centralized federal power. Due to disputes over western land claims, the Articles were not fully ratified by all states until March 1, 1781. Upon full ratification, the Second Continental Congress formally dissolved and reconstituted itself as the Congress of the Confederation.
+
+The structural limitations of the government established by the Second Continental Congress—particularly its inability to levy national taxes, regulate commerce, or enforce currency stability—left the Confederation government largely bankrupt at the conclusion of the Revolutionary War. These systemic deficiencies led to the convening of the Constitutional Convention at the Pennsylvania State House in 1787. Following the ratification of the United States Constitution in September 1788, the old institutional framework was phased out. The legislative legacy of the Continental Congress ended on March 2, 1789, in New York City, when its final remaining member, Philip Pell of New York, adjourned the body *sine die*.
+
+---
+
+## 6. See Also
+
+* Articles of Confederation
+* Carpenters' Hall
+* Common Sense (pamphlet)
+* Constitutional Convention (United States)
+* Declaration of Independence
+* First Continental Congress
+* Independence Hall
+* Olive Branch Petition
+* Pennsylvania Campaign (Philadelphia Campaign)
+* Pennsylvania State House
+
+---
+
+## 7. References
+
+1. Encyclopedia of Greater Philadelphia. "Continental Congresses." https://philadelphiaencyclopedia.org/archive/continental-congresses/
+2. Independence Hall Association (ushistory.org). "Second Continental Congress." https://www.ushistory.org/us/10e.asp
+3. Independence Hall Association (ushistory.org). "First Continental Congress." https://www.ushistory.org/declaration/related/congress.html
+4. National Constitution Center. "The Second Continental Congress Begins in Philadelphia." https://constitutioncenter.org/blog/the-second-continental-congress-begins-in-philadelphia
+5. Encyclopedia of Greater Philadelphia. "Continental Congresses (Essay)." https://philadelphiaencyclopedia.org/essays/continental-congresses/

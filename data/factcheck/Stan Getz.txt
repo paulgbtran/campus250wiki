@@ -1,0 +1,2 @@
+* **Discography ASCII Table Header Typo:** Fixed spelling from `SELECTED DISCOGRAHPY HIGHLIGHTS` to `SELECTED DISCOGRAPHY HIGHLIGHTS`.
+* **Legacy Section (Grammy Awards Count):** Corrected the count of Grammy Awards won by Stan Getz from "eleven Grammy Awards" to "five Grammy Awards" (he won five Grammys over his career: 1963, three in 1965, and one posthumously in 1992).

@@ -13,6 +13,8 @@ import urllib3
 import os
 import sys
 import time
+import re
+from html.parser import HTMLParser
 from pathlib import Path
 rootDir = Path(__file__).parent.parent.parent
 sys.path.append(str(rootDir / "scripts"))
@@ -115,23 +117,76 @@ def loadLinks(topic: str) -> list[str]:
     Loads the URLs for a given topic from the search directory.
     """
     try:
-        with open(rootDir / "data" / "search" / f"{topic}.txt", "r", encoding="utf-8") as f:
+        with open(rootDir / "data" / "search" / f"{gemini_utils.sanitize_filename(topic)}.txt", "r", encoding="utf-8") as f:
             return [line.strip() for line in f if line.strip()]
     except Exception as e:
         print(f"Error loading links for {topic}: {e}")
         return []
 
+class HTMLTextExtractor(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.reset()
+        self.fed = []
+        self.skip = False
+        self.skip_tags = {"script", "style", "noscript", "svg", "head", "iframe"}
+
+    def handle_starttag(self, tag, attrs):
+        if tag.lower() in self.skip_tags:
+            self.skip = True
+
+    def handle_endtag(self, tag):
+        if tag.lower() in self.skip_tags:
+            self.skip = False
+
+    def handle_data(self, d):
+        if not self.skip and d.strip():
+            self.fed.append(d)
+
+    def get_text(self):
+        return " ".join(self.fed)
+
+def extract_text_from_html(html_content: str, max_chars: int = 25000) -> str:
+    """Extracts visible text from HTML, stripping scripts, styles, and markup tags."""
+    try:
+        parser = HTMLTextExtractor()
+        parser.feed(html_content)
+        text = parser.get_text()
+        text = re.sub(r'\s+', ' ', text).strip()
+        return text[:max_chars]
+    except Exception:
+        clean = re.sub(r'<script[^>]*>.*?</script>', ' ', html_content, flags=re.DOTALL | re.IGNORECASE)
+        clean = re.sub(r'<style[^>]*>.*?</style>', ' ', clean, flags=re.DOTALL | re.IGNORECASE)
+        clean = re.sub(r'<[^>]+>', ' ', clean)
+        clean = re.sub(r'\s+', ' ', clean).strip()
+        return clean[:max_chars]
+
+MAX_URLS_PER_TOPIC = 8
+MAX_CHARS_PER_PAGE = 25000
+MAX_TOTAL_INFO_CHARS = 180000
+
 def loadInfo(topic: str) -> list[str]:
     """
-    Loads the information for a given topic from the search directory.
+    Loads text content from the URLs for a given topic from the search directory,
+    stripping HTML markup and capping token usage.
     """
-    http = urllib3.PoolManager()
+    http = urllib3.PoolManager(timeout=urllib3.Timeout(connect=5.0, read=10.0))
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
     info = []
-    for url in loadLinks(topic):
+    links = loadLinks(topic)[:MAX_URLS_PER_TOPIC]
+    total_chars = 0
+
+    for url in links:
+        if total_chars >= MAX_TOTAL_INFO_CHARS:
+            break
         try:
-            response = http.request("GET", url)
-            info.append(response.data.decode("utf-8"))
-            print(f"Successfully loaded {url}. Reading...") # DEBUG
+            response = http.request("GET", url, headers=headers)
+            raw_html = response.data.decode("utf-8", errors="replace")
+            clean_text = extract_text_from_html(raw_html, max_chars=MAX_CHARS_PER_PAGE)
+            if clean_text:
+                info.append(f"--- Source: {url} ---\n{clean_text}")
+                total_chars += len(clean_text)
+                print(f"Successfully loaded and parsed {url} ({len(clean_text)} chars).")
         except Exception as e:
             print(f"Error loading {url}: {e}")
             continue
@@ -166,7 +221,7 @@ def synthesizeData(topic: str) -> None:
         )
         print(f"Successfully synthesized {topic}. Writing to file...") # DEBUG
         os.makedirs(rootDir / "data" / "entries", exist_ok=True)
-        with open(rootDir / "data" / "entries" / f"{topic}.txt", "w", encoding="utf-8") as f:
+        with open(rootDir / "data" / "entries" / f"{gemini_utils.sanitize_filename(topic)}.txt", "w", encoding="utf-8") as f:
             f.write(response.text)
     except Exception as e:
         print(f"Error synthesizing data for {topic}: {e}")
@@ -179,7 +234,7 @@ def main() -> None:
         all_topics = [f[:-4] for f in os.listdir(search_dir) if f.endswith(".txt")]
 
         # ---------------------------------------------------------------------------
-        # Timeout setup — read limit passed by main.py via env var
+        # Timeout setup -- read limit passed by main.py via env var
         # ---------------------------------------------------------------------------
         timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
         start_time  = time.perf_counter()
@@ -192,7 +247,7 @@ def main() -> None:
 
         if timeout_sec:
             print(
-                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"[i] Time limit: {timeout_sec // 60}m -- "
                 f"synthesizing {len(new_topics)} new topic(s) first, "
                 f"then {len(done_topics)} existing topic(s) if time allows."
             )
@@ -202,8 +257,8 @@ def main() -> None:
                 elapsed = time.perf_counter() - start_time
                 if elapsed >= timeout_sec:
                     print(
-                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
-                        "Stopping synthesis — all new topics have been prioritised."
+                        f"\n[!] Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping synthesis -- all new topics have been prioritised."
                     )
                     break
 

@@ -1,0 +1,90 @@
+# Philadelphia General Strike of 1835
+
+## Infobox
+
+| **Philadelphia General Strike of 1835** | |
+| :--- | :--- |
+| **Date** | May 26 – June 1835 |
+| **Location** | Philadelphia, Pennsylvania, U.S. |
+| **Type** | General strike |
+| **Cause** | Demands for a standard 10-hour workday, wage increases, and improved working conditions |
+| **Key Participants** | Schuylkill River coal heavers, craft trades (carpenters, masons, painters, shoemakers, blacksmiths, printers), municipal workers |
+| **Organizing Bodies** | Trades' Union of Philadelphia |
+| **Key Figures** | John Ferral, William English |
+| **Result** | Decisive labor victory; adoption of the 10-hour workday across municipal public works and private trades in Philadelphia |
+| **Significance** | First general strike in United States history |
+
+---
+
+## Lead section
+
+The Philadelphia General Strike of 1835 was a historic work stoppage in Philadelphia, Pennsylvania, recognized by labor historians as the first general strike in the history of the United States. Originating in late May 1835 and reaching its height during the first two weeks of June, the strike brought commercial life, construction, maritime transport, and manufacturing across the city to a virtual standstill. The central demand of the striking workers was the establishment of a standardized ten-hour workday—commonly articulated as working from "six to six" with two hours allotted for meals—without any reduction in daily wages.
+
+The conflict began along the Schuylkill River wharves, where predominantly Irish immigrant coal heavers walked off the job to protest exhausting "sun-to-sun" workdays that often stretched up to fourteen or fifteen hours during the summer months. Their action quickly resonated across Philadelphia’s diverse labor force. Within days, skilled craft artisans, including carpenters, bricklayers, painters, masons, cordwainers (shoemakers), blacksmiths, and printers, joined the walkout in a striking display of cross-trade solidarity coordinated in part by the Trades' Union of Philadelphia.
+
+The strike was characterized by massive, orderly parades, public meetings, and collective bargaining demonstrations that united both skilled artisans and unorganized manual laborers. Labor leaders such as John Ferral utilized effective public rhetoric and disciplined mass action to rally popular support across working-class neighborhoods, successfully neutralizing attempts by conservative merchant elites and employers to portray the strikers as lawless agitators.
+
+The strike concluded in a decisive victory for the labor movement. On June 8, 1835, the Philadelphia City Council capitulated to public pressure and mandated a ten-hour work schedule for all municipal employees. Private master employers quickly followed suit, granting the ten-hour standard alongside wage adjustments across nearly all major urban trades. The outcome solidified Philadelphia’s position as a focal point of early American industrial organizing and catalyzed the broader national movement for shorter working hours throughout the 1830s.
+
+---
+
+## Background
+
+During the early 1830s, Philadelphia was undergoing a rapid transition from an artisanal workshop economy to an early industrial capitalist framework. The expansion of transportation networks, merchant capital, and larger manufacturing shops increased competition and placed heightened pressure on master craftsmen to boost output while controlling labor costs. For working people, this transition manifested in intensifying work rhythms and prolonged operating hours. Traditionally, work schedules were dictated by natural daylight, resulting in summer shifts that routinely lasted from 12 to 15 hours per day.
+
+This grueling regime, known as the "sun-to-sun" system, sparked growing resentment among working-class Philadelphians. Laborers argued that excessive working hours damaged physical health, curtailed family life, and deprived citizens of the leisure necessary for intellectual self-improvement and democratic participation. The call for a ten-hour day—specifying a shift from 6:00 a.m. to 6:00 p.m., with one hour for breakfast and one hour for dinner—became the central rallying cry of the early American labor movement.
+
+Organizational foundations for collective action had been developing in Philadelphia for nearly a decade. The city had previously seen the rise of the Mechanics' Union of Trade Associations in 1827 and the Working Men's Party in the late 1820s. In 1833, local trade societies formed the Trades' Union of Philadelphia, an umbrella city central labor council representing thousands of organized artisans. Led by prominent labor advocates such as weaver John Ferral and shoemaker William English, the Trades' Union provided a structured framework for inter-trade communication, financial relief funds, and coordinated strike strategy.
+
+By the spring of 1835, economic conditions further primed the city for labor unrest. Rising inflation and cost-of-living increases diminished the real value of daily wages, while expanding employment opportunities during the spring business season gave workers greater leverage against employers. When dockworkers on the Schuylkill River initiated their walkout in late May, Philadelphia's organized craft societies were primed to transform a localized dispute into a citywide general strike.
+
+---
+
+## Course of events
+
+The strike commenced on May 26, 1835, when approximately 300 coal heavers working the coal yards along the Schuylkill River wharves struck for a ten-hour day and a wage increase to $1.25 per day. The coal heavers, primarily Irish immigrants performing arduous manual labor unloading anthracite coal from canal boats, faced intense opposition from coal merchants, who threatened to replace them with strikebreakers. In response, the striking coal heavers organized patrols along the docks, marching from yard to yard with green banners to persuade or compel other dock hands to join the strike.
+
+By early June, the coal heavers' stand ignited widespread sympathy across the city’s trade societies. On June 1, house carpenters voted to strike for the ten-hour system, followed immediately by bricklayers, plasterers, painters, and stonecutters. Within days, the movement expanded beyond the building trades to encompass leather dressers, blacksmiths, plumbers, cordwainers, cigar makers, saddlers, machine makers, and printers. Even unorganized day laborers and city street sweepers abandoned their duties, creating an unprecedented shutdown of Philadelphia’s economic life.
+
+```
+May 26: Coal heavers strike along Schuylkill River
+  │
+  ├──► June 1–3: Building trades (carpenters, masons, painters) join walkout
+  │
+  ├──► June 4–6: Craft societies & municipal workers strike; Trades' Union coordinates
+  │
+  └──► June 8–10: City Council grants 10-hour day; private employers capitulate
+```
+
+The strike was distinguished by its high degree of organization and public visibility. Daily mass rallies were held at Independence Square and major public halls, drawing thousands of attendees. On June 3, a massive parade marched through the heart of Philadelphia, led by striking workers carrying fife-and-drum bands and banners inscribed with the movement's famous motto:
+> *"From sun to sun it cannot be, / From six to six is work for me."*
+
+John Ferral and the leadership of the Trades' Union of Philadelphia maintained strict discipline among the striking ranks, urging nonviolence and public order to counter press allegations of mob rule. The union established central strike committees to coordinate relief funds and negotiate terms with employer associations. The unified stance of skilled native-born artisans and immigrant manual laborers prevented employers from exploiting ethnic divisions, forcing master craftsmen and merchant associations to negotiate directly with trade representatives.
+
+---
+
+## Aftermath
+
+The climax of the strike occurred on June 8, 1835, when the Philadelphia City Council formally adopted a resolution establishing a ten-hour workday for all laborers employed on public works, maintaining existing daily wage rates. Shortly thereafter, the Commissioners of the neighboring incorporated districts of Southwark, Northern Liberties, and Spring Garden adopted similar measures. Faced with the capitulation of municipal authorities and the total suspension of commercial trade, private employer associations surrendered trade by trade. By mid-June, nearly every major trade in Philadelphia had secured the ten-hour standard alongside wage increases.
+
+The victory had immediate regional and national repercussions. The success of the Philadelphia general strike sparked a wave of ten-hour strikes and labor organizing across the United States in the summer of 1835, leading to similar concessions in cities such as Baltimore, Boston, Newark, and New York. The prestige of the Trades' Union of Philadelphia soared, leading to a surge in union membership and the formation of new trade societies throughout Pennsylvania.
+
+The long-term legacy of the 1835 strike established the ten-hour standard as a core benchmark for American labor policy. The momentum generated by the Philadelphia strike contributed directly to President Martin Van Buren’s 1840 executive order mandating a ten-hour workday for federal public works employees without wage reductions. Historians view the 1835 uprising in Philadelphia as a pivotal moment in American working-class history, proving the effectiveness of inter-trade solidarity, organized strike action, and mass public mobilization.
+
+---
+
+## See also
+
+* Labor history of the United States
+* Trades' Union of Philadelphia
+* Ten-Hour Movement
+* Working Men's Party (United States)
+* 1835 in the United States
+* General strike
+
+---
+
+## References
+
+1. The Encyclopedia of Greater Philadelphia. "General Strike of 1835." Available at: `https://philadelphiaencyclopedia.org/essays/general-strike-of-1835/`
+2. The Philadelphia Inquirer. "Labor Day and the Philadelphia General Strike of 1835." Available at: `https://www.inquirer.com/opinion/commentary/labor-day-philadelphia-general-strike-1835-ten-hour-workday-20210906.html`

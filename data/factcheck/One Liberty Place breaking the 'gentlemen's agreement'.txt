@@ -1,0 +1,3 @@
+* **Corrected Comcast Technology Center height**: Updated height from 1,210 ft to 1,121 ft in both the main text of the "Legacy" section and the ASCII timeline chart.
+* **Corrected John Cheere statue history**: Clarified that the lead statue of William Penn was purchased by William Penn's grandson, John Penn, in London and donated to Pennsylvania Hospital in 1804 (removing the inaccurate mention of Benjamin Franklin commissioning or noting it).
+* **Corrected Section Headers**: Replaced biographical section headers ("Early life and education", "Career", "Personal life") with contextual architectural/historical headers ("Background and origin", "Development and controversy", "Impact and cultural response") appropriate for an entry on an urban planning event.

@@ -1,0 +1,143 @@
+# Second Bank of the United States
+
+## 1. Infobox
+
+| Key Metadata | Details |
+| :--- | :--- |
+| **Official Name** | Second Bank of the United States |
+| **Location** | 420 Chestnut Street (between S. 4th and S. 5th Streets), Philadelphia, Pennsylvania, U.S. |
+| **Coordinates / Area** | Independence National Historical Park, Center City Philadelphia |
+| **Architect** | William Strickland |
+| **Architectural Style** | Greek Revival |
+| **Construction Period** | 1819–1824 |
+| **Commissioned By** | United States Congress |
+| **Key Historical Figures** | James Madison, Nicholas Biddle, Andrew Jackson, Henry Clay, John Tyler |
+| **Primary Historical Function** | Federal Central Bank (1816–1836); U.S. Custom House (mid-19th to 20th century) |
+| **Current Function** | National Park Service Portrait Gallery ("People of Independence" exhibit) |
+
+---
+
+## 2. Lead section
+
+The **Second Bank of the United States** is a monumental historic building and former central bank located at 420 Chestnut Street, between 4th and 5th Streets, in Philadelphia, Pennsylvania. Chartered by the United States Congress in 1816 during the administration of President James Madison, the bank was established to restore financial stability to the nation following the fiscal strain of the War of 1812. Serving as the country's central monetary authority for two decades, the institution played a pivotal role in regulating the early American economy, stabilizing currency, and managing federal debt.
+
+During the late 1820s and 1830s, the bank became the epicenter of one of the most intense political struggles in American history, known as the "Bank War." Under the leadership of its president, the Philadelphia intellectual Nicholas Biddle, the bank clashed directly with President Andrew Jackson. Jackson and his political allies viewed the institution as an unconstitutional, privileged monopoly that undermined republican ideals and favored urban financial elites over Western farmers and working citizens. The conflict culminated in Jackson’s high-profile 1832 veto of a bill to extend the bank's charter, leading to the dispersal of federal funds into state banks and the ultimate expiration of the institution's federal charter in 1836.
+
+Architecturally, the Second Bank building is recognized as a masterpiece of the Greek Revival style in North America. Designed by Philadelphia architect William Strickland and constructed between 1819 and 1824, the building's exterior was explicitly modeled after the Parthenon in Athens. Featuring imposing Doric porticoes, blank pediments, and dramatic vaulted interior spaces, Strickland's design set a major precedent for civic architecture throughout the expanding republic and reinforced Philadelphia's reputation as the "Athens of America."
+
+Today, the building is a key historical landmark preserved as part of Independence National Historical Park under the management of the National Park Service. It houses the permanent "People of Independence" portrait gallery, displaying over 150 original 18th- and 19th-century portraits of American Founding Fathers, statesmen, military officers, and scientists, largely executed by renowned artist Charles Willson Peale and members of his artistic family.
+
+---
+
+## 3. History
+
+### Chartering and Early Purpose (1816)
+The creation of the Second Bank of the United States was prompted by the economic chaos that followed the War of 1812. After the charter of the First Bank of the United States expired in 1811, the national government struggled to manage its war debts, while an unbridled expansion of state-chartered private banks caused widespread monetary destabilization. Private institutions issued unchecked quantities of bank notes unsupported by physical coin, resulting in rampant inflation and the widespread hoarding of gold and silver specie. 
+
+To restore order to the national currency and provide a fiscal agent for the federal treasury, President James Madison signed a congressional bill in 1816 chartering the Second Bank of the United States for a twenty-year term. Operating out of Philadelphia, then the financial heart of the nation, the bank was tasked with controlling inflation, regulating state banking practices, and facilitating government transactions across the country.
+
+```
++-------------------------------------------------------------------+
+|                        THE BANK WAR TIMELINE                      |
+|                                                                   |
+|  1816: President James Madison charters Second Bank (20 years).   |
+|  1823: Nicholas Biddle assumes presidency of the Second Bank.     |
+|  1832: Jackson vetoes Congressional recharter bill (Clay campaign)|
+|  1833: Jackson begins withdrawing federal deposits to state banks.|
+|  1836: Federal charter expires; bank converts to state charter.   |
+|  1841: President Tyler vetoes re-establishment bill; riots erupt. |
++-------------------------------------------------------------------+
+```
+
+### The Bank War: Biddle vs. Jackson
+In the late 1820s, the institution entered its most turbulent era under the presidency of Nicholas Biddle. A Philadelphian child prodigy who had entered the University of Pennsylvania at age ten, Biddle was a sophisticated scholar, former editor of the literary magazine *Port Folio*, and an ardent admirer of classical Greek culture. Under Biddle's administration, the bank asserted strong central control over the nation's monetary supply.
+
+However, Biddle's policies drew fierce opposition from President Andrew Jackson and his Democratic supporters. Jackson argued that the central bank wielded unchecked power over the American economy, operated without constitutional authority, and threatened the foundational republican virtues of the nation. Critics included state bankers who resented the central bank's restrictions on their note issuance, as well as Westerners and agrarian communities who viewed the bank as an instrument of wealthy city elites and foreign investors.
+
+The political feud reached a climax in 1832. Jackson's political opponents, led by Whig presidential candidate Henry Clay, sought to turn the bank into a central campaign issue by pushing an early charter renewal bill through Congress four years before the existing charter was set to expire. The move backfired. Jackson promptly vetoed the recharter bill, declaring the bank dangerous to the liberties of the American public. 
+
+The public response was deeply polarized, with thousands of citizens submitting petitions to Congress both advocating for and opposing the institution. Following the veto, thousands of citizens gathered in Philadelphia's State House Yard (Independence Square) to protest Jackson’s decision. Nevertheless, Jackson framed his landslide re-election victory over Clay in 1832 as a public mandate to destroy the institution. Beginning in 1833, Jackson ordered the systematic removal of federal deposits from the Second Bank, redistributing them into selected state-chartered "pet banks."
+
+### Closure, 1841 Recharter Veto, and Repurposing
+Deprived of federal funds, the Second Bank lost its central banking capacity and operated briefly as a Pennsylvania-chartered private bank before ceasing monetary operations altogether when its federal charter concluded in 1836.
+
+Political tension surrounding a national bank persisted into the next decade. In 1841, following the death of President William Henry Harrison, President John Tyler vetoed a Whig-sponsored congressional bill aimed at re-establishing a national central bank. The veto ignited outrage among Whig supporters, who burned Tyler in effigy outside the executive mansion and fired gunshots and threw stones at the White House. The violent backlash led directly to increased security infrastructure within the District of Columbia, and no further national bank of this model was ever re-established.
+
+Following the liquidation of the bank's assets, the physical structure on Chestnut Street was transferred to the federal government, serving for decades as the United States Custom House in Philadelphia before its eventual restoration and incorporation into the National Park System.
+
+---
+
+## 4. Architecture
+
+### Greek Revival Masterpiece
+Constructed between 1819 and 1824, the Second Bank of the United States stands as one of the defining landmarks of the Greek Revival movement in American architecture. Designed by Philadelphia architect William Strickland, the building reflected the aesthetic preferences of Nicholas Biddle, whose extensive travels throughout Greece inspired his commitment to classical monumentalism. 
+
+```
+               [ Blank Pediment ]
+      ===================================
+      |  ||   ||   ||   ||   ||   ||  |   <- Eight Octastyle
+      |  ||   ||   ||   ||   ||   ||  |      Doric Columns
+      ===================================
+      [  Granite Steps & Marble Base    ]
+```
+
+Strickland looked to the Parthenon on the Athenian Acropolis as his primary architectural muse. The building features an octastyle (eight-columned) Doric portico on both its northern and southern facades, constructed from Pennsylvania blue-marble. The exterior incorporates unadorned, blank pediments resting upon monumental fluted Doric columns, conveying a sense of permanence, structural harmony, and financial integrity.
+
+### Interior Features
+While the building's conversion to a Custom House during the mid-19th century resulted in alterations to administrative spaces, key elements of Strickland's original interior design remain intact:
+
+*   **Main Banking Room:** A grand central hall featuring marble columns and elegant Ionic structural elements that support the upper vaulted loads.
+*   **Barrel-Vaulted Ceiling:** A massive barrel vault spanning the length of the central banking hall, engineered to maximize natural light and interior acoustic volume.
+*   **Side Flue Fireplaces:** Historically integral heating features built into the thick masonry perimeter walls, preserved alongside the decorative marble mantels.
+
+---
+
+## 5. Cultural significance
+
+### The Portrait Gallery and "People of Independence"
+Today, the Second Bank serves as the primary art museum for Independence National Historical Park, housing the permanent public exhibition titled *People of Independence*. Located in the central barrel-vaulted hall and surrounding chambers, the gallery features a collection of over 150 original portraits of prominent 18th- and 19th-century political figures, military commanders, diplomats, scientists, and explorers.
+
+```
++-------------------------------------------------------------------+
+|               KEY ARTISTS & WORKS IN THE COLLECTION               |
+|                                                              |
+|  * Charles Willson Peale: Over 100 core portraits of Founders     |
+|  * Rembrandt & James Peale: Family contributions to the gallery   |
+|  * James & Ellen Sharples: Pastel portraiture of early statesmen  |
+|  * Thomas Sully: Period portraiture of prominent leaders          |
+|  * Notable Works: Portraits of Patrick Henry, Casimir Pulaski,   |
+|    Robert Morris, and George Washington's life mask.              |
++-------------------------------------------------------------------+
+```
+
+### The Peale Collection History
+The nucleus of the museum's holdings consists of more than 100 portraits painted by Charles Willson Peale, the premier American portrait artist of the Revolutionary era. Beginning in the late 18th century, Peale commissioned sitters whom he regarded as "worthy Personages"—individuals who exemplified republican ideals, civic virtue, self-sacrifice, and public devotion.
+
+Peale’s collection was initially displayed in his own Philadelphia Museum, which occupied the upper floor of Independence Hall. Following Peale's death in 1827, the museum struggled financially, prompting a public auction of its holdings in 1854. Recognizing the historical value of the works, the City of Philadelphia purchased 86 of Peale's portraits at auction to ensure their preservation for the public. Over subsequent decades, the collection expanded through acquisitions and donations, incorporating notable works by Peale's son Rembrandt Peale, his brother James Peale, English pastel artists James and Ellen Sharples, and painter Thomas Sully.
+
+### Key Artifacts and Featured Figures
+The gallery contains portraits of key historical personages, including signers of the Declaration of Independence and the United States Constitution:
+
+*   **Patrick Henry:** Orator and Virginia patriot.
+*   **Brigadier General Casimir Pulaski:** Polish military commander who served in the Continental Army.
+*   **Robert Morris:** Signer of the Declaration of Independence and financier of the American Revolution.
+*   **George Washington Life Mask:** A cast taken from life in 1785 by French sculptor Jean-Antoine Houdon.
+
+---
+
+## 6. See also
+
+*   First Bank of the United States
+*   Independence National Historical Park
+*   William Strickland
+*   Nicholas Biddle
+*   Bank War
+*   Independence Hall
+*   Charles Willson Peale
+
+---
+
+## 7. References
+
+1. National Park Service. "Second Bank of the United States." *Independence National Historical Park*. https://www.nps.gov/inde/learn/historyculture/places-secondbank.htm
+2. Independence Hall Association. "Second Bank of the United States." *ushistory.org*. https://www.ushistory.org/tour/second-bank.htm

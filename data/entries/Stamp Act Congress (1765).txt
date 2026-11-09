@@ -1,0 +1,87 @@
+# Stamp Act Congress (1765)
+
+## 1. Infobox
+
+| **Stamp Act Congress** | |
+| :--- | :--- |
+| **Date** | October 7–25, 1765 |
+| **Location** | City Hall (Federal Hall), New York City, Province of New York |
+| **Presiding Officer** | Timothy Ruggles |
+| **Key Participants** | James Otis Jr., John Dickinson, Thomas McKean, Philip Livingston, Christopher Gadsden |
+| **Delegations** | 9 colonies (Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, South Carolina) |
+| **Key Outcome** | Adoption of the *Declaration of Rights and Grievances*; petitioning King George III and Parliament |
+| **Historical Significance** | First unified, intercolonial legislative response to British taxation; established organizational and legal precedents for the First Continental Congress in Philadelphia (1774) |
+
+---
+
+## 2. Lead section
+
+The **Stamp Act Congress**, also known as the **First Congress of the American Colonies** or the **Continental Congress of 1765**, was a convention of elected delegates from nine British North American colonies held in New York City from October 7 to October 25, 1765. The meeting was convened in direct response to the passage of the Stamp Act by the Parliament of Great Britain earlier that year. The congress marked the first coordinated, intercolonial legislative effort to formulate a unified political defense against British imperial taxation, laying crucial ideological foundations for the American Revolution.
+
+Delegates to the congress gathered to deliberate on the constitutional boundaries of royal and Parliamentary authority over the colonies. The assembly produced the *Declaration of Rights and Grievances*, a landmark document that affirmed colonial allegiance to the Crown while simultaneously asserting that North American colonists possessed the traditional rights of Englishmen. Most significantly, the document declared that direct taxation without representation in the British Parliament violated the fundamental principles of the British constitution, establishing the legal arguments that would animate colonial resistance over the subsequent decade.
+
+While the delegates convened in New York City, the crisis surrounding the Stamp Act heavily implicated the political and commercial dynamics of Philadelphia, the largest urban center and primary port of the Province of Pennsylvania. Philadelphia merchants, printers, and political leaders actively mobilized against the act, adopting non-importation agreements and resisting the distribution of stamped paper. Delegates from Pennsylvania, including key constitutional architects such as John Dickinson, played a central role in framing the moderation and legal clarity of the congress's petitions.
+
+The precedent set by the Stamp Act Congress demonstrated the viability of intercolonial solidarity. Although Parliament repealed the Stamp Act in 1766 while asserting absolute authority through the Declaratory Act, the spirit of coordinated action endured. When British imperial policies escalated in 1774 following the passage of the Coercive and Quebec Acts (collectively termed the Intolerable Acts), colonial leaders drew directly upon the model of 1765 to assemble the First Continental Congress in Philadelphia, placing the city at the center of national independence efforts.
+
+---
+
+## 3. Background
+
+Following the conclusion of the Seven Years' War (known in North America as the French and Indian War) in 1763, the British Empire found itself burdened with immense national debt and expanded territorial responsibilities. To offset the costs of maintaining military garrisons along the North American frontier, the ministry of Prime Minister George Grenville sought to raise revenue directly from the American colonies. In March 1765, Parliament passed the Stamp Act, scheduled to take effect on November 1, 1765. 
+
+The Stamp Act imposed a direct revenue tax on a wide array of paper items, including legal contracts, deeds, newspapers, pamphlets, playing cards, and tavern licenses. Unlike prior Navigation Acts, which regulated imperial trade through external duties, the Stamp Act was an internal tax levied directly on domestic commercial and civic transactions. This distinction provoked intense widespread outrage across North America. Colonists argued that under the English common law tradition, subjects could only be taxed by their own elected representatives. Because the colonies sent no representatives to the House of Commons, Parliament's direct taxation was viewed as an unconstitutional infringement upon colonial liberty.
+
+Public opposition flared across major colonial seaports. In June 1765, the Massachusetts House of Representatives, urged by patriot leader James Otis Jr., issued a circular letter to the speaker of every colonial assembly. The letter invited all thirteen colonies to send committees of delegates to a general congress in New York City to consult on their shared grievances and prepare a humble, unified petition to the King and Parliament.
+
+In Pennsylvania, the crisis ignited intense political debate. The colony's capital, Philadelphia, was a vital hub of transatlantic trade and printing. Local merchants realized that the tax would severely choke municipal commerce, while printers and lawyers faced ruinous costs for stamped legal instruments and newsprint. The Pennsylvania Assembly agreed to send a delegation to the proposed congress, selecting prominent statesmen John Dickinson, John Morton, and George Bryan. Dickinson, in particular, brought a rigorous legal perspective that emphasized constitutional resistance grounded in English rights and charter privileges.
+
+---
+
+## 4. Course of events
+
+The Stamp Act Congress officially convened on October 7, 1765, at City Hall (later known as Federal Hall) in New York City. Twenty-seven delegates representing nine colonies attended: Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, and South Carolina. Virginia, North Carolina, and Georgia were prevented from sending delegates because their royal governors refused to convene their respective assemblies, while New Hampshire declined to participate officially but expressed agreement with the convention's goals.
+
+The congress chose Timothy Ruggles of Massachusetts as its president, though his cautious loyalism quickly clashed with the more assertive stance of delegates like James Otis Jr., Christopher Gadsden of South Carolina, and John Dickinson of Pennsylvania. Over twelve days of rigorous debate, the assembly addressed complex questions of imperial governance: whether Parliament possessed any legislative rights over the colonies, how to maintain allegiance to King George III while resisting parliamentary overreach, and how to articulate their legal arguments without provoking a military confrontation.
+
+The primary achievement of the convention was the drafting and adoption of the *Declaration of Rights and Grievances* on October 19, 1765. Authored largely by John Dickinson, the fourteen-point declaration articulated a careful synthesis of colonial loyalty and constitutional defense. Key provisions included:
+* An affirmation of allegiance to the British Crown and due submission to Parliament in general imperial matters.
+* The declaration that colonists possessed all the inherent rights, liberties, and privileges of natural-born subjects within Great Britain.
+* The core constitutional assertion that no taxes could be constitutionally imposed upon colonists except by their own local legislatures.
+* The argument that trial by jury was an essential right, condemning the expansion of Admiralty Courts designed to prosecute stamp tax violators without juries.
+* A warning that the economic burdens imposed by the Stamp Act would render colonists unable to purchase British manufactured goods, damaging imperial trade.
+
+Following the approval of the Declaration, the delegates drafted three distinct petitions: one to King George III, one to the House of Lords, and one to the House of Commons. Several conservative delegates, including President Ruggles and Robert Ogden of New Jersey, refused to sign the final petitions, arguing they should be transmitted through individual colonial assemblies. However, the majority signed the papers, closing the sessions on October 25, 1765.
+
+---
+
+## 5. Aftermath
+
+The immediate aftermath of the Stamp Act Congress saw a surge in non-importation agreements and civil resistance across the American seaboard. In Philadelphia, merchants met at the London Coffee House and unanimously agreed to suspend imports of British goods until the Stamp Act was repealed. Local stamp distributors were forced to resign under intense public pressure, and when the ships carrying the stamped paper arrived along the Delaware River, the paper was kept secured aboard armed naval vessels to prevent seizure by crowds.
+
+In early 1766, news of the colonial unity displayed at the New York congress, combined with crushing financial pressure from British merchants hit by colonial boycotts, prompted Parliament to debate the act. In March 1766, Parliament repealed the Stamp Act. However, to preserve its authority, Parliament simultaneously passed the Declaratory Act, asserting that the Crown and Parliament held "full power and authority to make laws and statutes of sufficient force and validity to bind the colonies and people of America... in all cases whatsoever."
+
+Although the Stamp Act was rescinded, the structural crisis between Great Britain and the colonies remained unresolved. Over the next eight years, Parliament enacted further tax measures, including the Townshend Acts and later the Tea Act of 1773. When Bostonians dumped East India Company cargo into Boston Harbor during the Boston Tea Party, Parliament responded in 1774 with the Coercive Acts—closing Boston Harbor, banning town meetings, and appointing General Thomas Gage as governor—alongside the Quebec Act.
+
+These harsh measures, collectively termed the Intolerable Acts, brought the lessons of 1765 back to the forefront of American political strategy. Realizing that single-colony protests were insufficient, leaders across the continent called for another intercolonial conference. Drawing directly on the organizational framework established by the Stamp Act Congress, representatives gathered in Philadelphia on September 5, 1774, to convene the First Continental Congress at Carpenters' Hall. The legal arguments forged by Dickinson and his peers in 1765 served as the bedrock for the declarations of rights framed in Philadelphia in 1774 and ultimately led to the Declaration of Independence in 1776. Today, primary records and resolutions of the Stamp Act Congress are preserved as vital touchstones of American constitutionalism in institutions such as the National Constitution Center in Philadelphia.
+
+---
+
+## 6. See also
+
+* Carpenters' Hall
+* Declaration of Independence
+* First Continental Congress
+* Independence Hall (Pennsylvania State House)
+* Intolerable Acts
+* John Dickinson
+* Second Continental Congress
+
+---
+
+## 7. References
+
+1. National Constitution Center. "Resolutions of the Stamp Act Congress (1765)." *Founders' Library Historic Document Index*. Available at: https://constitutioncenter.org/the-constitution/historic-document-library/detail/resolutions-of-the-stamp-act-congress-1765
+2. Independence Hall Association. "The Intolerable Acts." *U.S. History Textbook*, Lesson 9g. Available at: https://www.ushistory.org/us/9g.asp
+3. Independence Hall Association. "Stamp Act Congress Overview." *Declaration of Independence Historic Archives*. Available at: https://www.ushistory.org/declaration/related/sac.html
+4. Encyclopedia of Greater Philadelphia. "Stamp Act and Philadelphia Resistance." *Events and Colonial Era Essays*. Available at: https://philadelphiaencyclopedia.org/essays/stamp-act/

@@ -40,7 +40,7 @@ PIPELINE_MODEL = "gemini-3.5-flash"
 # ---------------------------------------------------------------------------
 SCRIPT_TIMEOUTS: dict[str, int | None] = {
     "topics.py":        15 * 60,   # 15 min
-    "classifier.py":    None,       # instant — no limit needed
+    "classifier.py":    None,       # instant -- no limit needed
     "sources.py":       15 * 60,   # 15 min
     "search.py":        15 * 60,   # 15 min
     "synthesizeData.py": 90 * 60,  # 90 min
@@ -88,7 +88,7 @@ def _print_total_summary(run_elapsed: float, results: list[dict]) -> None:
     total_cost    = gemini_utils.tokens_to_usd(total_prompt, total_output, PIPELINE_MODEL)
 
     print("=" * 55)
-    print("  PIPELINE COMPLETE — SUMMARY")
+    print("  PIPELINE COMPLETE -- SUMMARY")
     print("=" * 55)
 
     col_w = max(len(r["script"]) for r in results)

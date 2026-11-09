@@ -1,0 +1,143 @@
+### 1. Infobox
+
+| **Robert Morris Jr.** | |
+| :--- | :--- |
+| **Born** | January 31, 1734 (N.S.)<br>Liverpool, Lancashire, Kingdom of Great Britain |
+| **Died** | May 8, 1806 (aged 72)<br>Philadelphia, Pennsylvania, U.S. |
+| **Resting place** | Christ Churchyard, Philadelphia, Pennsylvania |
+| **Political party** | Federalist (1789–1806) |
+| **Spouse** | Mary White (m. 1769) |
+| **Children** | 7, including Robert, Thomas, and Charles |
+| **Alma mater** | Apprenticed under Charles Willing |
+| **Profession** | Merchant, financier, land speculator, statesman |
+| **Key Positions Held** | Delegate to Continental Congress (1775–1778)<br>Superintendent of Finance of the United States (1781–1784)<br>Delegate to Constitutional Convention (1787)<br>U.S. Senator from Pennsylvania (1789–1795) |
+| **Historical Significance** | "Financier of the American Revolution"; signatory of the Declaration of Independence, Articles of Confederation, and U.S. Constitution; founder of the Bank of North America. |
+
+---
+
+### 2. Lead section
+
+Robert Morris Jr. (January 31, 1734 – May 8, 1806) was an English-born American merchant, financier, and statesman who served as a central figure in the founding of the United States. Widely remembered as the "Financier of the American Revolution," Morris used his extensive mercantile network and personal financial credit to secure money, armaments, and provisions for the Continental Army during the Revolutionary War. Alongside Roger Sherman, he holds the rare distinction of being one of only two Founding Fathers to sign all three of the nation’s foundational documents: the Declaration of Independence, the Articles of Confederation, and the United States Constitution.
+
+Beginning his career as a shipping clerk in Philadelphia, Morris rose to become a partner in Willing, Morris & Company, one of the most prosperous international merchant houses in North America. During the early stages of the imperial crisis with Great Britain, Morris entered public service, serving on local revolutionary committees and in the Pennsylvania General Assembly before being elected to the Continental Congress. Though initially hesitant to vote for independence in July 1776, he committed fully to the cause, managing the congressional committees responsible for military procurement, maritime trade, and diplomatic finance.
+
+In 1781, with the American war effort on the verge of financial collapse, Congress appointed Morris as the nation's first Superintendent of Finance. In this capacity, he established the Bank of North America—the nation's first chartered financial institution—reformed federal procurement practices, and leveraged his personal credit by issuing private notes ("Morris notes") to finance General George Washington's decisive Siege of Yorktown. Following the war, Morris represented Pennsylvania at the Constitutional Convention of 1787 and later served as one of Pennsylvania’s inaugural United States Senators from 1789 to 1795.
+
+Despite his monumental public achievements, Morris's post-war life was marred by aggressive and ultimately ruinous land speculation. Following the Panic of 1797, he defaulted on millions of dollars in debts and spent over three years confined to Philadelphia’s Prune Street Debtors' Prison. Released under the Bankruptcy Act of 1800, Morris spent his remaining years in quiet retirement in Philadelphia. Today, he is recognized as a primary architect of early American financial infrastructure and a decisive contributor to American independence.
+
+---
+
+### 3. Early life and education
+
+Robert Morris Jr. was born on January 31, 1734 (New Style), in Liverpool, England. He was the son of Robert Morris Sr., a merchant engaged in the shipping trade, and Elizabeth Murphey. Following his mother's early death, young Robert remained in the care of his maternal grandmother in England while his father emigrated to Oxford, Maryland, in the late 1730s to act as an agent for a Liverpool tobacco trading firm. Around the age of thirteen, Morris joined his father in Maryland, receiving a basic private education under local tutors.
+
+Recognizing his son's potential for commercial enterprise, Morris Sr. arranged for the young man to move to Philadelphia in 1748 to apprentice in the counting house of Charles Willing, one of the city's premier shipping merchants. Morris quickly demonstrated an exceptional aptitude for commercial bookkeeping, foreign currencies, maritime trade routes, and commodity pricing. 
+
+In 1750, Morris's father died suddenly from a wound infection following a ceremonial cannon salute, leaving the seventeen-year-old Morris with a modest inheritance and full responsibility for his own advancement. Morris impressed Charles Willing with his work ethic and financial acumen, earning steady promotions within the firm. Following Charles Willing's death in 1754, his son Thomas Willing assumed management of the business and took Morris into full partnership in 1757. The resulting mercantile firm, Willing, Morris & Company, expanded rapidly over the next two decades, engaging in import-export trade, maritime insurance, land speculation, and slave trading, ultimately becoming the dominant commercial enterprise in pre-Revolutionary Philadelphia.
+
+---
+
+### 4. Career
+
+#### Merchant Enterprise and Pre-Revolutionary Politics
+Through Willing, Morris & Company, Morris forged extensive commercial ties across Europe, the West Indies, and North America. As imperial tensions escalated between Great Britain and the American colonies, Morris navigated the political rift as both a merchant and a public figure. In 1765, he joined fellow Philadelphia merchants in signing the Non-Importation Resolutions opposing the Stamp Act, marking his initial entry into revolutionary politics.
+
+In 1775, as open conflict erupted at Lexington and Concord, Morris was appointed to the Pennsylvania Committee of Safety. Later that year, he was elected to represent Pennsylvania in the Second Continental Congress. Morris served as a key member of the Secret Committee of Trade, leveraging his private merchant shipping network to procure gunpowder, muskets, and military supplies for the Continental Army while managing clandestine trade arrangements with foreign merchants.
+
+#### Financing the Revolutionary War
+During the debates over national independence in the summer of 1776, Morris favored reconciliation, believing that a vote for independence was premature. On July 2, 1776, he deliberately abstained from voting on the resolution for independence to allow Pennsylvania's delegation to vote in favor. However, once independence was declared, Morris wholeheartedly endorsed the action and formally signed the Declaration of Independence on August 2, 1776.
+
+When Congress was forced to evacuate Philadelphia in December 1776 to Baltimore, and again in September 1777 to Lancaster and later York, Pennsylvania, Morris remained behind or in nearby locations to oversee financial and naval administration. He conducted complex transactions using foreign bills of exchange, domestic loans, and personal guarantees to keep the army supplied. In 1778, Morris signed the Articles of Confederation on behalf of Pennsylvania.
+
+#### Superintendent of Finance (1781–1784)
+By early 1781, Continental currency had collapsed into near-total worthlessness, leaving the government unable to pay its troops or purchase supplies. In response, Congress created the executive office of Superintendent of Finance and unanimously selected Morris to fill the role. Morris accepted the post on the condition that he retain his private business operations and control over administrative personnel.
+
+```
+       [ European Loans ] <---> [ Robert Morris (Supt. of Finance) ] <---> [ Continental Army ]
+                                             |
+                                 [ Bank of North America ]
+                                             |
+                                 [ "Morris Notes" (Credit) ]
+```
+
+As Superintendent, Morris instituted sweeping administrative reforms:
+* **Creation of the Bank of North America:** Chartered by Congress in December 1781, this was the nation's first corporate financial institution, designed to stabilize the currency and hold government deposits.
+* **Issuance of "Morris Notes":** Morris pledged his personal credit to back short-term promissory notes that circulated as reliable currency when public credit failed.
+* **Supply of Yorktown:** Morris personally secured and guaranteed $1.4 million in financing—combining loans from France, specie from the West Indies, and personal notes—to supply General Washington’s army during the march to Yorktown in 1781.
+
+Morris resigned his position in November 1784 after successfully stabilizing wartime finances, though he left office frustrated by the Articles of Confederation's lack of federal taxing power.
+
+#### Constitutional Convention and U.S. Senate
+In 1787, Morris served as a delegate from Pennsylvania to the Constitutional Convention held in Philadelphia. Although he rarely spoke on the floor, he exerted substantial behind-the-scenes influence, hosting George Washington at his home throughout the proceedings and supporting strong federal powers over national finance and commerce. Morris signed the resulting U.S. Constitution on September 17, 1787.
+
+Following the ratification of the Constitution, the Pennsylvania legislature elected Morris as one of the state's initial members of the United States Senate, where he served from 1789 to 1795. As a committed Federalist, he allied closely with Secretary of the Treasury Alexander Hamilton, supporting Hamilton's financial programs, which built upon the banking and credit foundations Morris had laid earlier in the decade. Morris was also instrumental in securing the passage of the Residence Act of 1790, which designated Philadelphia as the temporary national capital for ten years while Washington, D.C., was under construction.
+
+---
+
+### 5. Personal life
+
+#### Marriage and Family
+On March 2, 1769, Morris married Mary White, the daughter of Colonel Thomas White and the sister of William White, who later became the first Episcopal Bishop of Pennsylvania. The couple maintained a prominent position in Philadelphia's political and social elite, frequently hosting foreign dignitaries, military commanders, and politicians. The Morrises had seven children: Robert, Thomas, William, Charles, Hester, Maria, and Henry.
+
+```
+                        Thomas White === Esther Hewlings
+                                     |
+                +--------------------+--------------------+
+                |                                         |
+     Bp. William White                             Mary White === Robert Morris Jr.
+                                                              |
+                  +---------------+---------------+-----------+---------------+
+                  |               |               |                           |
+               Robert           Thomas          Charles                    (4 others)
+```
+
+#### Residences and Real Estate
+During the peak of his prosperity, Morris owned several notable properties in the Philadelphia area. His primary urban residence was a mansion at Sixth and Market Streets in Center City Philadelphia. When the federal government relocated to Philadelphia in 1790, Morris leased this house to the city to serve as the Executive Mansion for Presidents George Washington and John Adams. Morris relocated to an adjacent residence nearby. He also maintained an expansive rural estate, "The Hills," located along the Schuylkill River in what is now Fairmount Park.
+
+#### Land Speculation and Financial Ruin
+Following his retirement from the U.S. Senate in 1795, Morris shifted his focus toward massive land speculation schemes. Partnering with James Greenleaf and John Nicholson, he established the North American Land Company, purchasing millions of acres of undeveloped land in western New York, Pennsylvania, Virginia, Georgia, and the newly established Federal City (Washington, D.C.). 
+
+Unable to sell the land quickly enough to cover his massive debts and short-term obligations, Morris was devastated by the European financial crisis and the domestic Panic of 1797. Creditors seized his assets, and his unfinished luxury mansion on Chestnut Street—designed by architect Pierre Charles L'Enfant and dubbed "Morris's Folly"—was sold at auction and demolished.
+
+In February 1798, to avoid physical violence from creditors, Morris retreated to his home but was arrested and incarcerated in Philadelphia’s Prune Street Debtors' Prison. He remained imprisoned for three and a half years, from February 1798 to August 1801. His plight served as a primary catalyst for Congress to pass the Bankruptcy Act of 1800, under which Morris was finally discharged from prison with $3 million in unpaid debts.
+
+#### Final Years and Death
+Brokered by family friends, Morris lived out his final years in modest circumstances in Philadelphia, relying on an annuity secured for his wife Mary by friends. He died on May 8, 1806, at the age of 72, and was interred in the family vault at Christ Churchyard in Philadelphia.
+
+---
+
+### 6. Legacy
+
+Robert Morris's contributions to the founding of the United States are widely recognized as equal in practical importance to the military leadership of George Washington and the political philosophy of Thomas Jefferson. Without Morris's management of international credit, shipping logistics, and emergency private underwriting, the Continental Army faced near-certain collapse due to financial starvation.
+
+Morris established foundational precedents for American public credit and commercial banking. His creation of the Bank of North America provided the structural model later expanded by Alexander Hamilton into the First Bank of the United States. His emphasis on federal taxation powers directly informed the economic provisions of the U.S. Constitution.
+
+#### Memorials and Honors
+* **Educational Institutions:** Robert Morris University in Pennsylvania and Robert Morris University Illinois were named in his honor.
+* **Monuments:** A bronze statue of Robert Morris stands near Independence Hall at Independence National Historical Park in Philadelphia.
+* **Historic Sites:** The site of his residence at 6th and Market Streets is commemorated as part of the President's House historic site in Philadelphia.
+* **Geographic Names:** Numerous counties, townships, and streets across the United States bear his name, including Morrisville, Pennsylvania, and Mount Morris, New York.
+
+---
+
+### 7. See also
+
+* Bank of North America
+* Continental Congress
+* Declaration of Independence
+* History of Philadelphia
+* President's House (Philadelphia)
+* Superintendent of Finance of the United States
+* Thomas Willing
+* Willing, Morris & Company
+
+---
+
+### 8. References
+
+1. National Park Service. "Robert Morris." U.S. Department of the Interior. https://www.nps.gov/inde/learn/historyculture/robert-morris.htm
+2. Independence Hall Association. "Robert Morris." Signers of the Declaration of Independence. https://www.ushistory.org/declaration/signers/morris.htm
+3. Independence Hall Association. "Robert Morris: Financier of the Revolution." Related History. https://www.ushistory.org/declaration/related/morris.htm
+4. The Encyclopedia of Greater Philadelphia. "Morris, Robert." Mid-Atlantic Regional Center for the Humanities (MARCH), Rutgers University–Camden. https://philadelphiaencyclopedia.org/archive/morris-robert/
+5. Historical Society of Pennsylvania. "Robert Morris and the American Revolution." HSP History Resources. https://hsp.org/blogs/history-resources/robert-morris-and-the-american-revolution
+6. National Archives and Records Administration. "Signers of the Declaration of Independence: Robert Morris." America's Founding Documents. https://www.archives.gov/founding-docs/signers-gallery/robert-morris

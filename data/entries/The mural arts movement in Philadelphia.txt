@@ -1,0 +1,152 @@
+### 1. Infobox
+
+| **The Mural Arts Movement in Philadelphia** | |
+| :--- | :--- |
+| **Movement Name** | Philadelphia Mural Arts Movement |
+| **Location** | Greater Philadelphia, Pennsylvania, U.S. |
+| **Active Period** | 1876–present (civic/institutional); 1970s–present (community mural movement) |
+| **Key Organizations** | Mural Arts Philadelphia (formerly Philadelphia Anti-Graffiti Network), PMA Department of Urban Outreach, Brandywine Workshop, Taller Puertorriqueño, Village of Arts and Humanities |
+| **Key Figures** | Jane Golden, Violet Oakley, Meg Saligman, David McShane, Isaiah Zagar, Lily Yeh, Don Kaiser, Clarence Wood, Charles W. Ward, Walter Gardner |
+| **Major Works** | *Dream Garden* (1914–16), *Streets of Philadelphia* (1937), *We the Youth* (1987), *Common Threads* (1998), *Philadelphia Muses* (1999), *Aqui y Alla* (2007/2012) |
+| **Significance** | Transformed Philadelphia into the "City of Murals"; largest public art program in the United States; pioneered community engagement, youth art education, and restorative justice through public art. |
+
+---
+
+### 2. Lead section
+
+The mural arts movement in Philadelphia is a major civic, artistic, and social tradition that has reshaped the urban landscape of Greater Philadelphia over more than a century. Spanning monumental Beaux-Arts civic displays, New Deal-era federal works, mid-century architectural integration, and grassroots neighborhood art, the movement ultimately coalesced into the largest municipal public art initiative in the United States. Today, Philadelphia is recognized internationally as the "City of Murals," home to thousands of outdoor public artworks that adorn building facades, commercial corridors, public housing complexes, and civic institutions.
+
+The origin of wall painting in the region extends from pre-colonial Native American petroglyphs and 18th-century decorative architectural interiors to formal public commissions during the American Renaissance (c. 1876–1925). The mid-20th century introduced populist realisms funded by New Deal relief programs, followed by modernist experiments in public sculpture and wall paneling. By the 1970s, a distinct community mural movement emerged, driven by neighborhood activists, grassroots organizations, and museum outreach divisions aiming to revitalize urban neighborhoods through collective creative practice.
+
+In 1984, the municipal government established the Philadelphia Anti-Graffiti Network (PAGN), appointing artist Jane Golden to lead its anti-graffiti outreach. This initiative quickly evolved into the Mural Arts Program (now operating officially as Mural Arts Philadelphia). Under Golden’s executive leadership, the organization grew from an anti-vandalism program into an internationally celebrated public art agency. Mural Arts Philadelphia has facilitated the creation of over 4,000 public artworks, partnering local residents with national and international painters, mosaicists, and street artists.
+
+Beyond visual transformation, the Philadelphia mural movement is distinguished by its integration of public art with social programming. Mural projects across the city serve as sites for youth education, restorative justice initiatives in correctional facilities, behavioral health and wellness programs, and transnational cultural exchanges. While scholars and critics have debated the movement’s complex relationship with urban renewal, gentrification, and anti-graffiti enforcement, Philadelphia's murals remain central to the city's civic identity, cultural tourism, and public memory.
+
+---
+
+### 3. Origins
+
+The history of wall painting in the Greater Philadelphia region encompasses diverse lineages, ranging from indigenous petroglyphs along the Susquehanna River in Lancaster County—dating as far back as 1000 AD—to 18th-century residential overmantels and fireboard panels. The earliest documented public mural in Philadelphia was a now-lost fresco cycle painted around 1834–1835 in the dome of William Strickland’s Philadelphia Exchange, featuring allegorical representations of Commerce, Wealth, and Liberty. Throughout the 19th century, decorative wall painting continued to evolve alongside architectural design, epitomized by artist George Herzog (1851–1920), whose intricate interior schemes for Philadelphia City Hall and the Philadelphia Masonic Temple integrated historical motifs from Egyptian, Renaissance, and classical traditions.
+
+```
+       [Historical Lineage of Philadelphia Wall Art]
+                           │
+ ┌─────────────────────────┴─────────────────────────┐
+ │ Pre-Colonial & Early Decorative Arts              │
+ │ • Susquehanna Petroglyphs (c. 1000 AD)            │
+ │ • Colonial Overmantels & Panels (c. 1761)         │
+ └─────────────────────────┬─────────────────────────┘
+                           │
+ ┌─────────────────────────┴─────────────────────────┐
+ │ 19th-Century Public Frescos                       │
+ │ • Strickland's Philadelphia Exchange (c. 1834)   │
+ │ • George Herzog: City Hall & Masonic Temple       │
+ └─────────────────────────┬─────────────────────────┘
+                           │
+ ┌─────────────────────────┴─────────────────────────┐
+ │ Beaux-Arts / American Renaissance (1876–1925)     │
+ │ • Violet Oakley (PA Capitol Commissions)          │
+ │ • Parrish & Tiffany (Dream Garden, 1914–16)       │
+ └───────────────────────────────────────────────────┘
+```
+
+Following the 1876 Centennial Exposition, the Beaux-Arts (or American Renaissance) mural movement established wall painting as an institutional medium for public civic discourse. Popular between 1876 and the mid-1920s, Beaux-Arts muralists favored monumental scale, classical iconography, historical narrative, and grand allegory. Painter Violet Oakley (1874–1961) emerged as a central figure in this movement, becoming the first American woman to receive a public mural commission for a state capitol when she began her extensive decorative program for the Pennsylvania State Capitol in Harrisburg in 1902. Oakley’s works—including her 16-panel Supreme Court series on law, jurisprudence, and international peace—offered a distinct pacifist, social, and proto-feminist vision. Her regional contributions also included lunettes for the Charlton Yarnall mansion (1910–1911) and the *Great Women of the Bible* series (1945–1949) at the First Presbyterian Church in Germantown.
+
+Other key Beaux-Arts and early 20th-century wall commissions enriched Philadelphia's architectural landscape. Edwin Austin Abbey (1852–1911) contributed major rotunda panels for the Pennsylvania Capitol, including *Science Revealing the Treasures of the Earth* (1908), while Edwin Blashfield (1848–1936) executed a major cycle for the Church of the Saviour in 1906. William Brantley Van Ingen and Louis Comfort Tiffany decorated the Philadelphia Mint in 1901 with murals depicting the history of coinage. In 1914–1916, illustrator Maxfield Parrish collaborated with Tiffany to construct *Dream Garden*, a 49-foot glass mosaic installed in the lobby of The Curtis building. Depicting a romanticized, pastoral landscape, *Dream Garden* was successfully designated a historic object in the 1990s to prevent its sale and removal from the city.
+
+---
+
+### 4. Development
+
+During the Great Depression, mural production shifted dramatically from classical allegory to modern realism and social commentary under federal relief sponsorship. Between 1934 and 1943, programs such as the Works Progress Administration’s Federal Art Project (WPA-FAP) and the U.S. Treasury Department’s Section of Fine Arts funded hundreds of public murals across Greater Philadelphia post offices, schools, and administrative buildings. Inspired by the Mexican muralism movement of the 1920s, New Deal muralists focused on the dignity of labor, regional industrial history, and local social life. Notable examples include Walter Gardner’s *Streets of Philadelphia* (1937) at the Spring Garden Post Office, Charles W. Ward’s *Progress and Industry* (1935) in Trenton, and Harry Sternberg’s *The Family—Industry and Agriculture* (1939) in Ambler, Pennsylvania. Private commissions also sustained modern wall art; African American artist Aaron Douglas completed his *Haitian Mural* (1942) for a private residence in Wilmington, applying his signature silhouetted modernist style to themes of African diaspora history.
+
+```
+                   [Evolution of the Modern Movement]
+                                   │
+ ┌─────────────────────────────────┴─────────────────────────────────┐
+ │ New Deal & Mid-Century Modernism (1930s–1960s)                    │
+ │ • Federal Art Project (WPA-FAP) & Treasury Section commissions    │
+ │ • Realism and populist labor themes (Gardner, Ward, Sternberg)    │
+ │ • Avant-garde & Architectural Works (Matisse, Nivola, Kelly)      │
+ └─────────────────────────────────┬─────────────────────────────────┘
+                                   │
+ ┌─────────────────────────────────┴─────────────────────────────────┐
+ │ Grassroots Community Mural Era (1970s–1980s)                       │
+ │ • PMA Department of Urban Outreach (Don Kaiser, Clarence Wood)    │
+ │ • Cultural Centers (Brandywine Workshop, Taller Puertorriqueño)   │
+ │ • Environmental Art: Lily Yeh (Ile-Ife), Isaiah Zagar             │
+ └─────────────────────────────────┬─────────────────────────────────┘
+                                   │
+ ┌─────────────────────────────────┴─────────────────────────────────┐
+ │ Institutionalization & Mural Arts Philadelphia (1984–Present)    │
+ │ • Philadelphia Anti-Graffiti Network (PAGN) led by Jane Golden    │
+ │ • Over 4,000 public artworks; innovations in parachute cloth      │
+ │ • Major artists: Meg Saligman, David McShane, Michelle Ortiz      │
+ └───────────────────────────────────────────────────────────────────┘
+```
+
+The post-WWII decades saw further experimentation, including Henri Matisse’s lunette mural at the Barnes Foundation (1932–1933), Costantino Nivola’s concrete low-relief *Family of Man* (1961) at the University of Pennsylvania, and Ellsworth Kelly’s 65-foot abstract aluminum assembly *Sculpture for a Large Wall* (1956–1957) in the Philadelphia Transportation Building.
+
+By the 1970s, the current community mural movement emerged as artists sought to address urban decay, political disenfranchisement, and neighborhood neglect through participatory art. Don Kaiser and Clarence Wood, working through the Philadelphia Museum of Art’s Department of Urban Outreach, facilitated the creation of over 150 community murals between 1970 and the early 1980s. Community organizations such as the Brandywine Workshop (founded 1972) and Taller Puertorriqueño (founded 1974) integrated wall painting into broader cultural advocacy. In 1986, artist Lily Yeh established Ile-Ife Park (later The Village of Arts and Humanities) in North Philadelphia, turning vacant lots into a landscape of mosaics, plantings, and community murals. Simultaneously, mosaic artist Isaiah Zagar began adorning South Philadelphia walls with ceramic, mirror, and found-object installations, culminating in the establishment of Philadelphia’s Magic Gardens.
+
+In 1984, Mayor W. Wilson Goode created the Philadelphia Anti-Graffiti Network to curb youth tagging in the city. To redirect graffiti writers toward structured artistic outlets, the city hired artist Jane Golden to manage the network's mural making. This initiative proved highly effective, leading to the establishment of the Mural Arts Program as an independent entity operating in partnership with the City of Philadelphia.
+
+Under Golden's leadership, the program pioneered new public art techniques, including painting off-site on non-woven polyester fabric ("parachute cloth"), which is later adhered to brick or concrete exterior walls with acrylic gel. This method allowed for refined detail and year-round production. The movement produced landmark public works, including Keith Haring’s *We the Youth* (1987) in Point Breeze; Meg Saligman’s eight-story *Common Threads* (1998) at Broad and Spring Garden Streets and *Philadelphia Muses* (1999) in Center City; David McShane’s *Jackie Robinson* (1997) and *The Phillies Mural* (2015); Diane Keller’s *Frank Rizzo* (1995); Michael Webb’s *Tribute to Julian Abele* (2011); and Michelle Angela Ortiz’s transnational collaboration *Aqui y Alla* (2007/2012), created with Mexican artist collectives.
+
+---
+
+### 5. Impact
+
+The mural arts movement has reshaped Philadelphia’s physical environment and civic brand. By transforming windowless party walls, abandoned warehouses, and vacant lots into narrative canvases, the movement altered the spatial character of Philadelphia’s rowhouse neighborhoods. Mural Arts Philadelphia operates extensive public tour itineraries via foot and trolley, attracting domestic and international tourists and positioning community art as a major driver of cultural tourism.
+
+```
+        ┌─────────────────────────────────────────────────────────┐
+        │        Impact of Philadelphia Mural Arts Movement        │
+        └────────────────────────────┬────────────────────────────┘
+                                     │
+         ┌───────────────────────────┼───────────────────────────┐
+         ▼                           ▼                           ▼
+┌──────────────────┐       ┌──────────────────┐       ┌──────────────────┐
+│ Urban & Cultural │       │ Social & Civic   │       │ Scholarly &      │
+│ Redesign         │       │ Interventions    │       │ Critical Debates │
+├──────────────────┤       ├──────────────────┤       ├──────────────────┤
+│ • Transformation │       │ • Youth art education     │ • Institutional- │
+│   of vacant spaces│       │   initiatives    │       │   ization of street│
+│ • International  │       │ • Restorative justice     │   art            │
+│   "City of Murals"│       │   in prisons     │       │ • Gentrification │
+│   reputation     │       │ • Behavioral health       │   and urban renewal│
+│ • Guided tourism │       │   wellness art   │       │   critiques      │
+└──────────────────┘       └──────────────────┘       └──────────────────┘
+```
+
+The movement's core philosophy—popularized by Mural Arts Philadelphia as "art ignites change"—has driven expansion into dedicated social service sectors:
+
+* **Youth Education:** Offering out-of-school creative programming, apprenticeship opportunities, and portfolio development for underserved urban youth.
+* **Restorative Justice:** Hosting mural-making workshops and vocational training within regional correctional facilities, involving incarcerated individuals and re-entry populations in public art projects.
+* **Behavioral Health and Wellness:** Collaborating with healthcare partners to address trauma, addiction recovery, and mental health through community design processes.
+* **Preservation and Research:** Creating initiatives like *muraLAB* to explore contemporary public art methodologies and maintain, restore, or safely decommission aging exterior murals.
+
+Despite its broad acclaim, the movement has faced scholarly and critical analysis. Urban theorists and art historians have noted that the movement's evolution from radical street-art interventions into a municipal program altered its political edge. Critics have examined the program's origins in anti-graffiti law enforcement, arguing that mural creation has occasionally been used as a tool for public space management, neighborhood stabilization, and municipal gentrification initiatives.
+
+Nonetheless, Philadelphia's wall paintings remain a defining element of the city's built environment. By connecting historical Beaux-Arts traditions and New Deal public works with modern community practices, the mural movement has solidified public art as a core component of urban infrastructure and community expression in Greater Philadelphia.
+
+---
+
+### 6. See also
+
+* Barnes Foundation
+* Beaux-Arts architecture
+* Federal Art Project
+* Jane Golden
+* Philadelphia Anti-Graffiti Network
+* Philadelphia's Magic Gardens
+* Public art in Philadelphia
+* Violet Oakley
+* Works Progress Administration
+
+---
+
+### 7. References
+
+1. Warner, Emily S. "Murals." *The Encyclopedia of Greater Philadelphia*, https://philadelphiaencyclopedia.org/essays/murals/.
+2. "Mural Arts Philadelphia." *City of Philadelphia Government*, https://www.phila.gov/departments/mural-arts-philadelphia/.

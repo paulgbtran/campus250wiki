@@ -76,7 +76,7 @@ def _print_total_summary(run_elapsed: float, results: list[dict]) -> None:
     total_cost    = gemini_utils.tokens_to_usd(total_prompt, total_output, PIPELINE_MODEL)
 
     print("=" * 55)
-    print("  FACTCHECK PIPELINE COMPLETE — SUMMARY")
+    print("  FACTCHECK PIPELINE COMPLETE -- SUMMARY")
     print("=" * 55)
 
     col_w  = max(len(r["script"]) for r in results)

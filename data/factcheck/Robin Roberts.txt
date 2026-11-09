@@ -1,0 +1,2 @@
+* **Batted / Threw**: Corrected from "Both / Right" to "Right / Right" in the infobox. Robin Roberts was a right-handed hitter and right-handed pitcher, not a switch hitter.
+* **1950 Season Win-Loss Record**: Corrected Roberts' 1950 record from "20–11" to "20–13" in the Infobox, Lead section, "The 1950 'Whiz Kids' Season" text, and the Pitching Leaders code block. In 1950, Roberts made 40 appearances (39 starts) and posted a 20–13 record with a 3.02 ERA.

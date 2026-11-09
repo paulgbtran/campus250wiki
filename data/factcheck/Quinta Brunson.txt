@@ -1,0 +1,1 @@
+* **Infobox Age**: Corrected Quinta Brunson's age calculation from `36` to `34` based on her birthdate of December 21, 1989.

@@ -1,0 +1,119 @@
+# Pennsylvania Hospital
+
+### Infobox
+
+| **Pennsylvania Hospital** | |
+| :--- | :--- |
+| **Established** | 1751 |
+| **Location** | Eighth and Pine Streets, Center City, Philadelphia, Pennsylvania, U.S. |
+| **Founders** | Benjamin Franklin and Dr. Thomas Bond |
+| **Architects** | Samuel Rhoads (East Wing), David Evans Jr. (West Wing and Center Pavilion) |
+| **Architectural Style** | Georgian (East Wing), Federal (Center Pavilion and West Wing) |
+| **Primary Building** | Pine Building (built 1755–1804) |
+| **Key Features** | Surgical Amphitheatre, Historic Library, Physic Garden |
+| **Key Artwork** | *Christ Healing the Sick in the Temple* by Benjamin West; portraits by Thomas Sully |
+| **Significance** | Oldest hospital in the United States; pioneer in humane psychiatric treatment and medical education |
+
+---
+
+## Lead section
+
+Pennsylvania Hospital, located between Eighth and Ninth Streets on Pine Street in Center City, Philadelphia, is the oldest medical facility in the United States. Founded in 1751 by statesman Benjamin Franklin and physician Dr. Thomas Bond, the institution was established to provide care for the "sick poor" and to house and treat the mentally ill. Operating under a logo depicting the Biblical parable of the Good Samaritan, the hospital represented a landmark shift in colonial public health, establishing an enduring framework for institutional medical treatment, charity care, and psychiatric pioneering in North America.
+
+When the American Declaration of Independence was adopted in 1776, Pennsylvania Hospital had already been serving the Philadelphia community for twenty-five years. Over the course of the eighteenth and nineteenth centuries, it developed into a leading center for medical advancement and education. Among its many historic firsts, the hospital established the first colonial pharmacy, hosted the first lithotomy procedure in the Thirteen Colonies, and constructed the nation's earliest dedicated surgical amphitheatre. It also played a seminal role in reforming psychiatric care by transitioning away from archaic confinement methods toward more humane therapeutic approaches.
+
+Architecturally, the hospital is anchored by the historic Pine Building, constructed in three distinct phases over a fifty-year span between 1755 and 1804. Designed by master builder Samuel Rhoads of the Carpenters' Company (who drew architectural inspiration from the Royal Infirmary in Edinburgh) and later completed by builder David Evans Jr., the complex seamlessly integrates Georgian and Federal styles. The facility encompasses historic interiors such as a climate-controlled library holding thousands of rare medical tomes, preserved clinical spaces, and extensive landscaped grounds featuring a traditional colonial "physic" garden and an eighteenth-century statue of William Penn.
+
+Today, Pennsylvania Hospital remains an influential landmark within Philadelphia's identity as a national center for health and medicine. Its historic core preserves an exceptional array of fine art, antique scientific instruments, and institutional archives, standing as an active testament to early American architectural achievement, civic philanthropy, and medical history.
+
+---
+
+## History
+
+The origin of Pennsylvania Hospital lies in the civic collaboration between Dr. Thomas Bond and Benjamin Franklin in the mid-eighteenth century. Recognizing that colonial Philadelphia lacked adequate public infrastructure to care for indigent patients and individuals suffering from mental illnesses, Dr. Bond conceived the idea of a provincial hospital. To raise the necessary capital, Franklin mounted a sophisticated public relations and fundraising campaign, persuading both private donors and the Pennsylvania Provincial Assembly to matching funds. The legislative charter was granted in 1751, and Franklin served on the hospital's original Board of Managers, later acting as its first secretary and second president. The institution admitted its first patient in 1752, operating temporarily out of a rented house until permanent facilities could be constructed.
+
+From its inception, Pennsylvania Hospital was designed to address both physical ailments and psychiatric conditions. In an era when the mentally ill were frequently subjected to neglect or harsh confinement, the hospital established itself as an early pioneer in the humane treatment of psychiatric patients. Although mentally ill patients were initially housed in the basement cells of the Pine Building, medical staff gradually implemented therapeutic regimens that laid the foundation for modern American psychiatry. The hospital's commitment to psychiatric care attracted notable medical figures, most prominently Dr. Benjamin Rush. A signatory of the Declaration of Independence and a leading figure in early American medicine, Dr. Rush advocated for progressive psychiatric methods and actively treated patients during major public health crises, including the devastating yellow fever epidemics of the late eighteenth century.
+
+Throughout the Revolutionary Era and into the nineteenth century, the hospital expanded its physical footprint, clinical capacities, and financial endowments. Prominent Philadelphia figures contributed significantly to its maintenance; among them was Stephen Girard, one of the wealthiest men in the United States at the time of his death. Girard’s wife, Mary Girard, was committed to the hospital as a patient in 1790, gave birth to a daughter on the premises a year later, and remained in care until her death in 1815. She was interred in an unmarked grave on the hospital grounds. Stephen Girard's subsequent financial contributions helped solidify the hospital's long-term financial security and ongoing physical expansion.
+
+The institution also served as a premier center for surgical innovation and clinical education. On November 29, 1756, Dr. Thomas Bond performed the first recorded lithotomy (the surgical removal of kidney or bladder stones) in the Thirteen Colonies at the hospital. As medical science evolved through the nineteenth century, surgeons at Pennsylvania Hospital routinely conducted complex procedures—ranging from tumor and cataract extractions to hernia and aneurysm repairs—attracting students from across the nation to observe operations in the hospital's specialized amphitheatre. Pennsylvania Hospital also established an early continuous record of property preservation; notably, it holds the distinction of having maintained fire insurance longer than any other building structure in the country.
+
+---
+
+## Architecture
+
+The architectural centerpiece of Pennsylvania Hospital is the Pine Building, a masterwork constructed in three distinct sections over a fifty-year period spanning from 1755 to 1804. The primary designer of the initial East Wing was Samuel Rhoads, a prominent member of the Carpenters' Company of Philadelphia. Rhoads derived key elements of the hospital's layout and design from the Royal Infirmary in Edinburgh, creating a balanced, highly functional complex that bridged early colonial architectural traditions with emerging classical influences. The West Wing and Center Pavilion were subsequently executed by master builder David Evans Jr.
+
+```
+       +-------------------------------------------------------+
+       |                  PINE BUILDING LAYOUT                 |
+       +--------------------+-------------------+--------------+
+       |     WEST WING      |  CENTER PAVILION  |  EAST WING   |
+       |  (Federal, 1796)   |  (Federal, 1804)  |(Georgian, 1755)
+       +--------------------+-------------------+--------------+
+       | Clinical Spaces &  | Surgical Amphith. | Servants &   |
+       | Historic Wards     | (Top Level)       | Isolation    |
+       |                    | Historic Library  | Women's Ward |
+       |                    | (2nd Floor)       | Men's Ward   |
+       |                    | Great Court &     | Psychiatric  |
+       |                    | President's Office| Basement     |
+       +--------------------+-------------------+--------------+
+```
+
+The construction proceeded in structured phases:
+* **East Wing (1755):** Constructed first, this wing displays classical Georgian architectural styling. Its interior was originally organized vertically according to patient needs: the basement was allocated for mentally ill patients; the first floor functioned as the men's ward; the second floor housed the women's ward; and the third floor was designated for servants and isolation cases of both sexes.
+* **West Wing (1796):** Built four decades later, the West Wing adopted the Federal style, expanding ward space and clinical accommodations to meet the growing population of Philadelphia.
+* **Central Pavilion (1804):** Designed to join the East and West wings, the central pavilion features Federal architectural detailing topped by a central skylight structure designed to illuminate the surgical amphitheatre below.
+
+The interior of the Central Pavilion houses several historically significant rooms:
+* **Great Court and President's Office:** Located on the first floor, the Great Court contains an antique hand-operated fire pump and formal portraits, including Thomas Sully’s portrait of former Board president Samuel Coates. The adjacent President's Office housed the first official pharmacy in the American colonies. It preserves valuable historic artifacts, including an original armchair owned by Pennsylvania founder William Penn and an eighteenth-century tall-case grandfather clock constructed by scientist and astronomer David Rittenhouse.
+* **Historic Library:** Occupying the second floor of the Center Pavilion, the library is enclosed in climate-controlled wood cabinetry with darkly patinaed, hand-blown glass doors. The library houses a collection of more than 13,000 historic volumes encompassing anatomy, surgery, internal medicine, botany, natural history, and science. A wooden catwalk girds the upper level of the room, accompanied by display cases containing historic hospital artifacts and three rare plaster anatomical casts depicting uterine dissections, which were historically used for student instruction.
+* **Surgical Amphitheatre:** Situated on the top floor of the Center Pavilion directly beneath the central skylight, this operating theatre was utilized for surgical operations between 1804 and 1868. Designed to maximize natural sunlight during the pre-electric era, the room features tiered wooden bench seating surrounding a central operating space. Because the amphitheatre operated prior to the advent of modern antisepsis, surgical procedures performed here were primarily limited to rapid interventions, including limb amputations, stone and tumor extractions, cataract removals, and hernia repairs.
+
+The exterior grounds surrounding the Pine Street facade feature landscaped gardens, mature azalea and wisteria plantings dating to the nineteenth century, and an 18th-century lead statue of William Penn presiding over the central lawn. The grounds also retain a historic "physic garden"—a carefully cultivated plot containing medicinal herbs and plants that were harvested for therapeutic preparations during the eighteenth and early nineteenth centuries—as well as the unmarked burial spot of Mary Girard.
+
+---
+
+## Cultural significance
+
+Pennsylvania Hospital occupies a central position in the cultural, medical, and artistic heritage of Philadelphia and the United States. As a foundational institution in Philadelphia’s historical moniker as the "City of Medicine," the hospital established an enduring model of institutional civic stewardship, demonstrating how public-private partnerships could address urgent urban health needs. 
+
+Beyond its contributions to clinical medicine, the hospital holds an exceptional collection of American fine art. Displayed inside the Pine Building is Benjamin West's monumental 1817 canvas, *Christ Healing the Sick in the Temple*. The hospital’s Board of Managers originally petitioned West—a Pennsylvania-born artist who had achieved international acclaim in London—to donate a painting to assist in hospital fundraising. West completed an initial version in England; however, its reception in London was so enthusiastic that it was retained there, prompting West to paint a second, expanded version specifically for Philadelphia. Upon its arrival and installation in a dedicated structure on hospital grounds, the painting created a public sensation, drawing overflow crowds who paid admission to view the work, thereby generating substantial ongoing revenue for the care of indigent patients.
+
+```
+                   +------------------------------------+
+                   |     NOTABLE ART & ARTIFACTS        |
+                   +------------------------------------+
+                   | • "Christ Healing the Sick"        |
+                   |   (Benjamin West, 1817)            |
+                   | • Portrait of Dr. Benjamin Rush    |
+                   |   (Thomas Sully)                   |
+                   | • Portrait of Samuel Coates        |
+                   |   (Thomas Sully)                   |
+                   | • William Penn Armchair            |
+                   | • David Rittenhouse Clock          |
+                   +------------------------------------+
+```
+
+The hospital’s portraiture collection further documents key figures of early American history and science. Prominently displayed near the library and administrative quarters is Thomas Sully’s portrait of Dr. Benjamin Rush, depicting the physician and patriot who shaped early American medical ethics and yellow fever treatment. Sully’s works reflect the close historic relationship between Philadelphia’s medical institutions and its premier fine art traditions.
+
+As a primary surviving landmark of Benjamin Franklin’s extensive civic legacy, Pennsylvania Hospital illustrates the Enlightenment principles of practical utility, rational inquiry, and humanitarian benevolence that defined eighteenth-century Philadelphia. Its surviving physical structure, historic library, and original operating facilities continue to serve as a vital educational resource for historians, medical professionals, and visitors studying the origins of American healthcare.
+
+---
+
+## See also
+
+* Benjamin Franklin
+* Dr. Benjamin Rush
+* Lazaretto Quarantine Station
+* Independence Hall Association
+* Carpenters' Hall
+* History of Philadelphia
+
+---
+
+## References
+
+1. Independence Hall Association. "Pennsylvania Hospital: America's oldest hospital." *Historic Walking Tours of Philadelphia*. Available at: https://www.ushistory.org/tour/pennsylvania-hospital.htm
+2. Independence Hall Association. "Franklin's Philadelphia: The Pennsylvania Hospital." *The Electric Ben Franklin*. Available at: https://www.ushistory.org/franklin/philadelphia/hospital.htm
+3. Encyclopedia of Greater Philadelphia. "Health and Medicine / Historic Places and Symbols." Available at: https://philadelphiaencyclopedia.org/archive/pennsylvania-hospital/

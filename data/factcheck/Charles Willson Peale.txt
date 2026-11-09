@@ -1,0 +1,4 @@
+* Corrected spelling of Charles Willson Peale's third wife's surname from "Hannah More" to "Hannah Moore" in the Infobox and the Personal Life section.
+* Corrected total number of children from 18 to 17 (Peale had 11 children with Rachel Brewer and 6 with Elizabeth De Peyster).
+* Removed Sarah Miriam Peale from the list of Charles Willson Peale's children in the Lead section; Sarah Miriam Peale was his niece (daughter of James Peale).
+* Fixed the family tree diagram in the Personal Life section: Rubens Peale and Sophonisba Angusciola were children born to Rachel Brewer, not Elizabeth De Peyster.

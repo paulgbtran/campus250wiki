@@ -8,8 +8,11 @@ data/factcheck/valid_topics.txt for further processing.
 """
 from pathlib import Path
 import os
+import sys
 
 rootDir = Path(__file__).parent.parent.parent
+sys.path.append(str(rootDir / "scripts"))
+import gemini_utils
 
 def main():
     try:
@@ -36,7 +39,7 @@ def main():
                 name, category = parts
                 
                 # Check if entry file exists
-                entry_file = entries_dir / f"{name}.txt"
+                entry_file = entries_dir / f"{gemini_utils.sanitize_filename(name)}.txt"
                 if entry_file.exists():
                     valid_entries.append(line.strip())
                     print(f"Found entry for topic: {name}")

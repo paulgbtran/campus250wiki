@@ -1,0 +1,12 @@
+* **Early life and education**: 
+  * Changed "middle infielders Rickey Henderson, Ozzie Smith, and Willie McGee" to "players Rickey Henderson, Ozzie Smith, and Willie McGee". Henderson and McGee were outfielders, not middle infielders.
+  * Removed "Batavia Muckdogs" from the list of minor league affiliates. Rollins played for the Martinsville Phillies, Piedmont Bowl Weevils, Reading Phillies, and Scranton/Wilkes-Barre Red Barons; Batavia was not a Phillies affiliate during his minor league career.
+* **Career - Early Years and Establishing Leadership (2000–2006)**: 
+  * Corrected the hitting streak details and player reference: Rollins finished 2005 on a 36-game hitting streak (a Phillies single-season record), which extended into 2006 for a total of 38 consecutive games overall.
+  * Replaced "Chase Elliott" (a NASCAR driver) with "Paul Molitor" (who set a 39-game hitting streak in 1987).
+* **Career - The 2007 MVP Season**: 
+  * Corrected the description of Rollins' 139 runs in 2007. It was the highest single-season total by a shortstop in National League history (and most by a Phillie since Chuck Klein in 1932), not the overall MLB single-season record since 1936.
+* **Career - Franchise Hit Record and Later Career (2012–2016)**: 
+  * Corrected the hit number that broke Mike Schmidt's franchise hit record (2,234 hits). Rollins broke the record with hit number 2,235 (not 2,307). Rollins ended his Phillies tenure with 2,306 total hits.
+* **Personal life**: 
+  * Corrected the name and mission of Rollins' charitable foundation from the non-existent "Johari & Jimmy Rollins Center for Animal Rehabilitation" to the "Johari & Jimmy Rollins Foundation" (Rollins Family Foundation), which focused on youth development, juvenile diabetes, and arthritis awareness ("BaseBOWL").

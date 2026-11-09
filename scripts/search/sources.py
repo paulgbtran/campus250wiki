@@ -67,7 +67,7 @@ def parseUrls(text: str) -> list[str]:
     """Extracts valid-looking base URLs from the model's response."""
     urls = []
     for line in text.splitlines():
-        line = line.strip().lstrip("-•* \t")
+        line = line.strip().lstrip("-* \t")
         if line.startswith("http://") or line.startswith("https://"):
             urls.append(line)
     return urls
@@ -84,10 +84,10 @@ def findSources() -> None:
     client = genai.Client()
     existing_urls = loadExistingUrls()
 
-    # Respect the pipeline timeout — if we're already over budget, skip.
+    # Respect the pipeline timeout -- if we're already over budget, skip.
     timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
     if timeout_sec is not None and time.perf_counter() > timeout_sec:
-        print(f"⚠  Time limit ({timeout_sec // 60}m) already reached before sources query. Skipping.")
+        print(f"[!] Time limit ({timeout_sec // 60}m) already reached before sources query. Skipping.")
         return
 
     print(f"Querying {MODEL} for credible Philadelphia history sources...")

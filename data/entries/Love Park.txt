@@ -1,0 +1,136 @@
+# Infobox
+
+| **John F. Kennedy Plaza (LOVE Park)** | |
+| :--- | :--- |
+| **Official Name** | John F. Kennedy Plaza |
+| **Common Name** | LOVE Park |
+| **Type** | Public plaza, urban park, visual landmark |
+| **Location** | 15th Street and John F. Kennedy Boulevard, Center City, Philadelphia, Pennsylvania, U.S. |
+| **Coordinates / Alignment** | Eastern terminus of the Benjamin Franklin Parkway, adjacent to Philadelphia City Hall |
+| **Established** | 1965 (Plaza opened); 1976 (*LOVE* sculpture installed) |
+| **Original Planners / Architects** | Edmund Bacon (Executive Director, Philadelphia City Planning Commission), Vincent Kling |
+| **Featured Public Art** | *LOVE* (1976) by Robert Indiana (1928–2018) |
+| **Sculpture Medium & Dimensions** | Painted aluminum on stainless steel base; Sculpture: 6 ft × 6 ft × 3 ft; Base: 7 ft × 8 ft × 4 ft |
+| **Key Civic Benefactor** | F. Eugene Dixon Jr. (Local businessman and philanthropist) |
+| **Major Redesign & Restoration** | 2016–2018 (Landscape redesign; sculpture color restoration to original red, green, and purple) |
+| **Managing Organization** | Philadelphia Parks & Recreation / City of Philadelphia |
+
+---
+
+# Lead section
+
+**John F. Kennedy Plaza**, universally known as **LOVE Park**, is a iconic public plaza and municipal landmark located at the intersection of 15th Street and John F. Kennedy Boulevard in Center City, Philadelphia, Pennsylvania. Situated directly northwest of Philadelphia City Hall, the plaza occupies a pivotal site in the city’s urban grid, functioning as the visual terminus of the grand diagonal avenue of the Benjamin Franklin Parkway. Designed in the mid-20th century during a major wave of urban renewal, the park serves as both a central pedestrian gateway and an internationally recognized public space.
+
+The park earned its popular moniker from the prominent installation of American artist Robert Indiana’s famous *LOVE* sculpture, which was first placed in the plaza during the United States Bicentennial celebration in 1976. Featuring stacked aluminum lettering with a distinctively tilted letter "O," the artwork became an enduring visual symbol for Philadelphia—a city historically founded by William Penn on the ideals of brotherly love. Although initially placed on temporary loan, the sculpture was permanently acquired for the city following widespread public mobilization and private philanthropy, cementing the plaza's identity in global popular culture.
+
+Architecturally, LOVE Park represents mid-century modernist urban design, conceived by Philadelphia City Planning Commission Executive Director Edmund Bacon and architect Vincent Kling. Built atop a subterranean parking structure, the original layout featured hardscape multi-tiered granite steps, low ledges, curved planter walls, and a central geyser fountain aligned with City Hall’s tower. Over the decades, these physical features unexpectedly transformed the park into a world-famous mecca for street skateboarding during the 1990s and early 2000s, attracting international athletes and media coverage before municipal bans altered its usage.
+
+In the 21st century, LOVE Park underwent a comprehensive multi-million-dollar renovation between 2016 and 2018. The rehabilitation modernized the landscape into a more green, accessible public realm while facilitating a historic conservation of the *LOVE* sculpture itself. Today, LOVE Park remains one of Philadelphia's most visited civic landmarks, hosting public events, holiday markets, and tourists from around the world, while maintaining its status as a cornerstone of the city's rich public art heritage.
+
+---
+
+# History
+
+The site of John F. Kennedy Plaza was conceptualized in the mid-20th century as part of an ambitious master plan to modernize Center City Philadelphia. Led by influential urban planner Edmund Bacon, the city sought to create a prominent plaza that would frame the terminus of the Benjamin Franklin Parkway and establish a formal visual vista looking toward Philadelphia City Hall. Constructed above a underground parking facility, the plaza officially opened in 1965 as John F. Kennedy Plaza, dedicated in honor of the 35th President of the United States following his assassination in 1963.
+
+The defining chapter in the park's history began in 1976 when the City of Philadelphia prepared for the celebration of the United States Bicentennial. As part of the public art festivities, artist Robert Indiana lent the city a large, three-dimensional painted aluminum rendition of his iconic *LOVE* design, which he had originally created as a hard-edge painting in 1964. Positioned near 15th Street facing the Parkway, the sculpture quickly captured the public imagination. Following the conclusion of the Bicentennial events, the sculpture remained in the plaza on extended loan for two years while negotiations took place between the city and Indiana’s New York gallery.
+
+```
++-------------------------------------------------------------------------+
+|                  CHRONOLOGY OF ROBERT INDIANA'S "LOVE"                  |
++-------------------------------------------------------------------------+
+|  1964: Robert Indiana creates the original "LOVE" image as a painting.   |
+|  1973: Design gains global prominence via U.S. Postal Service stamp.    |
+|  1976: Large aluminum sculpture installed in JFK Plaza for Bicentennial.|
+|  1978: Gallery removes work; F. Eugene Dixon purchases and donates it.   |
+|  2016: Park closes for major municipal landscape overhaul.              |
+|  2018: Sculpture restored to original red/green/purple and reinstalled. |
++-------------------------------------------------------------------------+
+```
+
+In 1978, after a commercial sale to the municipal government could not be finalized, the gallery dispatched a truck to remove the sculpture from the plaza and transport it back to New York for a private buyer. The sudden removal sparked widespread public outrage and media commentary across the region. Local newspapers, most notably *The Philadelphia Inquirer*, published impassioned editorials demanding to know why the civic monument had been allowed to leave. Recognizing its cultural importance, local businessman F. Eugene Dixon Jr. stepped forward to purchase the artwork directly from the gallery. Dixon subsequently gifted the sculpture to the City of Philadelphia, allowing it to be triumphantly reinstalled in the plaza, which was by then universally known as LOVE Park.
+
+During the late 1980s and 1990s, LOVE Park evolved into an internationally famous hub for street skateboarding. The plaza's extensive smooth granite surfaces, wide staircases, open sightlines, and drop-offs made it an ideal natural training ground for skateboarders. Local and international skaters transformed the plaza into a focal point of youth culture, featuring prominently in skateboarding videos, magazines, and national media coverage. The park’s global prominence culminated in Philadelphia playing host to the ESPN X Games in 2001 and 2002. However, concerns regarding municipal liability, structural wear on the granite ledges, and public access led the city government under Mayor John F. Street to enact strict anti-skateboarding ordinances, placing physical barriers and police security in the park during the early 2000s.
+
+Between 2016 and 2018, the City of Philadelphia initiated a major reconstruction of LOVE Park to overhaul its aging infrastructure and adapt the space for contemporary civic use. The project involved removing the worn granite hardscape, installing expanded lawn areas and dynamic water features, and restoring the park's signature public art. The *LOVE* sculpture was removed for a year of comprehensive conservation, during which historical research corrected past repainting errors, restoring its original 1976 color palette. In February 2018, the restored sculpture was reinstalled in the redesigned plaza during a public unveiling ceremony.
+
+---
+
+# Architecture
+
+The original layout of John F. Kennedy Plaza was designed by Edmund Bacon and architect Vincent Kling in a late modernist aesthetic. The spatial organization was dictated by its dual role as a public surface plaza and the roof structure for a multi-level subterranean parking garage below. To accommodate structural loads and ventilation, Bacon and Kling integrated elevated hardscape platforms, multi-tiered granite steps, retaining ledges, curved masonry planter beds, and a subterranean visitor pavilion topped with a circular glass enclosure (popularly referred to as the "Saucer" building). The centerpiece of the original plaza was a high-powered water fountain capable of shooting a dramatic central geyser, aligned visually along the Parkway axis toward City Hall's clock tower.
+
+```
+                    [ Benjamin Franklin Parkway ]
+                                  |
+                                  v
+         +-------------------------------------------------+
+         |                 LOVE PARK / JFK PLAZA           |
+         |                                                 |
+         |   [ Visitors Pavilion ]      ( Restored )       |
+         |       ("The Saucer")       [ LOVE Sculpture ]   |
+         |                                    |            |
+         |         [ Lawn Area ]      [ Water Feature ]    |
+         |                                                 |
+         +-------------------------------------------------+
+                                  |
+                                  v
+                      [ 15th St & JFK Blvd ]
+                                  |
+                                  v
+                      [ Philadelphia City Hall ]
+```
+
+The primary architectural monument within the space is Robert Indiana’s *LOVE* sculpture. Fabricated from heavy painted aluminum mounted on a sturdy stainless steel base, the artwork measures 6 feet in height, 6 feet in width, and 3 feet in depth, elevated atop a rectangular base measuring 7 feet high, 8 feet wide, and 4 feet deep. Indiana’s sculptural typography features bold, sans-serif uppercase letters arranged in a square format, with the letter "L" and a distinctive slanted "O" positioned above the letters "V" and "E". 
+
+During the 2016–2018 civic redesign, led by landscape architecture firm Hargreaves Associates alongside KieranTimberlake architects, the physical layout of LOVE Park was dramatically reconfigured. The multi-tiered granite ledges and steps were replaced with a unified, single-level plaza design to enhance compliance with the Americans with Disabilities Act (ADA) and improve overall pedestrian permeability. Key architectural updates included:
+* Expansion of green space featuring large turf lawns and native tree plantings.
+* Installation of a modern, continuous-paving water feature with computer-controlled jets capable of being turned off to accommodate large civic crowds.
+* Preservation and adaptive reuse of the mid-century modern circular visitor center pavilion ("The Saucer").
+* Placement of the *LOVE* sculpture on a lowered, modern pedestal near the corner of 15th Street and JFK Boulevard to optimize sightlines for visitors and photographs against the backdrop of City Hall.
+
+---
+
+# Cultural significance
+
+LOVE Park holds a singular place in the cultural geography of Philadelphia, serving as an emblem of civic pride and international brand identity. The design of Robert Indiana's *LOVE* artwork, which originated as a 1964 painting and gained mass ubiquity on a 1973 U.S. Postal Service postage stamp, found its definitive physical home in the plaza. As documented by art historian Penny Balkin Bach in *Public Art in Philadelphia* (Temple University Press, 1992), public art in Philadelphia has long served to connect urban spaces with civic identity. The acquisition of the sculpture through the combination of public outcry and private support from F. Eugene Dixon Jr. highlights the deep sentimental attachment Philadelphians developed for the monument.
+
+In global subculture, LOVE Park is historic for its role in the evolution of modern street skateboarding. Throughout the 1990s, professional and amateur skateboarders utilized the park's unique geometric granite terrain to innovate tricks, transforming Philadelphia into one of the world capitals of skate culture alongside cities like Los Angeles and Barcelona. Prominent professional skateboarders earned international acclaim by filming video segments at the plaza, which was featured prominently in popular media, video games (including the *Tony Hawk's Pro Skater* series), and documentary films. The park's transition from an internationally celebrated skate spot to a regulated civic plaza remains a landmark case study in urban planning regarding the contestation of public space.
+
+```
++-------------------------------------------------------------------------+
+|                SCULPTURE CONSERVATION & COLOR CORRECTION                |
++-------------------------------------------------------------------------+
+| For decades, repainting efforts incorrectly used blue paint on the     |
+| interior sides of the aluminum sculpture. During the 2017–2018          |
+| restoration, representatives of Robert Indiana and archival photos      |
+| from Temple University confirmed the original 1976 color palette:       |
+|                                                                         |
+|   • Front Faces:          Vibrant Red                                   |
+|   • Side Edges/Interior:  Deep Purple (Replacing the incorrect blue)   |
+|   • Backing:              Green                                         |
++-------------------------------------------------------------------------+
+```
+
+The 2018 conservation of the *LOVE* sculpture brought renewed academic and cultural attention to the precise history of the artwork. When the sculpture was uninstalled for conservation prior to the park's reopening, municipal conservators discovered that previous overpainting efforts had erroneously altered the color scheme, coating the interior facets in shade of blue. Historical research conducted by the City of Philadelphia, verified by representatives of Robert Indiana and supported by 1976 archival color photographs housed at Temple University, proved that the artist’s original Bicentennial color palette consisted of red, green, and deep purple. The physical restoration of the correct purple hue reaffirmed the city's commitment to rigorous historical preservation in public art.
+
+Today, LOVE Park serves as a central social hub within Center City. It is a frequent gathering point for political rallies, cultural celebrations, weddings, and public programming. Each winter, the plaza transforms into the site of Philadelphia's annual Christmas Village, an open-air holiday market modeled after traditional German Christmas markets. As a symbol of hospitality and connection, the park and its iconic sculpture remain among the most photographed landmarks in the Commonwealth of Pennsylvania.
+
+---
+
+# See also
+
+* Benjamin Franklin Parkway
+* Philadelphia City Hall
+* Penn Center
+* Association for Public Art
+* Robert Indiana
+* Skateboarding in Philadelphia
+
+---
+
+# References
+
+1. Association for Public Art. "LOVE." *Association for Public Art*. https://www.associationforpublicart.org/artwork/love/
+2. Encyclopedia of Greater Philadelphia. "Love Park / John F. Kennedy Plaza." *The Encyclopedia of Greater Philadelphia*. https://philadelphiaencyclopedia.org/archive/love-park-john-f-kennedy-plaza/
+3. The Philadelphia Inquirer. "A brief history of LOVE Park." *The Philadelphia Inquirer*. https://www.inquirer.com/philly/news/politics/20160211_A_brief_history_of_LOVE_Park.html

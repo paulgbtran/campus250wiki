@@ -1,0 +1,3 @@
+* **Metadata & Lead Section**: Added the **Pritzker Architecture Prize (1991)** to Venturi's major awards. This is widely considered the highest honor in architecture and Venturi's most significant individual award.
+* **Metadata & Career Section**: Replaced references to "William Rauch" with "John Rauch" (and added Steven Izenour, co-author of *Learning from Las Vegas* and long-time principal). John Rauch was Venturi's original firm partner (Venturi and Rauch); "William Rauch" was an error.
+* **Personal Life Section**: Fixed capitalization error on the word "wit" ("sharp Wit" -> "sharp wit").

@@ -1,0 +1,129 @@
+# Shofuso Japanese House and Garden
+
+## 1. Infobox
+
+| **Shofuso Japanese House and Garden** | |
+| :--- | :--- |
+| **Native name** | 松風荘 (*Shōfūsō*, "Pine Breeze Villa") |
+| **Location** | West Fairmount Park, Philadelphia, Pennsylvania, U.S. |
+| **Coordinates** | 39.9814° N, 75.2117° W |
+| **Architect** | Junzo Yoshimura |
+| **Architectural Style** | 17th-century *Shoin-zukuri* |
+| **Construction Date** | 1953 (Nagoya, Japan); reassembled 1954 (MoMA, NY); relocated 1957 (Philadelphia) |
+| **Garden Type** | Japanese stroll garden (*Chisen-kaiyūshiki*) with pond and courtyard |
+| **Key Features** | Hinoki bark roof, *chashitsu* (tea house), Hiroshi Senju *fusuma* murals, koi pond |
+| **Management** | Japan America Society of Greater Philadelphia (JASGP) |
+
+---
+
+## 2. Lead section
+
+**Shofuso Japanese House and Garden** (Japanese: 松風荘, *Shōfūsō*, meaning "Pine Breeze Villa") is a historic 17th-century-style Japanese house and traditional garden located in West Fairmount Park, Philadelphia, Pennsylvania. Designed by prominent Japanese architect Junzo Yoshimura in 1953, the structure was originally commissioned by the Museum of Modern Art (MoMA) in New York City as part of its prestigious "House in the Museum Garden" exhibition series. Constructed in Nagoya, Japan, using traditional 16th- and 17th-century craftsmanship and materials, the house was exhibited at MoMA in 1954 and 1955 before being permanently relocated to Fairmount Park in 1957.
+
+The site occupied by Shofuso has a rich history of Japanese-American cultural exchanges dating back to the late nineteenth century. The property previously hosted the Japanese Bazaar during the 1876 Centennial International Exhibition—the first official presentation of Japanese material culture and architecture in the United States—as well as an early twentieth-century Japanese garden and temple gate (*Nio-mon*) brought to Philadelphia in 1905. Shofuso was built directly adjacent to these historical footprints, continuing a legacy of cross-cultural dialogue in the heart of West Philadelphia.
+
+Architecturally, Shofuso represents one of the finest examples of *shoin-zukuri* (desk-centered residential style) architecture outside Japan. Built without the use of metal nails through interlocking wooden joinery, the house features traditional elements such as *shoji* translucent screens, *fusuma* sliding doors, *tatami* woven mat flooring, an integrated tea house (*chashitsu*), and a roof constructed of *hiwada-buki* (hinoki cypress bark). In 2007, world-renowned artist Hiroshi Senju contributed twenty custom-painted *fusuma* murals depicting cascading waterfalls, combining contemporary fine art with historic architectural forms.
+
+Today, Shofuso is maintained and operated by the Japan America Society of Greater Philadelphia (JASGP). It serves as a non-profit site for public tours, educational programming, tea ceremonies (*chanoyu*), and seasonal cultural events, notably acting as a central venue for Philadelphia’s annual cherry blossom celebrations. The site is widely recognized as an essential cultural landmark and an enduring symbol of post-World War II diplomatic reconciliation and artistic appreciation between Japan and the United States.
+
+---
+
+## 3. History
+
+### Early Japanese Presence in Fairmount Park (1876–1950)
+The grounds on which Shofuso stands have been tied to Japanese architectural and horticultural displays for over a century. During the 1876 Centennial International Exhibition held in Fairmount Park, the Empire of Japan made its debut at a world's fair, constructing the Japanese Bazaar and a dwelling that introduced traditional Japanese wood construction, ceramics, and gardening principles to the American public. Following the exposition, interest in Japanese design grew significantly across North America.
+
+In 1905, prominent Philadelphia business leader and arts patron John T. Morris purchased a 14th-century Japanese temple gate (*Nio-mon*), which had been brought to the United States for display at the 1904 Louisiana Purchase Exposition in St. Louis. The structure was relocated across the United States and reassembled in West Fairmount Park near the present site of the Horticultural Center. A surrounding Japanese stroll garden was established to complement the gate. Although the *Nio-mon* was tragically destroyed by a fire in 1955, the site maintained its historical association with Japanese landscape architecture.
+
+### Commission and Construction at MoMA (1953–1955)
+In the early 1950s, the Museum of Modern Art in New York City initiated the "House in the Museum Garden" program to showcase exceptional international residential design. Under the leadership of Arthur Drexler, curator of MoMA’s Department of Architecture and Design, the museum sought to demonstrate the profound influence of traditional Japanese spatial concepts on modern Western architecture. 
+
+The museum commissioned architect Junzo Yoshimura, a protégé of Antonin Raymond who had studied both traditional Japanese craft and Western modernism, to design an authentic 17th-century *shoin-zukuri* residence. Construction began in 1953 in Nagoya, Japan, utilizing timber harvested from old-growth forests and traditional joinery methods executed by master carpenters (*daiku*). 
+
+Once framed and fitted in Nagoya, the entire house was dismantled, packed into crates, and shipped via the Panama Canal to New York City. Reassembled in MoMA’s outdoor garden court in 1954, the structure—then officially designated as the "Japanese Exhibition House"—drew over 223,000 visitors across two summer exhibition seasons, captivating architects, designers, and the general public.
+
+### Relocation to Philadelphia and Restoration (1957–Present)
+Following the conclusion of the MoMA exhibition in 1955, the museum sought a permanent public home for the structure. Through joint efforts by the Fairmount Park Commission and the Japan Society of New York, Philadelphia was selected as the recipient. In 1957, the house was transported to West Fairmount Park and erected on the site of the former *Nio-mon* garden, overlooking a natural slope and spring-fed pond.
+
+Over the decades, the house faced environmental wear from Philadelphia's mid-Atlantic climate. Extensive conservation projects were undertaken periodically to preserve the delicate organic materials. In 1999, the Friends of Japan House and Garden was established to oversee management and fundraising, later merging with the Japan America Society of Greater Philadelphia. Major restoration efforts have included the complete re-roofing of the house using traditional hinoki cypress bark by specialized Japanese master craftsmen, structural timber consolidation, and garden revitalization.
+
+In 2007, international artist Hiroshi Senju donated 20 custom *fusuma* (sliding paper screen doors) featuring his signature waterfall motifs painted with natural mineral pigments on mulberry paper. These murals replaced original screen panels that had been damaged over time, blending 21st-century contemporary Japanese painting with 17th-century architectural heritage.
+
+---
+
+## 4. Architecture
+
+```
++-------------------------------------------------------------------+
+|                     SHOFUSO ARCHITECTURAL LAYOUT                  |
+|                                                                   |
+|   +-----------------------+     +-----------------------------+   |
+|   |                       |     |                             |   |
+|   |  Tea House            |=====|  Main Shoin Residence       |   |
+|   |  (Chashitsu)          |     |  (Tatami Rooms & Tokonoma)  |   |
+|   |                       |     |                             |   |
+|   +-----------------------+     +--------------+--------------+   |
+|               |                                |                  |
+|               | (Roji / Dewy Path)             | (Engawa Porch)   |
+|               v                                v                  |
+|   +-----------------------------------------------------------+   |
+|   |                   Chisen-kaiyūshiki                       |   |
+|   |               (Pond-Stroll Garden & Koi)                  |   |
+|   +-----------------------------------------------------------+   |
++-------------------------------------------------------------------+
+```
+
+### The Shoin-Zukuri Residence
+Shofuso is constructed in the *shoin-zukuri* style, a refined residential form that developed among the Japanese military aristocracy and scholar monks during the Muromachi and Momoyama periods, reaching maturity in the 17th century. Characterized by rectangular modular geometry derived from standard *tatami* floor mats (approx. 3 by 6 feet), the design emphasizes open spatial flow, asymmetrical balance, and harmony with the surrounding landscape.
+
+The building relies entirely on post-and-beam timber construction utilizing Japanese cedar (*sugi*), cypress (*hinoki*), and pine (*matsu*). Interlocking wooden mortise-and-tenon joints eliminate the need for structural metal fasteners. Exterior walls consist of flexible *shoji* lattice screens clad in translucent paper, allowing natural light to filter softly into the interior while sliding open to seamlessly connect interior rooms with the garden.
+
+Key interior spaces include:
+*   **Main Shoin Room**: Features a raised study desk (*tsuke-shoin*), built-in shelving (*chigai-dana*), and a formal display alcove (*tokonoma*) intended for hanging scrolls (*kakejiku*) and flower arrangements (*ikebana*).
+*   **Veranda (*Engawa*)**: A wide polished wooden porch extending along the outer perimeter of the house, functioning as a transitional zone between indoor living areas and the pond garden.
+*   **Bathhouse and Kitchen (*Mizuya*)**: Service quarters designed to demonstrate historic domestic utilities and bathing facilities of the Edo period.
+
+### Roof Construction (*Hiwada-buki*)
+One of Shofuso's most distinguished architectural features is its roof, crafted in the *hiwada-buki* style using layered strips of bark harvested from *hinoki* (Japanese cypress) trees. This ancient roofing technique, historically reserved for shrines, temples, and noble residences, involves hand-layering thousands of thin bark sheets secured with camellia wood nails (*tsubaki-kugi*). The resulting curved roof contours integrate naturally into the surrounding woodland backdrop.
+
+### The Tea House (*Chashitsu*)
+Adjoining the main residential wing via an open gallery is an authentic *chashitsu* (tea house), constructed specifically for hosting formal Japanese tea ceremonies (*chanoyu*). Designed according to principles established by tea master Sen no Rikyū, the tea room features a crawling-in entrance (*nijiriguchi*), forcing all guests to lower themselves in humility regardless of social stature. The interior contains a sunken hearth (*ro*) used for boiling water during winter months and a dedicated preparation area (*mizuya*).
+
+### Garden Design
+The garden surrounding Shofuso covers approximately one acre and was designed in the *chisen-kaiyūshiki* (pond-stroll garden) style. Designed to offer changing visual perspectives as visitors walk along winding stone pathways (*tobi-ishi*), the landscape includes:
+*   **Central Koi Pond**: Inhabited by ornamental koi fish, fed by a cascading mountain-style waterfall.
+*   **Courtyard Garden (*Tsuboniwa*)**: An enclosed, intimate garden space within the residential wings designed for quiet reflection.
+*   **Stone Elements**: Traditional granite lanterns (*tōrō*), stone bridges spanning stream channels, and carefully arranged rock formations representing islands of eternal youth (*Hōrai*).
+*   **Flora**: Strategic plantings of Japanese maples, cherry trees (*sakura*), azaleas, mosses, and bamboo, selected to provide distinctive aesthetic interest across all four seasons.
+
+---
+
+## 5. Cultural significance
+
+Shofuso occupies a unique position in American architectural and diplomatic history. As a post-World War II cultural initiative, the house served as an early instrument of international goodwill, fostering mutual understanding and cultural appreciation between Japan and the United States during the postwar reconstruction era.
+
+As one of fewer than a dozen authentic historical Japanese structures located in North America, Shofuso acts as an active educational site. The Japan America Society of Greater Philadelphia utilizes the facility to host immersive public programs, including traditional tea ceremony demonstrations, calligraphy workshops, musical performances featuring the *koto* and *taiko*, and lectures on Japanese horticulture and historic preservation.
+
+The site also forms the primary backdrop for the annual Subaru Cherry Blossom Festival of Greater Philadelphia, attracting tens of thousands of visitors each spring. Through its blend of historic architecture, contemporary art installations, and living landscape traditions, Shofuso remains an enduring emblem of Japanese design heritage in the United States.
+
+---
+
+## 6. See also
+
+*   **Fairmount Park** – The expansive urban park system in Philadelphia housing Shofuso.
+*   **Centennial Exposition (1876)** – The first official World's Fair in the U.S., hosted in Fairmount Park.
+*   **Shoin-zukuri** – The traditional Japanese residential architectural style showcased by Shofuso.
+*   **Japanese Garden** – Overview of traditional landscape gardening principles.
+*   **Museum of Modern Art (MoMA)** – The New York institution that originally commissioned the structure in 1953.
+*   **Hiroshi Senju** – The acclaimed artist who created the contemporary *fusuma* waterfall murals for Shofuso.
+
+---
+
+## 7. References
+
+1. Association for Public Art. "Shofuso Japanese House and Garden." *Association for Public Art*, https://www.associationforpublicart.org/artwork/shofuso-japanese-house-and-garden/.
+2. Drexler, Arthur. *The Architecture of Japan*. Museum of Modern Art, New York, 1955.
+3. Encyclopedia of Greater Philadelphia. "Japanese Heritage in Philadelphia." *Mid-Atlantic Humanities Center*, Rutgers University, https://philadelphiaencyclopedia.org/essays/shofuso/.
+4. Japan America Society of Greater Philadelphia. "History of Shofuso Japanese House and Garden." *JASGP*, https://japanphilly.org/shofuso/.
+5. The Philadelphia Inquirer. "Vandalism and Restoration Efforts at Philadelphia's Historic Shofuso." *The Philadelphia Inquirer*, 2022, https://www.inquirer.com/news/philadelphia/shofuso-japanese-house-garden-vandalism-paintings-hiroshi-senju-20220616.html.
+6. WHYY News. "Preserving Philadelphia's Shofuso Japanese House & Garden." *WHYY*, https://whyy.org/articles/shofuso-japanese-house-and-garden-vandalized-philadelphia/.

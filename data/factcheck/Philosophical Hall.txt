@@ -1,0 +1,4 @@
+* **Section 2 (Lead Section):** Removed duplicate word ("national national academy" -> "national academy").
+* **Section 3 (Background and Context):** Clarified that David Rittenhouse conducted his observations of the 1769 transit of Venus from his primary observatory at his farm in Norriton, Pennsylvania, rather than solely at the State House garden (where another APS observation platform had been constructed).
+* **Section 3 (Planning, Funding, and Construction):** Corrected "Thomas Penn" to "John Penn". Thomas Penn died in 1775, ten years prior to the authorization of building construction in 1785.
+* **Section 5 (Prominent Associated Figures):** Removed Eve Kosofsky Sedgwick from the list of elected APS members, as she was never elected to the American Philosophical Society.

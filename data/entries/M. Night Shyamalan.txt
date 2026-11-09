@@ -1,0 +1,130 @@
+<table>
+  <caption><strong>M. Night Shyamalan</strong></caption>
+  <tbody>
+    <tr>
+      <td colspan="2" style="text-align:center;">
+        <strong>Born:</strong> Manoj Nelliyattu Shyamalan<br />
+        August 6, 1970 (age 54)<br />
+        Mahé, Pondicherry, India
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Residence:</th>
+      <td>Willistown Township, Chester County, Pennsylvania, U.S.</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Alma mater:</th>
+      <td>New York University (BFA)</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Occupation:</th>
+      <td>Filmmaker, director, screenwriter, producer</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Years active:</th>
+      <td>1992–present</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Spouse:</th>
+      <td>Bhavna Vaswani (m. 1993)</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Children:</th>
+      <td>3 (including Saleka and Ishana)</td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Notable works:</th>
+      <td>
+        <em>The Sixth Sense</em> (1999)<br />
+        <em>Unbreakable</em> (2000)<br />
+        <em>Signs</em> (2002)<br />
+        <em>The Village</em> (2004)<br />
+        <em>Split</em> (2016)<br />
+        <em>Glass</em> (2019)<br />
+        <em>Knock at the Cabin</em> (2023)<br />
+        <em>Trap</em> (2024)
+      </td>
+    </tr>
+    <tr>
+      <th scope="row" style="text-align:left;">Key significance:</th>
+      <td>Pioneered modern twist-ending narratives; major figure in Greater Philadelphia film production</td>
+    </tr>
+  </tbody>
+</table>
+
+## Lead section
+
+Manoj Nelliyattu "M. Night" Shyamalan (born August 6, 1970) is an American filmmaker, director, screenwriter, and producer renowned for his psychological thrillers, supernatural dramas, and signature plot twists. Emerging in the late 1990s as one of the most distinctive directors of contemporary American cinema, Shyamalan achieved global commercial and critical success with his 1999 film *The Sixth Sense*, which earned six Academy Award nominations and established his reputation as a master of suspense.
+
+Beyond his international box-office presence, Shyamalan occupies a central position in the cultural and industrial history of Greater Philadelphia. Raised in Lower Merion Township along Pennsylvania's Main Line, Shyamalan has maintained an explicit commitment to producing, setting, and shooting his major cinematic works almost exclusively within Southeastern Pennsylvania. His filmography functions as an extensive visual record of the Delaware Valley, framing urban centers like Center City and South Philadelphia alongside the rural and suburban terrains of Bucks, Chester, Montgomery, and Delaware counties.
+
+Shyamalan's choice to base his production apparatus locally transformed the region into a sustainable film production center. By utilizing local cast, crew, and historical architecture, he fostered a regional ecosystem that provided sustained employment for local industry professionals and elevated Philadelphia's cultural profile in modern media. His works routinely highlight the area's Quaker heritage, historical brick rowhouses, and isolated agricultural landscapes as core aesthetic elements.
+
+Over a career spanning more than three decades, Shyamalan's work includes commercially successful feature films such as *Unbreakable* (2000), *Signs* (2002), *The Village* (2004), *Split* (2016), *Glass* (2019), *Knock at the Cabin* (2023), and *Trap* (2024). His long-standing devotion to Philadelphia's visual identity and creative talent cements his standing as one of the region's most influential modern cultural figures.
+
+## Early life and education
+
+Manoj Nelliyattu Shyamalan was born on August 6, 1970, in Mahé, Pondicherry, India, to Dr. Nelliyattu C. Shyamalan, a neurologist, and Dr. Jayalakshmi Shyamalan, an obstetrician and gynecologist. Shortly after his birth, the family moved to the United States, settling in Penn Valley, a neighborhood within Lower Merion Township, Pennsylvania. Growing up along Philadelphia's historic Main Line, Shyamalan was raised in a traditional Hindu environment while attending local schools.
+
+At the age of eight, Shyamalan was given a Super 8 camera, which ignited a lifelong passion for filmmaking. Emulating his idol Steven Spielberg, he began making amateur home movies throughout his Lower Merion neighborhood, casting family members and friends. These early suburban experiences shaped his later cinematic interest in ordinary residential spaces disrupted by extraordinary, supernatural phenomena.
+
+Shyamalan received his early education at Waldron Mercy Academy, a private Roman Catholic school in Merion, followed by secondary education at The Episcopal Academy, then located in Merion. Although his parents anticipated that he would pursue a career in medicine, Shyamalan chose to dedicate himself to the arts. During his senior year of high school, he earned a scholarship to New York University's Tisch School of the Arts in Manhattan. While studying at NYU, he adopted "Night" as his middle name. He graduated with a Bachelor of Fine Arts in Film and Television in 1992.
+
+## Career
+
+Shyamalan made his directorial feature debut with *Praying with Anger* (1992), an independent semi-autobiographical film shot in India, which he financed largely through personal savings and family loans. He followed this with the comedy-drama *Wide Awake* (1998), filmed at his alma mater, Waldron Mercy Academy in Merion. Though *Wide Awake* experienced limited box-office success, it reinforced Shyamalan's preference for filming within the Greater Philadelphia region.
+
+```
++-------------------------------------------------------------------------+
+|                  M. Night Shyamalan Filmography Overview                 |
++-------------------+------+----------------------+-----------------------+
+| Title             | Year | Setting / Location   | Key Themes            |
++-------------------+------+----------------------+-----------------------+
+| The Sixth Sense   | 1999 | South Philadelphia   | Grief, Supernatural   |
+| Unbreakable       | 2000 | Center City / Franklin | Comic Realism       |
+| Signs             | 2002 | Bucks County, PA     | Faith, Isolation      |
+| The Village       | 2004 | Chester County, PA   | Community, Fear       |
+| Split             | 2016 | Greater Philadelphia | Psychological Thriller|
+| Glass             | 2019 | Allentown / Philly   | Deconstructionism     |
+| Knock at the Cabin| 2023 | Rural PA / NJ        | Apocalyptic Choice    |
+| Trap              | 2024 | Philadelphia / Ontario| Suspense / Deception  |
++-------------------+------+----------------------+-----------------------+
+```
+
+In 1999, Shyamalan achieved global recognition with *The Sixth Sense*, starring Bruce Willis and Haley Joel Osment. Set and filmed in Philadelphia—notably utilizing real locations across Center City and Saint Augustine Church in Old City—the supernatural psychological thriller became a massive commercial hit, grossing over $670 million worldwide. The film received six Academy Award nominations, including Best Director and Best Original Screenplay, and popularized his trademark narrative device: the climatic plot twist.
+
+Following *The Sixth Sense*, Shyamalan established a multi-film partnership with Touchstone Pictures and Universal Pictures. He wrote and directed *Unbreakable* (2000), a grounded deconstruction of the superhero comic book genre filmed at Franklin Field at the University of Pennsylvania and across various Philadelphia neighborhoods. He followed this with *Signs* (2002), an alien-invasion drama filmed on location in rural Bucks County, Pennsylvania, which drew heavily upon the agricultural scenery of the Delaware Valley. In 2004, he released *The Village*, constructing a period-accurate settlement in Chadds Ford Township in Chester County to explore themes of isolation and collective fear.
+
+In the late 2000s and early 2010s, Shyamalan expanded into larger studio productions, including *Lady in the Water* (2006)—filmed on a set constructed in Levittown, Pennsylvania—*The Happening* (2008), *The Last Airbender* (2010), and *After Earth* (2013). While these projects varied in critical reception, Shyamalan maintained his structural roots in Southeastern Pennsylvania, often utilizing regional soundstages and crew networks.
+
+In 2015, Shyamalan transitioned to a self-financed independent model, mortgaging his estate to retain creative control. This creative pivot yielded *The Visit* (2015) and *Split* (2016), the latter starring James McAvoy and filmed in Philadelphia, including sequence work at the King of Prussia Mall. *Split* earned wide critical acclaim and served as a secret sequel to *Unbreakable*, laying the groundwork for *Glass* (2019), which was filmed at the historic Allentown State Hospital. Shyamalan continued this independent production strategy with apocalyptic thriller *Knock at the Cabin* (2023), filmed in neighboring New Jersey, and psychological suspense film *Trap* (2024), which was set in Philadelphia but filmed in Ontario, Canada.
+
+## Personal life
+
+Shyamalan married Bhavna Vaswani in 1993, having met her while both were students at New York University. Vaswani, who was raised in the Philadelphia area, works as an Indian jewelry designer and psychologist. The couple resides in Willistown Township, Chester County, Pennsylvania, on a historical estate known as Ravenwood.
+
+The couple has three daughters, including Saleka Shyamalan, an R&B singer-songwriter who composed music for *Trap*, and Ishana Shyamalan, a filmmaker who made her directorial debut with *The Watchers* (2024).
+
+In 2001, Shyamalan and his wife established the M. Night Shyamalan Foundation. The non-profit organization supports grass-roots leaders and organizations working to eliminate poverty, advance social justice, and expand educational access across emerging communities globally and within the Greater Philadelphia region. Shyamalan is also a vocal advocate for Philadelphia sports teams, regularly attending home games for the Philadelphia 76ers and Philadelphia Eagles.
+
+## Legacy
+
+Shyamalan's legacy in contemporary film is tied to his revival of atmospheric suspense, auteur-driven original genre cinema, and structural plot twists. Critics and film historians frequently analyze his signature visual style, characterized by deliberate camera pacing, composed color palettes, and emotional themes of grief, faith, and family reconciliation.
+
+Within the regional history of Philadelphia, Shyamalan is widely considered one of the city's most significant modern cultural figures. By anchoring his multimillion-dollar productions in Southeastern Pennsylvania for over three decades, he helped establish a professional film production infrastructure in the region. His work consistently brought high-profile film projects to Bucks, Chester, Montgomery, and Delaware counties, driving local film tourism and sustaining specialized technical crews outside of Hollywood and New York.
+
+Through his body of work, Shyamalan transformed the visual narrative of Philadelphia on screen, presenting the city not merely as a historical relic of the American Revolution, but as a textured, cinematic landscape capable of sustaining complex psychological and supernatural stories.
+
+## See also
+
+* Media in Philadelphia
+* Film in Greater Philadelphia
+* Lower Merion Township, Pennsylvania
+* Main Line (Pennsylvania)
+* Center City Philadelphia
+
+## References
+
+1. Encyclopedia of Greater Philadelphia. "Filmmaking." https://philadelphiaencyclopedia.org/essays/filmmaking/
+2. The Philadelphia Inquirer. "M. Night Shyamalan Knock at the Cabin Philadelphia." https://www.inquirer.com/entertainment/movies/m-night-shyamalan-knock-at-the-cabin-philadelphia-20230127.html
+3. The Philadelphia Inquirer. "M. Night Shyamalan Trap Philadelphia." https://www.inquirer.com/entertainment/movies/m-night-shyamalan-trap-philadelphia-20240418.html

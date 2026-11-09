@@ -67,7 +67,7 @@ def parseUrls(text: str) -> list[str]:
     """Extracts valid-looking URLs from a block of model output text."""
     urls = []
     for line in text.splitlines():
-        line = line.strip().lstrip("-•* \t")
+        line = line.strip().lstrip("-* \t")
         if line.startswith("http://") or line.startswith("https://"):
             urls.append(line)
     return urls
@@ -119,7 +119,8 @@ def searchTopic(topic: str, client: genai.Client, approved_domains: list[str]) -
         else:
             filtered = candidates
 
-        output_path = rootDir / "data" / "search" / f"{topic}.txt"
+        safe_topic = gemini_utils.sanitize_filename(topic)
+        output_path = rootDir / "data" / "search" / f"{safe_topic}.txt"
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
         # Load existing URLs to avoid overwriting previously found sources
@@ -148,7 +149,7 @@ def main() -> None:
         entries = classifier.parse()
 
         # ---------------------------------------------------------------------------
-        # Timeout setup — read limit passed by main.py via env var
+        # Timeout setup -- read limit passed by main.py via env var
         # ---------------------------------------------------------------------------
         timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
         start_time  = time.perf_counter()
@@ -156,13 +157,13 @@ def main() -> None:
         # Prioritize topics that have no search file yet so new topics are always
         # covered before the time limit is reached.
         search_dir = rootDir / "data" / "search"
-        new_entries  = [e for e in entries if not (search_dir / f"{e.name}.txt").exists()]
-        done_entries = [e for e in entries if     (search_dir / f"{e.name}.txt").exists()]
+        new_entries  = [e for e in entries if not (search_dir / f"{gemini_utils.sanitize_filename(e.name)}.txt").exists()]
+        done_entries = [e for e in entries if     (search_dir / f"{gemini_utils.sanitize_filename(e.name)}.txt").exists()]
         ordered      = new_entries + done_entries
 
         if timeout_sec:
             print(
-                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"[i] Time limit: {timeout_sec // 60}m -- "
                 f"processing {len(new_entries)} new topic(s) first, "
                 f"then {len(done_entries)} already-searched topic(s) if time allows."
             )
@@ -172,8 +173,8 @@ def main() -> None:
                 elapsed = time.perf_counter() - start_time
                 if elapsed >= timeout_sec:
                     print(
-                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
-                        "Stopping search — all new topics have been prioritised."
+                        f"\n[!] Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping search -- all new topics have been prioritised."
                     )
                     break
 

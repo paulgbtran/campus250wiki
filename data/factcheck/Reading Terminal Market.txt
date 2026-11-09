@@ -1,0 +1,6 @@
+* **Infobox - Type**: Fixed redundant wording ("Public indoor public market" → "Indoor public market").
+* **Infobox, Lead, and Architecture - Architectural Credits**: Added **Wilson Brothers & Company**, who were responsible for the engineering, layout, and structural design of the train shed and market floor, alongside headhouse architect Francis H. Kimball.
+* **Lead and Architecture - Removed "George McKay"**: Removed references to a "builder George McKay" and the erroneous claim connecting him to Center Market in Washington, D.C. (Center Market was designed by Adolf Cluss, while the Reading Terminal train shed and market engineering was designed by Wilson Brothers & Company).
+* **History - Bassett's Ice Cream Opening Year**: Corrected the year Bassett's Ice Cream established its stand in the market from 1898 to 1892 (Bassett's was one of the market's original vendors when it opened in 1892).
+* **Architecture - Train Shed Length**: Corrected the length of the train shed from 559 feet to 525 feet in both the text and ASCII diagram.
+* **Architecture - Iron Weight**: Corrected the weight of iron in the train shed structure from 50 million pounds to approximately 5 million pounds (~2,600 tons) in both the text and ASCII diagram.

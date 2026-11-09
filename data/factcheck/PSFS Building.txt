@@ -1,0 +1,3 @@
+* **Air Conditioning Priority**: Corrected the statement claiming PSFS was the "first fully air-conditioned skyscraper in the United States" to state that it was the second (following the 1928 Milam Building in San Antonio, Texas).
+* **Rooftop Neon Sign Dimensions**: Corrected the height of the iconic red neon "PSFS" sign letters from 33 feet to 27 feet (8.2 m) in the Lead section, Architecture section, and ASCII diagram.
+* **Service Core Orientation**: Corrected the location of the dark brick vertical elevator/utility service tower from the "western elevation" to the "southern elevation" in the Architecture text and floor plan ASCII diagram.

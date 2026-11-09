@@ -42,7 +42,7 @@ def parseUrls(text: str) -> list[str]:
     """Extracts valid-looking URLs from a block of model output text."""
     urls = []
     for line in text.splitlines():
-        line = line.strip().lstrip("-•* \t")
+        line = line.strip().lstrip("-* \t")
         if line.startswith("http://") or line.startswith("https://"):
             urls.append(line)
     return urls
@@ -64,7 +64,7 @@ def searchTopic(topic: str, client: genai.Client) -> None:
 
         urls = parseUrls(response.text)
         
-        output_path = rootDir / "data" / "factcheck" / "search" / f"{topic}.txt"
+        output_path = rootDir / "data" / "factcheck" / "search" / f"{gemini_utils.sanitize_filename(topic)}.txt"
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
         existing: list[str] = []
@@ -99,20 +99,20 @@ def main():
             return
 
         # ---------------------------------------------------------------------------
-        # Timeout setup — read limit passed by main.py via env var
+        # Timeout setup -- read limit passed by main.py via env var
         # ---------------------------------------------------------------------------
         timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", 0)) or None
         start_time  = time.perf_counter()
 
         # Prioritize topics with no factcheck search file yet.
         fc_search_dir = rootDir / "data" / "factcheck" / "search"
-        new_topics  = [t for t in topics if not (fc_search_dir / f"{t}.txt").exists()]
-        done_topics = [t for t in topics if     (fc_search_dir / f"{t}.txt").exists()]
+        new_topics  = [t for t in topics if not (fc_search_dir / f"{gemini_utils.sanitize_filename(t)}.txt").exists()]
+        done_topics = [t for t in topics if     (fc_search_dir / f"{gemini_utils.sanitize_filename(t)}.txt").exists()]
         ordered     = new_topics + done_topics
 
         if timeout_sec:
             print(
-                f"ℹ Time limit: {timeout_sec // 60}m — "
+                f"[i] Time limit: {timeout_sec // 60}m -- "
                 f"searching {len(new_topics)} new topic(s) first, "
                 f"then {len(done_topics)} already-searched topic(s) if time allows."
             )
@@ -122,8 +122,8 @@ def main():
                 elapsed = time.perf_counter() - start_time
                 if elapsed >= timeout_sec:
                     print(
-                        f"\n⚠  Time limit reached ({timeout_sec // 60}m). "
-                        "Stopping factcheck search — all new topics have been prioritised."
+                        f"\n[!] Time limit reached ({timeout_sec // 60}m). "
+                        "Stopping factcheck search -- all new topics have been prioritised."
                     )
                     break
 

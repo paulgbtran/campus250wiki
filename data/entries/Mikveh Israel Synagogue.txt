@@ -1,0 +1,139 @@
+# Mikveh Israel Synagogue
+
+### Infobox
+
+| **Congregation Mikveh Israel (Synagogue & Cemetery)** | |
+| :--- | :--- |
+| **Location** | 8th & Spruce Streets, Philadelphia, Pennsylvania, U.S. |
+| **Established** | 1740 (Cemetery); Colonial Era Congregation |
+| **Affiliation** | Judaism (Historical Sephardic / Spanish and Portuguese tradition) |
+| **Key Figures** | Nathan Levy, Haym Salomon, Rebecca Gratz, Simon Gratz, Thomas Penn, John Penn |
+| **Total Known Grave Sites** | 371 |
+| **Historical Status** | Designated Historic Landmark / Colonial Burial Ground |
+| **Associated Organizations** | Independence National Historical Park, Independence Hall Association |
+
+---
+
+### Lead section
+
+Congregation Mikveh Israel—often referred to historically as the "Synagogue of the American Revolution"—is one of the oldest Jewish congregations in North America and a foundational institution in the religious and civic history of Philadelphia. Established during the colonial period, the congregation and its associated cemetery reflect the early presence and integration of Jewish settlers in Pennsylvania under the proprietor charter established by William Penn. The historic Mikveh Israel Cemetery, located at Spruce Street between 8th and 9th Streets, stands as one of the nation's most significant colonial-era burial grounds.
+
+The origins of the congregation’s sacred grounds trace back to 1738, when merchant Nathan Levy sought permission from the Pennsylvania colonial authorities to secure land for a Jewish burial ground following the death of his child. At the time, Philadelphia was home to only about a dozen Jewish residents. By 1740, land was formally acquired on Spruce Street through grants from Thomas Penn, proprietor of Pennsylvania and son of William Penn, and later expanded through additional land grants and purchases from the Penn family. The site subsequently became the permanent resting place for Philadelphia's early Jewish community.
+
+The Mikveh Israel Cemetery is renowned for serving as the final resting place of several prominent figures from the Revolutionary War era and early American republic. Among the 371 known grave sites are those of Haym Salomon, a major financier of the American Revolution; Rebecca Gratz, a pioneering philanthropist and the literary inspiration for Sir Walter Scott's novel *Ivanhoe*; and her brother Simon Gratz, co-founder of the Pennsylvania Academy of the Fine Arts. The cemetery also holds the remains of approximately 21 Jewish veterans of the Revolutionary War and scores of Jewish veterans who served in the War of 1812.
+
+As a historic landmark, Mikveh Israel represents the enduring legacy of religious freedom and civic contribution in early Philadelphia. The site endured physical challenges through the centuries, including property damage during the British occupation of 1777–1778 and early municipal vandalism, prompting protective enclosures that survive in restored forms today. Managed in coordination with historical associations and community archivists, Mikveh Israel remains a vital point of historical study and pilgrimage within Philadelphia's historic district.
+
+---
+
+### History
+
+#### Colonial Origins and Establishment (1738–1740)
+
+The establishment of Mikveh Israel's formal cemetery in Philadelphia was directly tied to the personal tragedy of merchant Nathan Levy, a prominent Jewish shipper and businessman. In 1738, Levy suffered the loss of his child at a time when no dedicated Jewish burial grounds existed within the city. Seeking a proper site to conduct traditional Jewish burial rites, Levy approached Proprietor Thomas Penn, son of Pennsylvania founder William Penn, to grant a plot of land on Spruce Street between 8th and 9th Streets.
+
+Recognizing that Philadelphia's small Jewish populace—comprising roughly twelve individuals—would require a permanent and expandable site as the community grew, Levy formally secured a 30-by-30-foot grant at the Spruce Street location in 1740. Over subsequent years, additional adjacent land was granted and purchased from Thomas Penn and his nephew John Penn to expand the ground to its present size, consolidating the community's sacred burials into a single permanent cemetery.
+
+```
+1738: Nathan Levy petitions Thomas Penn for burial ground on Spruce St
+  │
+1740: Spruce Street plot (30x30 ft) officially granted for Jewish community
+  │
+1751: Low brick wall constructed after Levy places notice in PA Gazette
+  │
+1777: British occupying forces damage cemetery fencing during Revolutionary War
+  │
+1785: Haym Salomon interred; site expands as patriotic burial ground
+```
+
+#### Desecration and the 1751 Protective Enclosure
+
+In its early decades, the cemetery faced threats from local vandalism. Due to its location near the edge of the settled town, individuals frequently trespassed on or damaged the burial ground. To preserve the sanctity of the burials, Nathan Levy took out a public advertisement in Benjamin Franklin's *Pennsylvania Gazette* in 1751 offering a reward for information identifying the vandals. That same year, Levy enclosed the cemetery perimeter with a protective brick wall.
+
+Despite the barrier, the cemetery suffered further damage during the American Revolutionary War. In 1777, during the British occupation of Philadelphia, occupying forces damaged the cemetery's wall and wooden fencing, requiring post-war repairs by the congregation.
+
+#### The Revolutionary War Era and Military Heritage
+
+During the American Revolution, members of Congregation Mikveh Israel played vital roles in supporting the Continental effort. The cemetery became the final resting place for numerous patriots who contributed financially and militarily to the war for independence. 
+
+```
++-------------------------------------------------------------------------+
+|                  REVOLUTIONARY ERA INTERMENTS & VETERANS                |
++-------------------------------------------------------------------------+
+| • Haym Salomon (d. 1785): Key financial contributor to Continental cause|
+| • ~21 Veterans of the American Revolutionary War                        |
+| • Scores of Jewish Veterans from the War of 1812                        |
++-------------------------------------------------------------------------+
+```
+
+Among the most notable figures interred at the site is Haym Salomon (d. 1785). Salomon was instrumental in securing crucial financing for the Continental Congress and personal loans for founding figures such as James Madison and Robert Morris. Despite his immense financial contributions to the American cause, Salomon died in poverty, and he was laid to rest in an unmarked plot within the Mikveh Israel grounds. Additionally, the cemetery contains the graves of approximately 21 Jewish veterans of the Revolutionary War and scores of Jewish veterans who fought in the War of 1812, emphasizing the long tradition of Jewish military service in early American wars.
+
+---
+
+### Architecture
+
+#### Cemetery Layout and Perimeter Enclosure
+
+The physical layout of the Mikveh Israel Cemetery reflects mid-18th-century colonial burial traditions adapted to an urban environment. Situated on Spruce Street between 8th and 9th Streets, the cemetery occupies a compact urban parcel enclosed by structural masonry walls. The original brick wall erected by Nathan Levy in 1751 laid the boundary framework that survives in modified form today. The brickwork serves both a practical protective function and a symbolic boundary dividing sacred ground from the surrounding city streets.
+
+```
+       [ Spruce Street ]
+  +-------------------------+
+  |  [Low Brick Wall / Gate] |
+  |                         |
+  |   +-----------------+   |
+  |   | 371 Grave Sites |   |  <-- Historic Interments
+  |   | Headstones &    |   |      (Levy, Salomon, Gratz)
+  |   | Flat Markers    |   |
+  |   +-----------------+   |
+  |                         |
+  +-------------------------+
+       [ 8th Street ]
+```
+
+#### Funerary Art and Tombstone Markers
+
+The cemetery houses 371 recorded grave sites. The tombstones display a variety of 18th- and 19th-century funerary styles, ranging from simple upright sandstone and slate slabs to horizontal marble ledgers and chest tombs typical of prominent early American families. Inscriptions across the monuments feature bilingual text in Hebrew and English, documenting genealogy, civic contributions, and traditional Jewish epitaphs.
+
+The architectural progression of the markers demonstrates the transition of the Philadelphia Jewish community from early colonial traders to established civic leaders during the Federal and Antebellum eras. The density of interments within the small plot illustrates the urban spatial constraints common to early Philadelphia burial grounds before the mid-19th century rural cemetery movement.
+
+---
+
+### Cultural significance
+
+#### Prominent Interments and Literary Connections
+
+Mikveh Israel Cemetery is nationally recognized for its association with key historical figures who shaped American civic life, culture, and arts:
+
+* **Rebecca Gratz (1781–1869):** Gratz was a prominent 19th-century philanthropist, social reformer, and educator in Philadelphia who helped establish numerous charitable organizations. Gratz maintained a close friendship with Matilda Hoffman, the fiancée of author Washington Irving. Following Hoffman's early death, Irving remained deeply taken with Gratz's intellect, character, and devotion. During a visit to Europe, Irving spoke admiringly of Gratz to the Scottish novelist Sir Walter Scott. Inspired by Irving's descriptions, Scott based the character of Rebecca—the heroic Jewish female protagonist in his famous 1819 historical novel *Ivanhoe*—on Rebecca Gratz.
+* **Simon Gratz:** Brother to Rebecca Gratz, Simon was a leading merchant and patron of the arts. He served as a co-founder of the Pennsylvania Academy of the Fine Arts (PAFA) in 1805, which stands as the oldest combined art school and museum institution in the United States.
+* **Nathan Levy:** Founder of the burial ground and early merchant pioneer whose negotiations with the Penn family established a legal precedent for Jewish communal property ownership in colonial Pennsylvania.
+
+```
+  Washington Irving ──(described character)──> Sir Walter Scott
+          │                                           │
+          ▼                                           ▼
+   Rebecca Gratz  ────────(inspired)─────────>  *Ivanhoe* (Rebecca)
+```
+
+#### Symbol of Religious Freedom and Civic Integration
+
+The establishment and preservation of Mikveh Israel Synagogue and its cemetery symbolize the fulfillment of William Penn’s "Holy Experiment"—the founding principle of religious tolerance that defined colonial Pennsylvania. The ability of a minority faith community to acquire land, erect public sacred space, and inter their dead according to religious law marked an early victory for religious liberty in British North America.
+
+The congregation's history highlights the active participation of early Jewish Americans in the creation of the Republic. From colonial trade to Revolutionary war finance and 19th-century cultural institution-building, the individuals interred at Mikveh Israel reflect the broader integration of Jewish citizens into the economic, military, and artistic fabric of Philadelphia and the nation. Today, the congregation maintains archival records and offers guided educational tours by appointment, preserving its legacy as a cornerstone of American Jewish history.
+
+---
+
+### See also
+
+* History of the Jews in Philadelphia
+* Independence National Historical Park
+* Pennsylvania Academy of the Fine Arts
+* Philadelphia in the American Revolution
+* List of National Historic Landmarks in Philadelphia
+
+---
+
+### References
+
+1. Independence Hall Association. "Congregation Mikveh Israel Cemetery." *ushistory.org*. Accessed March 30, 2026. https://www.ushistory.org/tour/mikveh-israel-cemetery.htm

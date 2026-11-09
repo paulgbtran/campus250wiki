@@ -1,0 +1,3 @@
+* **Section 3 (Origins)**: Corrected the opening date of Pennsylvania Hospital's Surgical Amphitheatre to 1804 and removed the statement that Dr. Thomas Bond's 1756 lithotomy took place there (Dr. Bond died in 1784, prior to the amphitheatre's construction).
+* **Section 3 (Origins)**: Corrected the title of Dr. John Morgan's 1765 publication from *An Apology for Attempting to Introduce the Regular Practice of Physic* to *A Discourse Upon the Institution of Medical Schools in America*.
+* **Section 4 (Development)**: Corrected the closing year of Philadelphia General Hospital (PGH) under Mayor Frank Rizzo from 1975 to 1977 (both in the main text and in the ASCII diagram).
