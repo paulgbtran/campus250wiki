@@ -1,0 +1,284 @@
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\'Corrupt and Contented' Philadelphia (Lincoln Steffens).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\'Rocky' as a symbol of Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\30th Street Station.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Absalom Jones.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Academy of Music.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Alain Locke.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Albert C. Barnes.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Alexander Calder.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Allen Iverson.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\American Bandstand's national broadcast debut (1957).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Andrew Wyeth.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Anti-Catholic Riots of 1844.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Barnes Foundation.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bartram's Garden (oldest botanical garden). - `Bartram's Garden.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bartram's Garden.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Battle of Germantown (1777).html
+INFO:root:Processing image search for: Benjamin Franklin...
+INFO:root:Searching/Generating images via Gemini...
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Found 5 valid candidate image URLs.
+INFO:root:Successfully downloaded image to c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Benjamin_Franklin_hero.jpg
+INFO:root:Successfully downloaded image to c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Benjamin_Franklin_1.jpg
+INFO:root:Successfully downloaded image to c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Benjamin_Franklin_2.jpg
+INFO:root:Updated HTML file for Benjamin Franklin with new image URLs.
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bernie Parent.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Betsy Ross House.html
+INFO:root:Processing image search for: Betsy Ross...
+INFO:root:Searching/Generating images via Gemini...
+INFO:google_genai.models:AFC is enabled with max remote calls: 10.
+INFO:httpx:HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent "HTTP/1.1 200 OK"
+INFO:root:Found 5 valid candidate image URLs.
+INFO:root:Successfully downloaded image to c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Betsy_Ross_hero.jpg
+INFO:root:Successfully downloaded image to c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Betsy_Ross_1.jpg
+WARNING:root:[Attempt 1/3] HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/2/2a/Us_flag_large_Betsy_Ross.png
+WARNING:root:[Attempt 2/3] HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/2/2a/Us_flag_large_Betsy_Ross.png
+INFO:root:Successfully downloaded image to c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Betsy_Ross_2.png
+INFO:root:Updated HTML file for Betsy Ross with new image URLs.
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bicentennial Celebration in Philadelphia (1976).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Billie Holiday.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Boathouse Row.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bobby Clarke.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bobby Rydell.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Boyz II Men.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Bradley Cooper.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Brian Dawkins.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\British Occupation of Philadelphia (1777-1778).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Broad Street Run (first held 1980).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Carpenters' Hall.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Cecil B. Moore.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Cedar Grove Mansion. - `Cedar Grove Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Cedar Grove Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Centennial Exposition of 1876.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Chamounix Mansion. - `Chamounix Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Chamounix Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Charles Willson Peale.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Charlotte Forten Grimké.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Chase Utley.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Cherelle Parker.html  
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Christ Church.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Chubby Checker.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Citizens Bank Park.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\City Tavern.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Cliveden (Chew House, site of Battle of Germantown). - `Cliveden.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Cliveden.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Colman Domingo.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Comcast Center.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Congress Hall.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Connie Mack.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Consolidation Act of 1854.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Constitutional Convention of 1787.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Curtis Institute of Music.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Daryl Hall and John Oates.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\David Lynch.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\David Rittenhouse.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Declaration of Independence (1776).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Democratic National Convention in Philadelphia (2016).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Denise Scott Brown.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Dick Clark.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Dilworth Park.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\DJ Jazzy Jeff.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Dox Thrash.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Dr. Benjamin Rush.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Dr. J (Julius Erving).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Drexel University.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Eastern State Penitentiary.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Ed Rendell.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Edgar Allan Poe.html  
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Elfreth's Alley.html  
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Eric Lindros.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Eugene Ormandy.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Eve.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Fabian.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Fairmount Park.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Fairmount Water Works.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Fanny Kemble.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\First Bank of the United States.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\First Continental Congress (1774).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\First U.S. Mint established in Philadelphia (1792).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Founding of Drexel University (1891).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Founding of Philadelphia (1682).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Founding of Temple University (1884).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Founding of the African Methodist Episcopal Church (1794).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Founding of the Philadelphia Orchestra (1900).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Founding of the University of Pennsylvania (1740).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Frank Furness.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Frank Rizzo.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Frankie Avalon.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Franklin Institute.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\George Lippard.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\George McClellan.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\George Meade.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\George Washington.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Glen Foerd on the Delaware. - `Glen Foerd on the Delaware.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Glen Foerd on the Delaware.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Gloria Casarez.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Gloria Dei (Old Swedes') Church.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Grace Kelly.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Graff House.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Grover Washington Jr..html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Grover Washington Jr.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Grumblethorpe. - `Grumblethorpe.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Grumblethorpe.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Harry Kalas.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Hatfield House. - `Hatfield House.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Hatfield House.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Henry Ossawa Tanner.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Historic Strawberry Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Horace Trumbauer.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Independence Hall.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\James Forten.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\James Logan.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Jerry Pinkney.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Jill Scott.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Jimmy Rollins.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Jimmy Smith.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Joe Frazier.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\John Adams.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\John B. Kelly Sr..html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\John B. Kelly Sr.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\John Bartram.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\John Coltrane.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\John Wanamaker.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Julian Abele.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Kenny Gamble and Leon Huff.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Kevin Hart.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Kimmel Center for the Performing Arts.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Laurel Hill Cemetery.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Laurel Hill Mansion. - `Laurel Hill Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Laurel Hill Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Lee Morgan.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Lemon Hill. - `Lemon Hill.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Lemon Hill.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Leon Sullivan.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Leopold Stokowski.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Leslie Odom Jr..html  
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Leslie Odom Jr.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Liberty Bell.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Library Company of Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Lincoln Financial Field.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Live Aid concert (1985).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Louis Kahn.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Love Park.html        
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Lucretia Mott.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\M. Night Shyamalan.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Marian Anderson.html  
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mario Lanza.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mary Cassatt.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Masonic Temple.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\McCoy Tyner.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Meek Mill.html        
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Merchants' Exchange Building.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mike Schmidt.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mikveh Israel Synagogue.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Morris Arboretum. - `Morris Arboretum.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Morris Arboretum.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mount Pleasant (mansion in Fairmount Park). - `Mount Pleasant Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mount Pleasant Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\MOVE Bombing (1985).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Mütter Museum.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\N.C. Wyeth.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\National Constitution Center.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Nativism and immigration in 19th-century Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Noam Chomsky.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Occupy Philadelphia (2011).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Octavius Catto.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Old City Hall.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\One Liberty Place breaking the 'gentlemen's agreement'.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Ormiston Mansion. - `Ormiston Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Ormiston Mansion.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Papal Visit of John Paul II (1979).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Papal Visit of Pope Francis (2015).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Patti LaBelle.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Paul Robeson.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Peggy Shippen.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Penn Treaty Park.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Penn's Landing.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Pennsylvania Academy of the Fine Arts.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Pennsylvania Hospital.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia as a hub for early American publishing.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia as a major medical and educational hub.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia as the 'Birthplace of American Democracy'.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia as the 'Workshop of the World'.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia as U.S. Capital (1790-1800).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Athletics World Series victories (early 20th century).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia City Hall.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Eagles Super Bowl LII victory (2018).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Folk Festival (first held 1962).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia General Strike of 1835.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Magic Gardens.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Marathon (first held 1954).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Museum of Art.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Phillies World Series victory (1980).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Phillies World Series victory (2008).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Race Riots of 1964.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia Zoo.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's cheesesteak culture.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's culinary renaissance (beyond traditional fare).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's growing tech and startup ecosystem.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's reputation as a 'City of Neighborhoods'.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's role in the Abolitionist Movement.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's role in the early American scientific revolution.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's role in the LGBTQ+ rights movement.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's significance in the Underground Railroad.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's sports fanaticism.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philadelphia's status as a major medical research center.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philly Joe Jones.html 
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Philosophical Hall.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Post-industrial decline and revitalization efforts.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Powel House.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\PSFS Building.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Quaker influence on Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Questlove.html        
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Quinta Brunson.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Raymond Pace Alexander.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Reading Terminal Market.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Rebecca Gratz.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Republican National Convention in Philadelphia (2000).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Richard Allen.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Richardson Dilworth.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Richie Ashburn.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Rob McElhenney.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Robert Morris.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Robert Venturi.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Robin Roberts.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Rocky Steps.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Rodin Museum.html     
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Ron Hextall.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Ryan Howard.html      
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sadie Tanner Mossell Alexander.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sarah Josepha Hale.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sarah Mapps Douglass.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Second Bank of the United States.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Second Continental Congress (1775).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Shofuso Japanese House and Garden.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Smedley Butler.html   
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sonia Sanchez.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\St. Peter's Church.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Stamp Act Congress (1765).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Stan Getz.html        
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Stenton (James Logan's home). - `Stenton.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Stenton.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Stephen Girard.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Steve Carlton.html    
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Strawberry Mansion. - `Historic Strawberry Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sun Ra.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sweetbriar Mansion. - `Sweetbriar Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Sweetbriar Mansion.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Tariq 'Black Thought' Trotter.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Teddy Pendergrass.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Temple University.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\Tench Coxe.html       
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The 'Green Country Town' vision and its evolution.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The 'Holy Experiment' of William Penn.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The 'Philadelphia Lawyer' archetype.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The 'Philadelphia Renaissance' (urban revitalization).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The 'Philadelphia Sound' (1970s soul music).html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The development of Philadelphia as an early center for American art.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The Enlightenment in Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The Great Migration's impact on Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The impact of urban renewal on Philadelphia's landscape.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The Met Philadelphia.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The Mummers Parade tradition.html
+WARNING:root:HTML file not found: c:\Users\pault\OneDrive\Documents\GitHub\campus250wiki\data\web\The mural arts movement in Philadelphia.html

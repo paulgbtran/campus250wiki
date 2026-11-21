@@ -30,13 +30,21 @@ _DEFAULT_UA = (
     "Chrome/122.0.0.0 Safari/537.36"
 )
 
+# Wikimedia requires a descriptive User-Agent with contact info to prevent HTTP 429
+_WIKIMEDIA_UA = (
+    "Campus250WikiBot/1.0 (https://github.com/campus250wiki; tranb9@lasalle.edu) python-requests"
+)
+
 
 def make_request(url: str, method: str = "GET", headers: dict = None, body: dict = None) -> requests.Response:
     """Makes an HTTP request using requests and returns the response object."""
     if headers is None:
         headers = {}
     if "User-Agent" not in headers:
-        headers["User-Agent"] = _DEFAULT_UA
+        if "wikimedia.org" in url or "wikipedia.org" in url:
+            headers["User-Agent"] = _WIKIMEDIA_UA
+        else:
+            headers["User-Agent"] = _DEFAULT_UA
     try:
         if method.upper() == "POST":
             if body and isinstance(body, dict):
@@ -57,15 +65,22 @@ def download_image(url: str, dest_path: Path, retries: int = 3, timeout: float =
     redirect following, retry logic, and a generous timeout.
     Returns True on success, False on failure.
     """
+    is_wikimedia = "wikimedia.org" in url or "wikipedia.org" in url
+    ua = _WIKIMEDIA_UA if is_wikimedia else _DEFAULT_UA
+
     headers = {
-        "User-Agent": _DEFAULT_UA,
+        "User-Agent": ua,
         # Wikimedia and some CDNs reject requests without Accept
         "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
         "Accept-Encoding": "gzip, deflate, br",
-        "Referer": "https://www.google.com/",
     }
+    if not is_wikimedia:
+        headers["Referer"] = "https://www.google.com/"
+
     for attempt in range(1, retries + 1):
         try:
+            if is_wikimedia:
+                time.sleep(0.3)  # Polite delay to prevent triggering rate limits
             with requests.get(
                 url,
                 headers=headers,
@@ -77,6 +92,13 @@ def download_image(url: str, dest_path: Path, retries: int = 3, timeout: float =
                     logging.warning(
                         f"[Attempt {attempt}/{retries}] HTTP {res.status_code} for {url}"
                     )
+                    if res.status_code == 429:
+                        # Handle rate limiting: respect Retry-After or back off at least 5 seconds
+                        retry_after = res.headers.get("Retry-After")
+                        sleep_time = float(retry_after) + 1.0 if retry_after and retry_after.isdigit() else max(5.0, 2 ** (attempt + 1))
+                        logging.info(f"Rate limited (HTTP 429) on {url}. Waiting {sleep_time:.1f}s before retry...")
+                        time.sleep(sleep_time)
+                        continue
                     if attempt < retries:
                         time.sleep(2 ** attempt)  # exponential back-off
                     continue
@@ -108,17 +130,19 @@ def download_image(url: str, dest_path: Path, retries: int = 3, timeout: float =
             time.sleep(2 ** attempt)
     return False
 
-def download_image_and_save_json(url: str, save_dir: str, filename_prefix: str) -> str:
+def download_image_and_save_json(url: str, save_dir: str | Path, filename_prefix: str, topic: str = "") -> str:
     """
     Downloads an image from a URL, saves it to save_dir,
     and saves a JSON metadata file with the original URL.
     Returns the saved filename (with extension) on success, or None on failure.
     """
+    import re
     # Sanitise: replace spaces with underscores, keep alphanumeric / _ / -
     safe_prefix = "".join(
         c if (c.isalnum() or c in ("_", "-")) else "_"
         for c in filename_prefix
     ).strip("_")
+    safe_prefix = re.sub(r'_+', '_', safe_prefix)
 
     # Determine extension from URL, fall back to .jpg
     ext = ".jpg"
@@ -130,14 +154,24 @@ def download_image_and_save_json(url: str, save_dir: str, filename_prefix: str) 
 
     img_filename = f"{safe_prefix}{ext}"
     save_path = Path(save_dir)
+    save_path.mkdir(parents=True, exist_ok=True)
     img_filepath = save_path / img_filename
     json_filepath = save_path / f"{safe_prefix}.json"
+
+    # If the file already exists and is non-empty, avoid redundant download
+    if img_filepath.exists() and img_filepath.stat().st_size >= 512:
+        logging.info(f"Image already exists: {img_filepath.name}")
+        return img_filename
 
     # Download using the robust streaming helper
     success = download_image(url, img_filepath)
     if success:
         try:
-            metadata = {"original_url": url, "local_path": img_filename}
+            metadata = {
+                "original_url": url,
+                "local_path": img_filename,
+                "topic": topic or filename_prefix
+            }
             json_filepath.write_text(json.dumps(metadata, indent=4), encoding="utf-8")
             logging.info(f"Successfully downloaded image to {img_filepath}")
             return img_filename
