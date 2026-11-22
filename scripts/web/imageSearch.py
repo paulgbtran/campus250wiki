@@ -6,7 +6,7 @@ Author: Paul Tran <tranb9@lasalle.edu>
 Searches for images related to the context of each synthesized topic in /data/entries/{topic}.txt.
 Finds 10-15 images per topic from Wikimedia Commons, Google Gemini (Search Grounding), and Serper.
 Images and metadata JSONs for each topic are stored in dedicated per-topic folders (/data/web/{safe_topic}/).
-Includes a 1-hour runtime cap, prioritization of topics lacking images, and prints elapsed time,
+Includes a 30-minute runtime cap, prioritization of topics lacking images, and prints elapsed time,
 token usage, estimated API cost, and downloaded image counts.
 """
 
@@ -533,11 +533,11 @@ def main():
     parser.add_argument("--limit", type=int, default=None, help="Limit number of topics to process")
     parser.add_argument("--min-images", type=int, default=10, help="Minimum images to find per topic (default 10)")
     parser.add_argument("--max-images", type=int, default=15, help="Maximum images to find per topic (default 15)")
-    parser.add_argument("--timeout", type=int, default=3600, help="Maximum runtime in seconds (default: 3600, i.e. 1 hour)")
+    parser.add_argument("--timeout", type=int, default=1800, help="Maximum runtime in seconds (default: 1800, i.e. 30 minutes)")
     args = parser.parse_args()
 
     run_start = time.perf_counter()
-    timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", args.timeout or 3600))
+    timeout_sec = int(os.environ.get("PIPELINE_TIMEOUT_SECONDS", args.timeout or 1800))
 
     try:
         google_client = get_google_client()
@@ -592,11 +592,11 @@ def main():
         topics_processed = 0
 
         for filepath in ordered_files:
-            # Check 1hr runtime cap
+            # Check runtime cap
             elapsed_current = time.perf_counter() - run_start
             if timeout_sec and elapsed_current >= timeout_sec:
                 logging.warning(
-                    f"\n[!] 1-hour runtime cap reached ({_fmt_duration(timeout_sec)}). "
+                    f"\n[!] Runtime cap reached ({_fmt_duration(timeout_sec)}). "
                     f"Stopping pipeline cleanly after {topics_processed} topic(s)."
                 )
                 break
